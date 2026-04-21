@@ -37,3 +37,6 @@
 gitleaks-report.json
 gitleaks-report.json
 gitleaks-report.json
+
+# local scan reports
+gitleaks-report.json

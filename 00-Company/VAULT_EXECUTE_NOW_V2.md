@@ -93,11 +93,13 @@ ssh -T git@github.com
 Expected SSH result:
 - authenticated as `gemc-wq`
 
-### 1.2 Create the GitHub repo
-Create private repo:
+### 1.2 GitHub repo target
+Current private repo target:
 - owner: `gemc-wq`
-- name: `ecell-vault`
-- initialize empty
+- name: `vault`
+- URL: `git@github.com:gemc-wq/vault.git`
+
+Do not use the earlier `ecell-vault` repo name in any commands or plugin settings.
 
 ### 1.3 Git init and identity
 
@@ -222,13 +224,13 @@ Only do this after the above audit looks clean.
 git add -A
 git status
 git commit -m "Initial vault commit — hardened baseline"
-git remote add origin git@github.com:gemc-wq/ecell-vault.git 2>/dev/null || git remote set-url origin git@github.com:gemc-wq/ecell-vault.git
+git remote add origin git@github.com:gemc-wq/vault.git 2>/dev/null || git remote set-url origin git@github.com:gemc-wq/vault.git
 git push -u origin main
 ```
 
 ### 1.8 Part 1 checkpoint
 - SSH auth works
-- repo is private
+- repo `gemc-wq/vault` is private
 - heavy folders are ignored
 - no large tracked files remain
 - secret scan is acceptable enough to continue
