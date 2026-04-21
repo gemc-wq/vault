@@ -1,0 +1,49 @@
+@import "tailwindcss";
+
+:root {
+  --font-space-grotesk: "Avenir Next", "Segoe UI", sans-serif;
+  --font-ibm-plex-mono: "SFMono-Regular", "SF Mono", "Menlo", monospace;
+  --color-bg: #f8fafc;
+  --color-panel: #ffffff;
+  --color-panel-strong: #ffffff;
+  --color-border: #e5e7eb;
+  --color-text: #111827;
+  --color-muted: #6b7280;
+  --color-accent: #2563eb;
+  --color-accent-strong: #1d4ed8;
+  --color-success: #10b981;
+  --color-warning: #f59e0b;
+  --color-danger: #f43f5e;
+}
+
+@theme inline {
+  --font-sans: var(--font-space-grotesk);
+  --font-mono: var(--font-ibm-plex-mono);
+  --color-background: var(--color-bg);
+  --color-foreground: var(--color-text);
+}
+
+* {
+  border-color: var(--color-border);
+}
+
+html {
+  background: linear-gradient(135deg, #f8fafc 0%, #eff6ff 100%);
+  min-height: 100%;
+}
+
+body {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #f8fafc 0%, #eff6ff 100%);
+  color: var(--color-text);
+  font-family: var(--font-space-grotesk), sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+::selection {
+  background: rgba(37, 99, 235, 0.18);
+}

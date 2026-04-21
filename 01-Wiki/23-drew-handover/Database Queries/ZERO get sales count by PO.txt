@@ -1,0 +1,8 @@
+get sales count by PO
+
+SELECT COUNT(*)
+ FROM order_tracker_xls a
+INNER JOIN POBySRN b ON a.`Sales_Record_Number` = b.`SalesRecordNumber`
+WHERE a.`Code` LIKE '%HLBWH-IPAD5%'
+AND STR_TO_DATE(a.Paid_on_Date, '%d-%b-%y') BETWEEN '2020-05-01' AND '2020-05-18'
+AND PickerPH = 'UK'

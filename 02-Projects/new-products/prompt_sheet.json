@@ -1,0 +1,176 @@
+{
+  "project": "Ecell New Product Launch — MagSafe Water Bottles + Metal Wall Art",
+  "model": "nano-banana-pro-preview",
+  "api_key_env": "GEMINI_API_KEY",
+  "script": "projects/new-products/scripts/gemini_image_gen.py",
+  "output_dir": "projects/new-products/listing-images/",
+  "image_spec": {
+    "format": "png",
+    "target_use": "Amazon listings, Shopify, TikTok, Instagram",
+    "amazon_min_px": "1600x1600",
+    "social_vertical": "1080x1920",
+    "social_square": "1080x1080"
+  },
+  "prompts": [
+    {
+      "id": "01-gym-recording",
+      "category": "water_bottle",
+      "use_case": "Hands-free workout recording",
+      "amazon_slot": "Image 3 — Lifestyle Gym",
+      "output_file": "01-gym-recording.png",
+      "prompt": "Professional commercial product photography, POV shot from gym floor level. A matte black stainless steel insulated water bottle with a laser-engraved football club crest sits on dark rubber gym flooring. An iPhone is magnetically attached to the bottle lid mount at 75 degrees in landscape mode, screen showing camera viewfinder recording. In the soft-focus background, a person is mid-squat with a loaded barbell. White gym towel nearby. Dramatic side lighting creating long shadows. Moody authentic gym atmosphere. Wide-angle close to ground level. Hyper-realistic commercial advertising photography, 4K quality."
+    },
+    {
+      "id": "02-kids-football",
+      "category": "water_bottle",
+      "use_case": "Capture your kids' moments",
+      "amazon_slot": "Image 4 — Lifestyle Outdoor",
+      "output_file": "02-kids-football.png",
+      "prompt": "Bright sunny day in a green park. A group of young football players in colourful training bibs running drills on grass in the mid-background. In the foreground, a stainless steel water bottle with a colourful printed football design sits on the grass with an iPhone magnetically attached to its lid mount, angled to record the action on the pitch. A parent or coach watches from behind the bottle. Warm emotional family atmosphere. Golden natural sunlight. Shallow depth of field, bottle sharp, background soft. Professional lifestyle advertising photography, 4K quality."
+    },
+    {
+      "id": "03-car-navigation",
+      "category": "water_bottle",
+      "use_case": "Phone mount + hydration in one",
+      "amazon_slot": "Image 5 — Lifestyle Car",
+      "output_file": "03-car-navigation.png",
+      "prompt": "Inside a modern clean car interior. A premium stainless steel water bottle sits perfectly in the center console cup holder. An iPhone is magnetically attached to the bottle mount at 80 degrees, screen clearly showing Google Maps navigation with a blue route line. Driver's hands on the leather steering wheel, road visible through windshield. Natural daylight streaming through the windows. The bottle replaces a traditional car phone mount. Clean modern car interior, dark seats. Professional automotive advertising photography, 4K quality."
+    },
+    {
+      "id": "04-kitchen-recipe",
+      "category": "water_bottle",
+      "use_case": "Hands-free recipe viewer",
+      "amazon_slot": "Image 4 — Lifestyle Kitchen",
+      "output_file": "04-kitchen-recipe.png",
+      "prompt": "Bright modern kitchen with marble countertops. A person's hands visible chopping fresh vegetables on a wooden cutting board. A stainless steel water bottle with a colourful character design sits on the counter with an iPhone magnetically attached in landscape mode at 45 degrees, screen showing a cooking recipe video. Fresh herbs, olive oil bottle, and cherry tomatoes nearby. Warm inviting kitchen lighting from brass pendant lights overhead. The bottle serves as a hands-free recipe stand while cooking. Professional lifestyle photography, warm tones, 4K quality."
+    },
+    {
+      "id": "05-video-call",
+      "category": "water_bottle",
+      "use_case": "Perfect video call angle without a stand",
+      "amazon_slot": "Image 4 — Lifestyle Desk",
+      "output_file": "05-video-call.png",
+      "prompt": "Modern minimalist home office desk. A white stainless steel water bottle with an iPhone magnetically attached at 65 degrees, screen showing a FaceTime video call in progress with a person's face visible on screen. MacBook Pro open nearby on the clean desk, small succulent plant in white pot, notebook and pen. Natural soft window light from the left side. White walls, Scandinavian clean aesthetic. The bottle acts as the perfect video call phone stand. Professional commercial product photography, clean and bright, 4K quality."
+    },
+    {
+      "id": "06-yoga-park",
+      "category": "water_bottle",
+      "use_case": "Film your practice outdoors",
+      "amazon_slot": "Image 4 — Lifestyle Wellness",
+      "output_file": "06-yoga-park.png",
+      "prompt": "Serene outdoor setting in a lush green park with trees. A woman in athletic wear doing a yoga warrior pose on a yoga mat on the grass. A stainless steel water bottle sits at the edge of the yoga mat with an iPhone magnetically attached to its mount, angled to record her practice. Soft golden morning light filtering through trees. Peaceful wellness atmosphere. The bottle serves as a hands-free filming tripod for outdoor yoga. Shallow depth of field with the bottle sharp in foreground. Professional lifestyle photography, warm natural tones, 4K quality."
+    },
+    {
+      "id": "07-content-creator",
+      "category": "water_bottle",
+      "use_case": "Portable content creation tool",
+      "amazon_slot": "Image 5 — Lifestyle Social",
+      "output_file": "07-content-creator.png",
+      "prompt": "A person sitting at a trendy modern cafe table. A stainless steel water bottle with a colourful design sits on the marble table with an iPhone magnetically mounted to it, being used as a camera to film a food review or vlog. A latte in a ceramic cup, a pastry on a plate, and a pair of sunglasses on the table. Natural light from a large window. The person is gesturing toward the food, speaking to the phone camera. Modern cafe interior with exposed brick. Social-media-native trendy aesthetic. Professional lifestyle photography, 4K quality."
+    },
+    {
+      "id": "08-beach-group-photo",
+      "category": "water_bottle",
+      "use_case": "Group photo tripod anywhere",
+      "amazon_slot": "Image 5 — Lifestyle Travel",
+      "output_file": "08-beach-group-photo.png",
+      "prompt": "Bright summer beach scene with blue sky and ocean in background. A stainless steel water bottle with a colourful design sits upright on a colourful striped beach towel on golden sand. An iPhone is magnetically attached to the bottle mount, screen showing a camera timer countdown. In the background, a group of adults are posing together for a group photo, smiling and waving at the phone camera. Bright natural sunlight, fun summer holiday atmosphere. The bottle acts as a portable beach tripod. Professional lifestyle advertising photography, vibrant warm colours, 4K quality."
+    },
+    {
+      "id": "09-nightstand",
+      "category": "water_bottle",
+      "use_case": "Bedside stand + hydration combo",
+      "amazon_slot": "Image 6 — Lifestyle Bedroom",
+      "output_file": "09-nightstand.png",
+      "prompt": "Cozy bedroom at night. A stainless steel water bottle sits on a wooden nightstand next to a neatly made bed with soft white and grey linen bedding and fluffy pillows. An iPhone is magnetically attached to the bottle mount at 70 degrees, screen showing an alarm clock app displaying the time. A warm reading lamp glows softly on the nightstand. A book is placed nearby. The bottle serves as both a bedside water bottle and an elegant phone stand. Warm intimate moody lighting. Professional interior lifestyle photography, 4K quality."
+    },
+    {
+      "id": "10-gaming-setup",
+      "category": "wall_art",
+      "use_case": "Premium fan decor for gaming setup",
+      "amazon_slot": "Image 2 — Lifestyle Gaming",
+      "output_file": "10-gaming-setup.png",
+      "prompt": "Dark immersive gaming room interior. A glossy aluminium metal wall art panel approximately 30cm by 40cm with a vibrant sky blue and white football club crest design on a gradient blue background is mounted on a dark charcoal grey wall, centered perfectly above a gaming desk setup. The desk has dual 27-inch monitors with RGB purple and blue backlighting, a mechanical keyboard with glowing RGB keys, a gaming mouse on an oversized mousepad, and LED strip lighting behind the monitors casting ambient blue and purple light. The glossy metal art panel catches and reflects the RGB light beautifully. The panel appears to float approximately 1cm off the wall with a subtle shadow gap from its magnetic mount. Immersive moody gaming atmosphere. Interior design photography, 4K quality."
+    },
+    {
+      "id": "11-fan-cave",
+      "category": "wall_art",
+      "use_case": "Show your fandom with premium metal art",
+      "amazon_slot": "Image 3 — Lifestyle Fan Room",
+      "output_file": "11-fan-cave.png",
+      "prompt": "A premium masculine sports fan room interior. A glossy aluminium metal wall art panel with a vibrant football club crest design on a blue background is prominently mounted on a dark navy accent wall. The room has a dark brown leather armchair with a team scarf draped over one arm, a wooden side table with a beer bottle and TV remote control, and a large TV mounted on an adjacent wall showing a football match in progress. Warm ambient lighting from a brass table lamp creates a cozy atmosphere. The metal art panel is the centrepiece, its glossy surface catching the warm lamp light beautifully. Premium refined man cave atmosphere, not a bar. Interior lifestyle photography, 4K quality."
+    },
+    {
+      "id": "12-gallery-wall",
+      "category": "wall_art",
+      "use_case": "Build your collection — encourages multi-purchase",
+      "amazon_slot": "Image 5 — Gallery Collection",
+      "output_file": "12-gallery-wall.png",
+      "prompt": "Modern living room interior. Four glossy aluminium metal art panels arranged in a perfectly symmetrical 2x2 grid on a light grey wall with 5cm gaps between them. Each panel is approximately 30cm by 40cm with a different colourful design: top-left is sky blue with a white emblem, top-right is solid black with a gold icon, bottom-left is deep red and gold with a detailed crest, bottom-right is navy blue with a white bird emblem. All four panels appear to float slightly off the wall with subtle shadows from their magnetic mounts. Below the panels, the edge of a modern grey fabric sofa with cushions is visible. A brass floor lamp stands to the right. Warm natural window lighting creates a gallery-like atmosphere. The collection display creates a striking focal point. Interior design magazine photography, 4K quality."
+    },
+    {
+      "id": "13-magnetic-snap",
+      "category": "water_bottle",
+      "use_case": "Satisfying magnetic phone attachment",
+      "amazon_slot": "Image 6 — Detail / Social ASMR",
+      "output_file": "13-magnetic-snap.png",
+      "prompt": "Extreme close-up action product photography. The exact moment an iPhone is snapping onto a matte black stainless steel water bottle MagSafe magnetic mount. The phone is at a slight 10-degree angle, approximately 2cm from fully connecting to the bottle mount, with subtle motion blur on the phone suggesting magnetic pull. A laser-engraved football club crest is visible on the bottle body. Dark clean seamless background with dramatic rim lighting highlighting the edges of both the phone and the bottle. The image conveys the satisfying click of magnetic connection. Macro-style product detail photography, 4K quality."
+    },
+    {
+      "id": "14-mount-demo",
+      "category": "wall_art",
+      "use_case": "No nails, no drilling — 10 second install",
+      "amazon_slot": "Image 4 — Installation Demo",
+      "output_file": "14-mount-demo.png",
+      "prompt": "Clean instructional product photography showing a wall art magnetic mounting process. A pair of clean hands holding a glossy aluminium metal art panel, about to place it onto a small square steel mounting plate that is already adhered to a clean white wall. The panel is approximately 5cm from the wall, angled as if being guided into position. The magnetic mount plate is visible on the wall as a small square. Clean bright even lighting on a white wall background. The image conveys effortless tool-free installation. Professional product instruction photography, clean and minimal, 4K quality."
+    },
+    {
+      "id": "15-detail-closeup",
+      "category": "wall_art",
+      "use_case": "Premium UV print quality on aluminium",
+      "amazon_slot": "Image 6 — Detail Close-up",
+      "output_file": "15-detail-closeup.png",
+      "prompt": "Extreme close-up macro product photography of the corner and surface of a glossy aluminium metal wall art panel. The image shows the sharp UV-printed artwork with vivid colours on the distinctive glossy white aluminium surface. The R2 rounded corner of the panel is clearly visible showing the 1mm panel thickness. Light catches the glossy surface at an angle, creating a beautiful gradient reflection across the panel that clearly communicates this is premium metal, not paper. Pin-sharp focus on the surface texture and print quality. Dark neutral blurred background. Single directional studio light creating a highlight across the glossy panel surface. Product detail macro photography, 4K quality."
+    },
+    {
+      "id": "16-cross-sell-bundle",
+      "category": "both",
+      "use_case": "Complete the Collection — case + bottle + wall art",
+      "amazon_slot": "Image 5 — Cross-Sell / A+ Content",
+      "output_file": "16-cross-sell-bundle.png",
+      "prompt": "Flat lay product photography on a clean light grey linen background. Three matching products arranged in a triangular composition: a matte black stainless steel water bottle with an engraved football crest (top left), a matching smartphone case with the same football crest design shown on an iPhone (top right), and a glossy metal wall art panel with the same matching football crest design (bottom center). All three items share a cohesive blue and white colour scheme creating a unified collection feel. Soft overhead studio lighting creating gentle shadows. Clean premium aspirational aesthetic. Space left at top for text overlay. Commercial advertising flat lay photography, 4K quality."
+    },
+    {
+      "id": "17-whats-in-box",
+      "category": "water_bottle",
+      "use_case": "Transparency — everything included",
+      "amazon_slot": "Image 7 — What's in the Box",
+      "output_file": "17-whats-in-box.png",
+      "prompt": "Top-down flat lay product photography on pure white background. Neatly arranged in an organized grid layout: a matte black stainless steel water bottle with laser-engraved crest (center), its flip-up straw lid shown separately (top left), a clear drinking straw piece (top right), a small silver MagSafe magnetic booster ring (bottom left), a small branded instruction card (bottom right), and a black gift box (far right). All items spaced evenly with consistent gaps, casting soft subtle shadows. Clean organised satisfying layout. Apple-style minimalist product flat lay aesthetic. Commercial photography on pure white, 4K quality."
+    },
+    {
+      "id": "18-size-reference",
+      "category": "wall_art",
+      "use_case": "Understanding actual product dimensions",
+      "amazon_slot": "Image 7 — Size Reference",
+      "output_file": "18-size-reference.png",
+      "prompt": "Product photography showing scale. A person shown from chest down in a casual grey t-shirt holds a glossy metal wall art panel at waist height with both hands. The panel is approximately 30cm wide by 40cm tall with a colourful printed design. On a desk beside them sits an open 13-inch laptop for size comparison. The metal panel is visibly larger than the laptop screen but easily holdable with two hands. Clean white studio background. Bright even studio lighting with minimal shadows. The image clearly communicates the physical size of the wall art product. Scale reference product photography, 4K quality."
+    },
+    {
+      "id": "19-bedroom-wall-art",
+      "category": "wall_art",
+      "use_case": "Aspirational bedroom decor",
+      "amazon_slot": "Image 3 — Lifestyle Bedroom",
+      "output_file": "19-bedroom-wall-art.png",
+      "prompt": "Bright modern minimalist bedroom interior. A glossy aluminium metal wall art panel with a dark dramatic design featuring a gold emblem on a black background is mounted centered on a white wall directly above a bed with light grey linen bedding and white fluffy pillows. A wooden nightstand to the right has a small green plant and a modern reading lamp. Natural soft light streams through sheer white curtains on the left. The metal panel catches the natural light showing its premium glossy finish. The panel floats 1cm off the wall on its magnetic mount creating a subtle shadow gap. Clean aspirational Scandinavian interior design. Interior design magazine photography, 4K quality."
+    },
+    {
+      "id": "20-teen-room-fairylights",
+      "category": "wall_art",
+      "use_case": "Magical fan room for younger audience",
+      "amazon_slot": "Image 3 — Lifestyle Teen",
+      "output_file": "20-teen-room-fairylights.png",
+      "prompt": "Cozy teenager bedroom interior at evening time. A glossy metal wall art panel with a magical castle crest design in rich reds and golds is mounted on a warm-toned wall above a study desk. The desk has textbooks, a closed laptop, and a desk lamp with warm light. Fairy string lights are draped along the top edge of the wall above the art panel, casting a warm magical golden glow. A cozy knitted throw blanket is draped over a nearby chair. The room feels magical, personal, and inviting like a young fan's sanctuary. The metal art panel is the centrepiece, its glossy surface beautifully reflecting the fairy lights. Warm atmospheric cozy interior photography, 4K quality."
+    }
+  ]
+}

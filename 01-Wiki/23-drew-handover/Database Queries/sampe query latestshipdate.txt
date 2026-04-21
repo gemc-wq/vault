@@ -1,0 +1,27 @@
+SELECT a.Sales_Record_Number, a.Transaction_ID, a.f_imei, a.f_ship_tracking, a.Buyer_Country, a.Buyer_Zip, a.f_type, a.f_status, a.f_refunded, a.Custom_Label, 
+a.Quantity, a.Notes_to_Yourself, a.Paid_on_Date, a.Dispatch_Date, a.f_sage_order_no, a.Postage_Service, a.f_eTransaction_ID,
+a.Buyer_Fullname,
+a.Buyer_Address_1,
+a.Sale_Price,
+e.f_sales_record_number,
+a.Postage_and_Packing,
+f.f_latest_ship_date,
+		(CASE
+		    WHEN c.f_code != '' THEN 'DISCONTINUED'
+		    WHEN b.f_code != '' THEN 'EOL'
+		    WHEN d.f_code != '' THEN 'SUSPENDED'
+		    ELSE ''
+		    END
+		) AS 'ItemStatus',
+		(CASE
+			WHEN f.f_is_prime != 0 THEN 'Yes'
+			ELSE ''
+			END
+		) AS 'IsAmazonPrime'
+	    FROM order_tracker_xls a
+	    LEFT JOIN t_code_dontend b ON a.Custom_Label = b.f_code
+	    LEFT JOIN t_code_inactive c ON a.Custom_Label = c.f_code
+	    LEFT JOIN t_code_out_of_stock d ON a.Custom_Label = d.f_code
+	    LEFT JOIN t_accessory e ON a.Sales_Record_Number = e.f_accessory_srn
+					LEFT JOIN t_marketplace_prime_orders f ON e.f_sales_record_number = f.f_sales_record_number
+	    WHERE a.Sales_Record_Number IN ('202-0275630-6545940')

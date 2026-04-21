@@ -1,0 +1,39 @@
+# Obsidian
+.obsidian/
+!.obsidian/app.json
+!.obsidian/appearance.json
+!.obsidian/core-plugins.json
+.trash/
+
+# System
+.DS_Store
+._*
+*.tmp
+*.swp
+
+# Large Folders
+02-Projects/zero-codebase/
+02-Projects/ppc-autoresearch/
+02-Projects/amazon-data-analytics/dashboard/
+02-Projects/unified-listings/data/
+
+# Data extensions
+*.db
+*.sqlite
+*.sqlite3
+*.sql
+*.csv
+*.tsv
+*.xlsx
+*.gz
+*.zip
+*.tar
+*.7z
+*.jsonl
+*.parquet
+
+# Logs
+/var/log/
+gitleaks-report.json
+gitleaks-report.json
+gitleaks-report.json

@@ -1,0 +1,10 @@
+SELECT DISTINCT CONCAT(LineupLabel, '-', DesignLabel) AS DesignCode
+FROM headcase.`tblDesignProductAvailability`
+INNER JOIN headcase.`tblDesigns` USING(DesignID)
+INNER JOIN headcase.`tblLineups` USING(LineupID)
+INNER JOIN lineups_brand USING(LineupID)
+INNER JOIN brands USING(BrandID)
+INNER JOIN uv_product_colors USING(ProductColorID)
+WHERE BrandStatus = 1 AND LineupStatus = 1 AND DesignStatus = 1
+AND REPLACE(CONCAT("H", ProductCode, ColorCode), 'HHCCR', 'HC') = 'HTPCR'
+AND LineupLabel = 'NARUICO'

@@ -1,0 +1,11 @@
+SELECT * FROM order_tracker_xls WHERE f_ship_tracking LIKE '%uq098138160de%' 
+OR f_ship_tracking LIKE '%uq096281631de%'
+OR f_ship_tracking LIKE '%uq091199195de%'
+OR f_ship_tracking LIKE '%uq068950508de%'
+OR f_ship_tracking LIKE '%LY321265960de%'
+OR f_ship_tracking LIKE '%uq092931314de%'
+OR f_ship_tracking LIKE '%uq082357026de%'
+OR f_ship_tracking LIKE '%uq079835976de%'
+OR f_ship_tracking LIKE '%LY321873262de%'
+OR f_ship_tracking LIKE '%UQ091191789de%'
+OR f_ship_tracking LIKE '%LY304339693de%';

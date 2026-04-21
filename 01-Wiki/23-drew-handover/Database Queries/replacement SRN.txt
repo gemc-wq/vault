@@ -1,0 +1,2 @@
+SELECT * FROM order_tracker_xls WHERE f_sage_order_no IS NULL AND f_status = 'Cancel' AND Buyer_Country LIKE 'United States Of America' OR Buyer_Country LIKE 'United States' AND f_ebay_site = 3
+ORDER BY f_upload_day DESC LIMIT 20;

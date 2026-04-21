@@ -1,0 +1,11 @@
+[
+  {
+    "design": "NARUICO-AKA",
+    "product_type": "HTPCR",
+    "variant_group_id": "HTPCR-IPH-NARUICO-AKA",
+    "feed_json_path": "/Users/openclaw/.openclaw/workspace/projects/walmart-lister/output/walmart_feed_NARUICO-AKA_HTPCR_20260320_092410.json",
+    "item_count": 30,
+    "skipped": [],
+    "status": "dry_run"
+  }
+]

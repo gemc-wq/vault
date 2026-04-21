@@ -1,0 +1,7335 @@
+{
+  "devices": [
+    {
+      "design_count": "203",
+      "device_code": "IPH17PMAX",
+      "orders": "1706",
+      "revenue": "38451.42"
+    },
+    {
+      "design_count": "212",
+      "device_code": "IPH17",
+      "orders": "1169",
+      "revenue": "25823.14"
+    },
+    {
+      "design_count": "245",
+      "device_code": "IPH16",
+      "orders": "1152",
+      "revenue": "24762.28"
+    },
+    {
+      "design_count": "199",
+      "device_code": "IPH17PRO",
+      "orders": "1074",
+      "revenue": "24319.88"
+    },
+    {
+      "design_count": "257",
+      "device_code": "IPHSE4",
+      "orders": "937",
+      "revenue": "20438.12"
+    },
+    {
+      "design_count": "233",
+      "device_code": "IPH15",
+      "orders": "915",
+      "revenue": "19545.3"
+    },
+    {
+      "design_count": "237",
+      "device_code": "IPH14",
+      "orders": "843",
+      "revenue": "18135.18"
+    },
+    {
+      "design_count": "205",
+      "device_code": "IPH13",
+      "orders": "747",
+      "revenue": "16306.87"
+    },
+    {
+      "design_count": "192",
+      "device_code": "S938U",
+      "orders": "736",
+      "revenue": "16183.83"
+    },
+    {
+      "design_count": "198",
+      "device_code": "IPH16PMAX",
+      "orders": "712",
+      "revenue": "16038.04"
+    },
+    {
+      "design_count": "183",
+      "device_code": "A165G",
+      "orders": "666",
+      "revenue": "14484.22"
+    },
+    {
+      "design_count": "174",
+      "device_code": "IPH16PRO",
+      "orders": "593",
+      "revenue": "13035.4"
+    },
+    {
+      "design_count": "197",
+      "device_code": "IPH12",
+      "orders": "584",
+      "revenue": "12576.41"
+    },
+    {
+      "design_count": "158",
+      "device_code": "IPH15PMAX",
+      "orders": "540",
+      "revenue": "11931.94"
+    },
+    {
+      "design_count": "184",
+      "device_code": "S931X",
+      "orders": "500",
+      "revenue": "10617.39"
+    },
+    {
+      "design_count": "108",
+      "device_code": "IPAD102",
+      "orders": "284",
+      "revenue": "9475.76"
+    },
+    {
+      "design_count": "162",
+      "device_code": "IPH13PMAX",
+      "orders": "436",
+      "revenue": "9314.96"
+    },
+    {
+      "design_count": "159",
+      "device_code": "IPH14PMAX",
+      "orders": "412",
+      "revenue": "8840.79"
+    },
+    {
+      "design_count": "95",
+      "device_code": "IPADAIR20",
+      "orders": "260",
+      "revenue": "8779.42"
+    },
+    {
+      "design_count": "140",
+      "device_code": "IPH11",
+      "orders": "400",
+      "revenue": "8586.31"
+    },
+    {
+      "design_count": "120",
+      "device_code": "A152024",
+      "orders": "378",
+      "revenue": "8192.6"
+    },
+    {
+      "design_count": "139",
+      "device_code": "S928U",
+      "orders": "371",
+      "revenue": "8164.6"
+    },
+    {
+      "design_count": "149",
+      "device_code": "IPH7",
+      "orders": "325",
+      "revenue": "6778.98"
+    },
+    {
+      "design_count": "100",
+      "device_code": "IPH16PLUS",
+      "orders": "302",
+      "revenue": "6401.59"
+    },
+    {
+      "design_count": "119",
+      "device_code": "IPH14PLUS",
+      "orders": "283",
+      "revenue": "5951.36"
+    },
+    {
+      "design_count": "128",
+      "device_code": "IPH14PRO",
+      "orders": "274",
+      "revenue": "5851.57"
+    },
+    {
+      "design_count": "121",
+      "device_code": "IPH15PRO",
+      "orders": "279",
+      "revenue": "5841.91"
+    },
+    {
+      "design_count": "101",
+      "device_code": "IPH15PLUS",
+      "orders": "242",
+      "revenue": "5195.84"
+    },
+    {
+      "design_count": "122",
+      "device_code": "IPH13PRO",
+      "orders": "229",
+      "revenue": "4842.99"
+    },
+    {
+      "design_count": "119",
+      "device_code": "S921U",
+      "orders": "224",
+      "revenue": "4643.64"
+    },
+    {
+      "design_count": "111",
+      "device_code": "IPH12PMAX",
+      "orders": "221",
+      "revenue": "4622.88"
+    },
+    {
+      "design_count": "111",
+      "device_code": "S936X",
+      "orders": "214",
+      "revenue": "4563.13"
+    },
+    {
+      "design_count": "57",
+      "device_code": "IPAD10922",
+      "orders": "97",
+      "revenue": "3462.46"
+    },
+    {
+      "design_count": "92",
+      "device_code": "S918X",
+      "orders": "164",
+      "revenue": "3447.03"
+    },
+    {
+      "design_count": "71",
+      "device_code": "IPH17AIR",
+      "orders": "150",
+      "revenue": "3362.99"
+    },
+    {
+      "design_count": "70",
+      "device_code": "S911X",
+      "orders": "155",
+      "revenue": "3241.29"
+    },
+    {
+      "design_count": "57",
+      "device_code": "IPDP1124",
+      "orders": "99",
+      "revenue": "3237.15"
+    },
+    {
+      "design_count": "75",
+      "device_code": "S721U",
+      "orders": "158",
+      "revenue": "3212.84"
+    },
+    {
+      "design_count": "13",
+      "device_code": "KDL1124",
+      "orders": "115",
+      "revenue": "3016.09"
+    },
+    {
+      "design_count": "73",
+      "device_code": "S711X",
+      "orders": "134",
+      "revenue": "2791.08"
+    },
+    {
+      "design_count": "51",
+      "device_code": "IPDPRO297",
+      "orders": "84",
+      "revenue": "2783.8"
+    },
+    {
+      "design_count": "41",
+      "device_code": "PPRWHT3",
+      "orders": "105",
+      "revenue": "2723.34"
+    },
+    {
+      "design_count": "89",
+      "device_code": "S901X",
+      "orders": "132",
+      "revenue": "2660.97"
+    },
+    {
+      "design_count": "80",
+      "device_code": "S926U",
+      "orders": "129",
+      "revenue": "2634.54"
+    },
+    {
+      "design_count": "70",
+      "device_code": "A145G2023",
+      "orders": "116",
+      "revenue": "2459.82"
+    },
+    {
+      "design_count": "67",
+      "device_code": "IPHXR",
+      "orders": "113",
+      "revenue": "2416.06"
+    },
+    {
+      "design_count": "64",
+      "device_code": "PIXEL9",
+      "orders": "103",
+      "revenue": "2221.36"
+    },
+    {
+      "design_count": "66",
+      "device_code": "G991F",
+      "orders": "106",
+      "revenue": "2190.48"
+    },
+    {
+      "design_count": "72",
+      "device_code": "G990F",
+      "orders": "107",
+      "revenue": "2129.62"
+    },
+    {
+      "design_count": "44",
+      "device_code": "PIXEL10",
+      "orders": "92",
+      "revenue": "2041.45"
+    }
+  ],
+  "designs": [
+    {
+      "product_type": "HTPCR",
+      "design_code": "NARUICO",
+      "orders_90d": 904,
+      "revenue_90d": 20096.31,
+      "orders_7d": 50,
+      "revenue_7d": 1088.77,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "PNUTBOA",
+      "orders_90d": 550,
+      "revenue_90d": 12531.77,
+      "orders_7d": 10,
+      "revenue_7d": 205.5,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "DRGBSUSC",
+      "orders_90d": 553,
+      "revenue_90d": 12382.27,
+      "orders_7d": 26,
+      "revenue_7d": 574.62,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "NARUCHA",
+      "orders_90d": 539,
+      "revenue_90d": 12049.85,
+      "orders_7d": 24,
+      "revenue_7d": 480.85,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "PNUTCHA",
+      "orders_90d": 518,
+      "revenue_90d": 11904.4,
+      "orders_7d": 22,
+      "revenue_7d": 488.26,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "PNUTHAL",
+      "orders_90d": 507,
+      "revenue_90d": 11768.39,
+      "orders_7d": 24,
+      "revenue_7d": 528.69,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "HPOTDH37",
+      "orders_90d": 492,
+      "revenue_90d": 11731.93,
+      "orders_7d": 16,
+      "revenue_7d": 358.04,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "HPOTPRI2",
+      "orders_90d": 277,
+      "revenue_90d": 7523.8,
+      "orders_7d": 10,
+      "revenue_7d": 250.5,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "OHIOLOGO",
+      "orders_90d": 333,
+      "revenue_90d": 7013.91,
+      "orders_7d": 14,
+      "revenue_7d": 279.3,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "GMORGRA",
+      "orders_90d": 272,
+      "revenue_90d": 6340.54,
+      "orders_7d": 5,
+      "revenue_7d": 109.11,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "HATSGRA",
+      "orders_90d": 276,
+      "revenue_90d": 5940.32,
+      "orders_7d": 13,
+      "revenue_7d": 284.35,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "HPOTDH13",
+      "orders_90d": 263,
+      "revenue_90d": 5824.88,
+      "orders_7d": 11,
+      "revenue_7d": 231.45,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "IMGCUAL",
+      "orders_90d": 268,
+      "revenue_90d": 5678.92,
+      "orders_7d": 2,
+      "revenue_7d": 36.9,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "FCBCKT8",
+      "orders_90d": 236,
+      "revenue_90d": 5627.68,
+      "orders_7d": 10,
+      "revenue_7d": 209.5,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "RMCFKIT25",
+      "orders_90d": 219,
+      "revenue_90d": 5039.06,
+      "orders_7d": 14,
+      "revenue_7d": 302.92,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "PNUTBBU",
+      "orders_90d": 225,
+      "revenue_90d": 5021.15,
+      "orders_7d": 8,
+      "revenue_7d": 180.99,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "PNUTHAL",
+      "orders_90d": 171,
+      "revenue_90d": 4800.38,
+      "orders_7d": 3,
+      "revenue_7d": 74.85,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "HATSGRA",
+      "orders_90d": 170,
+      "revenue_90d": 4429.96,
+      "orders_7d": 13,
+      "revenue_7d": 324.35,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "FCBKIT25",
+      "orders_90d": 193,
+      "revenue_90d": 4078.85,
+      "orders_7d": 17,
+      "revenue_7d": 339.91,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "BTMCHUS",
+      "orders_90d": 178,
+      "revenue_90d": 4071.46,
+      "orders_7d": 9,
+      "revenue_7d": 193.55,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "HPOTDH37",
+      "orders_90d": 135,
+      "revenue_90d": 3937.43,
+      "orders_7d": 2,
+      "revenue_7d": 55.9,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "PNUTORI",
+      "orders_90d": 177,
+      "revenue_90d": 3920.41,
+      "orders_7d": 6,
+      "revenue_7d": 129.7,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "WMGRATTRE",
+      "orders_90d": 181,
+      "revenue_90d": 3869.79,
+      "orders_7d": 8,
+      "revenue_7d": 167.6,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "IMGCUAAR",
+      "orders_90d": 168,
+      "revenue_90d": 3630.57,
+      "orders_7d": 4,
+      "revenue_7d": 87.8,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "ADVEGRA",
+      "orders_90d": 164,
+      "revenue_90d": 3516.61,
+      "orders_7d": 11,
+      "revenue_7d": 235.08,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "HPOTPRI2",
+      "orders_90d": 148,
+      "revenue_90d": 3475.33,
+      "orders_7d": 7,
+      "revenue_7d": 171.29,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "PNUTSCO",
+      "orders_90d": 151,
+      "revenue_90d": 3340.21,
+      "orders_7d": 4,
+      "revenue_7d": 78.8,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "IMGCUOK",
+      "orders_90d": 145,
+      "revenue_90d": 3339.26,
+      "orders_7d": 7,
+      "revenue_7d": 150.65,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "PNUTDDR",
+      "orders_90d": 147,
+      "revenue_90d": 3240.52,
+      "orders_7d": 7,
+      "revenue_7d": 149.65,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "PNUTCHA",
+      "orders_90d": 113,
+      "revenue_90d": 3176.11,
+      "orders_7d": 10,
+      "revenue_7d": 274.66,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "HPOTDH9",
+      "orders_90d": 120,
+      "revenue_90d": 3166.57,
+      "orders_7d": 5,
+      "revenue_7d": 125.75,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "NARUKEY",
+      "orders_90d": 141,
+      "revenue_90d": 2937.0,
+      "orders_7d": 11,
+      "revenue_7d": 227.45,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "WWE2JEY",
+      "orders_90d": 139,
+      "revenue_90d": 2900.04,
+      "orders_7d": 8,
+      "revenue_7d": 154.4,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "FCBPHKT25",
+      "orders_90d": 133,
+      "revenue_90d": 2863.4,
+      "orders_7d": 8,
+      "revenue_7d": 167.6,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "BVBEKYA",
+      "orders_90d": 138,
+      "revenue_90d": 2722.11,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "WWE2RHE",
+      "orders_90d": 131,
+      "revenue_90d": 2673.06,
+      "orders_7d": 6,
+      "revenue_7d": 130.7,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "FCBCPA",
+      "orders_90d": 115,
+      "revenue_90d": 2592.84,
+      "orders_7d": 3,
+      "revenue_7d": 68.85,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "IMGCLSU",
+      "orders_90d": 116,
+      "revenue_90d": 2537.4,
+      "orders_7d": 8,
+      "revenue_7d": 165.6,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "PPUFGRA",
+      "orders_90d": 127,
+      "revenue_90d": 2534.23,
+      "orders_7d": 11,
+      "revenue_7d": 224.45,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "BTMCLOG",
+      "orders_90d": 112,
+      "revenue_90d": 2473.5,
+      "orders_7d": 9,
+      "revenue_7d": 191.55,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "RMCFRET",
+      "orders_90d": 104,
+      "revenue_90d": 2450.82,
+      "orders_7d": 9,
+      "revenue_7d": 191.55,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "FCBCKT8",
+      "orders_90d": 107,
+      "revenue_90d": 2357.65,
+      "orders_7d": 8,
+      "revenue_7d": 159.6,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "HPOTDH13",
+      "orders_90d": 83,
+      "revenue_90d": 2301.07,
+      "orders_7d": 3,
+      "revenue_7d": 74.85,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "SPRCCOM",
+      "orders_90d": 106,
+      "revenue_90d": 2287.33,
+      "orders_7d": 3,
+      "revenue_7d": 59.85,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "NHLBOSB",
+      "orders_90d": 104,
+      "revenue_90d": 2263.38,
+      "orders_7d": 6,
+      "revenue_7d": 127.7,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "PNUTWOD",
+      "orders_90d": 100,
+      "revenue_90d": 2234.68,
+      "orders_7d": 5,
+      "revenue_7d": 107.75,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "HPOTSOR2",
+      "orders_90d": 101,
+      "revenue_90d": 2224.4,
+      "orders_7d": 4,
+      "revenue_7d": 65.85,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "SCDO50T",
+      "orders_90d": 90,
+      "revenue_90d": 2029.63,
+      "orders_7d": 4,
+      "revenue_7d": 83.8,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "SUPNKEY",
+      "orders_90d": 96,
+      "revenue_90d": 1973.52,
+      "orders_7d": 8,
+      "revenue_7d": 173.6,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "SPRCLOG",
+      "orders_90d": 88,
+      "revenue_90d": 1948.47,
+      "orders_7d": 7,
+      "revenue_7d": 149.65,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "WWE2W41",
+      "orders_90d": 91,
+      "revenue_90d": 1845.34,
+      "orders_7d": 7,
+      "revenue_7d": 160.27,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "NARUCHA",
+      "orders_90d": 62,
+      "revenue_90d": 1830.9,
+      "orders_7d": 3,
+      "revenue_7d": 74.85,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "OHIOFLOG",
+      "orders_90d": 88,
+      "revenue_90d": 1796.51,
+      "orders_7d": 6,
+      "revenue_7d": 119.7,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "RMCFURB",
+      "orders_90d": 80,
+      "revenue_90d": 1763.99,
+      "orders_7d": 4,
+      "revenue_7d": 87.8,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "DRGBSUSA",
+      "orders_90d": 84,
+      "revenue_90d": 1749.44,
+      "orders_7d": 5,
+      "revenue_7d": 111.75,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "FCBKIT25",
+      "orders_90d": 81,
+      "revenue_90d": 1742.0,
+      "orders_7d": 3,
+      "revenue_7d": 43.9,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "DRGBCHA",
+      "orders_90d": 87,
+      "revenue_90d": 1725.75,
+      "orders_7d": 11,
+      "revenue_7d": 225.45,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "DRGBSUSC",
+      "orders_90d": 61,
+      "revenue_90d": 1724.0,
+      "orders_7d": 2,
+      "revenue_7d": 49.9,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "IMGCUAL",
+      "orders_90d": 62,
+      "revenue_90d": 1699.57,
+      "orders_7d": 4,
+      "revenue_7d": 104.8,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "NBA2WAR",
+      "orders_90d": 78,
+      "revenue_90d": 1698.09,
+      "orders_7d": 7,
+      "revenue_7d": 151.65,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "WWE2CRH",
+      "orders_90d": 94,
+      "revenue_90d": 1687.7,
+      "orders_7d": 4,
+      "revenue_7d": 81.8,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "IMGCPSU",
+      "orders_90d": 79,
+      "revenue_90d": 1683.4,
+      "orders_7d": 6,
+      "revenue_7d": 123.7,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "PNUTSNO",
+      "orders_90d": 55,
+      "revenue_90d": 1558.39,
+      "orders_7d": 3,
+      "revenue_7d": 49.9,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "FCBFTM2G1",
+      "orders_90d": 68,
+      "revenue_90d": 1519.55,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "MCBDKIT25",
+      "orders_90d": 71,
+      "revenue_90d": 1516.5,
+      "orders_7d": 4,
+      "revenue_7d": 86.8,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "SCDOMYS",
+      "orders_90d": 54,
+      "revenue_90d": 1490.35,
+      "orders_7d": 4,
+      "revenue_7d": 99.8,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "HPOTLTYP",
+      "orders_90d": 69,
+      "revenue_90d": 1474.8,
+      "orders_7d": 4,
+      "revenue_7d": 90.8,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "PNUTT21",
+      "orders_90d": 66,
+      "revenue_90d": 1426.57,
+      "orders_7d": 5,
+      "revenue_7d": 109.75,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "NBA2LOS",
+      "orders_90d": 66,
+      "revenue_90d": 1420.7,
+      "orders_7d": 4,
+      "revenue_7d": 85.8,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "PNUTAPO",
+      "orders_90d": 65,
+      "revenue_90d": 1412.81,
+      "orders_7d": 6,
+      "revenue_7d": 125.7,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "NARUICO",
+      "orders_90d": 51,
+      "revenue_90d": 1401.0,
+      "orders_7d": 4,
+      "revenue_7d": 89.8,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "IMGCPSA",
+      "orders_90d": 68,
+      "revenue_90d": 1380.49,
+      "orders_7d": 3,
+      "revenue_7d": 61.85,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "IMGCFSU",
+      "orders_90d": 68,
+      "revenue_90d": 1327.57,
+      "orders_7d": 6,
+      "revenue_7d": 119.7,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "HPOTDH14",
+      "orders_90d": 65,
+      "revenue_90d": 1316.72,
+      "orders_7d": 6,
+      "revenue_7d": 135.92,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "PNUTADI",
+      "orders_90d": 58,
+      "revenue_90d": 1282.03,
+      "orders_7d": 5,
+      "revenue_7d": 116.64,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "OHIOFLOG",
+      "orders_90d": 44,
+      "revenue_90d": 1272.25,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "HPOTDH9",
+      "orders_90d": 59,
+      "revenue_90d": 1225.08,
+      "orders_7d": 3,
+      "revenue_7d": 59.85,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "IT17GRA",
+      "orders_90d": 59,
+      "revenue_90d": 1220.84,
+      "orders_7d": 4,
+      "revenue_7d": 83.8,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "NHLNYKR",
+      "orders_90d": 56,
+      "revenue_90d": 1216.31,
+      "orders_7d": 3,
+      "revenue_7d": 61.85,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "NBA2CEL",
+      "orders_90d": 57,
+      "revenue_90d": 1214.2,
+      "orders_7d": 5,
+      "revenue_7d": 112.75,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "WWE2ROM",
+      "orders_90d": 65,
+      "revenue_90d": 1206.71,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "NBA2NKN",
+      "orders_90d": 56,
+      "revenue_90d": 1187.24,
+      "orders_7d": 6,
+      "revenue_7d": 119.7,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "BVBEHTE",
+      "orders_90d": 59,
+      "revenue_90d": 1167.05,
+      "orders_7d": 4,
+      "revenue_7d": 79.8,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "IMGCLSUA",
+      "orders_90d": 59,
+      "revenue_90d": 1145.46,
+      "orders_7d": 6,
+      "revenue_7d": 121.7,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "PNUTDDR",
+      "orders_90d": 42,
+      "revenue_90d": 1137.9,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "LFCDCA",
+      "orders_90d": 52,
+      "revenue_90d": 1117.44,
+      "orders_7d": 5,
+      "revenue_7d": 104.75,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "PNUTBOA",
+      "orders_90d": 42,
+      "revenue_90d": 1113.9,
+      "orders_7d": 4,
+      "revenue_7d": 84.8,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "CFCCRE",
+      "orders_90d": 50,
+      "revenue_90d": 1085.62,
+      "orders_7d": 3,
+      "revenue_7d": 61.85,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "TDKNKEY",
+      "orders_90d": 53,
+      "revenue_90d": 1077.04,
+      "orders_7d": 3,
+      "revenue_7d": 65.85,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "BALL",
+      "orders_90d": 54,
+      "revenue_90d": 1076.72,
+      "orders_7d": 3,
+      "revenue_7d": 56.85,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "BTMCICB",
+      "orders_90d": 49,
+      "revenue_90d": 1063.66,
+      "orders_7d": 5,
+      "revenue_7d": 108.75,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "NARUKEY",
+      "orders_90d": 38,
+      "revenue_90d": 1059.1,
+      "orders_7d": 6,
+      "revenue_7d": 154.7,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "IMGCUTK",
+      "orders_90d": 50,
+      "revenue_90d": 1044.11,
+      "orders_7d": 6,
+      "revenue_7d": 119.7,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "WWE2LIV",
+      "orders_90d": 56,
+      "revenue_90d": 1040.48,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "WWE2CMP",
+      "orders_90d": 63,
+      "revenue_90d": 1036.07,
+      "orders_7d": 6,
+      "revenue_7d": 78.9,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "PNUTMAN",
+      "orders_90d": 49,
+      "revenue_90d": 1021.54,
+      "orders_7d": 5,
+      "revenue_7d": 93.75,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "AFCKIT25",
+      "orders_90d": 47,
+      "revenue_90d": 1021.47,
+      "orders_7d": 3,
+      "revenue_7d": 64.85,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "FRNDICO",
+      "orders_90d": 48,
+      "revenue_90d": 1009.53,
+      "orders_7d": 3,
+      "revenue_7d": 63.85,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "FCBCKT7",
+      "orders_90d": 42,
+      "revenue_90d": 1003.6,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "LFCLVBRD",
+      "orders_90d": 47,
+      "revenue_90d": 968.72,
+      "orders_7d": 2,
+      "revenue_7d": 39.9,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "SCDOSCO",
+      "orders_90d": 46,
+      "revenue_90d": 963.7,
+      "orders_7d": 2,
+      "revenue_7d": 41.9,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "LFCKIT25",
+      "orders_90d": 44,
+      "revenue_90d": 944.77,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "FCBCPA",
+      "orders_90d": 44,
+      "revenue_90d": 941.76,
+      "orders_7d": 5,
+      "revenue_7d": 101.75,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "HPOTSOR",
+      "orders_90d": 34,
+      "revenue_90d": 926.3,
+      "orders_7d": 2,
+      "revenue_7d": 55.9,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "DRGBZCAS",
+      "orders_90d": 45,
+      "revenue_90d": 924.74,
+      "orders_7d": 3,
+      "revenue_7d": 64.85,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "AFCCRE",
+      "orders_90d": 43,
+      "revenue_90d": 905.52,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "PNUTROC",
+      "orders_90d": 41,
+      "revenue_90d": 893.28,
+      "orders_7d": 3,
+      "revenue_7d": 59.85,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "WWE2JCEN",
+      "orders_90d": 43,
+      "revenue_90d": 889.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "PNUTCPA",
+      "orders_90d": 34,
+      "revenue_90d": 886.3,
+      "orders_7d": 3,
+      "revenue_7d": 74.85,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "NHLBOSB",
+      "orders_90d": 45,
+      "revenue_90d": 877.8,
+      "orders_7d": 2,
+      "revenue_7d": 39.9,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "RMCFRET",
+      "orders_90d": 41,
+      "revenue_90d": 876.86,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "IMGCUOKA",
+      "orders_90d": 42,
+      "revenue_90d": 875.9,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "AFA24G1",
+      "orders_90d": 42,
+      "revenue_90d": 867.95,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "RMORS1N2",
+      "orders_90d": 45,
+      "revenue_90d": 859.8,
+      "orders_7d": 2,
+      "revenue_7d": 39.9,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "BTMCFCB",
+      "orders_90d": 40,
+      "revenue_90d": 834.0,
+      "orders_7d": 3,
+      "revenue_7d": 65.85,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "DRGBSFTR",
+      "orders_90d": 38,
+      "revenue_90d": 832.1,
+      "orders_7d": 4,
+      "revenue_7d": 85.8,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "IRONALB",
+      "orders_90d": 39,
+      "revenue_90d": 806.05,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "LTOOGCH",
+      "orders_90d": 38,
+      "revenue_90d": 785.1,
+      "orders_7d": 3,
+      "revenue_7d": 61.85,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "WWESUP",
+      "orders_90d": 38,
+      "revenue_90d": 780.1,
+      "orders_7d": 2,
+      "revenue_7d": 41.9,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "SHELCAR",
+      "orders_90d": 40,
+      "revenue_90d": 778.1,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "NHLDALS",
+      "orders_90d": 41,
+      "revenue_90d": 778.05,
+      "orders_7d": 10,
+      "revenue_7d": 199.5,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "TLRIFRG",
+      "orders_90d": 36,
+      "revenue_90d": 758.2,
+      "orders_7d": 3,
+      "revenue_7d": 63.85,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "SUPNKEY",
+      "orders_90d": 33,
+      "revenue_90d": 755.45,
+      "orders_7d": 3,
+      "revenue_7d": 59.85,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "CFCKIT25",
+      "orders_90d": 35,
+      "revenue_90d": 750.97,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "AFCCPA",
+      "orders_90d": 36,
+      "revenue_90d": 750.19,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "AFCLOGOS",
+      "orders_90d": 35,
+      "revenue_90d": 748.22,
+      "orders_7d": 3,
+      "revenue_7d": 65.84,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "PNUTCHA",
+      "orders_90d": 35,
+      "revenue_90d": 742.16,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "WWE2TBE",
+      "orders_90d": 37,
+      "revenue_90d": 742.15,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "BTMCTHR",
+      "orders_90d": 36,
+      "revenue_90d": 738.18,
+      "orders_7d": 3,
+      "revenue_7d": 39.9,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "AFCCGLO",
+      "orders_90d": 34,
+      "revenue_90d": 736.74,
+      "orders_7d": 2,
+      "revenue_7d": 43.9,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "PNUTCBR",
+      "orders_90d": 34,
+      "revenue_90d": 735.51,
+      "orders_7d": 2,
+      "revenue_7d": 41.9,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "GMORGRA",
+      "orders_90d": 25,
+      "revenue_90d": 729.37,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "NBA2LOS",
+      "orders_90d": 34,
+      "revenue_90d": 724.3,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "PNUTORI",
+      "orders_90d": 30,
+      "revenue_90d": 720.5,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "NHLPITP",
+      "orders_90d": 36,
+      "revenue_90d": 718.2,
+      "orders_7d": 2,
+      "revenue_7d": 39.9,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "IRONART",
+      "orders_90d": 34,
+      "revenue_90d": 711.3,
+      "orders_7d": 3,
+      "revenue_7d": 61.85,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "NHLTAML",
+      "orders_90d": 33,
+      "revenue_90d": 693.35,
+      "orders_7d": 3,
+      "revenue_7d": 61.85,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "HPOTDH8",
+      "orders_90d": 33,
+      "revenue_90d": 678.97,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "BTMCVFA",
+      "orders_90d": 27,
+      "revenue_90d": 665.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "RMCFORI",
+      "orders_90d": 31,
+      "revenue_90d": 660.45,
+      "orders_7d": 2,
+      "revenue_7d": 39.9,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "RMORS3GR",
+      "orders_90d": 32,
+      "revenue_90d": 660.0,
+      "orders_7d": 3,
+      "revenue_7d": 63.85,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "NHLDETR",
+      "orders_90d": 33,
+      "revenue_90d": 658.35,
+      "orders_7d": 2,
+      "revenue_7d": 39.9,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "BTMCLOG",
+      "orders_90d": 23,
+      "revenue_90d": 651.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "AFCCKT9",
+      "orders_90d": 32,
+      "revenue_90d": 617.2,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "UFCLOGO",
+      "orders_90d": 28,
+      "revenue_90d": 602.61,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "WWESUP",
+      "orders_90d": 19,
+      "revenue_90d": 600.05,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "HPOTCSE3",
+      "orders_90d": 23,
+      "revenue_90d": 598.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "FLAG",
+      "orders_90d": 33,
+      "revenue_90d": 594.35,
+      "orders_7d": 6,
+      "revenue_7d": 116.7,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "NARUCHA",
+      "orders_90d": 27,
+      "revenue_90d": 590.65,
+      "orders_7d": 2,
+      "revenue_7d": 43.9,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "HPOTCSE",
+      "orders_90d": 22,
+      "revenue_90d": 589.9,
+      "orders_7d": 2,
+      "revenue_7d": 49.9,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "PNUTBBU",
+      "orders_90d": 26,
+      "revenue_90d": 588.77,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "WWE2BRY",
+      "orders_90d": 37,
+      "revenue_90d": 579.75,
+      "orders_7d": 2,
+      "revenue_7d": 30.7,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "NHLPITP",
+      "orders_90d": 28,
+      "revenue_90d": 577.35,
+      "orders_7d": 5,
+      "revenue_7d": 103.75,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "HPOTDH8",
+      "orders_90d": 23,
+      "revenue_90d": 574.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "SPRCLOG",
+      "orders_90d": 20,
+      "revenue_90d": 565.0,
+      "orders_7d": 3,
+      "revenue_7d": 84.85,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "ADVEGRA",
+      "orders_90d": 20,
+      "revenue_90d": 564.0,
+      "orders_7d": 2,
+      "revenue_7d": 54.9,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "RMCFORI",
+      "orders_90d": 27,
+      "revenue_90d": 558.7,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "DRGBZCAS",
+      "orders_90d": 20,
+      "revenue_90d": 554.0,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "AFCCKT7",
+      "orders_90d": 26,
+      "revenue_90d": 549.23,
+      "orders_7d": 3,
+      "revenue_7d": 61.85,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "RMCFKIT25",
+      "orders_90d": 25,
+      "revenue_90d": 544.75,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "SHSDOG",
+      "orders_90d": 30,
+      "revenue_90d": 544.5,
+      "orders_7d": 2,
+      "revenue_7d": 39.9,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "IMGCUTAR",
+      "orders_90d": 23,
+      "revenue_90d": 543.0,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "NHLPHIF",
+      "orders_90d": 28,
+      "revenue_90d": 542.69,
+      "orders_7d": 2,
+      "revenue_7d": 39.9,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "PNUTBOA",
+      "orders_90d": 26,
+      "revenue_90d": 530.7,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "PNUTSEA",
+      "orders_90d": 18,
+      "revenue_90d": 525.1,
+      "orders_7d": 2,
+      "revenue_7d": 49.9,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "PPUFGRA",
+      "orders_90d": 17,
+      "revenue_90d": 522.15,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "DRGBSUSC",
+      "orders_90d": 24,
+      "revenue_90d": 520.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "NHLTAML",
+      "orders_90d": 27,
+      "revenue_90d": 518.7,
+      "orders_7d": 3,
+      "revenue_7d": 59.85,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "NHLDETR",
+      "orders_90d": 24,
+      "revenue_90d": 514.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "CORPKEY",
+      "orders_90d": 27,
+      "revenue_90d": 514.33,
+      "orders_7d": 3,
+      "revenue_7d": 59.85,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "HPOTDH10",
+      "orders_90d": 19,
+      "revenue_90d": 514.05,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "FCBCRE",
+      "orders_90d": 26,
+      "revenue_90d": 512.7,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "CFCRETKS",
+      "orders_90d": 24,
+      "revenue_90d": 511.78,
+      "orders_7d": 2,
+      "revenue_7d": 43.9,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "BTMCTHR",
+      "orders_90d": 17,
+      "revenue_90d": 509.15,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "SHELLOG",
+      "orders_90d": 26,
+      "revenue_90d": 498.75,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "THFCBAD",
+      "orders_90d": 23,
+      "revenue_90d": 482.84,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "NHLFLOP",
+      "orders_90d": 24,
+      "revenue_90d": 478.8,
+      "orders_7d": 2,
+      "revenue_7d": 39.9,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "NHLCOLA",
+      "orders_90d": 23,
+      "revenue_90d": 477.58,
+      "orders_7d": 3,
+      "revenue_7d": 61.85,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "FCBCKT6",
+      "orders_90d": 23,
+      "revenue_90d": 475.09,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "SCDOMYS",
+      "orders_90d": 22,
+      "revenue_90d": 466.9,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "HPOTDH10",
+      "orders_90d": 22,
+      "revenue_90d": 464.9,
+      "orders_7d": 2,
+      "revenue_7d": 43.9,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "BTMCRHO",
+      "orders_90d": 22,
+      "revenue_90d": 463.3,
+      "orders_7d": 2,
+      "revenue_7d": 39.9,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "MCBADGE",
+      "orders_90d": 21,
+      "revenue_90d": 461.93,
+      "orders_7d": 2,
+      "revenue_7d": 41.9,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "WMGRATTRE",
+      "orders_90d": 17,
+      "revenue_90d": 460.15,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "NHLMINW",
+      "orders_90d": 22,
+      "revenue_90d": 456.9,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "NHLVEGG",
+      "orders_90d": 22,
+      "revenue_90d": 454.9,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "BTMCCBCO",
+      "orders_90d": 21,
+      "revenue_90d": 450.95,
+      "orders_7d": 2,
+      "revenue_7d": 43.9,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "NBA2CEL",
+      "orders_90d": 20,
+      "revenue_90d": 439.0,
+      "orders_7d": 4,
+      "revenue_7d": 87.8,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "NHLCHIB",
+      "orders_90d": 23,
+      "revenue_90d": 438.9,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "FKREFLO",
+      "orders_90d": 21,
+      "revenue_90d": 437.95,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "WWE2JEY",
+      "orders_90d": 14,
+      "revenue_90d": 436.3,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "FKREFLO",
+      "orders_90d": 17,
+      "revenue_90d": 431.15,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "BATMKEY",
+      "orders_90d": 14,
+      "revenue_90d": 430.3,
+      "orders_7d": 2,
+      "revenue_7d": 59.9,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "NHLSTLB",
+      "orders_90d": 21,
+      "revenue_90d": 429.0,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "IMGCUIL",
+      "orders_90d": 22,
+      "revenue_90d": 418.95,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "THFCKIT25",
+      "orders_90d": 20,
+      "revenue_90d": 417.87,
+      "orders_7d": 3,
+      "revenue_7d": 61.85,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "IRONTOU",
+      "orders_90d": 21,
+      "revenue_90d": 411.6,
+      "orders_7d": 2,
+      "revenue_7d": 21.95,
+      "velocity": "declining"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "TWDDOEX",
+      "orders_90d": 20,
+      "revenue_90d": 406.56,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "PNUTBBU",
+      "orders_90d": 14,
+      "revenue_90d": 406.3,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "MCBDKIT8",
+      "orders_90d": 19,
+      "revenue_90d": 406.05,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "NBA2BUL",
+      "orders_90d": 20,
+      "revenue_90d": 405.0,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "WWE2RHE",
+      "orders_90d": 14,
+      "revenue_90d": 404.3,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "BTMCRHO",
+      "orders_90d": 19,
+      "revenue_90d": 402.05,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "COBRGRA",
+      "orders_90d": 19,
+      "revenue_90d": 401.29,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "MCPHKT25",
+      "orders_90d": 20,
+      "revenue_90d": 400.05,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "IMGCTAMU",
+      "orders_90d": 20,
+      "revenue_90d": 399.0,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "HPOTCSE2",
+      "orders_90d": 19,
+      "revenue_90d": 398.74,
+      "orders_7d": 2,
+      "revenue_7d": 39.9,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "FCBCKT4",
+      "orders_90d": 18,
+      "revenue_90d": 393.76,
+      "orders_7d": 2,
+      "revenue_7d": 41.9,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "WWE2CMP",
+      "orders_90d": 19,
+      "revenue_90d": 391.87,
+      "orders_7d": 2,
+      "revenue_7d": 44.9,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "PNUTORI",
+      "orders_90d": 20,
+      "revenue_90d": 390.93,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "LTOOCHA",
+      "orders_90d": 15,
+      "revenue_90d": 388.25,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "AFCKIT25",
+      "orders_90d": 18,
+      "revenue_90d": 385.1,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "IMGCTAMU",
+      "orders_90d": 12,
+      "revenue_90d": 383.4,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "BTMCNWI",
+      "orders_90d": 18,
+      "revenue_90d": 381.97,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "PNUTCUSTA",
+      "orders_90d": 14,
+      "revenue_90d": 379.3,
+      "orders_7d": 2,
+      "revenue_7d": 51.9,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "BVGUNSKY",
+      "orders_90d": 19,
+      "revenue_90d": 379.05,
+      "orders_7d": 2,
+      "revenue_7d": 39.9,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "WWE2ROM",
+      "orders_90d": 19,
+      "revenue_90d": 379.05,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "WMGDAYGRA",
+      "orders_90d": 19,
+      "revenue_90d": 379.05,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "NHLBUFS",
+      "orders_90d": 19,
+      "revenue_90d": 379.05,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "NHLUTAH",
+      "orders_90d": 18,
+      "revenue_90d": 369.1,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "NHLCARH",
+      "orders_90d": 18,
+      "revenue_90d": 367.32,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "NHLBOSB",
+      "orders_90d": 12,
+      "revenue_90d": 362.4,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "NHLSEAK",
+      "orders_90d": 17,
+      "revenue_90d": 361.37,
+      "orders_7d": 2,
+      "revenue_7d": 41.9,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "NBA2NKN",
+      "orders_90d": 17,
+      "revenue_90d": 361.15,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "DRGBICO",
+      "orders_90d": 18,
+      "revenue_90d": 359.1,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "NHLWASC",
+      "orders_90d": 19,
+      "revenue_90d": 359.1,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "NHLNEWJ",
+      "orders_90d": 18,
+      "revenue_90d": 359.1,
+      "orders_7d": 2,
+      "revenue_7d": 39.9,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "NHLCOLA",
+      "orders_90d": 18,
+      "revenue_90d": 359.1,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "PNUTCPA",
+      "orders_90d": 18,
+      "revenue_90d": 357.51,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "HPOTPRI",
+      "orders_90d": 12,
+      "revenue_90d": 351.4,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "HPOTDH18",
+      "orders_90d": 16,
+      "revenue_90d": 349.2,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "DOGBPA",
+      "orders_90d": 17,
+      "revenue_90d": 349.15,
+      "orders_7d": 2,
+      "revenue_7d": 39.9,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "BVSKWEA",
+      "orders_90d": 18,
+      "revenue_90d": 349.1,
+      "orders_7d": 2,
+      "revenue_7d": 39.9,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "BTAOKEY",
+      "orders_90d": 17,
+      "revenue_90d": 346.38,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "IMGCLSU",
+      "orders_90d": 11,
+      "revenue_90d": 343.45,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "LTOOSEA",
+      "orders_90d": 17,
+      "revenue_90d": 342.19,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "NHLNEWJ",
+      "orders_90d": 17,
+      "revenue_90d": 341.59,
+      "orders_7d": 2,
+      "revenue_7d": 43.9,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "PNUTSCO",
+      "orders_90d": 18,
+      "revenue_90d": 341.15,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "DRGBSUSA",
+      "orders_90d": 12,
+      "revenue_90d": 339.4,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "IMGCUIART",
+      "orders_90d": 17,
+      "revenue_90d": 339.15,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "LFCCRE1",
+      "orders_90d": 17,
+      "revenue_90d": 330.15,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "SCDOSEA",
+      "orders_90d": 16,
+      "revenue_90d": 329.2,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "NHL25SCC",
+      "orders_90d": 15,
+      "revenue_90d": 327.25,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "SUPNVEC",
+      "orders_90d": 15,
+      "revenue_90d": 327.17,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "HPOTSOR2",
+      "orders_90d": 10,
+      "revenue_90d": 325.5,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "NHLDALS",
+      "orders_90d": 16,
+      "revenue_90d": 325.2,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "PAIB",
+      "orders_90d": 15,
+      "revenue_90d": 324.25,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "PNUTADI",
+      "orders_90d": 11,
+      "revenue_90d": 323.45,
+      "orders_7d": 2,
+      "revenue_7d": 59.9,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "HPOTCSE2",
+      "orders_90d": 12,
+      "revenue_90d": 323.4,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "IMGCAUB",
+      "orders_90d": 17,
+      "revenue_90d": 323.33,
+      "orders_7d": 3,
+      "revenue_7d": 59.85,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "PNUTCUSTA",
+      "orders_90d": 13,
+      "revenue_90d": 320.4,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "IMGCASU",
+      "orders_90d": 16,
+      "revenue_90d": 319.2,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "BVSKKEY",
+      "orders_90d": 16,
+      "revenue_90d": 319.2,
+      "orders_7d": 2,
+      "revenue_7d": 39.9,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "NHLPHIF",
+      "orders_90d": 16,
+      "revenue_90d": 319.2,
+      "orders_7d": 3,
+      "revenue_7d": 59.85,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "NBA2WAR",
+      "orders_90d": 16,
+      "revenue_90d": 317.25,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "WWE2UND",
+      "orders_90d": 19,
+      "revenue_90d": 314.65,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "RCALPAT",
+      "orders_90d": 18,
+      "revenue_90d": 314.1,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "IMGCUFL",
+      "orders_90d": 15,
+      "revenue_90d": 308.88,
+      "orders_7d": 3,
+      "revenue_7d": 59.85,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "DOGBPA2",
+      "orders_90d": 14,
+      "revenue_90d": 305.3,
+      "orders_7d": 2,
+      "revenue_7d": 39.9,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "FCBPHKT25",
+      "orders_90d": 14,
+      "revenue_90d": 305.3,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "LTOOPAT",
+      "orders_90d": 11,
+      "revenue_90d": 303.5,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "HPOTDH31",
+      "orders_90d": 15,
+      "revenue_90d": 301.25,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "NHLMINW",
+      "orders_90d": 16,
+      "revenue_90d": 299.25,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "IMGCAUAR",
+      "orders_90d": 15,
+      "revenue_90d": 299.25,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "NHLNYKI",
+      "orders_90d": 16,
+      "revenue_90d": 299.25,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "FRNDICO",
+      "orders_90d": 11,
+      "revenue_90d": 297.45,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "PNUTROC",
+      "orders_90d": 11,
+      "revenue_90d": 296.45,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "SHAM",
+      "orders_90d": 16,
+      "revenue_90d": 294.2,
+      "orders_7d": 2,
+      "revenue_7d": 39.9,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "FCBPHKT25",
+      "orders_90d": 9,
+      "revenue_90d": 293.55,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "MASS1GR",
+      "orders_90d": 14,
+      "revenue_90d": 293.29,
+      "orders_7d": 2,
+      "revenue_7d": 41.9,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "WWCOLOG",
+      "orders_90d": 12,
+      "revenue_90d": 291.4,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "ACMCKT7",
+      "orders_90d": 15,
+      "revenue_90d": 289.34,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "HPOTDH16",
+      "orders_90d": 14,
+      "revenue_90d": 287.3,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "WWE2DOM",
+      "orders_90d": 15,
+      "revenue_90d": 286.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "CFLAGS1",
+      "orders_90d": 15,
+      "revenue_90d": 284.25,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "LTOOFUL",
+      "orders_90d": 15,
+      "revenue_90d": 283.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "FCBCKT3",
+      "orders_90d": 14,
+      "revenue_90d": 283.3,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "IMGCUTK",
+      "orders_90d": 14,
+      "revenue_90d": 279.3,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "BATMKEY",
+      "orders_90d": 14,
+      "revenue_90d": 279.3,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "NHLSANJ",
+      "orders_90d": 14,
+      "revenue_90d": 279.3,
+      "orders_7d": 2,
+      "revenue_7d": 39.9,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "TLRIFRC",
+      "orders_90d": 15,
+      "revenue_90d": 279.3,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "WWECRHO",
+      "orders_90d": 13,
+      "revenue_90d": 278.99,
+      "orders_7d": 3,
+      "revenue_7d": 63.85,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "FCBCKT5",
+      "orders_90d": 12,
+      "revenue_90d": 277.81,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "NHLFLOP",
+      "orders_90d": 13,
+      "revenue_90d": 277.35,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "SUPNKEY",
+      "orders_90d": 12,
+      "revenue_90d": 263.4,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "BTMCFCB",
+      "orders_90d": 9,
+      "revenue_90d": 261.55,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "BVRSKAR",
+      "orders_90d": 13,
+      "revenue_90d": 259.35,
+      "orders_7d": 2,
+      "revenue_7d": 39.9,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "DEANDOG",
+      "orders_90d": 13,
+      "revenue_90d": 259.35,
+      "orders_7d": 3,
+      "revenue_7d": 59.85,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "WWE2RHE",
+      "orders_90d": 14,
+      "revenue_90d": 259.35,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "WWE2LIV",
+      "orders_90d": 13,
+      "revenue_90d": 259.35,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "BTMCNWI",
+      "orders_90d": 14,
+      "revenue_90d": 259.35,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "NHLSTLB",
+      "orders_90d": 14,
+      "revenue_90d": 259.35,
+      "orders_7d": 2,
+      "revenue_7d": 39.9,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "ANICLUFAC",
+      "orders_90d": 10,
+      "revenue_90d": 255.6,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "MKECDG3",
+      "orders_90d": 14,
+      "revenue_90d": 251.3,
+      "orders_7d": 2,
+      "revenue_7d": 35.9,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "MCBDKIT9",
+      "orders_90d": 12,
+      "revenue_90d": 250.91,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "BMVSMGRA",
+      "orders_90d": 9,
+      "revenue_90d": 250.55,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "MKECDG2",
+      "orders_90d": 11,
+      "revenue_90d": 250.45,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "PNUTSCO",
+      "orders_90d": 9,
+      "revenue_90d": 249.55,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "HPOTBUP",
+      "orders_90d": 12,
+      "revenue_90d": 249.4,
+      "orders_7d": 2,
+      "revenue_7d": 39.9,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "VFLA2",
+      "orders_90d": 14,
+      "revenue_90d": 249.3,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "BTAKCHA",
+      "orders_90d": 12,
+      "revenue_90d": 249.04,
+      "orders_7d": 3,
+      "revenue_7d": 59.85,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "PNUTWOD",
+      "orders_90d": 9,
+      "revenue_90d": 247.55,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "LFCCREST3",
+      "orders_90d": 11,
+      "revenue_90d": 246.36,
+      "orders_7d": 2,
+      "revenue_7d": 43.9,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "WWETBE",
+      "orders_90d": 7,
+      "revenue_90d": 244.65,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "FCBFTM2G1",
+      "orders_90d": 11,
+      "revenue_90d": 241.45,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "IMGCASUA",
+      "orders_90d": 12,
+      "revenue_90d": 239.4,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "BVRSLCOL",
+      "orders_90d": 12,
+      "revenue_90d": 239.4,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "NHLVEGG",
+      "orders_90d": 12,
+      "revenue_90d": 239.4,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "NBA2LOS",
+      "orders_90d": 9,
+      "revenue_90d": 238.55,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "CFCKIT6",
+      "orders_90d": 11,
+      "revenue_90d": 236.57,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "GCFLAGS1",
+      "orders_90d": 13,
+      "revenue_90d": 235.35,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "PNUTHAL",
+      "orders_90d": 11,
+      "revenue_90d": 233.67,
+      "orders_7d": 2,
+      "revenue_7d": 39.9,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "NHLBUFS",
+      "orders_90d": 11,
+      "revenue_90d": 231.45,
+      "orders_7d": 2,
+      "revenue_7d": 41.9,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "BTAKGRA",
+      "orders_90d": 11,
+      "revenue_90d": 231.44,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "CELTI",
+      "orders_90d": 13,
+      "revenue_90d": 231.35,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "WWE2W41",
+      "orders_90d": 7,
+      "revenue_90d": 229.65,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "LTOOFUL",
+      "orders_90d": 9,
+      "revenue_90d": 228.55,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "BVSKKEY",
+      "orders_90d": 9,
+      "revenue_90d": 228.55,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "IRONALB",
+      "orders_90d": 9,
+      "revenue_90d": 226.55,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "HPOTDH28",
+      "orders_90d": 8,
+      "revenue_90d": 224.6,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "IMGCUAL",
+      "orders_90d": 10,
+      "revenue_90d": 223.72,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "RMCFRET",
+      "orders_90d": 8,
+      "revenue_90d": 221.6,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "HATSCHA",
+      "orders_90d": 11,
+      "revenue_90d": 221.45,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "SHSANI",
+      "orders_90d": 12,
+      "revenue_90d": 221.4,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "LFCKIT25",
+      "orders_90d": 10,
+      "revenue_90d": 219.5,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "NHLNYKR",
+      "orders_90d": 11,
+      "revenue_90d": 219.45,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "DEANDOG3",
+      "orders_90d": 12,
+      "revenue_90d": 219.45,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "NHLCOLB",
+      "orders_90d": 11,
+      "revenue_90d": 219.45,
+      "orders_7d": 2,
+      "revenue_7d": 39.9,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "WWE2CRH",
+      "orders_90d": 11,
+      "revenue_90d": 219.45,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "THUNGRA",
+      "orders_90d": 11,
+      "revenue_90d": 218.18,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "PDMOBWD",
+      "orders_90d": 8,
+      "revenue_90d": 215.6,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "NARUICO",
+      "orders_90d": 10,
+      "revenue_90d": 215.5,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "NHLNYKR",
+      "orders_90d": 7,
+      "revenue_90d": 214.65,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "NHLSANJ",
+      "orders_90d": 10,
+      "revenue_90d": 213.5,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "BTMCHQG",
+      "orders_90d": 10,
+      "revenue_90d": 213.5,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "AFCCGLO",
+      "orders_90d": 8,
+      "revenue_90d": 212.65,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "WWE2CRH",
+      "orders_90d": 8,
+      "revenue_90d": 211.6,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "GTKYART",
+      "orders_90d": 7,
+      "revenue_90d": 210.65,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "PNUTSNO",
+      "orders_90d": 10,
+      "revenue_90d": 209.5,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "MCFTEAM4",
+      "orders_90d": 10,
+      "revenue_90d": 207.5,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "WWE2HUL",
+      "orders_90d": 11,
+      "revenue_90d": 207.5,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "NZOD",
+      "orders_90d": 11,
+      "revenue_90d": 207.45,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "PNUTNSW",
+      "orders_90d": 8,
+      "revenue_90d": 206.6,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "COURGRA",
+      "orders_90d": 9,
+      "revenue_90d": 205.55,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "AFCCRE",
+      "orders_90d": 7,
+      "revenue_90d": 203.65,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "WMGRATGRA",
+      "orders_90d": 9,
+      "revenue_90d": 203.55,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "IMGCVU",
+      "orders_90d": 10,
+      "revenue_90d": 203.49,
+      "orders_7d": 2,
+      "revenue_7d": 39.9,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "WWENIK",
+      "orders_90d": 10,
+      "revenue_90d": 199.5,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "BTMCVFA",
+      "orders_90d": 10,
+      "revenue_90d": 199.5,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "NHLSEAK",
+      "orders_90d": 10,
+      "revenue_90d": 199.5,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "FBRE",
+      "orders_90d": 11,
+      "revenue_90d": 199.42,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "HATSCHA",
+      "orders_90d": 8,
+      "revenue_90d": 195.6,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "TLRIFRG",
+      "orders_90d": 8,
+      "revenue_90d": 195.6,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "DRGBCHA",
+      "orders_90d": 9,
+      "revenue_90d": 193.55,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "MKECDG3",
+      "orders_90d": 8,
+      "revenue_90d": 192.6,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "CFCKIT5",
+      "orders_90d": 8,
+      "revenue_90d": 192.18,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "NHLNYKI",
+      "orders_90d": 9,
+      "revenue_90d": 191.55,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "FRNDICO2",
+      "orders_90d": 10,
+      "revenue_90d": 190.32,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "PNUTCBR",
+      "orders_90d": 7,
+      "revenue_90d": 188.65,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "BTMCHQG",
+      "orders_90d": 7,
+      "revenue_90d": 187.65,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "LFCKIT9",
+      "orders_90d": 9,
+      "revenue_90d": 186.57,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "NHLCOLB",
+      "orders_90d": 9,
+      "revenue_90d": 185.55,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "FCBFTM4",
+      "orders_90d": 9,
+      "revenue_90d": 185.55,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "SPRCFCB",
+      "orders_90d": 6,
+      "revenue_90d": 184.7,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "AIRCOC",
+      "orders_90d": 10,
+      "revenue_90d": 184.5,
+      "orders_7d": 2,
+      "revenue_7d": 39.9,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "ASTRIBL",
+      "orders_90d": 6,
+      "revenue_90d": 181.7,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "NHLWASC",
+      "orders_90d": 9,
+      "revenue_90d": 181.55,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "PNUTDDR",
+      "orders_90d": 9,
+      "revenue_90d": 179.55,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "LTOOPAT",
+      "orders_90d": 9,
+      "revenue_90d": 179.55,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "RMORS5GR",
+      "orders_90d": 9,
+      "revenue_90d": 179.55,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "UFCLOGO",
+      "orders_90d": 9,
+      "revenue_90d": 179.55,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "WWCOVIN",
+      "orders_90d": 10,
+      "revenue_90d": 179.55,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "TWDS6DD",
+      "orders_90d": 9,
+      "revenue_90d": 179.55,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "LFCCAMO",
+      "orders_90d": 9,
+      "revenue_90d": 178.55,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "IMILCKT5",
+      "orders_90d": 9,
+      "revenue_90d": 176.68,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "GTHMOTT",
+      "orders_90d": 7,
+      "revenue_90d": 175.87,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "BTMCDUA",
+      "orders_90d": 7,
+      "revenue_90d": 175.65,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "NBA2BUL",
+      "orders_90d": 8,
+      "revenue_90d": 175.6,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "AFCCKT6",
+      "orders_90d": 8,
+      "revenue_90d": 175.6,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "WWCOLOG",
+      "orders_90d": 8,
+      "revenue_90d": 174.76,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "WWETBE",
+      "orders_90d": 8,
+      "revenue_90d": 173.6,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "HATSGRA",
+      "orders_90d": 8,
+      "revenue_90d": 173.6,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "NHLEDMO",
+      "orders_90d": 8,
+      "revenue_90d": 173.6,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "HPOTPRI3",
+      "orders_90d": 6,
+      "revenue_90d": 172.7,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "RMORS3GR",
+      "orders_90d": 7,
+      "revenue_90d": 170.65,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "PBREWIL",
+      "orders_90d": 9,
+      "revenue_90d": 170.25,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "NHLCARH",
+      "orders_90d": 6,
+      "revenue_90d": 169.7,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "ZOMBGRA",
+      "orders_90d": 6,
+      "revenue_90d": 169.02,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "WWE2BLO",
+      "orders_90d": 12,
+      "revenue_90d": 169.0,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "OUTLCGRA",
+      "orders_90d": 6,
+      "revenue_90d": 168.7,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "MASS1GR",
+      "orders_90d": 7,
+      "revenue_90d": 167.65,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "CFCWCHA",
+      "orders_90d": 8,
+      "revenue_90d": 167.6,
+      "orders_7d": 2,
+      "revenue_7d": 41.9,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "BTMCROB",
+      "orders_90d": 8,
+      "revenue_90d": 167.6,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "NHLLOSK",
+      "orders_90d": 8,
+      "revenue_90d": 167.6,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "VFLA3",
+      "orders_90d": 9,
+      "revenue_90d": 167.55,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "CUSTOM",
+      "orders_90d": 9,
+      "revenue_90d": 166.55,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "GRACAPR",
+      "orders_90d": 7,
+      "revenue_90d": 165.65,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "SSQUGRA",
+      "orders_90d": 8,
+      "revenue_90d": 165.6,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "MCBAGEO",
+      "orders_90d": 8,
+      "revenue_90d": 165.6,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "IRONGRA",
+      "orders_90d": 8,
+      "revenue_90d": 165.6,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "NHLPITP",
+      "orders_90d": 5,
+      "revenue_90d": 164.75,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "WWECRHO",
+      "orders_90d": 5,
+      "revenue_90d": 163.75,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "ANICLUFAC",
+      "orders_90d": 8,
+      "revenue_90d": 163.6,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "TWDS6DD",
+      "orders_90d": 6,
+      "revenue_90d": 162.7,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "BASHCWI3",
+      "orders_90d": 11,
+      "revenue_90d": 162.17,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "BTMCRHO",
+      "orders_90d": 6,
+      "revenue_90d": 161.7,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "HATSVSI",
+      "orders_90d": 8,
+      "revenue_90d": 161.6,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "FCBGRA",
+      "orders_90d": 8,
+      "revenue_90d": 161.6,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "MASS3BLO",
+      "orders_90d": 8,
+      "revenue_90d": 159.6,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "B10AFGRA",
+      "orders_90d": 8,
+      "revenue_90d": 159.6,
+      "orders_7d": 4,
+      "revenue_7d": 79.8,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "NHLTORM",
+      "orders_90d": 8,
+      "revenue_90d": 159.6,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "IRONALB",
+      "orders_90d": 8,
+      "revenue_90d": 159.6,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "FVJAGRA",
+      "orders_90d": 8,
+      "revenue_90d": 159.6,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "DRGBCHA",
+      "orders_90d": 5,
+      "revenue_90d": 158.75,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "KEYS",
+      "orders_90d": 7,
+      "revenue_90d": 158.5,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "FNBLONDB",
+      "orders_90d": 7,
+      "revenue_90d": 157.65,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "CFCKIT",
+      "orders_90d": 7,
+      "revenue_90d": 157.15,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "OHIOLOGO",
+      "orders_90d": 7,
+      "revenue_90d": 155.87,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "BVBEKYA",
+      "orders_90d": 6,
+      "revenue_90d": 155.7,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "JFCKT24",
+      "orders_90d": 9,
+      "revenue_90d": 155.57,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "FLAME",
+      "orders_90d": 9,
+      "revenue_90d": 155.55,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "SLBCKT",
+      "orders_90d": 7,
+      "revenue_90d": 154.17,
+      "orders_7d": 2,
+      "revenue_7d": 39.9,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "RCALILL",
+      "orders_90d": 7,
+      "revenue_90d": 153.65,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "PNUTSEA",
+      "orders_90d": 7,
+      "revenue_90d": 149.79,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "WWE2ALE",
+      "orders_90d": 5,
+      "revenue_90d": 149.75,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "PNUTNSW",
+      "orders_90d": 7,
+      "revenue_90d": 149.65,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "PAIB",
+      "orders_90d": 8,
+      "revenue_90d": 148.6,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "LFCKIT4",
+      "orders_90d": 7,
+      "revenue_90d": 148.32,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "JENAANI",
+      "orders_90d": 6,
+      "revenue_90d": 147.7,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "HPOTSOR",
+      "orders_90d": 8,
+      "revenue_90d": 147.65,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "HPOTDH35",
+      "orders_90d": 6,
+      "revenue_90d": 147.22,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "OUTLTAR",
+      "orders_90d": 5,
+      "revenue_90d": 146.75,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "NHLMONC",
+      "orders_90d": 7,
+      "revenue_90d": 146.65,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "NHLNASP",
+      "orders_90d": 7,
+      "revenue_90d": 145.65,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "ASGOTHC",
+      "orders_90d": 5,
+      "revenue_90d": 144.75,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "ASDRAGO",
+      "orders_90d": 6,
+      "revenue_90d": 144.7,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "NHLSTLB",
+      "orders_90d": 5,
+      "revenue_90d": 143.75,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "PNUTSPO",
+      "orders_90d": 5,
+      "revenue_90d": 142.75,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "SHSWLD",
+      "orders_90d": 8,
+      "revenue_90d": 140.6,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "MOTLALB",
+      "orders_90d": 7,
+      "revenue_90d": 139.65,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "GTMETSIG",
+      "orders_90d": 7,
+      "revenue_90d": 139.65,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "NHLEDMO",
+      "orders_90d": 7,
+      "revenue_90d": 139.65,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "BTMCTHR",
+      "orders_90d": 7,
+      "revenue_90d": 139.65,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "WWEJHG",
+      "orders_90d": 7,
+      "revenue_90d": 139.65,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "HPOTLTYP",
+      "orders_90d": 5,
+      "revenue_90d": 137.75,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "JLGELAR",
+      "orders_90d": 7,
+      "revenue_90d": 136.65,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "WWEBWY",
+      "orders_90d": 6,
+      "revenue_90d": 136.52,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "RMORS5GR",
+      "orders_90d": 4,
+      "revenue_90d": 135.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "ELFGRA2",
+      "orders_90d": 9,
+      "revenue_90d": 132.68,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "BTACBAT",
+      "orders_90d": 7,
+      "revenue_90d": 130.5,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "PNUTMAN",
+      "orders_90d": 4,
+      "revenue_90d": 129.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "NHLVEGG",
+      "orders_90d": 4,
+      "revenue_90d": 129.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "IMGCUAAR",
+      "orders_90d": 6,
+      "revenue_90d": 129.7,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "F1309GRA",
+      "orders_90d": 6,
+      "revenue_90d": 129.7,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "WWE2ROM",
+      "orders_90d": 5,
+      "revenue_90d": 127.75,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "BUGGED",
+      "orders_90d": 6,
+      "revenue_90d": 127.7,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "LFCCRE2",
+      "orders_90d": 6,
+      "revenue_90d": 127.52,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "BTMC90TH",
+      "orders_90d": 6,
+      "revenue_90d": 125.7,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "LFCCRE1",
+      "orders_90d": 6,
+      "revenue_90d": 125.7,
+      "orders_7d": 2,
+      "revenue_7d": 43.9,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "NHLANAD",
+      "orders_90d": 6,
+      "revenue_90d": 125.7,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "HATSVSI",
+      "orders_90d": 4,
+      "revenue_90d": 124.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "TDKNKEY",
+      "orders_90d": 5,
+      "revenue_90d": 124.75,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "ALGODRA",
+      "orders_90d": 5,
+      "revenue_90d": 124.75,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "CUTESY",
+      "orders_90d": 7,
+      "revenue_90d": 124.65,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "NHLCOLB",
+      "orders_90d": 4,
+      "revenue_90d": 123.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "ASFANT2",
+      "orders_90d": 5,
+      "revenue_90d": 123.75,
+      "orders_7d": 3,
+      "revenue_7d": 74.85,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "DOGBPA4",
+      "orders_90d": 5,
+      "revenue_90d": 123.75,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "NHLTORM",
+      "orders_90d": 6,
+      "revenue_90d": 123.7,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "HPOTHLE",
+      "orders_90d": 5,
+      "revenue_90d": 123.41,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "NHLDALS",
+      "orders_90d": 4,
+      "revenue_90d": 122.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "BVBEHTE",
+      "orders_90d": 4,
+      "revenue_90d": 122.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "HPOTDH4",
+      "orders_90d": 4,
+      "revenue_90d": 122.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "RMORDUO",
+      "orders_90d": 4,
+      "revenue_90d": 121.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "BASHCWI3",
+      "orders_90d": 5,
+      "revenue_90d": 121.75,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "MASSARC",
+      "orders_90d": 5,
+      "revenue_90d": 121.75,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "TEDLS1G",
+      "orders_90d": 4,
+      "revenue_90d": 120.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "BTMCNWI",
+      "orders_90d": 5,
+      "revenue_90d": 120.75,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "LFCKIT25",
+      "orders_90d": 5,
+      "revenue_90d": 120.75,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "WWCOVIN",
+      "orders_90d": 4,
+      "revenue_90d": 119.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "FRNDICO2",
+      "orders_90d": 4,
+      "revenue_90d": 119.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "RMORS4GR",
+      "orders_90d": 4,
+      "revenue_90d": 119.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "MKECDOG",
+      "orders_90d": 5,
+      "revenue_90d": 119.75,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "JLGELOG",
+      "orders_90d": 6,
+      "revenue_90d": 119.7,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "ASSALTY",
+      "orders_90d": 6,
+      "revenue_90d": 119.7,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "TDKNGRA",
+      "orders_90d": 6,
+      "revenue_90d": 119.7,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "FCBCKT7",
+      "orders_90d": 6,
+      "revenue_90d": 119.7,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "UFCOLI",
+      "orders_90d": 6,
+      "revenue_90d": 119.7,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "NHLANAD",
+      "orders_90d": 6,
+      "revenue_90d": 119.7,
+      "orders_7d": 2,
+      "revenue_7d": 39.9,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "WWESUP8",
+      "orders_90d": 6,
+      "revenue_90d": 119.7,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "FKPQUO",
+      "orders_90d": 4,
+      "revenue_90d": 118.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "CFLAGS2",
+      "orders_90d": 6,
+      "revenue_90d": 116.7,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "ANEL2FRGR",
+      "orders_90d": 5,
+      "revenue_90d": 115.61,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "LFCLVBRD",
+      "orders_90d": 4,
+      "revenue_90d": 112.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "DEANDOG3",
+      "orders_90d": 4,
+      "revenue_90d": 112.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "GTGOSIG",
+      "orders_90d": 5,
+      "revenue_90d": 111.2,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "LTOOGCH",
+      "orders_90d": 4,
+      "revenue_90d": 110.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "TF23GRA",
+      "orders_90d": 6,
+      "revenue_90d": 110.4,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "DRGBZCAS",
+      "orders_90d": 5,
+      "revenue_90d": 109.75,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "IMGCUOKA",
+      "orders_90d": 5,
+      "revenue_90d": 109.75,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "GMORGRA",
+      "orders_90d": 5,
+      "revenue_90d": 109.75,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "AFCPHKT25",
+      "orders_90d": 5,
+      "revenue_90d": 109.75,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "TEDLS1G",
+      "orders_90d": 5,
+      "revenue_90d": 109.39,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "PDMODOG",
+      "orders_90d": 4,
+      "revenue_90d": 108.8,
+      "orders_7d": 2,
+      "revenue_7d": 59.9,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "IMGCUOK",
+      "orders_90d": 5,
+      "revenue_90d": 107.75,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "HPOTCSE3",
+      "orders_90d": 5,
+      "revenue_90d": 107.75,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "JLGELAR",
+      "orders_90d": 4,
+      "revenue_90d": 106.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "DRGBSFTR",
+      "orders_90d": 5,
+      "revenue_90d": 105.75,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "AFCCKT8",
+      "orders_90d": 6,
+      "revenue_90d": 105.75,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "RMCFURB",
+      "orders_90d": 5,
+      "revenue_90d": 105.75,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "CFCCRE",
+      "orders_90d": 5,
+      "revenue_90d": 105.75,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "BTMCVFA",
+      "orders_90d": 4,
+      "revenue_90d": 104.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "SHAM",
+      "orders_90d": 5,
+      "revenue_90d": 104.75,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "JKSTGRA",
+      "orders_90d": 4,
+      "revenue_90d": 103.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "DEANDOG",
+      "orders_90d": 4,
+      "revenue_90d": 103.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "NHLDETR",
+      "orders_90d": 4,
+      "revenue_90d": 103.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "WWE2LAK",
+      "orders_90d": 5,
+      "revenue_90d": 103.75,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "NCFCCRE",
+      "orders_90d": 5,
+      "revenue_90d": 103.75,
+      "orders_7d": 2,
+      "revenue_7d": 39.9,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "WWERREG",
+      "orders_90d": 5,
+      "revenue_90d": 101.75,
+      "orders_7d": 2,
+      "revenue_7d": 39.9,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "ARTPFLA",
+      "orders_90d": 5,
+      "revenue_90d": 101.75,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "PNUTVAR",
+      "orders_90d": 5,
+      "revenue_90d": 101.75,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "ACMCPA",
+      "orders_90d": 5,
+      "revenue_90d": 100.51,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "FCBCPA",
+      "orders_90d": 3,
+      "revenue_90d": 99.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "FCBHK8",
+      "orders_90d": 3,
+      "revenue_90d": 99.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "ASMFAN",
+      "orders_90d": 4,
+      "revenue_90d": 99.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "JLGECPO",
+      "orders_90d": 5,
+      "revenue_90d": 99.75,
+      "orders_7d": 2,
+      "revenue_7d": 39.9,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "IRONGRA",
+      "orders_90d": 5,
+      "revenue_90d": 99.75,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "IMGCLSUJ",
+      "orders_90d": 5,
+      "revenue_90d": 99.75,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "OUTLSEA",
+      "orders_90d": 5,
+      "revenue_90d": 99.75,
+      "orders_7d": 2,
+      "revenue_7d": 39.9,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "UFCOLI",
+      "orders_90d": 5,
+      "revenue_90d": 99.75,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "TTGOCHA",
+      "orders_90d": 5,
+      "revenue_90d": 99.75,
+      "orders_7d": 2,
+      "revenue_7d": 39.9,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "STEVGRA",
+      "orders_90d": 5,
+      "revenue_90d": 99.75,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "SRITANI",
+      "orders_90d": 5,
+      "revenue_90d": 99.75,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "RMORDUO",
+      "orders_90d": 5,
+      "revenue_90d": 99.75,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "F13P8GRA",
+      "orders_90d": 5,
+      "revenue_90d": 99.75,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "ASSALLO",
+      "orders_90d": 5,
+      "revenue_90d": 99.75,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "NHLMONC",
+      "orders_90d": 5,
+      "revenue_90d": 99.75,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "WIWOGRA",
+      "orders_90d": 5,
+      "revenue_90d": 99.75,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "BVAERCLA",
+      "orders_90d": 6,
+      "revenue_90d": 99.75,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "BVGUNBAR",
+      "orders_90d": 5,
+      "revenue_90d": 99.75,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "COURGRA",
+      "orders_90d": 5,
+      "revenue_90d": 99.75,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "SHSPOP",
+      "orders_90d": 5,
+      "revenue_90d": 99.75,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "NHLCARH",
+      "orders_90d": 5,
+      "revenue_90d": 99.75,
+      "orders_7d": 2,
+      "revenue_7d": 39.9,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "GTHMOTT",
+      "orders_90d": 5,
+      "revenue_90d": 99.75,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "ALGOSKU",
+      "orders_90d": 4,
+      "revenue_90d": 98.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "OUTLPOR",
+      "orders_90d": 4,
+      "revenue_90d": 97.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "WWE2LIV",
+      "orders_90d": 4,
+      "revenue_90d": 97.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "NHL24SCC",
+      "orders_90d": 3,
+      "revenue_90d": 96.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "SHELLOG",
+      "orders_90d": 4,
+      "revenue_90d": 96.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "ASSALOG",
+      "orders_90d": 4,
+      "revenue_90d": 96.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "IDLON",
+      "orders_90d": 5,
+      "revenue_90d": 96.75,
+      "orders_7d": 3,
+      "revenue_7d": 59.85,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "FKPQUO",
+      "orders_90d": 5,
+      "revenue_90d": 96.75,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "LFCPLC25",
+      "orders_90d": 5,
+      "revenue_90d": 96.75,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "THFCBAD",
+      "orders_90d": 3,
+      "revenue_90d": 95.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "ASOWLS",
+      "orders_90d": 4,
+      "revenue_90d": 95.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "AFCCKT9",
+      "orders_90d": 4,
+      "revenue_90d": 95.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "NFLLODAL",
+      "orders_90d": 4,
+      "revenue_90d": 95.76,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "TDKNGRA",
+      "orders_90d": 3,
+      "revenue_90d": 94.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "PBRENAU",
+      "orders_90d": 4,
+      "revenue_90d": 94.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "TJMOGRA",
+      "orders_90d": 3,
+      "revenue_90d": 93.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "WWE2JEY",
+      "orders_90d": 4,
+      "revenue_90d": 93.45,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "BTMCGOT",
+      "orders_90d": 3,
+      "revenue_90d": 93.02,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "HOGWGRA",
+      "orders_90d": 3,
+      "revenue_90d": 92.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "NFL4LOPHI",
+      "orders_90d": 3,
+      "revenue_90d": 91.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "CKARPHO2",
+      "orders_90d": 3,
+      "revenue_90d": 91.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "HAPUPY",
+      "orders_90d": 5,
+      "revenue_90d": 90.75,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "CBEACLA",
+      "orders_90d": 4,
+      "revenue_90d": 89.8,
+      "orders_7d": 2,
+      "revenue_7d": 49.9,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "AVLAKIT25",
+      "orders_90d": 4,
+      "revenue_90d": 89.79,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "LTOOCHA",
+      "orders_90d": 5,
+      "revenue_90d": 89.75,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "AFCCPA",
+      "orders_90d": 3,
+      "revenue_90d": 88.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "NTHOGOT",
+      "orders_90d": 3,
+      "revenue_90d": 88.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "HPOTDH2",
+      "orders_90d": 3,
+      "revenue_90d": 87.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "DRGBICO",
+      "orders_90d": 4,
+      "revenue_90d": 87.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "THFCBKT",
+      "orders_90d": 4,
+      "revenue_90d": 87.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "AVLAKIT25",
+      "orders_90d": 4,
+      "revenue_90d": 87.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "PNUTROC",
+      "orders_90d": 4,
+      "revenue_90d": 87.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "NBA2BUC",
+      "orders_90d": 4,
+      "revenue_90d": 87.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "MASHPOP",
+      "orders_90d": 4,
+      "revenue_90d": 87.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "DOGBPA2",
+      "orders_90d": 5,
+      "revenue_90d": 87.75,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "NEOR",
+      "orders_90d": 5,
+      "revenue_90d": 87.75,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "FRNDLOG",
+      "orders_90d": 4,
+      "revenue_90d": 86.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "RMCFORI",
+      "orders_90d": 3,
+      "revenue_90d": 85.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "RMCFLEG",
+      "orders_90d": 4,
+      "revenue_90d": 85.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "HPOTCSE",
+      "orders_90d": 4,
+      "revenue_90d": 85.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "DWOZGRA",
+      "orders_90d": 5,
+      "revenue_90d": 85.5,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "BTMCHUS",
+      "orders_90d": 3,
+      "revenue_90d": 84.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "WEBBCHA",
+      "orders_90d": 3,
+      "revenue_90d": 84.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "LFCCLI2",
+      "orders_90d": 3,
+      "revenue_90d": 84.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "WWE2JCEN",
+      "orders_90d": 4,
+      "revenue_90d": 84.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "THFCBKT2",
+      "orders_90d": 4,
+      "revenue_90d": 84.06,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "ASANGEL",
+      "orders_90d": 3,
+      "revenue_90d": 83.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "WWE2DOM",
+      "orders_90d": 3,
+      "revenue_90d": 83.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "HPOTPRI4",
+      "orders_90d": 3,
+      "revenue_90d": 83.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "VLTNDOG",
+      "orders_90d": 3,
+      "revenue_90d": 83.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "F13JAXGRA",
+      "orders_90d": 3,
+      "revenue_90d": 83.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "IMGCPSA",
+      "orders_90d": 4,
+      "revenue_90d": 83.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "AFCGRAF",
+      "orders_90d": 4,
+      "revenue_90d": 83.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "IMGCLSUA",
+      "orders_90d": 4,
+      "revenue_90d": 83.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "AFCFT6",
+      "orders_90d": 4,
+      "revenue_90d": 83.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "MCPHKT9",
+      "orders_90d": 7,
+      "revenue_90d": 82.97,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "MCBDKIT5",
+      "orders_90d": 6,
+      "revenue_90d": 82.2,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "SPRC80A",
+      "orders_90d": 3,
+      "revenue_90d": 81.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "WWE2NWO",
+      "orders_90d": 4,
+      "revenue_90d": 81.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "LFCLVBRD",
+      "orders_90d": 4,
+      "revenue_90d": 81.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "ASFAIRI",
+      "orders_90d": 4,
+      "revenue_90d": 81.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "BTMCHUS",
+      "orders_90d": 4,
+      "revenue_90d": 81.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "WWEJOH2",
+      "orders_90d": 5,
+      "revenue_90d": 81.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "NCFCKIT25",
+      "orders_90d": 4,
+      "revenue_90d": 81.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "WMGRATTRE",
+      "orders_90d": 4,
+      "revenue_90d": 81.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "AFA24G1",
+      "orders_90d": 3,
+      "revenue_90d": 79.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "VHIEBFD",
+      "orders_90d": 4,
+      "revenue_90d": 79.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "MCBDCAM",
+      "orders_90d": 4,
+      "revenue_90d": 79.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "PNUTADI",
+      "orders_90d": 4,
+      "revenue_90d": 79.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "TBATNEO",
+      "orders_90d": 4,
+      "revenue_90d": 79.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "GTKYART",
+      "orders_90d": 5,
+      "revenue_90d": 79.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "JLCOTTC",
+      "orders_90d": 4,
+      "revenue_90d": 79.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "BTMCICB",
+      "orders_90d": 4,
+      "revenue_90d": 79.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "WATINS",
+      "orders_90d": 4,
+      "revenue_90d": 79.8,
+      "orders_7d": 2,
+      "revenue_7d": 39.9,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "LTOOBUG",
+      "orders_90d": 4,
+      "revenue_90d": 79.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "KSENFRE2",
+      "orders_90d": 4,
+      "revenue_90d": 79.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "MCFTEAM5",
+      "orders_90d": 4,
+      "revenue_90d": 79.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "NHRAGRA",
+      "orders_90d": 4,
+      "revenue_90d": 79.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "WWOMLOG",
+      "orders_90d": 4,
+      "revenue_90d": 79.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "ANDRSEA",
+      "orders_90d": 5,
+      "revenue_90d": 79.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "BTTSLOG",
+      "orders_90d": 4,
+      "revenue_90d": 79.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "ASSAWGRA",
+      "orders_90d": 4,
+      "revenue_90d": 79.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "LFCMAR",
+      "orders_90d": 4,
+      "revenue_90d": 79.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "TGOOGRA",
+      "orders_90d": 4,
+      "revenue_90d": 79.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "WFCCRE",
+      "orders_90d": 4,
+      "revenue_90d": 79.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "ASDRAGF",
+      "orders_90d": 4,
+      "revenue_90d": 79.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "TOMCRSIC",
+      "orders_90d": 4,
+      "revenue_90d": 79.8,
+      "orders_7d": 3,
+      "revenue_7d": 59.85,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "B10OMGRA",
+      "orders_90d": 4,
+      "revenue_90d": 79.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "OUTLCGRA",
+      "orders_90d": 4,
+      "revenue_90d": 79.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "WWCOCBO",
+      "orders_90d": 4,
+      "revenue_90d": 79.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "GOTHCHA",
+      "orders_90d": 4,
+      "revenue_90d": 79.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "JKSTART",
+      "orders_90d": 4,
+      "revenue_90d": 79.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "BVGUNVIN",
+      "orders_90d": 4,
+      "revenue_90d": 79.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "BVEJART",
+      "orders_90d": 3,
+      "revenue_90d": 79.13,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "KIERRET",
+      "orders_90d": 3,
+      "revenue_90d": 78.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "NHLCOLA",
+      "orders_90d": 3,
+      "revenue_90d": 78.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "NHLTAML",
+      "orders_90d": 3,
+      "revenue_90d": 78.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "PLDSCHR",
+      "orders_90d": 3,
+      "revenue_90d": 76.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "UNION",
+      "orders_90d": 4,
+      "revenue_90d": 76.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "HPOTDHA",
+      "orders_90d": 3,
+      "revenue_90d": 74.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "COBRCUSTN",
+      "orders_90d": 3,
+      "revenue_90d": 74.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "NTHOFRS",
+      "orders_90d": 3,
+      "revenue_90d": 74.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "PLDSFPA",
+      "orders_90d": 3,
+      "revenue_90d": 74.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "SPIKANI",
+      "orders_90d": 3,
+      "revenue_90d": 74.85,
+      "orders_7d": 2,
+      "revenue_7d": 49.9,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "LFCCRE1",
+      "orders_90d": 3,
+      "revenue_90d": 74.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "VLTNAFL",
+      "orders_90d": 3,
+      "revenue_90d": 74.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "JLCO90TH",
+      "orders_90d": 3,
+      "revenue_90d": 73.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "EDBEDRA",
+      "orders_90d": 3,
+      "revenue_90d": 73.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "VFLA4",
+      "orders_90d": 4,
+      "revenue_90d": 73.8,
+      "orders_7d": 2,
+      "revenue_7d": 39.9,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "NFLLOCHI",
+      "orders_90d": 3,
+      "revenue_90d": 73.23,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "ANICLUROY",
+      "orders_90d": 3,
+      "revenue_90d": 72.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "IRONGRA",
+      "orders_90d": 3,
+      "revenue_90d": 72.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "THFCBKT4",
+      "orders_90d": 6,
+      "revenue_90d": 72.32,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "JBRAGRA",
+      "orders_90d": 3,
+      "revenue_90d": 71.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "AMBRELE",
+      "orders_90d": 3,
+      "revenue_90d": 71.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "METYRET",
+      "orders_90d": 3,
+      "revenue_90d": 71.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "BVRSKAR",
+      "orders_90d": 3,
+      "revenue_90d": 71.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "OUTLGRA",
+      "orders_90d": 3,
+      "revenue_90d": 71.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "TF23GRA",
+      "orders_90d": 3,
+      "revenue_90d": 71.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "SLAWIMM",
+      "orders_90d": 4,
+      "revenue_90d": 71.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "NCFCCKT",
+      "orders_90d": 5,
+      "revenue_90d": 71.33,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "BFILU",
+      "orders_90d": 4,
+      "revenue_90d": 70.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "TIDIEM",
+      "orders_90d": 4,
+      "revenue_90d": 70.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "WATFLO2",
+      "orders_90d": 4,
+      "revenue_90d": 70.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "SHSFUN",
+      "orders_90d": 4,
+      "revenue_90d": 70.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "CAMOHN",
+      "orders_90d": 4,
+      "revenue_90d": 70.8,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "B10ASGRA",
+      "orders_90d": 4,
+      "revenue_90d": 70.6,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "MCBDKIT7",
+      "orders_90d": 4,
+      "revenue_90d": 70.6,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "WYANANI",
+      "orders_90d": 3,
+      "revenue_90d": 69.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "NFLLOOAK",
+      "orders_90d": 3,
+      "revenue_90d": 69.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "CUSTOM",
+      "orders_90d": 3,
+      "revenue_90d": 69.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "SGATHOR",
+      "orders_90d": 3,
+      "revenue_90d": 67.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "SCFAKIT26",
+      "orders_90d": 3,
+      "revenue_90d": 67.84,
+      "orders_7d": 2,
+      "revenue_7d": 43.9,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "ASFANT",
+      "orders_90d": 3,
+      "revenue_90d": 65.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "NINOCLR",
+      "orders_90d": 3,
+      "revenue_90d": 65.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "ASDRAFR",
+      "orders_90d": 3,
+      "revenue_90d": 65.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "NHLWINJ",
+      "orders_90d": 3,
+      "revenue_90d": 65.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "RMCFLEG",
+      "orders_90d": 3,
+      "revenue_90d": 65.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "THFCBKT3",
+      "orders_90d": 4,
+      "revenue_90d": 65.84,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "AFCCKT5",
+      "orders_90d": 3,
+      "revenue_90d": 65.84,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "MCBADGE",
+      "orders_90d": 3,
+      "revenue_90d": 64.9,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "ALGOWIN",
+      "orders_90d": 3,
+      "revenue_90d": 64.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "BTMCGOT",
+      "orders_90d": 3,
+      "revenue_90d": 63.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "ACMADU",
+      "orders_90d": 3,
+      "revenue_90d": 63.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "CFCKIT3",
+      "orders_90d": 3,
+      "revenue_90d": 63.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "MOHDGRA",
+      "orders_90d": 3,
+      "revenue_90d": 63.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "AVLACKIT",
+      "orders_90d": 3,
+      "revenue_90d": 63.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "ASDRAGO",
+      "orders_90d": 3,
+      "revenue_90d": 63.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "CCOQANI",
+      "orders_90d": 3,
+      "revenue_90d": 63.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "NFLLOORL",
+      "orders_90d": 3,
+      "revenue_90d": 63.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "NFLLODAL",
+      "orders_90d": 3,
+      "revenue_90d": 63.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "ASOWLS",
+      "orders_90d": 3,
+      "revenue_90d": 61.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "WWEFSU",
+      "orders_90d": 3,
+      "revenue_90d": 61.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "ASMYTCR",
+      "orders_90d": 3,
+      "revenue_90d": 61.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "SGATANI2",
+      "orders_90d": 3,
+      "revenue_90d": 61.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "JFCRKT3",
+      "orders_90d": 3,
+      "revenue_90d": 61.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "HPOTDH3",
+      "orders_90d": 3,
+      "revenue_90d": 61.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "WWESTE",
+      "orders_90d": 3,
+      "revenue_90d": 61.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "SLBCRE",
+      "orders_90d": 3,
+      "revenue_90d": 59.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "IRONTOU",
+      "orders_90d": 3,
+      "revenue_90d": 59.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "BWPAT",
+      "orders_90d": 3,
+      "revenue_90d": 59.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "F13P3KEY",
+      "orders_90d": 3,
+      "revenue_90d": 59.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "F13P4KEY",
+      "orders_90d": 3,
+      "revenue_90d": 59.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "PNUTEAS",
+      "orders_90d": 3,
+      "revenue_90d": 59.85,
+      "orders_7d": 2,
+      "revenue_7d": 39.9,
+      "velocity": "accelerating"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "ASSABFL",
+      "orders_90d": 3,
+      "revenue_90d": 59.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "PLLIGRA",
+      "orders_90d": 3,
+      "revenue_90d": 59.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "JBOOMIX",
+      "orders_90d": 3,
+      "revenue_90d": 59.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "CELTI",
+      "orders_90d": 3,
+      "revenue_90d": 59.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "PNUTSPO",
+      "orders_90d": 3,
+      "revenue_90d": 59.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "BEETGRA",
+      "orders_90d": 3,
+      "revenue_90d": 59.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "NHL22SCC3",
+      "orders_90d": 3,
+      "revenue_90d": 59.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "THBBKEY",
+      "orders_90d": 3,
+      "revenue_90d": 59.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "FRAZFAN",
+      "orders_90d": 3,
+      "revenue_90d": 59.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "ITC2POS",
+      "orders_90d": 3,
+      "revenue_90d": 59.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "ASSALOG",
+      "orders_90d": 3,
+      "revenue_90d": 59.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "NHLARIC",
+      "orders_90d": 3,
+      "revenue_90d": 59.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "TWDRGLE",
+      "orders_90d": 3,
+      "revenue_90d": 59.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "TNGAART",
+      "orders_90d": 3,
+      "revenue_90d": 59.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "IMGCAUJE",
+      "orders_90d": 3,
+      "revenue_90d": 59.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "ANDRANI",
+      "orders_90d": 4,
+      "revenue_90d": 59.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "COBRKEY",
+      "orders_90d": 3,
+      "revenue_90d": 59.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "ANDRASS",
+      "orders_90d": 3,
+      "revenue_90d": 59.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "ASANGEL",
+      "orders_90d": 3,
+      "revenue_90d": 59.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "NFLSHLD",
+      "orders_90d": 3,
+      "revenue_90d": 59.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "MCBPIXE",
+      "orders_90d": 3,
+      "revenue_90d": 59.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "SPJAGRA",
+      "orders_90d": 3,
+      "revenue_90d": 59.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "JLCOOTH",
+      "orders_90d": 3,
+      "revenue_90d": 59.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "TFTSLOG",
+      "orders_90d": 3,
+      "revenue_90d": 59.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "TJOKCHA",
+      "orders_90d": 3,
+      "revenue_90d": 59.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "TWDS7FIL",
+      "orders_90d": 3,
+      "revenue_90d": 59.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "NFLLOSSE",
+      "orders_90d": 3,
+      "revenue_90d": 59.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "ANICLUEBU",
+      "orders_90d": 3,
+      "revenue_90d": 59.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "WWOMPOS",
+      "orders_90d": 3,
+      "revenue_90d": 59.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "AVLACRE",
+      "orders_90d": 3,
+      "revenue_90d": 59.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "OUTLTAR",
+      "orders_90d": 4,
+      "revenue_90d": 59.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "HPOTCSE4",
+      "orders_90d": 3,
+      "revenue_90d": 59.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "WMGRATGRA",
+      "orders_90d": 3,
+      "revenue_90d": 59.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "ASWOLVS",
+      "orders_90d": 3,
+      "revenue_90d": 59.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "TLRITTC",
+      "orders_90d": 3,
+      "revenue_90d": 59.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "ASMFAN",
+      "orders_90d": 3,
+      "revenue_90d": 59.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "LFCCLP2",
+      "orders_90d": 3,
+      "revenue_90d": 59.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "IRONART",
+      "orders_90d": 3,
+      "revenue_90d": 59.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "TWDSILH",
+      "orders_90d": 3,
+      "revenue_90d": 59.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "WMTMOGRA",
+      "orders_90d": 3,
+      "revenue_90d": 59.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "WWEUGRA",
+      "orders_90d": 3,
+      "revenue_90d": 59.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HB401",
+      "design_code": "GTKYART",
+      "orders_90d": 3,
+      "revenue_90d": 59.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "BVARIDW",
+      "orders_90d": 3,
+      "revenue_90d": 59.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "GTDDSIG",
+      "orders_90d": 3,
+      "revenue_90d": 59.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "OUTLPOR",
+      "orders_90d": 3,
+      "revenue_90d": 59.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "BTMCTDK",
+      "orders_90d": 3,
+      "revenue_90d": 59.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "HPOTDHA",
+      "orders_90d": 3,
+      "revenue_90d": 59.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "KAYOAFA",
+      "orders_90d": 3,
+      "revenue_90d": 59.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "ANDRBIR",
+      "orders_90d": 3,
+      "revenue_90d": 59.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "HPOTDEMK",
+      "orders_90d": 3,
+      "revenue_90d": 57.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "IGYPT",
+      "orders_90d": 3,
+      "revenue_90d": 56.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "NORLI",
+      "orders_90d": 3,
+      "revenue_90d": 56.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "BVBSABKEY",
+      "orders_90d": 3,
+      "revenue_90d": 56.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "TOMJCOL",
+      "orders_90d": 3,
+      "revenue_90d": 56.75,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "TWDS10CPO",
+      "orders_90d": 3,
+      "revenue_90d": 54.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "FRUIP",
+      "orders_90d": 3,
+      "revenue_90d": 53.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "EVIL",
+      "orders_90d": 3,
+      "revenue_90d": 53.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "MFEUPAT2",
+      "orders_90d": 3,
+      "revenue_90d": 53.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "SPRCCHA",
+      "orders_90d": 3,
+      "revenue_90d": 51.9,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "WFCKT9",
+      "orders_90d": 4,
+      "revenue_90d": 51.7,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "BANANA",
+      "orders_90d": 3,
+      "revenue_90d": 50.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "KDUCK",
+      "orders_90d": 3,
+      "revenue_90d": 50.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "WINPR",
+      "orders_90d": 3,
+      "revenue_90d": 50.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "YINY",
+      "orders_90d": 3,
+      "revenue_90d": 50.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "LFCPHK9",
+      "orders_90d": 3,
+      "revenue_90d": 50.49,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "WMGOJIGRA",
+      "orders_90d": 3,
+      "revenue_90d": 49.85,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HLBWH",
+      "design_code": "GLSUZART",
+      "orders_90d": 3,
+      "revenue_90d": 47.9,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "ACHRCOM",
+      "orders_90d": 3,
+      "revenue_90d": 41.22,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "HPOTDH22",
+      "orders_90d": 3,
+      "revenue_90d": 39.9,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "HPOTDH32",
+      "orders_90d": 3,
+      "revenue_90d": 39.9,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "AVLAHK1T25",
+      "orders_90d": 3,
+      "revenue_90d": 19.95,
+      "orders_7d": 0,
+      "revenue_7d": 0,
+      "velocity": "stable"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "SGATLIF",
+      "orders_90d": 0,
+      "revenue_90d": 0,
+      "orders_7d": 2,
+      "revenue_7d": 35.9,
+      "velocity": "new"
+    },
+    {
+      "product_type": "HTPCR",
+      "design_code": "PLDSSCO",
+      "orders_90d": 0,
+      "revenue_90d": 0,
+      "orders_7d": 2,
+      "revenue_7d": 35.9,
+      "velocity": "new"
+    }
+  ],
+  "product_types": [
+    "HTPCR",
+    "HB401",
+    "HLBWH",
+    "HB6",
+    "HB7"
+  ],
+  "generated": "2026-03-15",
+  "region": "US"
+}

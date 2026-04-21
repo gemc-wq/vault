@@ -1,0 +1,51 @@
+{
+  "eod_reporters": {
+    "creative": {
+      "U09SWRKLM42": {"name": "Nesley Joy Lansangan", "role": "Creative Team"},
+      "U09T0CT5ERJ": {"name": "Nina Joy Ganaban", "role": "Creative Team"},
+      "U09SRSB5VMK": {"name": "Bettina Pineda", "role": "Creative Manager (Bea)"}
+    },
+    "graphics": {
+      "U09TM9C0VDG": {"name": "Danica Matias", "role": "Graphics Team"},
+      "U09T5RFR231": {"name": "Jay V. Callanta", "role": "Graphics Team"},
+      "U09TM9CULHG": {"name": "Jessie Morales", "role": "Graphics Team (posts for others?)"}
+    },
+    "listings": {
+      "U0A58JVNF8Q": {"name": "Chadle Rei Miclat", "role": "Listings Team"},
+      "U09U760HBL1": {"name": "Mariela Razon", "role": "Listings Team"},
+      "U0AJ0K2F2VA": {"name": "Patricia Shane Celeste", "role": "Listings Team"},
+      "U0AJR9CN680": {"name": "Evita Margaux Carlos", "role": "Listings Team"},
+      "U09TPK32CAC": {"name": "Jay Mark Catacutan", "role": "Listings Lead"}
+    },
+    "production": {
+      "U09SVA2CE2E": {"name": "Jae Vitug", "role": "Production Manager"},
+      "U0A18GAH1U7": {"name": "Chris Yunun", "role": "Warehouse/Production"}
+    },
+    "customer_service": {
+      "U09SZCH1XNK": {"name": "Analiza Peralta", "role": "CS Manager"},
+      "U09SZCFT3AB": {"name": "Cris Guintu", "role": "CS Asst Manager"}
+    },
+    "management": {
+      "U09SYGZ45A8": {"name": "Cem", "role": "CEO"},
+      "U0A80H1BYG3": {"name": "Murat", "role": "Director"},
+      "U0AJ9TSN3UH": {"name": "T Celikkol", "role": "Tim - Director"},
+      "U09SYSQV9NG": {"name": "Anthony", "role": "UK"},
+      "U09SYSS3QKE": {"name": "Dan", "role": "UK"}
+    },
+    "other": {
+      "U09SNTQAB8T": {"name": "Chris Rueda", "role": "US"},
+      "U09ST8M24AJ": {"name": "Drew Ramos", "role": "US"},
+      "U09T0CN8A3E": {"name": "Jeffrey Mangilit", "role": "PH"},
+      "U09TQSP4BJR": {"name": "Arcely Gomez", "role": "PH"},
+      "U09TR561GRW": {"name": "Ric", "role": "PH"},
+      "U0AGZ6QKJVA": {"name": "K Belena", "role": "TBD"},
+      "U0A1N1TSKFY": {"name": "J Maldonado", "role": "TBD"}
+    }
+  },
+  "channels": {
+    "C0AHQJK60NP": "#eod-creative-graphics",
+    "C0AHUUGJK7G": "#eod-listings",
+    "C09T8A2P2HX": "#eod"
+  },
+  "last_updated": "2026-03-08"
+}

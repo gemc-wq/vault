@@ -1,0 +1,1402 @@
+[
+  {
+    "design_code": "NARUICO",
+    "device_count": "60",
+    "order_count": "913",
+    "revenue": "20270.69",
+    "variant_count": "11"
+  },
+  {
+    "design_code": "PNUTBOA",
+    "device_count": "54",
+    "order_count": "566",
+    "revenue": "12907.37",
+    "variant_count": "7"
+  },
+  {
+    "design_code": "DRGBSUSC",
+    "device_count": "54",
+    "order_count": "574",
+    "revenue": "12841.11",
+    "variant_count": "5"
+  },
+  {
+    "design_code": "NARUCHA",
+    "device_count": "56",
+    "order_count": "544",
+    "revenue": "12161.17",
+    "variant_count": "8"
+  },
+  {
+    "design_code": "PNUTCHA",
+    "device_count": "69",
+    "order_count": "525",
+    "revenue": "12082.75",
+    "variant_count": "10"
+  },
+  {
+    "design_code": "PNUTHAL",
+    "device_count": "50",
+    "order_count": "514",
+    "revenue": "11927.0",
+    "variant_count": "14"
+  },
+  {
+    "design_code": "HPOTDH37",
+    "device_count": "59",
+    "order_count": "500",
+    "revenue": "11920.72",
+    "variant_count": "9"
+  },
+  {
+    "design_code": "OHIOLOGO",
+    "device_count": "42",
+    "order_count": "352",
+    "revenue": "7408.78",
+    "variant_count": "13"
+  },
+  {
+    "design_code": "GMORGRA",
+    "device_count": "40",
+    "order_count": "278",
+    "revenue": "6498.27",
+    "variant_count": "2"
+  },
+  {
+    "design_code": "HATSGRA",
+    "device_count": "57",
+    "order_count": "282",
+    "revenue": "6067.84",
+    "variant_count": "10"
+  },
+  {
+    "design_code": "HPOTDH13",
+    "device_count": "48",
+    "order_count": "269",
+    "revenue": "5965.38",
+    "variant_count": "6"
+  },
+  {
+    "design_code": "IMGCUAL",
+    "device_count": "46",
+    "order_count": "274",
+    "revenue": "5786.62",
+    "variant_count": "13"
+  },
+  {
+    "design_code": "FCBCKT8",
+    "device_count": "41",
+    "order_count": "242",
+    "revenue": "5746.65",
+    "variant_count": "3"
+  },
+  {
+    "design_code": "PNUTBBU",
+    "device_count": "44",
+    "order_count": "229",
+    "revenue": "5106.95",
+    "variant_count": "6"
+  },
+  {
+    "design_code": "RMCFKIT25",
+    "device_count": "32",
+    "order_count": "218",
+    "revenue": "5029.41",
+    "variant_count": "3"
+  },
+  {
+    "design_code": "BTMCHUS",
+    "device_count": "35",
+    "order_count": "181",
+    "revenue": "4137.31",
+    "variant_count": "6"
+  },
+  {
+    "design_code": "FCBKIT25",
+    "device_count": "44",
+    "order_count": "194",
+    "revenue": "4104.8",
+    "variant_count": "2"
+  },
+  {
+    "design_code": "PNUTORI",
+    "device_count": "40",
+    "order_count": "182",
+    "revenue": "4040.8",
+    "variant_count": "10"
+  },
+  {
+    "design_code": "WMGRATTRE",
+    "device_count": "41",
+    "order_count": "182",
+    "revenue": "3893.74",
+    "variant_count": "7"
+  },
+  {
+    "design_code": "IMGCUAAR",
+    "device_count": "37",
+    "order_count": "171",
+    "revenue": "3695.5",
+    "variant_count": "9"
+  },
+  {
+    "design_code": "HPOTPRI2",
+    "device_count": "42",
+    "order_count": "153",
+    "revenue": "3601.33",
+    "variant_count": "7"
+  },
+  {
+    "design_code": "ADVEGRA",
+    "device_count": "35",
+    "order_count": "167",
+    "revenue": "3600.36",
+    "variant_count": "5"
+  },
+  {
+    "design_code": "IMGCUOK",
+    "device_count": "39",
+    "order_count": "149",
+    "revenue": "3432.78",
+    "variant_count": "14"
+  },
+  {
+    "design_code": "PNUTSCO",
+    "device_count": "36",
+    "order_count": "155",
+    "revenue": "3422.01",
+    "variant_count": "6"
+  },
+  {
+    "design_code": "PNUTDDR",
+    "device_count": "41",
+    "order_count": "152",
+    "revenue": "3343.27",
+    "variant_count": "6"
+  },
+  {
+    "design_code": "NARUKEY",
+    "device_count": "35",
+    "order_count": "145",
+    "revenue": "3007.8",
+    "variant_count": "9"
+  },
+  {
+    "design_code": "WWE2JEY",
+    "device_count": "35",
+    "order_count": "144",
+    "revenue": "2958.99",
+    "variant_count": "3"
+  },
+  {
+    "design_code": "FCBPHKT25",
+    "device_count": "39",
+    "order_count": "135",
+    "revenue": "2911.3",
+    "variant_count": "5"
+  },
+  {
+    "design_code": "BVBEKYA",
+    "device_count": "28",
+    "order_count": "146",
+    "revenue": "2872.71",
+    "variant_count": "5"
+  },
+  {
+    "design_code": "WWE2RHE",
+    "device_count": "39",
+    "order_count": "135",
+    "revenue": "2737.66",
+    "variant_count": "3"
+  },
+  {
+    "design_code": "FCBCPA",
+    "device_count": "29",
+    "order_count": "118",
+    "revenue": "2667.01",
+    "variant_count": "5"
+  },
+  {
+    "design_code": "IMGCLSU",
+    "device_count": "30",
+    "order_count": "122",
+    "revenue": "2652.1",
+    "variant_count": "13"
+  },
+  {
+    "design_code": "BTMCLOG",
+    "device_count": "31",
+    "order_count": "116",
+    "revenue": "2567.18",
+    "variant_count": "15"
+  },
+  {
+    "design_code": "RMCFRET",
+    "device_count": "34",
+    "order_count": "108",
+    "revenue": "2544.44",
+    "variant_count": "2"
+  },
+  {
+    "design_code": "PPUFGRA",
+    "device_count": "32",
+    "order_count": "127",
+    "revenue": "2534.23",
+    "variant_count": "5"
+  },
+  {
+    "design_code": "SPRCCOM",
+    "device_count": "32",
+    "order_count": "109",
+    "revenue": "2351.18",
+    "variant_count": "4"
+  },
+  {
+    "design_code": "PNUTWOD",
+    "device_count": "23",
+    "order_count": "103",
+    "revenue": "2299.53",
+    "variant_count": "8"
+  },
+  {
+    "design_code": "NHLBOSB",
+    "device_count": "34",
+    "order_count": "105",
+    "revenue": "2281.33",
+    "variant_count": "9"
+  },
+  {
+    "design_code": "HPOTSOR2",
+    "device_count": "29",
+    "order_count": "101",
+    "revenue": "2230.22",
+    "variant_count": "5"
+  },
+  {
+    "design_code": "SCDO50T",
+    "device_count": "27",
+    "order_count": "92",
+    "revenue": "2068.53",
+    "variant_count": "4"
+  },
+  {
+    "design_code": "SUPNKEY",
+    "device_count": "34",
+    "order_count": "96",
+    "revenue": "1973.52",
+    "variant_count": "4"
+  },
+  {
+    "design_code": "SPRCLOG",
+    "device_count": "25",
+    "order_count": "86",
+    "revenue": "1906.57",
+    "variant_count": "7"
+  },
+  {
+    "design_code": "WWE2W41",
+    "device_count": "28",
+    "order_count": "93",
+    "revenue": "1881.24",
+    "variant_count": "1"
+  },
+  {
+    "design_code": "OHIOFLOG",
+    "device_count": "33",
+    "order_count": "89",
+    "revenue": "1816.46",
+    "variant_count": "5"
+  },
+  {
+    "design_code": "DRGBSUSA",
+    "device_count": "27",
+    "order_count": "84",
+    "revenue": "1749.44",
+    "variant_count": "3"
+  },
+  {
+    "design_code": "RMCFURB",
+    "device_count": "32",
+    "order_count": "79",
+    "revenue": "1742.04",
+    "variant_count": "6"
+  },
+  {
+    "design_code": "DRGBCHA",
+    "device_count": "29",
+    "order_count": "87",
+    "revenue": "1725.75",
+    "variant_count": "4"
+  },
+  {
+    "design_code": "IMGCPSU",
+    "device_count": "31",
+    "order_count": "81",
+    "revenue": "1722.3",
+    "variant_count": "13"
+  },
+  {
+    "design_code": "NBA2WAR",
+    "device_count": "24",
+    "order_count": "79",
+    "revenue": "1720.04",
+    "variant_count": "12"
+  },
+  {
+    "design_code": "WWE2CRH",
+    "device_count": "33",
+    "order_count": "96",
+    "revenue": "1702.2",
+    "variant_count": "5"
+  },
+  {
+    "design_code": "MCBDKIT25",
+    "device_count": "34",
+    "order_count": "75",
+    "revenue": "1602.3",
+    "variant_count": "3"
+  },
+  {
+    "design_code": "FCBFTM2G1",
+    "device_count": "21",
+    "order_count": "69",
+    "revenue": "1547.38",
+    "variant_count": "2"
+  },
+  {
+    "design_code": "HPOTLTYP",
+    "device_count": "30",
+    "order_count": "69",
+    "revenue": "1474.8",
+    "variant_count": "7"
+  },
+  {
+    "design_code": "NBA2LOS",
+    "device_count": "26",
+    "order_count": "68",
+    "revenue": "1464.6",
+    "variant_count": "14"
+  },
+  {
+    "design_code": "IMGCPSA",
+    "device_count": "32",
+    "order_count": "72",
+    "revenue": "1460.29",
+    "variant_count": "7"
+  },
+  {
+    "design_code": "PNUTAPO",
+    "device_count": "26",
+    "order_count": "66",
+    "revenue": "1430.76",
+    "variant_count": "5"
+  },
+  {
+    "design_code": "IMGCFSU",
+    "device_count": "20",
+    "order_count": "72",
+    "revenue": "1395.12",
+    "variant_count": "12"
+  },
+  {
+    "design_code": "PNUTT21",
+    "device_count": "16",
+    "order_count": "64",
+    "revenue": "1382.67",
+    "variant_count": "4"
+  },
+  {
+    "design_code": "HPOTDH14",
+    "device_count": "30",
+    "order_count": "65",
+    "revenue": "1311.72",
+    "variant_count": "8"
+  },
+  {
+    "design_code": "PNUTADI",
+    "device_count": "24",
+    "order_count": "59",
+    "revenue": "1303.98",
+    "variant_count": "6"
+  },
+  {
+    "design_code": "IT17GRA",
+    "device_count": "28",
+    "order_count": "63",
+    "revenue": "1292.64",
+    "variant_count": "4"
+  },
+  {
+    "design_code": "WWE2ROM",
+    "device_count": "28",
+    "order_count": "68",
+    "revenue": "1244.16",
+    "variant_count": "5"
+  },
+  {
+    "design_code": "HPOTDH9",
+    "device_count": "28",
+    "order_count": "59",
+    "revenue": "1222.08",
+    "variant_count": "5"
+  },
+  {
+    "design_code": "NHLNYKR",
+    "device_count": "21",
+    "order_count": "56",
+    "revenue": "1216.31",
+    "variant_count": "8"
+  },
+  {
+    "design_code": "NBA2CEL",
+    "device_count": "28",
+    "order_count": "57",
+    "revenue": "1214.2",
+    "variant_count": "13"
+  },
+  {
+    "design_code": "NBA2NKN",
+    "device_count": "20",
+    "order_count": "57",
+    "revenue": "1209.19",
+    "variant_count": "13"
+  },
+  {
+    "design_code": "BVBEHTE",
+    "device_count": "26",
+    "order_count": "60",
+    "revenue": "1187.0",
+    "variant_count": "2"
+  },
+  {
+    "design_code": "IMGCLSUA",
+    "device_count": "26",
+    "order_count": "59",
+    "revenue": "1145.46",
+    "variant_count": "7"
+  },
+  {
+    "design_code": "TDKNKEY",
+    "device_count": "19",
+    "order_count": "56",
+    "revenue": "1138.89",
+    "variant_count": "4"
+  },
+  {
+    "design_code": "CFCCRE",
+    "device_count": "18",
+    "order_count": "52",
+    "revenue": "1127.52",
+    "variant_count": "8"
+  },
+  {
+    "design_code": "BTMCICB",
+    "device_count": "26",
+    "order_count": "50",
+    "revenue": "1083.61",
+    "variant_count": "12"
+  },
+  {
+    "design_code": "IMGCUTK",
+    "device_count": "11",
+    "order_count": "52",
+    "revenue": "1081.01",
+    "variant_count": "13"
+  },
+  {
+    "design_code": "WWE2LIV",
+    "device_count": "23",
+    "order_count": "59",
+    "revenue": "1077.93",
+    "variant_count": "3"
+  },
+  {
+    "design_code": "LFCDCA",
+    "device_count": "22",
+    "order_count": "50",
+    "revenue": "1077.54",
+    "variant_count": "6"
+  },
+  {
+    "design_code": "PNUTMAN",
+    "device_count": "25",
+    "order_count": "51",
+    "revenue": "1063.44",
+    "variant_count": "5"
+  },
+  {
+    "design_code": "BALL",
+    "device_count": "18",
+    "order_count": "53",
+    "revenue": "1056.77",
+    "variant_count": "6"
+  },
+  {
+    "design_code": "AFCKIT25",
+    "device_count": "20",
+    "order_count": "48",
+    "revenue": "1043.42",
+    "variant_count": "3"
+  },
+  {
+    "design_code": "WWE2CMP",
+    "device_count": "26",
+    "order_count": "63",
+    "revenue": "1036.07",
+    "variant_count": "3"
+  },
+  {
+    "design_code": "FRNDICO",
+    "device_count": "23",
+    "order_count": "49",
+    "revenue": "1031.48",
+    "variant_count": "6"
+  },
+  {
+    "design_code": "FCBCKT7",
+    "device_count": "12",
+    "order_count": "43",
+    "revenue": "1025.55",
+    "variant_count": "2"
+  },
+  {
+    "design_code": "SCDOSCO",
+    "device_count": "30",
+    "order_count": "47",
+    "revenue": "980.65",
+    "variant_count": "4"
+  },
+  {
+    "design_code": "LFCLVBRD",
+    "device_count": "21",
+    "order_count": "47",
+    "revenue": "970.72",
+    "variant_count": "11"
+  },
+  {
+    "design_code": "AFCCRE",
+    "device_count": "15",
+    "order_count": "46",
+    "revenue": "946.95",
+    "variant_count": "8"
+  },
+  {
+    "design_code": "LFCKIT25",
+    "device_count": "17",
+    "order_count": "44",
+    "revenue": "944.77",
+    "variant_count": "3"
+  },
+  {
+    "design_code": "WWE2JCEN",
+    "device_count": "22",
+    "order_count": "45",
+    "revenue": "929.75",
+    "variant_count": "3"
+  },
+  {
+    "design_code": "DRGBZCAS",
+    "device_count": "22",
+    "order_count": "45",
+    "revenue": "926.74",
+    "variant_count": "5"
+  },
+  {
+    "design_code": "PNUTROC",
+    "device_count": "25",
+    "order_count": "42",
+    "revenue": "915.23",
+    "variant_count": "3"
+  },
+  {
+    "design_code": "AFA24G1",
+    "device_count": "20",
+    "order_count": "44",
+    "revenue": "907.85",
+    "variant_count": "1"
+  },
+  {
+    "design_code": "IMGCUOKA",
+    "device_count": "17",
+    "order_count": "42",
+    "revenue": "882.14",
+    "variant_count": "7"
+  },
+  {
+    "design_code": "RMORS1N2",
+    "device_count": "15",
+    "order_count": "45",
+    "revenue": "856.8",
+    "variant_count": "4"
+  },
+  {
+    "design_code": "WWESUP",
+    "device_count": "19",
+    "order_count": "41",
+    "revenue": "839.95",
+    "variant_count": "5"
+  },
+  {
+    "design_code": "IRONALB",
+    "device_count": "23",
+    "order_count": "40",
+    "revenue": "826.0",
+    "variant_count": "9"
+  },
+  {
+    "design_code": "CFCKIT25",
+    "device_count": "17",
+    "order_count": "38",
+    "revenue": "822.9",
+    "variant_count": "4"
+  },
+  {
+    "design_code": "DRGBSFTR",
+    "device_count": "18",
+    "order_count": "37",
+    "revenue": "810.15",
+    "variant_count": "3"
+  },
+  {
+    "design_code": "BTMCFCB",
+    "device_count": "18",
+    "order_count": "38",
+    "revenue": "790.1",
+    "variant_count": "7"
+  },
+  {
+    "design_code": "LTOOGCH",
+    "device_count": "13",
+    "order_count": "38",
+    "revenue": "787.1",
+    "variant_count": "5"
+  },
+  {
+    "design_code": "SHELCAR",
+    "device_count": "16",
+    "order_count": "40",
+    "revenue": "778.1",
+    "variant_count": "9"
+  },
+  {
+    "design_code": "TLRIFRG",
+    "device_count": "19",
+    "order_count": "37",
+    "revenue": "776.15",
+    "variant_count": "4"
+  },
+  {
+    "design_code": "AFCCPA",
+    "device_count": "16",
+    "order_count": "37",
+    "revenue": "770.14",
+    "variant_count": "7"
+  },
+  {
+    "design_code": "WWE2TBE",
+    "device_count": "16",
+    "order_count": "38",
+    "revenue": "762.1",
+    "variant_count": "3"
+  },
+  {
+    "design_code": "AFCCGLO",
+    "device_count": "15",
+    "order_count": "35",
+    "revenue": "758.69",
+    "variant_count": "4"
+  },
+  {
+    "design_code": "BTMCTHR",
+    "device_count": "17",
+    "order_count": "37",
+    "revenue": "758.13",
+    "variant_count": "4"
+  },
+  {
+    "design_code": "PNUTCBR",
+    "device_count": "17",
+    "order_count": "35",
+    "revenue": "755.46",
+    "variant_count": "6"
+  },
+  {
+    "design_code": "AFCLOGOS",
+    "device_count": "21",
+    "order_count": "35",
+    "revenue": "748.22",
+    "variant_count": "7"
+  },
+  {
+    "design_code": "HPOTDH8",
+    "device_count": "16",
+    "order_count": "36",
+    "revenue": "729.52",
+    "variant_count": "7"
+  },
+  {
+    "design_code": "BTMCVFA",
+    "device_count": "9",
+    "order_count": "28",
+    "revenue": "693.92",
+    "variant_count": "1"
+  },
+  {
+    "design_code": "IRONART",
+    "device_count": "19",
+    "order_count": "33",
+    "revenue": "691.35",
+    "variant_count": "5"
+  },
+  {
+    "design_code": "NHLTAML",
+    "device_count": "18",
+    "order_count": "31",
+    "revenue": "653.45",
+    "variant_count": "9"
+  },
+  {
+    "design_code": "RMORS3GR",
+    "device_count": "18",
+    "order_count": "31",
+    "revenue": "638.05",
+    "variant_count": "4"
+  },
+  {
+    "design_code": "AFCCKT9",
+    "device_count": "17",
+    "order_count": "33",
+    "revenue": "627.95",
+    "variant_count": "3"
+  },
+  {
+    "design_code": "UFCLOGO",
+    "device_count": "12",
+    "order_count": "29",
+    "revenue": "619.56",
+    "variant_count": "5"
+  },
+  {
+    "design_code": "FLAG",
+    "device_count": "23",
+    "order_count": "34",
+    "revenue": "611.3",
+    "variant_count": "12"
+  },
+  {
+    "design_code": "WWE2BRY",
+    "device_count": "22",
+    "order_count": "38",
+    "revenue": "588.5",
+    "variant_count": "2"
+  },
+  {
+    "design_code": "NHLPITP",
+    "device_count": "10",
+    "order_count": "28",
+    "revenue": "575.35",
+    "variant_count": "7"
+  },
+  {
+    "design_code": "AFCCKT7",
+    "device_count": "16",
+    "order_count": "27",
+    "revenue": "569.18",
+    "variant_count": "2"
+  },
+  {
+    "design_code": "SHSDOG",
+    "device_count": "18",
+    "order_count": "31",
+    "revenue": "561.45",
+    "variant_count": "12"
+  },
+  {
+    "design_code": "RMCFORI",
+    "device_count": "12",
+    "order_count": "27",
+    "revenue": "558.7",
+    "variant_count": "6"
+  },
+  {
+    "design_code": "IMGCUTAR",
+    "device_count": "10",
+    "order_count": "23",
+    "revenue": "543.0",
+    "variant_count": "8"
+  },
+  {
+    "design_code": "NHLPHIF",
+    "device_count": "14",
+    "order_count": "28",
+    "revenue": "542.69",
+    "variant_count": "8"
+  },
+  {
+    "design_code": "NHLDETR",
+    "device_count": "12",
+    "order_count": "25",
+    "revenue": "536.75",
+    "variant_count": "7"
+  },
+  {
+    "design_code": "CORPKEY",
+    "device_count": "16",
+    "order_count": "27",
+    "revenue": "514.33",
+    "variant_count": "5"
+  },
+  {
+    "design_code": "FCBCRE",
+    "device_count": "15",
+    "order_count": "26",
+    "revenue": "512.7",
+    "variant_count": "5"
+  },
+  {
+    "design_code": "THFCBAD",
+    "device_count": "12",
+    "order_count": "24",
+    "revenue": "504.79",
+    "variant_count": "9"
+  },
+  {
+    "design_code": "SHELLOG",
+    "device_count": "12",
+    "order_count": "26",
+    "revenue": "498.75",
+    "variant_count": "10"
+  },
+  {
+    "design_code": "CFCRETKS",
+    "device_count": "11",
+    "order_count": "23",
+    "revenue": "489.83",
+    "variant_count": "5"
+  },
+  {
+    "design_code": "MCBADGE",
+    "device_count": "8",
+    "order_count": "22",
+    "revenue": "483.88",
+    "variant_count": "5"
+  },
+  {
+    "design_code": "NHLCOLA",
+    "device_count": "12",
+    "order_count": "23",
+    "revenue": "477.58",
+    "variant_count": "6"
+  },
+  {
+    "design_code": "FCBCKT6",
+    "device_count": "12",
+    "order_count": "23",
+    "revenue": "475.09",
+    "variant_count": "2"
+  },
+  {
+    "design_code": "NHLSTLB",
+    "device_count": "11",
+    "order_count": "23",
+    "revenue": "468.9",
+    "variant_count": "6"
+  },
+  {
+    "design_code": "SCDOMYS",
+    "device_count": "12",
+    "order_count": "22",
+    "revenue": "464.9",
+    "variant_count": "5"
+  },
+  {
+    "design_code": "NHLVEGG",
+    "device_count": "11",
+    "order_count": "22",
+    "revenue": "454.9",
+    "variant_count": "7"
+  },
+  {
+    "design_code": "BTMCCBCO",
+    "device_count": "7",
+    "order_count": "21",
+    "revenue": "450.95",
+    "variant_count": "3"
+  },
+  {
+    "design_code": "COBRGRA",
+    "device_count": "14",
+    "order_count": "21",
+    "revenue": "443.19",
+    "variant_count": "5"
+  },
+  {
+    "design_code": "HPOTDH10",
+    "device_count": "13",
+    "order_count": "21",
+    "revenue": "442.95",
+    "variant_count": "4"
+  },
+  {
+    "design_code": "IMGCUIL",
+    "device_count": "14",
+    "order_count": "23",
+    "revenue": "438.9",
+    "variant_count": "8"
+  },
+  {
+    "design_code": "FKREFLO",
+    "device_count": "12",
+    "order_count": "21",
+    "revenue": "437.95",
+    "variant_count": "6"
+  },
+  {
+    "design_code": "THFCKIT25",
+    "device_count": "16",
+    "order_count": "21",
+    "revenue": "437.82",
+    "variant_count": "3"
+  },
+  {
+    "design_code": "NHLMINW",
+    "device_count": "9",
+    "order_count": "21",
+    "revenue": "436.95",
+    "variant_count": "5"
+  },
+  {
+    "design_code": "MCBDKIT8",
+    "device_count": "15",
+    "order_count": "20",
+    "revenue": "426.0",
+    "variant_count": "3"
+  },
+  {
+    "design_code": "BTMCRHO",
+    "device_count": "14",
+    "order_count": "20",
+    "revenue": "424.0",
+    "variant_count": "4"
+  },
+  {
+    "design_code": "IRONTOU",
+    "device_count": "13",
+    "order_count": "21",
+    "revenue": "411.6",
+    "variant_count": "3"
+  },
+  {
+    "design_code": "TWDDOEX",
+    "device_count": "10",
+    "order_count": "20",
+    "revenue": "406.56",
+    "variant_count": "5"
+  },
+  {
+    "design_code": "NBA2BUL",
+    "device_count": "14",
+    "order_count": "20",
+    "revenue": "405.0",
+    "variant_count": "6"
+  },
+  {
+    "design_code": "MCPHKT25",
+    "device_count": "13",
+    "order_count": "20",
+    "revenue": "400.05",
+    "variant_count": "3"
+  },
+  {
+    "design_code": "WMGDAYGRA",
+    "device_count": "8",
+    "order_count": "20",
+    "revenue": "399.0",
+    "variant_count": "2"
+  },
+  {
+    "design_code": "HPOTCSE2",
+    "device_count": "12",
+    "order_count": "19",
+    "revenue": "398.74",
+    "variant_count": "3"
+  },
+  {
+    "design_code": "FCBCKT4",
+    "device_count": "15",
+    "order_count": "18",
+    "revenue": "393.76",
+    "variant_count": "1"
+  },
+  {
+    "design_code": "NHLSEAK",
+    "device_count": "8",
+    "order_count": "18",
+    "revenue": "383.32",
+    "variant_count": "7"
+  },
+  {
+    "design_code": "BTMCNWI",
+    "device_count": "10",
+    "order_count": "18",
+    "revenue": "381.97",
+    "variant_count": "2"
+  },
+  {
+    "design_code": "BVGUNSKY",
+    "device_count": "10",
+    "order_count": "19",
+    "revenue": "379.05",
+    "variant_count": "3"
+  },
+  {
+    "design_code": "HPOTDH18",
+    "device_count": "12",
+    "order_count": "17",
+    "revenue": "369.15",
+    "variant_count": "4"
+  },
+  {
+    "design_code": "NHLUTAH",
+    "device_count": "7",
+    "order_count": "18",
+    "revenue": "369.1",
+    "variant_count": "6"
+  },
+  {
+    "design_code": "NHLDALS",
+    "device_count": "6",
+    "order_count": "18",
+    "revenue": "365.1",
+    "variant_count": "8"
+  },
+  {
+    "design_code": "DRGBICO",
+    "device_count": "11",
+    "order_count": "18",
+    "revenue": "359.1",
+    "variant_count": "4"
+  },
+  {
+    "design_code": "PNUTCPA",
+    "device_count": "10",
+    "order_count": "18",
+    "revenue": "357.51",
+    "variant_count": "2"
+  },
+  {
+    "design_code": "BVSKWEA",
+    "device_count": "14",
+    "order_count": "18",
+    "revenue": "349.1",
+    "variant_count": "7"
+  },
+  {
+    "design_code": "PNUTCUSTA",
+    "device_count": "12",
+    "order_count": "14",
+    "revenue": "347.35",
+    "variant_count": "2"
+  },
+  {
+    "design_code": "BTAOKEY",
+    "device_count": "12",
+    "order_count": "17",
+    "revenue": "346.38",
+    "variant_count": "3"
+  },
+  {
+    "design_code": "IMGCAUB",
+    "device_count": "8",
+    "order_count": "18",
+    "revenue": "343.28",
+    "variant_count": "6"
+  },
+  {
+    "design_code": "LTOOSEA",
+    "device_count": "8",
+    "order_count": "17",
+    "revenue": "342.19",
+    "variant_count": "4"
+  },
+  {
+    "design_code": "IMGCUIART",
+    "device_count": "10",
+    "order_count": "17",
+    "revenue": "339.15",
+    "variant_count": "8"
+  },
+  {
+    "design_code": "LFCCRE1",
+    "device_count": "7",
+    "order_count": "17",
+    "revenue": "330.15",
+    "variant_count": "7"
+  },
+  {
+    "design_code": "NHL25SCC",
+    "device_count": "9",
+    "order_count": "15",
+    "revenue": "329.25",
+    "variant_count": "3"
+  },
+  {
+    "design_code": "SCDOSEA",
+    "device_count": "13",
+    "order_count": "16",
+    "revenue": "329.2",
+    "variant_count": "3"
+  },
+  {
+    "design_code": "SUPNVEC",
+    "device_count": "10",
+    "order_count": "15",
+    "revenue": "327.17",
+    "variant_count": "4"
+  },
+  {
+    "design_code": "WWE2UND",
+    "device_count": "13",
+    "order_count": "20",
+    "revenue": "323.4",
+    "variant_count": "5"
+  },
+  {
+    "design_code": "NHLNEWJ",
+    "device_count": "8",
+    "order_count": "16",
+    "revenue": "319.64",
+    "variant_count": "5"
+  },
+  {
+    "design_code": "IMGCASU",
+    "device_count": "12",
+    "order_count": "16",
+    "revenue": "319.2",
+    "variant_count": "7"
+  },
+  {
+    "design_code": "BVSKKEY",
+    "device_count": "12",
+    "order_count": "16",
+    "revenue": "319.2",
+    "variant_count": "6"
+  },
+  {
+    "design_code": "MASS1GR",
+    "device_count": "9",
+    "order_count": "15",
+    "revenue": "315.24",
+    "variant_count": "3"
+  },
+  {
+    "design_code": "RCALPAT",
+    "device_count": "10",
+    "order_count": "18",
+    "revenue": "314.1",
+    "variant_count": "4"
+  },
+  {
+    "design_code": "IMGCUFL",
+    "device_count": "5",
+    "order_count": "15",
+    "revenue": "308.88",
+    "variant_count": "8"
+  },
+  {
+    "design_code": "WWE2DOM",
+    "device_count": "11",
+    "order_count": "16",
+    "revenue": "308.8",
+    "variant_count": "2"
+  },
+  {
+    "design_code": "LTOOFUL",
+    "device_count": "10",
+    "order_count": "16",
+    "revenue": "303.8",
+    "variant_count": "5"
+  },
+  {
+    "design_code": "HPOTDH31",
+    "device_count": "9",
+    "order_count": "15",
+    "revenue": "301.25",
+    "variant_count": "2"
+  },
+  {
+    "design_code": "NHLFLOP",
+    "device_count": "4",
+    "order_count": "14",
+    "revenue": "299.3",
+    "variant_count": "5"
+  },
+  {
+    "design_code": "IMGCAUAR",
+    "device_count": "11",
+    "order_count": "15",
+    "revenue": "299.25",
+    "variant_count": "7"
+  },
+  {
+    "design_code": "SHAM",
+    "device_count": "9",
+    "order_count": "16",
+    "revenue": "294.2",
+    "variant_count": "4"
+  },
+  {
+    "design_code": "ACMCKT7",
+    "device_count": "9",
+    "order_count": "15",
+    "revenue": "289.34",
+    "variant_count": "2"
+  },
+  {
+    "design_code": "HPOTDH16",
+    "device_count": "13",
+    "order_count": "14",
+    "revenue": "287.3",
+    "variant_count": "4"
+  },
+  {
+    "design_code": "CFLAGS1",
+    "device_count": "9",
+    "order_count": "15",
+    "revenue": "284.25",
+    "variant_count": "8"
+  },
+  {
+    "design_code": "FCBCKT3",
+    "device_count": "10",
+    "order_count": "14",
+    "revenue": "283.3",
+    "variant_count": "4"
+  },
+  {
+    "design_code": "TLRIFRC",
+    "device_count": "10",
+    "order_count": "15",
+    "revenue": "279.3",
+    "variant_count": "4"
+  },
+  {
+    "design_code": "BATMKEY",
+    "device_count": "6",
+    "order_count": "14",
+    "revenue": "279.3",
+    "variant_count": "2"
+  },
+  {
+    "design_code": "WWECRHO",
+    "device_count": "7",
+    "order_count": "13",
+    "revenue": "278.99",
+    "variant_count": "1"
+  },
+  {
+    "design_code": "FCBCKT5",
+    "device_count": "8",
+    "order_count": "12",
+    "revenue": "277.81",
+    "variant_count": "2"
+  },
+  {
+    "design_code": "LFCCREST3",
+    "device_count": "5",
+    "order_count": "12",
+    "revenue": "266.31",
+    "variant_count": "4"
+  },
+  {
+    "design_code": "BVRSKAR",
+    "device_count": "7",
+    "order_count": "13",
+    "revenue": "259.35",
+    "variant_count": "3"
+  },
+  {
+    "design_code": "MKECDG3",
+    "device_count": "11",
+    "order_count": "14",
+    "revenue": "251.3",
+    "variant_count": "7"
+  },
+  {
+    "design_code": "MCBDKIT9",
+    "device_count": "6",
+    "order_count": "12",
+    "revenue": "250.91",
+    "variant_count": "3"
+  },
+  {
+    "design_code": "HPOTBUP",
+    "device_count": "8",
+    "order_count": "12",
+    "revenue": "249.4",
+    "variant_count": "5"
+  },
+  {
+    "design_code": "VFLA2",
+    "device_count": "11",
+    "order_count": "14",
+    "revenue": "249.3",
+    "variant_count": "7"
+  },
+  {
+    "design_code": "BTAKCHA",
+    "device_count": "8",
+    "order_count": "12",
+    "revenue": "249.04",
+    "variant_count": "4"
+  },
+  {
+    "design_code": "IMGCASUA",
+    "device_count": "6",
+    "order_count": "12",
+    "revenue": "239.4",
+    "variant_count": "4"
+  },
+  {
+    "design_code": "BVRSLCOL",
+    "device_count": "9",
+    "order_count": "12",
+    "revenue": "239.4",
+    "variant_count": "4"
+  },
+  {
+    "design_code": "CFCKIT6",
+    "device_count": "7",
+    "order_count": "11",
+    "revenue": "236.57",
+    "variant_count": "2"
+  },
+  {
+    "design_code": "GCFLAGS1",
+    "device_count": "10",
+    "order_count": "13",
+    "revenue": "235.35",
+    "variant_count": "6"
+  },
+  {
+    "design_code": "BTAKGRA",
+    "device_count": "9",
+    "order_count": "11",
+    "revenue": "231.44",
+    "variant_count": "5"
+  },
+  {
+    "design_code": "CELTI",
+    "device_count": "11",
+    "order_count": "13",
+    "revenue": "231.35",
+    "variant_count": "4"
+  },
+  {
+    "design_code": "HATSCHA",
+    "device_count": "8",
+    "order_count": "11",
+    "revenue": "221.45",
+    "variant_count": "5"
+  }
+]

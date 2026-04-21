@@ -1,0 +1,6 @@
+#SecondDayShipping
+SELECT Sales_Record_Number, f_status, Postage_Service, Transaction_ID, Paid_on_Date FROM order_tracker_xls 
+WHERE f_ebay_site = 3 AND Transaction_ID NOT IN ('Amazon.nl') AND Postage_Service NOT LIKE '%Std%' AND Postage_Service NOT IN ('Standard') AND f_upload_day >= '2021-05-15' AND (Notes_to_Yourself IS NULL OR Notes_to_Yourself != 'FBA')
+AND INSTR(Sales_Record_Number, 'PO') = 0 AND INSTR(Sales_Record_Number, '-R') = 0 AND f_status = 'Pending' AND SUBSTRING(Sales_Record_Number, 1, 19) NOT IN (
+SELECT f_order_sales_record_number FROM t_marketplace_prime_orders WHERE f_is_prime = 1
+);

@@ -1,0 +1,224 @@
+{
+  "teams": [
+    {
+      "code": "NBA2LOS",
+      "name": "LA Lakers",
+      "revenue": 2885.6,
+      "orders": 128,
+      "htpcr_devices": 99,
+      "hb401_devices": 22,
+      "desk_mats": 3,
+      "skins": 63
+    },
+    {
+      "code": "NBA2WAR",
+      "name": "Golden State Warriors",
+      "revenue": 2685.69,
+      "orders": 129,
+      "htpcr_devices": 99,
+      "hb401_devices": 22,
+      "desk_mats": 3,
+      "skins": 17
+    },
+    {
+      "code": "NBA2NKN",
+      "name": "New York Knicks",
+      "revenue": 2234.69,
+      "orders": 107,
+      "htpcr_devices": 99,
+      "hb401_devices": 22,
+      "desk_mats": 3,
+      "skins": 17
+    },
+    {
+      "code": "NBA2CEL",
+      "name": "Boston Celtics",
+      "revenue": 2089.1499999999996,
+      "orders": 98,
+      "htpcr_devices": 99,
+      "hb401_devices": 22,
+      "desk_mats": 3,
+      "skins": 17
+    },
+    {
+      "code": "NBA2BUL",
+      "name": "Chicago Bulls",
+      "revenue": 694.3000000000001,
+      "orders": 34,
+      "htpcr_devices": 99,
+      "hb401_devices": 22,
+      "desk_mats": 3,
+      "skins": 17
+    },
+    {
+      "code": "NBA2BUC",
+      "name": "NBA2BUC",
+      "revenue": 353.1499999999999,
+      "orders": 17,
+      "htpcr_devices": 99,
+      "hb401_devices": 22,
+      "desk_mats": 3,
+      "skins": 17
+    },
+    {
+      "code": "NBA2CELLG",
+      "name": "NBA2CELLG",
+      "revenue": 100.75,
+      "orders": 5,
+      "htpcr_devices": 98,
+      "hb401_devices": 22,
+      "desk_mats": 3,
+      "skins": 17
+    },
+    {
+      "code": "NBA2SANLG",
+      "name": "NBA2SANLG",
+      "revenue": 69.8,
+      "orders": 4,
+      "htpcr_devices": 80,
+      "hb401_devices": 16,
+      "desk_mats": 3,
+      "skins": 17
+    },
+    {
+      "code": "NBA2THULG",
+      "name": "NBA2THULG",
+      "revenue": 59.9,
+      "orders": 2,
+      "htpcr_devices": 80,
+      "hb401_devices": 16,
+      "desk_mats": 3,
+      "skins": 17
+    },
+    {
+      "code": "NBA2NUGLG",
+      "name": "NBA2NUGLG",
+      "revenue": 54.9,
+      "orders": 2,
+      "htpcr_devices": 81,
+      "hb401_devices": 17,
+      "desk_mats": 3,
+      "skins": 17
+    },
+    {
+      "code": "NBA2NKNLG",
+      "name": "NBA2NKNLG",
+      "revenue": 49.9,
+      "orders": 2,
+      "htpcr_devices": 98,
+      "hb401_devices": 22,
+      "desk_mats": 3,
+      "skins": 17
+    },
+    {
+      "code": "NBA2JAZLG",
+      "name": "NBA2JAZLG",
+      "revenue": 45.9,
+      "orders": 2,
+      "htpcr_devices": 89,
+      "hb401_devices": 21,
+      "desk_mats": 3,
+      "skins": 17
+    },
+    {
+      "code": "NBA2PACLG",
+      "name": "NBA2PACLG",
+      "revenue": 44.9,
+      "orders": 2,
+      "htpcr_devices": 89,
+      "hb401_devices": 21,
+      "desk_mats": 3,
+      "skins": 17
+    },
+    {
+      "code": "NBA2MAGLG",
+      "name": "NBA2MAGLG",
+      "revenue": 43.9,
+      "orders": 2,
+      "htpcr_devices": 81,
+      "hb401_devices": 17,
+      "desk_mats": 3,
+      "skins": 17
+    },
+    {
+      "code": "NBA2HORLG",
+      "name": "NBA2HORLG",
+      "revenue": 39.9,
+      "orders": 2,
+      "htpcr_devices": 89,
+      "hb401_devices": 21,
+      "desk_mats": 3,
+      "skins": 17
+    },
+    {
+      "code": "NBA2PISLG",
+      "name": "NBA2PISLG",
+      "revenue": 29.95,
+      "orders": 1,
+      "htpcr_devices": 80,
+      "hb401_devices": 16,
+      "desk_mats": 3,
+      "skins": 17
+    },
+    {
+      "code": "NBA2ROCLG",
+      "name": "NBA2ROCLG",
+      "revenue": 29.95,
+      "orders": 1,
+      "htpcr_devices": 81,
+      "hb401_devices": 17,
+      "desk_mats": 3,
+      "skins": 17
+    },
+    {
+      "code": "NBA2WARLG",
+      "name": "NBA2WARLG",
+      "revenue": 24.95,
+      "orders": 1,
+      "htpcr_devices": 98,
+      "hb401_devices": 22,
+      "desk_mats": 3,
+      "skins": 17
+    },
+    {
+      "code": "NBA2MAVLG",
+      "name": "NBA2MAVLG",
+      "revenue": 19.95,
+      "orders": 1,
+      "htpcr_devices": 86,
+      "hb401_devices": 21,
+      "desk_mats": 3,
+      "skins": 17
+    },
+    {
+      "code": "NBA2BULLG",
+      "name": "NBA2BULLG",
+      "revenue": 19.95,
+      "orders": 1,
+      "htpcr_devices": 98,
+      "hb401_devices": 22,
+      "desk_mats": 3,
+      "skins": 17
+    },
+    {
+      "code": "NBA2HEALG",
+      "name": "NBA2HEALG",
+      "revenue": 14.95,
+      "orders": 1,
+      "htpcr_devices": 81,
+      "hb401_devices": 17,
+      "desk_mats": 3,
+      "skins": 17
+    },
+    {
+      "code": "NBA2LOSLG",
+      "name": "NBA2LOSLG",
+      "revenue": 13.95,
+      "orders": 1,
+      "htpcr_devices": 98,
+      "hb401_devices": 22,
+      "desk_mats": 3,
+      "skins": 17
+    }
+  ]
+}

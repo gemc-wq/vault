@@ -1,0 +1,2021 @@
+{
+  "MPItemFeedHeader": {
+    "sellingChannel": "marketplace",
+    "processMode": "REPLACE",
+    "subset": "EXTERNAL",
+    "locale": "en",
+    "version": "4.7"
+  },
+  "MPItem": [
+    {
+      "sku": "HTPCR-IPH17PMAX-NARUICO-AKA",
+      "productIdentifiers": {
+        "productIdType": "GTIN",
+        "productId": "05057546986911"
+      },
+      "productName": "Head Case Designs Naruto Shippuden Akatsuki Hybrid MagSafe Clear Bumper Case for Apple iPhone 17 Pro Max",
+      "brand": "Head Case Designs",
+      "price": 19.95,
+      "ShippingWeight": 0.11,
+      "condition": "New",
+      "shortDescription": "<div class=\"product-description\">\n<p>The <strong>Head Case Designs Naruto Shippuden Akatsuki Hybrid MagSafe Clear Bumper Case for Apple iPhone 17 Pro Max</strong> combines officially licensed Naruto Shippuden artwork with premium phone case protection for your Apple iPhone 17 Pro Max. The iconic red cloud pattern of the Akatsuki organization from Naruto Shippuden, featuring the distinctive crimson clouds on a dark background. This hybrid magsafe clear bumper case is the perfect way to showcase your fandom while keeping your device safe from everyday wear and tear.</p>\n\n<p>Engineered with a TPU bumper + PC hard back + integrated MagSafe magnetic ring construction, this Naruto Shippuden Akatsuki phone case delivers military-grade drop protection in a slim, lightweight profile. The shock-absorbing bumper guards against impacts from all angles, while the scratch-resistant polycarbonate back panel preserves the vivid, high-definition UV-printed Akatsuki artwork for long-lasting color vibrancy. The integrated MagSafe magnetic ring ensures perfect alignment with MagSafe chargers and accessories, while remaining fully compatible with standard Qi wireless charging.</p>\n\n<p>Designed specifically for the Apple iPhone 17 Pro Max, this case features precision-cut openings for all ports, buttons, speakers, and camera lenses, ensuring complete device functionality without ever removing the case. Raised bezels around the screen and camera module provide additional scratch and drop protection when placed face-down on surfaces.</p>\n\n<p>Head Case Designs is a leading UK-based designer of officially licensed phone accessories with over 15 years of experience creating premium cases for fans worldwide. Every design is crafted in-house and produced under official license, guaranteeing authentic Naruto Shippuden artwork you will not find anywhere else.</p>\n</div>",
+      "keyFeatures": [
+        "Officially licensed Naruto Shippuden Akatsuki design \u2014 authentic artwork featuring the iconic red cloud pattern of the akatsuki organization from naruto shippuden that you will not find on unauthorized products",
+        "Custom-engineered specifically for Apple iPhone 17 Pro Max with precision-molded fit that provides full access to all ports, buttons, speakers, and camera lenses",
+        "Military-grade drop protection with shock-absorbing TPU bumper engineered to withstand impacts from multiple angles",
+        "Premium TPU bumper combined with scratch-resistant polycarbonate hard back for dual-layer defense",
+        "MagSafe compatible with integrated magnetic ring for seamless attachment to MagSafe chargers and accessories",
+        "Vivid high-definition UV-printed Naruto Shippuden Akatsuki artwork delivers bold, fade-resistant colors that stay vibrant through years of daily use",
+        "Raised bezels around camera and screen provide elevated protection against surface scratches and drops",
+        "Designed by Head Case Designs, a UK-based team with 15+ years of expertise in premium officially licensed phone accessories, backed by quality guarantee"
+      ],
+      "mainImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH17PMAX-1.jpg",
+      "additionalProductAttributes": {
+        "productSecondaryImageURL": [
+          {
+            "url": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH17PMAX-2.jpg"
+          },
+          {
+            "url": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH17PMAX-3.jpg"
+          }
+        ]
+      },
+      "manufacturer": "Head Case Designs",
+      "manufacturerPartNumber": "HTPCR-IPH17PMAX-NARUICO-AKA",
+      "modelNumber": "Apple iPhone 17 Pro Max",
+      "category": {
+        "CellPhoneAccessories": {
+          "specProductType": "Cell Phone Cases",
+          "variantGroupId": "HTPCR-IPH-NARUICO-AKA",
+          "variantAttributeNames": "color,compatibleModels",
+          "isPrimaryVariant": "Yes",
+          "swatchVariantAttribute": "color",
+          "swatchImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH17PMAX-1.jpg",
+          "color": "Akatsuki Red Cloud",
+          "colorCategory": "Multi-color",
+          "compatibleBrands": "Apple",
+          "compatibleModels": "iPhone 17 Pro Max",
+          "cell_phone_case_type": "Bumper",
+          "cell_phone_case_features": "Official Naruto Shippuden Akatsuki Hybrid MagSafe Clear Bumper Case for Apple iPhone 17 Pro Max. MagSafe compatible with integrated magnetic ring. Military-grade drop protection. TPU bumper + PC hard back + integrated MagSafe magnetic ring construction. Scratch-resistant polycarbonate back with shock-absorbing TPU bumper. Wireless charging compatible. Raised bezels for screen and camera protection. Slim profile, lightweight design. Precision cutouts for all ports and buttons. High-definition UV-printed fade-resistant artwork.",
+          "character": "Akatsuki",
+          "pattern": "Character",
+          "theme": "Anime",
+          "globalBrandLicense": "VIZ Media",
+          "case_material": "TPU",
+          "case_style": "Back Cover",
+          "attachmentStyle": "Snap-On",
+          "assembledProductWeight": {
+            "measure": 0.11,
+            "unit": "lb"
+          }
+        }
+      },
+      "fulfillmentLagTime": 1,
+      "startDate": "2026-03-22",
+      "endDate": "2124-08-08"
+    },
+    {
+      "sku": "HB401-IPH17PMAX-NARUICO-AKA",
+      "productIdentifiers": {
+        "productIdType": "GTIN",
+        "productId": "05057089000679"
+      },
+      "productName": "Head Case Designs Naruto Shippuden Akatsuki Hybrid MagSafe Black Bumper Case for Apple iPhone 17 Pro Max",
+      "brand": "Head Case Designs",
+      "price": 19.95,
+      "ShippingWeight": 0.11,
+      "condition": "New",
+      "shortDescription": "<div class=\"product-description\">\n<p>The <strong>Head Case Designs Naruto Shippuden Akatsuki Hybrid MagSafe Black Bumper Case for Apple iPhone 17 Pro Max</strong> combines officially licensed Naruto Shippuden artwork with premium phone case protection for your Apple iPhone 17 Pro Max. The iconic red cloud pattern of the Akatsuki organization from Naruto Shippuden, featuring the distinctive crimson clouds on a dark background. This hybrid magsafe black bumper case is the perfect way to showcase your fandom while keeping your device safe from everyday wear and tear.</p>\n\n<p>Engineered with a TPU bumper + PC hard back + integrated MagSafe magnetic ring construction, this Naruto Shippuden Akatsuki phone case delivers military-grade drop protection in a slim, lightweight profile. The shock-absorbing bumper guards against impacts from all angles, while the scratch-resistant polycarbonate back panel preserves the vivid, high-definition UV-printed Akatsuki artwork for long-lasting color vibrancy. The integrated MagSafe magnetic ring ensures perfect alignment with MagSafe chargers and accessories, while remaining fully compatible with standard Qi wireless charging.</p>\n\n<p>Designed specifically for the Apple iPhone 17 Pro Max, this case features precision-cut openings for all ports, buttons, speakers, and camera lenses, ensuring complete device functionality without ever removing the case. Raised bezels around the screen and camera module provide additional scratch and drop protection when placed face-down on surfaces.</p>\n\n<p>Head Case Designs is a leading UK-based designer of officially licensed phone accessories with over 15 years of experience creating premium cases for fans worldwide. Every design is crafted in-house and produced under official license, guaranteeing authentic Naruto Shippuden artwork you will not find anywhere else.</p>\n</div>",
+      "keyFeatures": [
+        "Officially licensed Naruto Shippuden Akatsuki design \u2014 authentic artwork featuring the iconic red cloud pattern of the akatsuki organization from naruto shippuden that you will not find on unauthorized products",
+        "Custom-engineered specifically for Apple iPhone 17 Pro Max with precision-molded fit that provides full access to all ports, buttons, speakers, and camera lenses",
+        "Military-grade drop protection with shock-absorbing black opaque TPU bumper for enhanced impact resistance",
+        "Premium black TPU bumper combined with scratch-resistant polycarbonate hard back for dual-layer defense",
+        "MagSafe compatible with integrated magnetic ring for seamless attachment to MagSafe chargers and accessories",
+        "Vivid high-definition UV-printed Naruto Shippuden Akatsuki artwork delivers bold, fade-resistant colors that stay vibrant through years of daily use",
+        "Raised bezels around camera and screen provide elevated protection against surface scratches and drops",
+        "Designed by Head Case Designs, a UK-based team with 15+ years of expertise in premium officially licensed phone accessories, backed by quality guarantee"
+      ],
+      "mainImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/HB-01-IPH17PMAX-1.jpg",
+      "additionalProductAttributes": {
+        "productSecondaryImageURL": [
+          {
+            "url": "https://elcellonline.com/atg/NARUICO/AKA/HB-01-IPH17PMAX-2.jpg"
+          },
+          {
+            "url": "https://elcellonline.com/atg/NARUICO/AKA/HB-01-IPH17PMAX-3.jpg"
+          }
+        ]
+      },
+      "manufacturer": "Head Case Designs",
+      "manufacturerPartNumber": "HB401-IPH17PMAX-NARUICO-AKA",
+      "modelNumber": "Apple iPhone 17 Pro Max",
+      "category": {
+        "CellPhoneAccessories": {
+          "specProductType": "Cell Phone Cases",
+          "variantGroupId": "HB401-IPH-NARUICO-AKA",
+          "variantAttributeNames": "color,compatibleModels",
+          "isPrimaryVariant": "Yes",
+          "swatchVariantAttribute": "color",
+          "swatchImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/HB-01-IPH17PMAX-1.jpg",
+          "color": "Akatsuki Red Cloud",
+          "colorCategory": "Multi-color",
+          "compatibleBrands": "Apple",
+          "compatibleModels": "iPhone 17 Pro Max",
+          "cell_phone_case_type": "Bumper",
+          "cell_phone_case_features": "Official Naruto Shippuden Akatsuki Hybrid MagSafe Black Bumper Case for Apple iPhone 17 Pro Max. MagSafe compatible with integrated magnetic ring. Military-grade drop protection. TPU bumper + PC hard back + integrated MagSafe magnetic ring construction. Scratch-resistant polycarbonate back with shock-absorbing TPU bumper. Wireless charging compatible. Raised bezels for screen and camera protection. Slim profile, lightweight design. Precision cutouts for all ports and buttons. High-definition UV-printed fade-resistant artwork.",
+          "character": "Akatsuki",
+          "pattern": "Character",
+          "theme": "Anime",
+          "globalBrandLicense": "VIZ Media",
+          "case_material": "TPU",
+          "case_style": "Back Cover",
+          "attachmentStyle": "Snap-On",
+          "assembledProductWeight": {
+            "measure": 0.11,
+            "unit": "lb"
+          }
+        }
+      },
+      "fulfillmentLagTime": 1,
+      "startDate": "2026-03-22",
+      "endDate": "2124-08-08"
+    },
+    {
+      "sku": "HTPCR-IPH17PRO-NARUICO-AKA",
+      "productIdentifiers": {
+        "productIdType": "GTIN",
+        "productId": "05057546986805"
+      },
+      "productName": "Head Case Designs Naruto Shippuden Akatsuki Hybrid MagSafe Clear Bumper Case for Apple iPhone 17 Pro",
+      "brand": "Head Case Designs",
+      "price": 19.95,
+      "ShippingWeight": 0.11,
+      "condition": "New",
+      "shortDescription": "<div class=\"product-description\">\n<p>The <strong>Head Case Designs Naruto Shippuden Akatsuki Hybrid MagSafe Clear Bumper Case for Apple iPhone 17 Pro</strong> combines officially licensed Naruto Shippuden artwork with premium phone case protection for your Apple iPhone 17 Pro. The iconic red cloud pattern of the Akatsuki organization from Naruto Shippuden, featuring the distinctive crimson clouds on a dark background. This hybrid magsafe clear bumper case is the perfect way to showcase your fandom while keeping your device safe from everyday wear and tear.</p>\n\n<p>Engineered with a TPU bumper + PC hard back + integrated MagSafe magnetic ring construction, this Naruto Shippuden Akatsuki phone case delivers military-grade drop protection in a slim, lightweight profile. The shock-absorbing bumper guards against impacts from all angles, while the scratch-resistant polycarbonate back panel preserves the vivid, high-definition UV-printed Akatsuki artwork for long-lasting color vibrancy. The integrated MagSafe magnetic ring ensures perfect alignment with MagSafe chargers and accessories, while remaining fully compatible with standard Qi wireless charging.</p>\n\n<p>Designed specifically for the Apple iPhone 17 Pro, this case features precision-cut openings for all ports, buttons, speakers, and camera lenses, ensuring complete device functionality without ever removing the case. Raised bezels around the screen and camera module provide additional scratch and drop protection when placed face-down on surfaces.</p>\n\n<p>Head Case Designs is a leading UK-based designer of officially licensed phone accessories with over 15 years of experience creating premium cases for fans worldwide. Every design is crafted in-house and produced under official license, guaranteeing authentic Naruto Shippuden artwork you will not find anywhere else.</p>\n</div>",
+      "keyFeatures": [
+        "Officially licensed Naruto Shippuden Akatsuki design \u2014 authentic artwork featuring the iconic red cloud pattern of the akatsuki organization from naruto shippuden that you will not find on unauthorized products",
+        "Custom-engineered specifically for Apple iPhone 17 Pro with precision-molded fit that provides full access to all ports, buttons, speakers, and camera lenses",
+        "Military-grade drop protection with shock-absorbing TPU bumper engineered to withstand impacts from multiple angles",
+        "Premium TPU bumper combined with scratch-resistant polycarbonate hard back for dual-layer defense",
+        "MagSafe compatible with integrated magnetic ring for seamless attachment to MagSafe chargers and accessories",
+        "Vivid high-definition UV-printed Naruto Shippuden Akatsuki artwork delivers bold, fade-resistant colors that stay vibrant through years of daily use",
+        "Raised bezels around camera and screen provide elevated protection against surface scratches and drops",
+        "Designed by Head Case Designs, a UK-based team with 15+ years of expertise in premium officially licensed phone accessories, backed by quality guarantee"
+      ],
+      "mainImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH17PRO-1.jpg",
+      "additionalProductAttributes": {
+        "productSecondaryImageURL": [
+          {
+            "url": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH17PRO-2.jpg"
+          },
+          {
+            "url": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH17PRO-3.jpg"
+          }
+        ]
+      },
+      "manufacturer": "Head Case Designs",
+      "manufacturerPartNumber": "HTPCR-IPH17PRO-NARUICO-AKA",
+      "modelNumber": "Apple iPhone 17 Pro",
+      "category": {
+        "CellPhoneAccessories": {
+          "specProductType": "Cell Phone Cases",
+          "variantGroupId": "HTPCR-IPH-NARUICO-AKA",
+          "variantAttributeNames": "color,compatibleModels",
+          "isPrimaryVariant": "No",
+          "swatchVariantAttribute": "color",
+          "swatchImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH17PRO-1.jpg",
+          "color": "Akatsuki Red Cloud",
+          "colorCategory": "Multi-color",
+          "compatibleBrands": "Apple",
+          "compatibleModels": "iPhone 17 Pro",
+          "cell_phone_case_type": "Bumper",
+          "cell_phone_case_features": "Official Naruto Shippuden Akatsuki Hybrid MagSafe Clear Bumper Case for Apple iPhone 17 Pro. MagSafe compatible with integrated magnetic ring. Military-grade drop protection. TPU bumper + PC hard back + integrated MagSafe magnetic ring construction. Scratch-resistant polycarbonate back with shock-absorbing TPU bumper. Wireless charging compatible. Raised bezels for screen and camera protection. Slim profile, lightweight design. Precision cutouts for all ports and buttons. High-definition UV-printed fade-resistant artwork.",
+          "character": "Akatsuki",
+          "pattern": "Character",
+          "theme": "Anime",
+          "globalBrandLicense": "VIZ Media",
+          "case_material": "TPU",
+          "case_style": "Back Cover",
+          "attachmentStyle": "Snap-On",
+          "assembledProductWeight": {
+            "measure": 0.11,
+            "unit": "lb"
+          }
+        }
+      },
+      "fulfillmentLagTime": 1,
+      "startDate": "2026-03-22",
+      "endDate": "2124-08-08"
+    },
+    {
+      "sku": "HB401-IPH17PRO-NARUICO-AKA",
+      "productIdentifiers": {
+        "productIdType": "GTIN",
+        "productId": "05057089003632"
+      },
+      "productName": "Head Case Designs Naruto Shippuden Akatsuki Hybrid MagSafe Black Bumper Case for Apple iPhone 17 Pro",
+      "brand": "Head Case Designs",
+      "price": 19.95,
+      "ShippingWeight": 0.11,
+      "condition": "New",
+      "shortDescription": "<div class=\"product-description\">\n<p>The <strong>Head Case Designs Naruto Shippuden Akatsuki Hybrid MagSafe Black Bumper Case for Apple iPhone 17 Pro</strong> combines officially licensed Naruto Shippuden artwork with premium phone case protection for your Apple iPhone 17 Pro. The iconic red cloud pattern of the Akatsuki organization from Naruto Shippuden, featuring the distinctive crimson clouds on a dark background. This hybrid magsafe black bumper case is the perfect way to showcase your fandom while keeping your device safe from everyday wear and tear.</p>\n\n<p>Engineered with a TPU bumper + PC hard back + integrated MagSafe magnetic ring construction, this Naruto Shippuden Akatsuki phone case delivers military-grade drop protection in a slim, lightweight profile. The shock-absorbing bumper guards against impacts from all angles, while the scratch-resistant polycarbonate back panel preserves the vivid, high-definition UV-printed Akatsuki artwork for long-lasting color vibrancy. The integrated MagSafe magnetic ring ensures perfect alignment with MagSafe chargers and accessories, while remaining fully compatible with standard Qi wireless charging.</p>\n\n<p>Designed specifically for the Apple iPhone 17 Pro, this case features precision-cut openings for all ports, buttons, speakers, and camera lenses, ensuring complete device functionality without ever removing the case. Raised bezels around the screen and camera module provide additional scratch and drop protection when placed face-down on surfaces.</p>\n\n<p>Head Case Designs is a leading UK-based designer of officially licensed phone accessories with over 15 years of experience creating premium cases for fans worldwide. Every design is crafted in-house and produced under official license, guaranteeing authentic Naruto Shippuden artwork you will not find anywhere else.</p>\n</div>",
+      "keyFeatures": [
+        "Officially licensed Naruto Shippuden Akatsuki design \u2014 authentic artwork featuring the iconic red cloud pattern of the akatsuki organization from naruto shippuden that you will not find on unauthorized products",
+        "Custom-engineered specifically for Apple iPhone 17 Pro with precision-molded fit that provides full access to all ports, buttons, speakers, and camera lenses",
+        "Military-grade drop protection with shock-absorbing black opaque TPU bumper for enhanced impact resistance",
+        "Premium black TPU bumper combined with scratch-resistant polycarbonate hard back for dual-layer defense",
+        "MagSafe compatible with integrated magnetic ring for seamless attachment to MagSafe chargers and accessories",
+        "Vivid high-definition UV-printed Naruto Shippuden Akatsuki artwork delivers bold, fade-resistant colors that stay vibrant through years of daily use",
+        "Raised bezels around camera and screen provide elevated protection against surface scratches and drops",
+        "Designed by Head Case Designs, a UK-based team with 15+ years of expertise in premium officially licensed phone accessories, backed by quality guarantee"
+      ],
+      "mainImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/HB-01-IPH17PRO-1.jpg",
+      "additionalProductAttributes": {
+        "productSecondaryImageURL": [
+          {
+            "url": "https://elcellonline.com/atg/NARUICO/AKA/HB-01-IPH17PRO-2.jpg"
+          },
+          {
+            "url": "https://elcellonline.com/atg/NARUICO/AKA/HB-01-IPH17PRO-3.jpg"
+          }
+        ]
+      },
+      "manufacturer": "Head Case Designs",
+      "manufacturerPartNumber": "HB401-IPH17PRO-NARUICO-AKA",
+      "modelNumber": "Apple iPhone 17 Pro",
+      "category": {
+        "CellPhoneAccessories": {
+          "specProductType": "Cell Phone Cases",
+          "variantGroupId": "HB401-IPH-NARUICO-AKA",
+          "variantAttributeNames": "color,compatibleModels",
+          "isPrimaryVariant": "No",
+          "swatchVariantAttribute": "color",
+          "swatchImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/HB-01-IPH17PRO-1.jpg",
+          "color": "Akatsuki Red Cloud",
+          "colorCategory": "Multi-color",
+          "compatibleBrands": "Apple",
+          "compatibleModels": "iPhone 17 Pro",
+          "cell_phone_case_type": "Bumper",
+          "cell_phone_case_features": "Official Naruto Shippuden Akatsuki Hybrid MagSafe Black Bumper Case for Apple iPhone 17 Pro. MagSafe compatible with integrated magnetic ring. Military-grade drop protection. TPU bumper + PC hard back + integrated MagSafe magnetic ring construction. Scratch-resistant polycarbonate back with shock-absorbing TPU bumper. Wireless charging compatible. Raised bezels for screen and camera protection. Slim profile, lightweight design. Precision cutouts for all ports and buttons. High-definition UV-printed fade-resistant artwork.",
+          "character": "Akatsuki",
+          "pattern": "Character",
+          "theme": "Anime",
+          "globalBrandLicense": "VIZ Media",
+          "case_material": "TPU",
+          "case_style": "Back Cover",
+          "attachmentStyle": "Snap-On",
+          "assembledProductWeight": {
+            "measure": 0.11,
+            "unit": "lb"
+          }
+        }
+      },
+      "fulfillmentLagTime": 1,
+      "startDate": "2026-03-22",
+      "endDate": "2124-08-08"
+    },
+    {
+      "sku": "HTPCR-IPH17-NARUICO-AKA",
+      "productIdentifiers": {
+        "productIdType": "GTIN",
+        "productId": "05057546987130"
+      },
+      "productName": "Head Case Designs Naruto Shippuden Akatsuki Hybrid MagSafe Clear Bumper Case for Apple iPhone 17",
+      "brand": "Head Case Designs",
+      "price": 19.95,
+      "ShippingWeight": 0.11,
+      "condition": "New",
+      "shortDescription": "<div class=\"product-description\">\n<p>The <strong>Head Case Designs Naruto Shippuden Akatsuki Hybrid MagSafe Clear Bumper Case for Apple iPhone 17</strong> combines officially licensed Naruto Shippuden artwork with premium phone case protection for your Apple iPhone 17. The iconic red cloud pattern of the Akatsuki organization from Naruto Shippuden, featuring the distinctive crimson clouds on a dark background. This hybrid magsafe clear bumper case is the perfect way to showcase your fandom while keeping your device safe from everyday wear and tear.</p>\n\n<p>Engineered with a TPU bumper + PC hard back + integrated MagSafe magnetic ring construction, this Naruto Shippuden Akatsuki phone case delivers military-grade drop protection in a slim, lightweight profile. The shock-absorbing bumper guards against impacts from all angles, while the scratch-resistant polycarbonate back panel preserves the vivid, high-definition UV-printed Akatsuki artwork for long-lasting color vibrancy. The integrated MagSafe magnetic ring ensures perfect alignment with MagSafe chargers and accessories, while remaining fully compatible with standard Qi wireless charging.</p>\n\n<p>Designed specifically for the Apple iPhone 17, this case features precision-cut openings for all ports, buttons, speakers, and camera lenses, ensuring complete device functionality without ever removing the case. Raised bezels around the screen and camera module provide additional scratch and drop protection when placed face-down on surfaces.</p>\n\n<p>Head Case Designs is a leading UK-based designer of officially licensed phone accessories with over 15 years of experience creating premium cases for fans worldwide. Every design is crafted in-house and produced under official license, guaranteeing authentic Naruto Shippuden artwork you will not find anywhere else.</p>\n</div>",
+      "keyFeatures": [
+        "Officially licensed Naruto Shippuden Akatsuki design \u2014 authentic artwork featuring the iconic red cloud pattern of the akatsuki organization from naruto shippuden that you will not find on unauthorized products",
+        "Custom-engineered specifically for Apple iPhone 17 with precision-molded fit that provides full access to all ports, buttons, speakers, and camera lenses",
+        "Military-grade drop protection with shock-absorbing TPU bumper engineered to withstand impacts from multiple angles",
+        "Premium TPU bumper combined with scratch-resistant polycarbonate hard back for dual-layer defense",
+        "MagSafe compatible with integrated magnetic ring for seamless attachment to MagSafe chargers and accessories",
+        "Vivid high-definition UV-printed Naruto Shippuden Akatsuki artwork delivers bold, fade-resistant colors that stay vibrant through years of daily use",
+        "Raised bezels around camera and screen provide elevated protection against surface scratches and drops",
+        "Designed by Head Case Designs, a UK-based team with 15+ years of expertise in premium officially licensed phone accessories, backed by quality guarantee"
+      ],
+      "mainImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH17-1.jpg",
+      "additionalProductAttributes": {
+        "productSecondaryImageURL": [
+          {
+            "url": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH17-2.jpg"
+          },
+          {
+            "url": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH17-3.jpg"
+          }
+        ]
+      },
+      "manufacturer": "Head Case Designs",
+      "manufacturerPartNumber": "HTPCR-IPH17-NARUICO-AKA",
+      "modelNumber": "Apple iPhone 17",
+      "category": {
+        "CellPhoneAccessories": {
+          "specProductType": "Cell Phone Cases",
+          "variantGroupId": "HTPCR-IPH-NARUICO-AKA",
+          "variantAttributeNames": "color,compatibleModels",
+          "isPrimaryVariant": "No",
+          "swatchVariantAttribute": "color",
+          "swatchImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH17-1.jpg",
+          "color": "Akatsuki Red Cloud",
+          "colorCategory": "Multi-color",
+          "compatibleBrands": "Apple",
+          "compatibleModels": "iPhone 17",
+          "cell_phone_case_type": "Bumper",
+          "cell_phone_case_features": "Official Naruto Shippuden Akatsuki Hybrid MagSafe Clear Bumper Case for Apple iPhone 17. MagSafe compatible with integrated magnetic ring. Military-grade drop protection. TPU bumper + PC hard back + integrated MagSafe magnetic ring construction. Scratch-resistant polycarbonate back with shock-absorbing TPU bumper. Wireless charging compatible. Raised bezels for screen and camera protection. Slim profile, lightweight design. Precision cutouts for all ports and buttons. High-definition UV-printed fade-resistant artwork.",
+          "character": "Akatsuki",
+          "pattern": "Character",
+          "theme": "Anime",
+          "globalBrandLicense": "VIZ Media",
+          "case_material": "TPU",
+          "case_style": "Back Cover",
+          "attachmentStyle": "Snap-On",
+          "assembledProductWeight": {
+            "measure": 0.11,
+            "unit": "lb"
+          }
+        }
+      },
+      "fulfillmentLagTime": 1,
+      "startDate": "2026-03-22",
+      "endDate": "2124-08-08"
+    },
+    {
+      "sku": "HB401-IPH17-NARUICO-AKA",
+      "productIdentifiers": {
+        "productIdType": "GTIN",
+        "productId": "05057089004578"
+      },
+      "productName": "Head Case Designs Naruto Shippuden Akatsuki Hybrid MagSafe Black Bumper Case for Apple iPhone 17",
+      "brand": "Head Case Designs",
+      "price": 19.95,
+      "ShippingWeight": 0.11,
+      "condition": "New",
+      "shortDescription": "<div class=\"product-description\">\n<p>The <strong>Head Case Designs Naruto Shippuden Akatsuki Hybrid MagSafe Black Bumper Case for Apple iPhone 17</strong> combines officially licensed Naruto Shippuden artwork with premium phone case protection for your Apple iPhone 17. The iconic red cloud pattern of the Akatsuki organization from Naruto Shippuden, featuring the distinctive crimson clouds on a dark background. This hybrid magsafe black bumper case is the perfect way to showcase your fandom while keeping your device safe from everyday wear and tear.</p>\n\n<p>Engineered with a TPU bumper + PC hard back + integrated MagSafe magnetic ring construction, this Naruto Shippuden Akatsuki phone case delivers military-grade drop protection in a slim, lightweight profile. The shock-absorbing bumper guards against impacts from all angles, while the scratch-resistant polycarbonate back panel preserves the vivid, high-definition UV-printed Akatsuki artwork for long-lasting color vibrancy. The integrated MagSafe magnetic ring ensures perfect alignment with MagSafe chargers and accessories, while remaining fully compatible with standard Qi wireless charging.</p>\n\n<p>Designed specifically for the Apple iPhone 17, this case features precision-cut openings for all ports, buttons, speakers, and camera lenses, ensuring complete device functionality without ever removing the case. Raised bezels around the screen and camera module provide additional scratch and drop protection when placed face-down on surfaces.</p>\n\n<p>Head Case Designs is a leading UK-based designer of officially licensed phone accessories with over 15 years of experience creating premium cases for fans worldwide. Every design is crafted in-house and produced under official license, guaranteeing authentic Naruto Shippuden artwork you will not find anywhere else.</p>\n</div>",
+      "keyFeatures": [
+        "Officially licensed Naruto Shippuden Akatsuki design \u2014 authentic artwork featuring the iconic red cloud pattern of the akatsuki organization from naruto shippuden that you will not find on unauthorized products",
+        "Custom-engineered specifically for Apple iPhone 17 with precision-molded fit that provides full access to all ports, buttons, speakers, and camera lenses",
+        "Military-grade drop protection with shock-absorbing black opaque TPU bumper for enhanced impact resistance",
+        "Premium black TPU bumper combined with scratch-resistant polycarbonate hard back for dual-layer defense",
+        "MagSafe compatible with integrated magnetic ring for seamless attachment to MagSafe chargers and accessories",
+        "Vivid high-definition UV-printed Naruto Shippuden Akatsuki artwork delivers bold, fade-resistant colors that stay vibrant through years of daily use",
+        "Raised bezels around camera and screen provide elevated protection against surface scratches and drops",
+        "Designed by Head Case Designs, a UK-based team with 15+ years of expertise in premium officially licensed phone accessories, backed by quality guarantee"
+      ],
+      "mainImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/HB-01-IPH17-1.jpg",
+      "additionalProductAttributes": {
+        "productSecondaryImageURL": [
+          {
+            "url": "https://elcellonline.com/atg/NARUICO/AKA/HB-01-IPH17-2.jpg"
+          },
+          {
+            "url": "https://elcellonline.com/atg/NARUICO/AKA/HB-01-IPH17-3.jpg"
+          }
+        ]
+      },
+      "manufacturer": "Head Case Designs",
+      "manufacturerPartNumber": "HB401-IPH17-NARUICO-AKA",
+      "modelNumber": "Apple iPhone 17",
+      "category": {
+        "CellPhoneAccessories": {
+          "specProductType": "Cell Phone Cases",
+          "variantGroupId": "HB401-IPH-NARUICO-AKA",
+          "variantAttributeNames": "color,compatibleModels",
+          "isPrimaryVariant": "No",
+          "swatchVariantAttribute": "color",
+          "swatchImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/HB-01-IPH17-1.jpg",
+          "color": "Akatsuki Red Cloud",
+          "colorCategory": "Multi-color",
+          "compatibleBrands": "Apple",
+          "compatibleModels": "iPhone 17",
+          "cell_phone_case_type": "Bumper",
+          "cell_phone_case_features": "Official Naruto Shippuden Akatsuki Hybrid MagSafe Black Bumper Case for Apple iPhone 17. MagSafe compatible with integrated magnetic ring. Military-grade drop protection. TPU bumper + PC hard back + integrated MagSafe magnetic ring construction. Scratch-resistant polycarbonate back with shock-absorbing TPU bumper. Wireless charging compatible. Raised bezels for screen and camera protection. Slim profile, lightweight design. Precision cutouts for all ports and buttons. High-definition UV-printed fade-resistant artwork.",
+          "character": "Akatsuki",
+          "pattern": "Character",
+          "theme": "Anime",
+          "globalBrandLicense": "VIZ Media",
+          "case_material": "TPU",
+          "case_style": "Back Cover",
+          "attachmentStyle": "Snap-On",
+          "assembledProductWeight": {
+            "measure": 0.11,
+            "unit": "lb"
+          }
+        }
+      },
+      "fulfillmentLagTime": 1,
+      "startDate": "2026-03-22",
+      "endDate": "2124-08-08"
+    },
+    {
+      "sku": "HTPCR-IPHSE4-NARUICO-AKA",
+      "productIdentifiers": {
+        "productIdType": "GTIN",
+        "productId": "05063290000000"
+      },
+      "productName": "Head Case Designs Naruto Shippuden Akatsuki Hybrid MagSafe Clear Bumper Case for Apple iPhone SE (4th Generation)",
+      "brand": "Head Case Designs",
+      "price": 19.95,
+      "ShippingWeight": 0.11,
+      "condition": "New",
+      "shortDescription": "<div class=\"product-description\">\n<p>The <strong>Head Case Designs Naruto Shippuden Akatsuki Hybrid MagSafe Clear Bumper Case for Apple iPhone SE (4th Generation)</strong> combines officially licensed Naruto Shippuden artwork with premium phone case protection for your Apple iPhone SE (4th Generation). The iconic red cloud pattern of the Akatsuki organization from Naruto Shippuden, featuring the distinctive crimson clouds on a dark background. This hybrid magsafe clear bumper case is the perfect way to showcase your fandom while keeping your device safe from everyday wear and tear.</p>\n\n<p>Engineered with a TPU bumper + PC hard back + integrated MagSafe magnetic ring construction, this Naruto Shippuden Akatsuki phone case delivers military-grade drop protection in a slim, lightweight profile. The shock-absorbing bumper guards against impacts from all angles, while the scratch-resistant polycarbonate back panel preserves the vivid, high-definition UV-printed Akatsuki artwork for long-lasting color vibrancy. The integrated MagSafe magnetic ring ensures perfect alignment with MagSafe chargers and accessories, while remaining fully compatible with standard Qi wireless charging.</p>\n\n<p>Designed specifically for the Apple iPhone SE (4th Generation), this case features precision-cut openings for all ports, buttons, speakers, and camera lenses, ensuring complete device functionality without ever removing the case. Raised bezels around the screen and camera module provide additional scratch and drop protection when placed face-down on surfaces.</p>\n\n<p>Head Case Designs is a leading UK-based designer of officially licensed phone accessories with over 15 years of experience creating premium cases for fans worldwide. Every design is crafted in-house and produced under official license, guaranteeing authentic Naruto Shippuden artwork you will not find anywhere else.</p>\n</div>",
+      "keyFeatures": [
+        "Officially licensed Naruto Shippuden Akatsuki design \u2014 authentic artwork featuring the iconic red cloud pattern of the akatsuki organization from naruto shippuden that you will not find on unauthorized products",
+        "Custom-engineered specifically for Apple iPhone SE (4th Generation) with precision-molded fit that provides full access to all ports, buttons, speakers, and camera lenses",
+        "Military-grade drop protection with shock-absorbing TPU bumper engineered to withstand impacts from multiple angles",
+        "Premium TPU bumper combined with scratch-resistant polycarbonate hard back for dual-layer defense",
+        "MagSafe compatible with integrated magnetic ring for seamless attachment to MagSafe chargers and accessories",
+        "Vivid high-definition UV-printed Naruto Shippuden Akatsuki artwork delivers bold, fade-resistant colors that stay vibrant through years of daily use",
+        "Raised bezels around camera and screen provide elevated protection against surface scratches and drops",
+        "Designed by Head Case Designs, a UK-based team with 15+ years of expertise in premium officially licensed phone accessories, backed by quality guarantee"
+      ],
+      "mainImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPHSE4-1.jpg",
+      "additionalProductAttributes": {
+        "productSecondaryImageURL": [
+          {
+            "url": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPHSE4-2.jpg"
+          },
+          {
+            "url": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPHSE4-3.jpg"
+          }
+        ]
+      },
+      "manufacturer": "Head Case Designs",
+      "manufacturerPartNumber": "HTPCR-IPHSE4-NARUICO-AKA",
+      "modelNumber": "Apple iPhone SE (4th Generation)",
+      "category": {
+        "CellPhoneAccessories": {
+          "specProductType": "Cell Phone Cases",
+          "variantGroupId": "HTPCR-IPH-NARUICO-AKA",
+          "variantAttributeNames": "color,compatibleModels",
+          "isPrimaryVariant": "No",
+          "swatchVariantAttribute": "color",
+          "swatchImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPHSE4-1.jpg",
+          "color": "Akatsuki Red Cloud",
+          "colorCategory": "Multi-color",
+          "compatibleBrands": "Apple",
+          "compatibleModels": "iPhone SE (4th Generation)",
+          "cell_phone_case_type": "Bumper",
+          "cell_phone_case_features": "Official Naruto Shippuden Akatsuki Hybrid MagSafe Clear Bumper Case for Apple iPhone SE (4th Generation). MagSafe compatible with integrated magnetic ring. Military-grade drop protection. TPU bumper + PC hard back + integrated MagSafe magnetic ring construction. Scratch-resistant polycarbonate back with shock-absorbing TPU bumper. Wireless charging compatible. Raised bezels for screen and camera protection. Slim profile, lightweight design. Precision cutouts for all ports and buttons. High-definition UV-printed fade-resistant artwork.",
+          "character": "Akatsuki",
+          "pattern": "Character",
+          "theme": "Anime",
+          "globalBrandLicense": "VIZ Media",
+          "case_material": "TPU",
+          "case_style": "Back Cover",
+          "attachmentStyle": "Snap-On",
+          "assembledProductWeight": {
+            "measure": 0.11,
+            "unit": "lb"
+          }
+        }
+      },
+      "fulfillmentLagTime": 1,
+      "startDate": "2026-03-22",
+      "endDate": "2124-08-08"
+    },
+    {
+      "sku": "HB401-IPHSE4-NARUICO-AKA",
+      "productIdentifiers": {
+        "productIdType": "GTIN",
+        "productId": "05057089007265"
+      },
+      "productName": "Head Case Designs Naruto Shippuden Akatsuki Hybrid MagSafe Black Bumper Case for Apple iPhone SE (4th Generation)",
+      "brand": "Head Case Designs",
+      "price": 19.95,
+      "ShippingWeight": 0.11,
+      "condition": "New",
+      "shortDescription": "<div class=\"product-description\">\n<p>The <strong>Head Case Designs Naruto Shippuden Akatsuki Hybrid MagSafe Black Bumper Case for Apple iPhone SE (4th Generation)</strong> combines officially licensed Naruto Shippuden artwork with premium phone case protection for your Apple iPhone SE (4th Generation). The iconic red cloud pattern of the Akatsuki organization from Naruto Shippuden, featuring the distinctive crimson clouds on a dark background. This hybrid magsafe black bumper case is the perfect way to showcase your fandom while keeping your device safe from everyday wear and tear.</p>\n\n<p>Engineered with a TPU bumper + PC hard back + integrated MagSafe magnetic ring construction, this Naruto Shippuden Akatsuki phone case delivers military-grade drop protection in a slim, lightweight profile. The shock-absorbing bumper guards against impacts from all angles, while the scratch-resistant polycarbonate back panel preserves the vivid, high-definition UV-printed Akatsuki artwork for long-lasting color vibrancy. The integrated MagSafe magnetic ring ensures perfect alignment with MagSafe chargers and accessories, while remaining fully compatible with standard Qi wireless charging.</p>\n\n<p>Designed specifically for the Apple iPhone SE (4th Generation), this case features precision-cut openings for all ports, buttons, speakers, and camera lenses, ensuring complete device functionality without ever removing the case. Raised bezels around the screen and camera module provide additional scratch and drop protection when placed face-down on surfaces.</p>\n\n<p>Head Case Designs is a leading UK-based designer of officially licensed phone accessories with over 15 years of experience creating premium cases for fans worldwide. Every design is crafted in-house and produced under official license, guaranteeing authentic Naruto Shippuden artwork you will not find anywhere else.</p>\n</div>",
+      "keyFeatures": [
+        "Officially licensed Naruto Shippuden Akatsuki design \u2014 authentic artwork featuring the iconic red cloud pattern of the akatsuki organization from naruto shippuden that you will not find on unauthorized products",
+        "Custom-engineered specifically for Apple iPhone SE (4th Generation) with precision-molded fit that provides full access to all ports, buttons, speakers, and camera lenses",
+        "Military-grade drop protection with shock-absorbing black opaque TPU bumper for enhanced impact resistance",
+        "Premium black TPU bumper combined with scratch-resistant polycarbonate hard back for dual-layer defense",
+        "MagSafe compatible with integrated magnetic ring for seamless attachment to MagSafe chargers and accessories",
+        "Vivid high-definition UV-printed Naruto Shippuden Akatsuki artwork delivers bold, fade-resistant colors that stay vibrant through years of daily use",
+        "Raised bezels around camera and screen provide elevated protection against surface scratches and drops",
+        "Designed by Head Case Designs, a UK-based team with 15+ years of expertise in premium officially licensed phone accessories, backed by quality guarantee"
+      ],
+      "mainImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/HB-01-IPHSE4-1.jpg",
+      "additionalProductAttributes": {
+        "productSecondaryImageURL": [
+          {
+            "url": "https://elcellonline.com/atg/NARUICO/AKA/HB-01-IPHSE4-2.jpg"
+          },
+          {
+            "url": "https://elcellonline.com/atg/NARUICO/AKA/HB-01-IPHSE4-3.jpg"
+          }
+        ]
+      },
+      "manufacturer": "Head Case Designs",
+      "manufacturerPartNumber": "HB401-IPHSE4-NARUICO-AKA",
+      "modelNumber": "Apple iPhone SE (4th Generation)",
+      "category": {
+        "CellPhoneAccessories": {
+          "specProductType": "Cell Phone Cases",
+          "variantGroupId": "HB401-IPH-NARUICO-AKA",
+          "variantAttributeNames": "color,compatibleModels",
+          "isPrimaryVariant": "No",
+          "swatchVariantAttribute": "color",
+          "swatchImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/HB-01-IPHSE4-1.jpg",
+          "color": "Akatsuki Red Cloud",
+          "colorCategory": "Multi-color",
+          "compatibleBrands": "Apple",
+          "compatibleModels": "iPhone SE (4th Generation)",
+          "cell_phone_case_type": "Bumper",
+          "cell_phone_case_features": "Official Naruto Shippuden Akatsuki Hybrid MagSafe Black Bumper Case for Apple iPhone SE (4th Generation). MagSafe compatible with integrated magnetic ring. Military-grade drop protection. TPU bumper + PC hard back + integrated MagSafe magnetic ring construction. Scratch-resistant polycarbonate back with shock-absorbing TPU bumper. Wireless charging compatible. Raised bezels for screen and camera protection. Slim profile, lightweight design. Precision cutouts for all ports and buttons. High-definition UV-printed fade-resistant artwork.",
+          "character": "Akatsuki",
+          "pattern": "Character",
+          "theme": "Anime",
+          "globalBrandLicense": "VIZ Media",
+          "case_material": "TPU",
+          "case_style": "Back Cover",
+          "attachmentStyle": "Snap-On",
+          "assembledProductWeight": {
+            "measure": 0.11,
+            "unit": "lb"
+          }
+        }
+      },
+      "fulfillmentLagTime": 1,
+      "startDate": "2026-03-22",
+      "endDate": "2124-08-08"
+    },
+    {
+      "sku": "HTPCR-IPH16PMAX-NARUICO-AKA",
+      "productIdentifiers": {
+        "productIdType": "GTIN",
+        "productId": "05063290000000"
+      },
+      "productName": "Head Case Designs Naruto Shippuden Akatsuki Hybrid MagSafe Clear Bumper Case for Apple iPhone 16 Pro Max",
+      "brand": "Head Case Designs",
+      "price": 19.95,
+      "ShippingWeight": 0.11,
+      "condition": "New",
+      "shortDescription": "<div class=\"product-description\">\n<p>The <strong>Head Case Designs Naruto Shippuden Akatsuki Hybrid MagSafe Clear Bumper Case for Apple iPhone 16 Pro Max</strong> combines officially licensed Naruto Shippuden artwork with premium phone case protection for your Apple iPhone 16 Pro Max. The iconic red cloud pattern of the Akatsuki organization from Naruto Shippuden, featuring the distinctive crimson clouds on a dark background. This hybrid magsafe clear bumper case is the perfect way to showcase your fandom while keeping your device safe from everyday wear and tear.</p>\n\n<p>Engineered with a TPU bumper + PC hard back + integrated MagSafe magnetic ring construction, this Naruto Shippuden Akatsuki phone case delivers military-grade drop protection in a slim, lightweight profile. The shock-absorbing bumper guards against impacts from all angles, while the scratch-resistant polycarbonate back panel preserves the vivid, high-definition UV-printed Akatsuki artwork for long-lasting color vibrancy. The integrated MagSafe magnetic ring ensures perfect alignment with MagSafe chargers and accessories, while remaining fully compatible with standard Qi wireless charging.</p>\n\n<p>Designed specifically for the Apple iPhone 16 Pro Max, this case features precision-cut openings for all ports, buttons, speakers, and camera lenses, ensuring complete device functionality without ever removing the case. Raised bezels around the screen and camera module provide additional scratch and drop protection when placed face-down on surfaces.</p>\n\n<p>Head Case Designs is a leading UK-based designer of officially licensed phone accessories with over 15 years of experience creating premium cases for fans worldwide. Every design is crafted in-house and produced under official license, guaranteeing authentic Naruto Shippuden artwork you will not find anywhere else.</p>\n</div>",
+      "keyFeatures": [
+        "Officially licensed Naruto Shippuden Akatsuki design \u2014 authentic artwork featuring the iconic red cloud pattern of the akatsuki organization from naruto shippuden that you will not find on unauthorized products",
+        "Custom-engineered specifically for Apple iPhone 16 Pro Max with precision-molded fit that provides full access to all ports, buttons, speakers, and camera lenses",
+        "Military-grade drop protection with shock-absorbing TPU bumper engineered to withstand impacts from multiple angles",
+        "Premium TPU bumper combined with scratch-resistant polycarbonate hard back for dual-layer defense",
+        "MagSafe compatible with integrated magnetic ring for seamless attachment to MagSafe chargers and accessories",
+        "Vivid high-definition UV-printed Naruto Shippuden Akatsuki artwork delivers bold, fade-resistant colors that stay vibrant through years of daily use",
+        "Raised bezels around camera and screen provide elevated protection against surface scratches and drops",
+        "Designed by Head Case Designs, a UK-based team with 15+ years of expertise in premium officially licensed phone accessories, backed by quality guarantee"
+      ],
+      "mainImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH16PMAX-1.jpg",
+      "additionalProductAttributes": {
+        "productSecondaryImageURL": [
+          {
+            "url": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH16PMAX-2.jpg"
+          },
+          {
+            "url": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH16PMAX-3.jpg"
+          }
+        ]
+      },
+      "manufacturer": "Head Case Designs",
+      "manufacturerPartNumber": "HTPCR-IPH16PMAX-NARUICO-AKA",
+      "modelNumber": "Apple iPhone 16 Pro Max",
+      "category": {
+        "CellPhoneAccessories": {
+          "specProductType": "Cell Phone Cases",
+          "variantGroupId": "HTPCR-IPH-NARUICO-AKA",
+          "variantAttributeNames": "color,compatibleModels",
+          "isPrimaryVariant": "No",
+          "swatchVariantAttribute": "color",
+          "swatchImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH16PMAX-1.jpg",
+          "color": "Akatsuki Red Cloud",
+          "colorCategory": "Multi-color",
+          "compatibleBrands": "Apple",
+          "compatibleModels": "iPhone 16 Pro Max",
+          "cell_phone_case_type": "Bumper",
+          "cell_phone_case_features": "Official Naruto Shippuden Akatsuki Hybrid MagSafe Clear Bumper Case for Apple iPhone 16 Pro Max. MagSafe compatible with integrated magnetic ring. Military-grade drop protection. TPU bumper + PC hard back + integrated MagSafe magnetic ring construction. Scratch-resistant polycarbonate back with shock-absorbing TPU bumper. Wireless charging compatible. Raised bezels for screen and camera protection. Slim profile, lightweight design. Precision cutouts for all ports and buttons. High-definition UV-printed fade-resistant artwork.",
+          "character": "Akatsuki",
+          "pattern": "Character",
+          "theme": "Anime",
+          "globalBrandLicense": "VIZ Media",
+          "case_material": "TPU",
+          "case_style": "Back Cover",
+          "attachmentStyle": "Snap-On",
+          "assembledProductWeight": {
+            "measure": 0.11,
+            "unit": "lb"
+          }
+        }
+      },
+      "fulfillmentLagTime": 1,
+      "startDate": "2026-03-22",
+      "endDate": "2124-08-08"
+    },
+    {
+      "sku": "HB401-IPH16PMAX-NARUICO-AKA",
+      "productIdentifiers": {
+        "productIdType": "GTIN",
+        "productId": "05057546243168"
+      },
+      "productName": "Head Case Designs Naruto Shippuden Akatsuki Hybrid MagSafe Black Bumper Case for Apple iPhone 16 Pro Max",
+      "brand": "Head Case Designs",
+      "price": 19.95,
+      "ShippingWeight": 0.11,
+      "condition": "New",
+      "shortDescription": "<div class=\"product-description\">\n<p>The <strong>Head Case Designs Naruto Shippuden Akatsuki Hybrid MagSafe Black Bumper Case for Apple iPhone 16 Pro Max</strong> combines officially licensed Naruto Shippuden artwork with premium phone case protection for your Apple iPhone 16 Pro Max. The iconic red cloud pattern of the Akatsuki organization from Naruto Shippuden, featuring the distinctive crimson clouds on a dark background. This hybrid magsafe black bumper case is the perfect way to showcase your fandom while keeping your device safe from everyday wear and tear.</p>\n\n<p>Engineered with a TPU bumper + PC hard back + integrated MagSafe magnetic ring construction, this Naruto Shippuden Akatsuki phone case delivers military-grade drop protection in a slim, lightweight profile. The shock-absorbing bumper guards against impacts from all angles, while the scratch-resistant polycarbonate back panel preserves the vivid, high-definition UV-printed Akatsuki artwork for long-lasting color vibrancy. The integrated MagSafe magnetic ring ensures perfect alignment with MagSafe chargers and accessories, while remaining fully compatible with standard Qi wireless charging.</p>\n\n<p>Designed specifically for the Apple iPhone 16 Pro Max, this case features precision-cut openings for all ports, buttons, speakers, and camera lenses, ensuring complete device functionality without ever removing the case. Raised bezels around the screen and camera module provide additional scratch and drop protection when placed face-down on surfaces.</p>\n\n<p>Head Case Designs is a leading UK-based designer of officially licensed phone accessories with over 15 years of experience creating premium cases for fans worldwide. Every design is crafted in-house and produced under official license, guaranteeing authentic Naruto Shippuden artwork you will not find anywhere else.</p>\n</div>",
+      "keyFeatures": [
+        "Officially licensed Naruto Shippuden Akatsuki design \u2014 authentic artwork featuring the iconic red cloud pattern of the akatsuki organization from naruto shippuden that you will not find on unauthorized products",
+        "Custom-engineered specifically for Apple iPhone 16 Pro Max with precision-molded fit that provides full access to all ports, buttons, speakers, and camera lenses",
+        "Military-grade drop protection with shock-absorbing black opaque TPU bumper for enhanced impact resistance",
+        "Premium black TPU bumper combined with scratch-resistant polycarbonate hard back for dual-layer defense",
+        "MagSafe compatible with integrated magnetic ring for seamless attachment to MagSafe chargers and accessories",
+        "Vivid high-definition UV-printed Naruto Shippuden Akatsuki artwork delivers bold, fade-resistant colors that stay vibrant through years of daily use",
+        "Raised bezels around camera and screen provide elevated protection against surface scratches and drops",
+        "Designed by Head Case Designs, a UK-based team with 15+ years of expertise in premium officially licensed phone accessories, backed by quality guarantee"
+      ],
+      "mainImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/HB-01-IPH16PMAX-1.jpg",
+      "additionalProductAttributes": {
+        "productSecondaryImageURL": [
+          {
+            "url": "https://elcellonline.com/atg/NARUICO/AKA/HB-01-IPH16PMAX-2.jpg"
+          },
+          {
+            "url": "https://elcellonline.com/atg/NARUICO/AKA/HB-01-IPH16PMAX-3.jpg"
+          }
+        ]
+      },
+      "manufacturer": "Head Case Designs",
+      "manufacturerPartNumber": "HB401-IPH16PMAX-NARUICO-AKA",
+      "modelNumber": "Apple iPhone 16 Pro Max",
+      "category": {
+        "CellPhoneAccessories": {
+          "specProductType": "Cell Phone Cases",
+          "variantGroupId": "HB401-IPH-NARUICO-AKA",
+          "variantAttributeNames": "color,compatibleModels",
+          "isPrimaryVariant": "No",
+          "swatchVariantAttribute": "color",
+          "swatchImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/HB-01-IPH16PMAX-1.jpg",
+          "color": "Akatsuki Red Cloud",
+          "colorCategory": "Multi-color",
+          "compatibleBrands": "Apple",
+          "compatibleModels": "iPhone 16 Pro Max",
+          "cell_phone_case_type": "Bumper",
+          "cell_phone_case_features": "Official Naruto Shippuden Akatsuki Hybrid MagSafe Black Bumper Case for Apple iPhone 16 Pro Max. MagSafe compatible with integrated magnetic ring. Military-grade drop protection. TPU bumper + PC hard back + integrated MagSafe magnetic ring construction. Scratch-resistant polycarbonate back with shock-absorbing TPU bumper. Wireless charging compatible. Raised bezels for screen and camera protection. Slim profile, lightweight design. Precision cutouts for all ports and buttons. High-definition UV-printed fade-resistant artwork.",
+          "character": "Akatsuki",
+          "pattern": "Character",
+          "theme": "Anime",
+          "globalBrandLicense": "VIZ Media",
+          "case_material": "TPU",
+          "case_style": "Back Cover",
+          "attachmentStyle": "Snap-On",
+          "assembledProductWeight": {
+            "measure": 0.11,
+            "unit": "lb"
+          }
+        }
+      },
+      "fulfillmentLagTime": 1,
+      "startDate": "2026-03-22",
+      "endDate": "2124-08-08"
+    },
+    {
+      "sku": "HTPCR-IPH16PRO-NARUICO-AKA",
+      "productIdentifiers": {
+        "productIdType": "GTIN",
+        "productId": "05063290000000"
+      },
+      "productName": "Head Case Designs Naruto Shippuden Akatsuki Hybrid MagSafe Clear Bumper Case for Apple iPhone 16 Pro",
+      "brand": "Head Case Designs",
+      "price": 19.95,
+      "ShippingWeight": 0.11,
+      "condition": "New",
+      "shortDescription": "<div class=\"product-description\">\n<p>The <strong>Head Case Designs Naruto Shippuden Akatsuki Hybrid MagSafe Clear Bumper Case for Apple iPhone 16 Pro</strong> combines officially licensed Naruto Shippuden artwork with premium phone case protection for your Apple iPhone 16 Pro. The iconic red cloud pattern of the Akatsuki organization from Naruto Shippuden, featuring the distinctive crimson clouds on a dark background. This hybrid magsafe clear bumper case is the perfect way to showcase your fandom while keeping your device safe from everyday wear and tear.</p>\n\n<p>Engineered with a TPU bumper + PC hard back + integrated MagSafe magnetic ring construction, this Naruto Shippuden Akatsuki phone case delivers military-grade drop protection in a slim, lightweight profile. The shock-absorbing bumper guards against impacts from all angles, while the scratch-resistant polycarbonate back panel preserves the vivid, high-definition UV-printed Akatsuki artwork for long-lasting color vibrancy. The integrated MagSafe magnetic ring ensures perfect alignment with MagSafe chargers and accessories, while remaining fully compatible with standard Qi wireless charging.</p>\n\n<p>Designed specifically for the Apple iPhone 16 Pro, this case features precision-cut openings for all ports, buttons, speakers, and camera lenses, ensuring complete device functionality without ever removing the case. Raised bezels around the screen and camera module provide additional scratch and drop protection when placed face-down on surfaces.</p>\n\n<p>Head Case Designs is a leading UK-based designer of officially licensed phone accessories with over 15 years of experience creating premium cases for fans worldwide. Every design is crafted in-house and produced under official license, guaranteeing authentic Naruto Shippuden artwork you will not find anywhere else.</p>\n</div>",
+      "keyFeatures": [
+        "Officially licensed Naruto Shippuden Akatsuki design \u2014 authentic artwork featuring the iconic red cloud pattern of the akatsuki organization from naruto shippuden that you will not find on unauthorized products",
+        "Custom-engineered specifically for Apple iPhone 16 Pro with precision-molded fit that provides full access to all ports, buttons, speakers, and camera lenses",
+        "Military-grade drop protection with shock-absorbing TPU bumper engineered to withstand impacts from multiple angles",
+        "Premium TPU bumper combined with scratch-resistant polycarbonate hard back for dual-layer defense",
+        "MagSafe compatible with integrated magnetic ring for seamless attachment to MagSafe chargers and accessories",
+        "Vivid high-definition UV-printed Naruto Shippuden Akatsuki artwork delivers bold, fade-resistant colors that stay vibrant through years of daily use",
+        "Raised bezels around camera and screen provide elevated protection against surface scratches and drops",
+        "Designed by Head Case Designs, a UK-based team with 15+ years of expertise in premium officially licensed phone accessories, backed by quality guarantee"
+      ],
+      "mainImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH16PRO-1.jpg",
+      "additionalProductAttributes": {
+        "productSecondaryImageURL": [
+          {
+            "url": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH16PRO-2.jpg"
+          },
+          {
+            "url": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH16PRO-3.jpg"
+          }
+        ]
+      },
+      "manufacturer": "Head Case Designs",
+      "manufacturerPartNumber": "HTPCR-IPH16PRO-NARUICO-AKA",
+      "modelNumber": "Apple iPhone 16 Pro",
+      "category": {
+        "CellPhoneAccessories": {
+          "specProductType": "Cell Phone Cases",
+          "variantGroupId": "HTPCR-IPH-NARUICO-AKA",
+          "variantAttributeNames": "color,compatibleModels",
+          "isPrimaryVariant": "No",
+          "swatchVariantAttribute": "color",
+          "swatchImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH16PRO-1.jpg",
+          "color": "Akatsuki Red Cloud",
+          "colorCategory": "Multi-color",
+          "compatibleBrands": "Apple",
+          "compatibleModels": "iPhone 16 Pro",
+          "cell_phone_case_type": "Bumper",
+          "cell_phone_case_features": "Official Naruto Shippuden Akatsuki Hybrid MagSafe Clear Bumper Case for Apple iPhone 16 Pro. MagSafe compatible with integrated magnetic ring. Military-grade drop protection. TPU bumper + PC hard back + integrated MagSafe magnetic ring construction. Scratch-resistant polycarbonate back with shock-absorbing TPU bumper. Wireless charging compatible. Raised bezels for screen and camera protection. Slim profile, lightweight design. Precision cutouts for all ports and buttons. High-definition UV-printed fade-resistant artwork.",
+          "character": "Akatsuki",
+          "pattern": "Character",
+          "theme": "Anime",
+          "globalBrandLicense": "VIZ Media",
+          "case_material": "TPU",
+          "case_style": "Back Cover",
+          "attachmentStyle": "Snap-On",
+          "assembledProductWeight": {
+            "measure": 0.11,
+            "unit": "lb"
+          }
+        }
+      },
+      "fulfillmentLagTime": 1,
+      "startDate": "2026-03-22",
+      "endDate": "2124-08-08"
+    },
+    {
+      "sku": "HB401-IPH16PRO-NARUICO-AKA",
+      "productIdentifiers": {
+        "productIdType": "GTIN",
+        "productId": "05057546297437"
+      },
+      "productName": "Head Case Designs Naruto Shippuden Akatsuki Hybrid MagSafe Black Bumper Case for Apple iPhone 16 Pro",
+      "brand": "Head Case Designs",
+      "price": 19.95,
+      "ShippingWeight": 0.11,
+      "condition": "New",
+      "shortDescription": "<div class=\"product-description\">\n<p>The <strong>Head Case Designs Naruto Shippuden Akatsuki Hybrid MagSafe Black Bumper Case for Apple iPhone 16 Pro</strong> combines officially licensed Naruto Shippuden artwork with premium phone case protection for your Apple iPhone 16 Pro. The iconic red cloud pattern of the Akatsuki organization from Naruto Shippuden, featuring the distinctive crimson clouds on a dark background. This hybrid magsafe black bumper case is the perfect way to showcase your fandom while keeping your device safe from everyday wear and tear.</p>\n\n<p>Engineered with a TPU bumper + PC hard back + integrated MagSafe magnetic ring construction, this Naruto Shippuden Akatsuki phone case delivers military-grade drop protection in a slim, lightweight profile. The shock-absorbing bumper guards against impacts from all angles, while the scratch-resistant polycarbonate back panel preserves the vivid, high-definition UV-printed Akatsuki artwork for long-lasting color vibrancy. The integrated MagSafe magnetic ring ensures perfect alignment with MagSafe chargers and accessories, while remaining fully compatible with standard Qi wireless charging.</p>\n\n<p>Designed specifically for the Apple iPhone 16 Pro, this case features precision-cut openings for all ports, buttons, speakers, and camera lenses, ensuring complete device functionality without ever removing the case. Raised bezels around the screen and camera module provide additional scratch and drop protection when placed face-down on surfaces.</p>\n\n<p>Head Case Designs is a leading UK-based designer of officially licensed phone accessories with over 15 years of experience creating premium cases for fans worldwide. Every design is crafted in-house and produced under official license, guaranteeing authentic Naruto Shippuden artwork you will not find anywhere else.</p>\n</div>",
+      "keyFeatures": [
+        "Officially licensed Naruto Shippuden Akatsuki design \u2014 authentic artwork featuring the iconic red cloud pattern of the akatsuki organization from naruto shippuden that you will not find on unauthorized products",
+        "Custom-engineered specifically for Apple iPhone 16 Pro with precision-molded fit that provides full access to all ports, buttons, speakers, and camera lenses",
+        "Military-grade drop protection with shock-absorbing black opaque TPU bumper for enhanced impact resistance",
+        "Premium black TPU bumper combined with scratch-resistant polycarbonate hard back for dual-layer defense",
+        "MagSafe compatible with integrated magnetic ring for seamless attachment to MagSafe chargers and accessories",
+        "Vivid high-definition UV-printed Naruto Shippuden Akatsuki artwork delivers bold, fade-resistant colors that stay vibrant through years of daily use",
+        "Raised bezels around camera and screen provide elevated protection against surface scratches and drops",
+        "Designed by Head Case Designs, a UK-based team with 15+ years of expertise in premium officially licensed phone accessories, backed by quality guarantee"
+      ],
+      "mainImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/HB-01-IPH16PRO-1.jpg",
+      "additionalProductAttributes": {
+        "productSecondaryImageURL": [
+          {
+            "url": "https://elcellonline.com/atg/NARUICO/AKA/HB-01-IPH16PRO-2.jpg"
+          },
+          {
+            "url": "https://elcellonline.com/atg/NARUICO/AKA/HB-01-IPH16PRO-3.jpg"
+          }
+        ]
+      },
+      "manufacturer": "Head Case Designs",
+      "manufacturerPartNumber": "HB401-IPH16PRO-NARUICO-AKA",
+      "modelNumber": "Apple iPhone 16 Pro",
+      "category": {
+        "CellPhoneAccessories": {
+          "specProductType": "Cell Phone Cases",
+          "variantGroupId": "HB401-IPH-NARUICO-AKA",
+          "variantAttributeNames": "color,compatibleModels",
+          "isPrimaryVariant": "No",
+          "swatchVariantAttribute": "color",
+          "swatchImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/HB-01-IPH16PRO-1.jpg",
+          "color": "Akatsuki Red Cloud",
+          "colorCategory": "Multi-color",
+          "compatibleBrands": "Apple",
+          "compatibleModels": "iPhone 16 Pro",
+          "cell_phone_case_type": "Bumper",
+          "cell_phone_case_features": "Official Naruto Shippuden Akatsuki Hybrid MagSafe Black Bumper Case for Apple iPhone 16 Pro. MagSafe compatible with integrated magnetic ring. Military-grade drop protection. TPU bumper + PC hard back + integrated MagSafe magnetic ring construction. Scratch-resistant polycarbonate back with shock-absorbing TPU bumper. Wireless charging compatible. Raised bezels for screen and camera protection. Slim profile, lightweight design. Precision cutouts for all ports and buttons. High-definition UV-printed fade-resistant artwork.",
+          "character": "Akatsuki",
+          "pattern": "Character",
+          "theme": "Anime",
+          "globalBrandLicense": "VIZ Media",
+          "case_material": "TPU",
+          "case_style": "Back Cover",
+          "attachmentStyle": "Snap-On",
+          "assembledProductWeight": {
+            "measure": 0.11,
+            "unit": "lb"
+          }
+        }
+      },
+      "fulfillmentLagTime": 1,
+      "startDate": "2026-03-22",
+      "endDate": "2124-08-08"
+    },
+    {
+      "sku": "HTPCR-IPH16-NARUICO-AKA",
+      "productIdentifiers": {
+        "productIdType": "GTIN",
+        "productId": "05063290000000"
+      },
+      "productName": "Head Case Designs Naruto Shippuden Akatsuki Hybrid MagSafe Clear Bumper Case for Apple iPhone 16",
+      "brand": "Head Case Designs",
+      "price": 19.95,
+      "ShippingWeight": 0.11,
+      "condition": "New",
+      "shortDescription": "<div class=\"product-description\">\n<p>The <strong>Head Case Designs Naruto Shippuden Akatsuki Hybrid MagSafe Clear Bumper Case for Apple iPhone 16</strong> combines officially licensed Naruto Shippuden artwork with premium phone case protection for your Apple iPhone 16. The iconic red cloud pattern of the Akatsuki organization from Naruto Shippuden, featuring the distinctive crimson clouds on a dark background. This hybrid magsafe clear bumper case is the perfect way to showcase your fandom while keeping your device safe from everyday wear and tear.</p>\n\n<p>Engineered with a TPU bumper + PC hard back + integrated MagSafe magnetic ring construction, this Naruto Shippuden Akatsuki phone case delivers military-grade drop protection in a slim, lightweight profile. The shock-absorbing bumper guards against impacts from all angles, while the scratch-resistant polycarbonate back panel preserves the vivid, high-definition UV-printed Akatsuki artwork for long-lasting color vibrancy. The integrated MagSafe magnetic ring ensures perfect alignment with MagSafe chargers and accessories, while remaining fully compatible with standard Qi wireless charging.</p>\n\n<p>Designed specifically for the Apple iPhone 16, this case features precision-cut openings for all ports, buttons, speakers, and camera lenses, ensuring complete device functionality without ever removing the case. Raised bezels around the screen and camera module provide additional scratch and drop protection when placed face-down on surfaces.</p>\n\n<p>Head Case Designs is a leading UK-based designer of officially licensed phone accessories with over 15 years of experience creating premium cases for fans worldwide. Every design is crafted in-house and produced under official license, guaranteeing authentic Naruto Shippuden artwork you will not find anywhere else.</p>\n</div>",
+      "keyFeatures": [
+        "Officially licensed Naruto Shippuden Akatsuki design \u2014 authentic artwork featuring the iconic red cloud pattern of the akatsuki organization from naruto shippuden that you will not find on unauthorized products",
+        "Custom-engineered specifically for Apple iPhone 16 with precision-molded fit that provides full access to all ports, buttons, speakers, and camera lenses",
+        "Military-grade drop protection with shock-absorbing TPU bumper engineered to withstand impacts from multiple angles",
+        "Premium TPU bumper combined with scratch-resistant polycarbonate hard back for dual-layer defense",
+        "MagSafe compatible with integrated magnetic ring for seamless attachment to MagSafe chargers and accessories",
+        "Vivid high-definition UV-printed Naruto Shippuden Akatsuki artwork delivers bold, fade-resistant colors that stay vibrant through years of daily use",
+        "Raised bezels around camera and screen provide elevated protection against surface scratches and drops",
+        "Designed by Head Case Designs, a UK-based team with 15+ years of expertise in premium officially licensed phone accessories, backed by quality guarantee"
+      ],
+      "mainImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH16-1.jpg",
+      "additionalProductAttributes": {
+        "productSecondaryImageURL": [
+          {
+            "url": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH16-2.jpg"
+          },
+          {
+            "url": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH16-3.jpg"
+          }
+        ]
+      },
+      "manufacturer": "Head Case Designs",
+      "manufacturerPartNumber": "HTPCR-IPH16-NARUICO-AKA",
+      "modelNumber": "Apple iPhone 16",
+      "category": {
+        "CellPhoneAccessories": {
+          "specProductType": "Cell Phone Cases",
+          "variantGroupId": "HTPCR-IPH-NARUICO-AKA",
+          "variantAttributeNames": "color,compatibleModels",
+          "isPrimaryVariant": "No",
+          "swatchVariantAttribute": "color",
+          "swatchImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH16-1.jpg",
+          "color": "Akatsuki Red Cloud",
+          "colorCategory": "Multi-color",
+          "compatibleBrands": "Apple",
+          "compatibleModels": "iPhone 16",
+          "cell_phone_case_type": "Bumper",
+          "cell_phone_case_features": "Official Naruto Shippuden Akatsuki Hybrid MagSafe Clear Bumper Case for Apple iPhone 16. MagSafe compatible with integrated magnetic ring. Military-grade drop protection. TPU bumper + PC hard back + integrated MagSafe magnetic ring construction. Scratch-resistant polycarbonate back with shock-absorbing TPU bumper. Wireless charging compatible. Raised bezels for screen and camera protection. Slim profile, lightweight design. Precision cutouts for all ports and buttons. High-definition UV-printed fade-resistant artwork.",
+          "character": "Akatsuki",
+          "pattern": "Character",
+          "theme": "Anime",
+          "globalBrandLicense": "VIZ Media",
+          "case_material": "TPU",
+          "case_style": "Back Cover",
+          "attachmentStyle": "Snap-On",
+          "assembledProductWeight": {
+            "measure": 0.11,
+            "unit": "lb"
+          }
+        }
+      },
+      "fulfillmentLagTime": 1,
+      "startDate": "2026-03-22",
+      "endDate": "2124-08-08"
+    },
+    {
+      "sku": "HB401-IPH16-NARUICO-AKA",
+      "productIdentifiers": {
+        "productIdType": "GTIN",
+        "productId": "05057546228233"
+      },
+      "productName": "Head Case Designs Naruto Shippuden Akatsuki Hybrid MagSafe Black Bumper Case for Apple iPhone 16",
+      "brand": "Head Case Designs",
+      "price": 19.95,
+      "ShippingWeight": 0.11,
+      "condition": "New",
+      "shortDescription": "<div class=\"product-description\">\n<p>The <strong>Head Case Designs Naruto Shippuden Akatsuki Hybrid MagSafe Black Bumper Case for Apple iPhone 16</strong> combines officially licensed Naruto Shippuden artwork with premium phone case protection for your Apple iPhone 16. The iconic red cloud pattern of the Akatsuki organization from Naruto Shippuden, featuring the distinctive crimson clouds on a dark background. This hybrid magsafe black bumper case is the perfect way to showcase your fandom while keeping your device safe from everyday wear and tear.</p>\n\n<p>Engineered with a TPU bumper + PC hard back + integrated MagSafe magnetic ring construction, this Naruto Shippuden Akatsuki phone case delivers military-grade drop protection in a slim, lightweight profile. The shock-absorbing bumper guards against impacts from all angles, while the scratch-resistant polycarbonate back panel preserves the vivid, high-definition UV-printed Akatsuki artwork for long-lasting color vibrancy. The integrated MagSafe magnetic ring ensures perfect alignment with MagSafe chargers and accessories, while remaining fully compatible with standard Qi wireless charging.</p>\n\n<p>Designed specifically for the Apple iPhone 16, this case features precision-cut openings for all ports, buttons, speakers, and camera lenses, ensuring complete device functionality without ever removing the case. Raised bezels around the screen and camera module provide additional scratch and drop protection when placed face-down on surfaces.</p>\n\n<p>Head Case Designs is a leading UK-based designer of officially licensed phone accessories with over 15 years of experience creating premium cases for fans worldwide. Every design is crafted in-house and produced under official license, guaranteeing authentic Naruto Shippuden artwork you will not find anywhere else.</p>\n</div>",
+      "keyFeatures": [
+        "Officially licensed Naruto Shippuden Akatsuki design \u2014 authentic artwork featuring the iconic red cloud pattern of the akatsuki organization from naruto shippuden that you will not find on unauthorized products",
+        "Custom-engineered specifically for Apple iPhone 16 with precision-molded fit that provides full access to all ports, buttons, speakers, and camera lenses",
+        "Military-grade drop protection with shock-absorbing black opaque TPU bumper for enhanced impact resistance",
+        "Premium black TPU bumper combined with scratch-resistant polycarbonate hard back for dual-layer defense",
+        "MagSafe compatible with integrated magnetic ring for seamless attachment to MagSafe chargers and accessories",
+        "Vivid high-definition UV-printed Naruto Shippuden Akatsuki artwork delivers bold, fade-resistant colors that stay vibrant through years of daily use",
+        "Raised bezels around camera and screen provide elevated protection against surface scratches and drops",
+        "Designed by Head Case Designs, a UK-based team with 15+ years of expertise in premium officially licensed phone accessories, backed by quality guarantee"
+      ],
+      "mainImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/HB-01-IPH16-1.jpg",
+      "additionalProductAttributes": {
+        "productSecondaryImageURL": [
+          {
+            "url": "https://elcellonline.com/atg/NARUICO/AKA/HB-01-IPH16-2.jpg"
+          },
+          {
+            "url": "https://elcellonline.com/atg/NARUICO/AKA/HB-01-IPH16-3.jpg"
+          }
+        ]
+      },
+      "manufacturer": "Head Case Designs",
+      "manufacturerPartNumber": "HB401-IPH16-NARUICO-AKA",
+      "modelNumber": "Apple iPhone 16",
+      "category": {
+        "CellPhoneAccessories": {
+          "specProductType": "Cell Phone Cases",
+          "variantGroupId": "HB401-IPH-NARUICO-AKA",
+          "variantAttributeNames": "color,compatibleModels",
+          "isPrimaryVariant": "No",
+          "swatchVariantAttribute": "color",
+          "swatchImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/HB-01-IPH16-1.jpg",
+          "color": "Akatsuki Red Cloud",
+          "colorCategory": "Multi-color",
+          "compatibleBrands": "Apple",
+          "compatibleModels": "iPhone 16",
+          "cell_phone_case_type": "Bumper",
+          "cell_phone_case_features": "Official Naruto Shippuden Akatsuki Hybrid MagSafe Black Bumper Case for Apple iPhone 16. MagSafe compatible with integrated magnetic ring. Military-grade drop protection. TPU bumper + PC hard back + integrated MagSafe magnetic ring construction. Scratch-resistant polycarbonate back with shock-absorbing TPU bumper. Wireless charging compatible. Raised bezels for screen and camera protection. Slim profile, lightweight design. Precision cutouts for all ports and buttons. High-definition UV-printed fade-resistant artwork.",
+          "character": "Akatsuki",
+          "pattern": "Character",
+          "theme": "Anime",
+          "globalBrandLicense": "VIZ Media",
+          "case_material": "TPU",
+          "case_style": "Back Cover",
+          "attachmentStyle": "Snap-On",
+          "assembledProductWeight": {
+            "measure": 0.11,
+            "unit": "lb"
+          }
+        }
+      },
+      "fulfillmentLagTime": 1,
+      "startDate": "2026-03-22",
+      "endDate": "2124-08-08"
+    },
+    {
+      "sku": "HTPCR-IPH16PLUS-NARUICO-AKA",
+      "productIdentifiers": {
+        "productIdType": "GTIN",
+        "productId": "05057546027508"
+      },
+      "productName": "Head Case Designs Naruto Shippuden Akatsuki Hybrid MagSafe Clear Bumper Case for Apple iPhone 16 Plus",
+      "brand": "Head Case Designs",
+      "price": 19.95,
+      "ShippingWeight": 0.11,
+      "condition": "New",
+      "shortDescription": "<div class=\"product-description\">\n<p>The <strong>Head Case Designs Naruto Shippuden Akatsuki Hybrid MagSafe Clear Bumper Case for Apple iPhone 16 Plus</strong> combines officially licensed Naruto Shippuden artwork with premium phone case protection for your Apple iPhone 16 Plus. The iconic red cloud pattern of the Akatsuki organization from Naruto Shippuden, featuring the distinctive crimson clouds on a dark background. This hybrid magsafe clear bumper case is the perfect way to showcase your fandom while keeping your device safe from everyday wear and tear.</p>\n\n<p>Engineered with a TPU bumper + PC hard back + integrated MagSafe magnetic ring construction, this Naruto Shippuden Akatsuki phone case delivers military-grade drop protection in a slim, lightweight profile. The shock-absorbing bumper guards against impacts from all angles, while the scratch-resistant polycarbonate back panel preserves the vivid, high-definition UV-printed Akatsuki artwork for long-lasting color vibrancy. The integrated MagSafe magnetic ring ensures perfect alignment with MagSafe chargers and accessories, while remaining fully compatible with standard Qi wireless charging.</p>\n\n<p>Designed specifically for the Apple iPhone 16 Plus, this case features precision-cut openings for all ports, buttons, speakers, and camera lenses, ensuring complete device functionality without ever removing the case. Raised bezels around the screen and camera module provide additional scratch and drop protection when placed face-down on surfaces.</p>\n\n<p>Head Case Designs is a leading UK-based designer of officially licensed phone accessories with over 15 years of experience creating premium cases for fans worldwide. Every design is crafted in-house and produced under official license, guaranteeing authentic Naruto Shippuden artwork you will not find anywhere else.</p>\n</div>",
+      "keyFeatures": [
+        "Officially licensed Naruto Shippuden Akatsuki design \u2014 authentic artwork featuring the iconic red cloud pattern of the akatsuki organization from naruto shippuden that you will not find on unauthorized products",
+        "Custom-engineered specifically for Apple iPhone 16 Plus with precision-molded fit that provides full access to all ports, buttons, speakers, and camera lenses",
+        "Military-grade drop protection with shock-absorbing TPU bumper engineered to withstand impacts from multiple angles",
+        "Premium TPU bumper combined with scratch-resistant polycarbonate hard back for dual-layer defense",
+        "MagSafe compatible with integrated magnetic ring for seamless attachment to MagSafe chargers and accessories",
+        "Vivid high-definition UV-printed Naruto Shippuden Akatsuki artwork delivers bold, fade-resistant colors that stay vibrant through years of daily use",
+        "Raised bezels around camera and screen provide elevated protection against surface scratches and drops",
+        "Designed by Head Case Designs, a UK-based team with 15+ years of expertise in premium officially licensed phone accessories, backed by quality guarantee"
+      ],
+      "mainImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH16PLUS-1.jpg",
+      "additionalProductAttributes": {
+        "productSecondaryImageURL": [
+          {
+            "url": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH16PLUS-2.jpg"
+          },
+          {
+            "url": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH16PLUS-3.jpg"
+          }
+        ]
+      },
+      "manufacturer": "Head Case Designs",
+      "manufacturerPartNumber": "HTPCR-IPH16PLUS-NARUICO-AKA",
+      "modelNumber": "Apple iPhone 16 Plus",
+      "category": {
+        "CellPhoneAccessories": {
+          "specProductType": "Cell Phone Cases",
+          "variantGroupId": "HTPCR-IPH-NARUICO-AKA",
+          "variantAttributeNames": "color,compatibleModels",
+          "isPrimaryVariant": "No",
+          "swatchVariantAttribute": "color",
+          "swatchImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH16PLUS-1.jpg",
+          "color": "Akatsuki Red Cloud",
+          "colorCategory": "Multi-color",
+          "compatibleBrands": "Apple",
+          "compatibleModels": "iPhone 16 Plus",
+          "cell_phone_case_type": "Bumper",
+          "cell_phone_case_features": "Official Naruto Shippuden Akatsuki Hybrid MagSafe Clear Bumper Case for Apple iPhone 16 Plus. MagSafe compatible with integrated magnetic ring. Military-grade drop protection. TPU bumper + PC hard back + integrated MagSafe magnetic ring construction. Scratch-resistant polycarbonate back with shock-absorbing TPU bumper. Wireless charging compatible. Raised bezels for screen and camera protection. Slim profile, lightweight design. Precision cutouts for all ports and buttons. High-definition UV-printed fade-resistant artwork.",
+          "character": "Akatsuki",
+          "pattern": "Character",
+          "theme": "Anime",
+          "globalBrandLicense": "VIZ Media",
+          "case_material": "TPU",
+          "case_style": "Back Cover",
+          "attachmentStyle": "Snap-On",
+          "assembledProductWeight": {
+            "measure": 0.11,
+            "unit": "lb"
+          }
+        }
+      },
+      "fulfillmentLagTime": 1,
+      "startDate": "2026-03-22",
+      "endDate": "2124-08-08"
+    },
+    {
+      "sku": "HB401-IPH16PLUS-NARUICO-AKA",
+      "productIdentifiers": {
+        "productIdType": "GTIN",
+        "productId": "05057089011866"
+      },
+      "productName": "Head Case Designs Naruto Shippuden Akatsuki Hybrid MagSafe Black Bumper Case for Apple iPhone 16 Plus",
+      "brand": "Head Case Designs",
+      "price": 19.95,
+      "ShippingWeight": 0.11,
+      "condition": "New",
+      "shortDescription": "<div class=\"product-description\">\n<p>The <strong>Head Case Designs Naruto Shippuden Akatsuki Hybrid MagSafe Black Bumper Case for Apple iPhone 16 Plus</strong> combines officially licensed Naruto Shippuden artwork with premium phone case protection for your Apple iPhone 16 Plus. The iconic red cloud pattern of the Akatsuki organization from Naruto Shippuden, featuring the distinctive crimson clouds on a dark background. This hybrid magsafe black bumper case is the perfect way to showcase your fandom while keeping your device safe from everyday wear and tear.</p>\n\n<p>Engineered with a TPU bumper + PC hard back + integrated MagSafe magnetic ring construction, this Naruto Shippuden Akatsuki phone case delivers military-grade drop protection in a slim, lightweight profile. The shock-absorbing bumper guards against impacts from all angles, while the scratch-resistant polycarbonate back panel preserves the vivid, high-definition UV-printed Akatsuki artwork for long-lasting color vibrancy. The integrated MagSafe magnetic ring ensures perfect alignment with MagSafe chargers and accessories, while remaining fully compatible with standard Qi wireless charging.</p>\n\n<p>Designed specifically for the Apple iPhone 16 Plus, this case features precision-cut openings for all ports, buttons, speakers, and camera lenses, ensuring complete device functionality without ever removing the case. Raised bezels around the screen and camera module provide additional scratch and drop protection when placed face-down on surfaces.</p>\n\n<p>Head Case Designs is a leading UK-based designer of officially licensed phone accessories with over 15 years of experience creating premium cases for fans worldwide. Every design is crafted in-house and produced under official license, guaranteeing authentic Naruto Shippuden artwork you will not find anywhere else.</p>\n</div>",
+      "keyFeatures": [
+        "Officially licensed Naruto Shippuden Akatsuki design \u2014 authentic artwork featuring the iconic red cloud pattern of the akatsuki organization from naruto shippuden that you will not find on unauthorized products",
+        "Custom-engineered specifically for Apple iPhone 16 Plus with precision-molded fit that provides full access to all ports, buttons, speakers, and camera lenses",
+        "Military-grade drop protection with shock-absorbing black opaque TPU bumper for enhanced impact resistance",
+        "Premium black TPU bumper combined with scratch-resistant polycarbonate hard back for dual-layer defense",
+        "MagSafe compatible with integrated magnetic ring for seamless attachment to MagSafe chargers and accessories",
+        "Vivid high-definition UV-printed Naruto Shippuden Akatsuki artwork delivers bold, fade-resistant colors that stay vibrant through years of daily use",
+        "Raised bezels around camera and screen provide elevated protection against surface scratches and drops",
+        "Designed by Head Case Designs, a UK-based team with 15+ years of expertise in premium officially licensed phone accessories, backed by quality guarantee"
+      ],
+      "mainImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/HB-01-IPH16PLUS-1.jpg",
+      "additionalProductAttributes": {
+        "productSecondaryImageURL": [
+          {
+            "url": "https://elcellonline.com/atg/NARUICO/AKA/HB-01-IPH16PLUS-2.jpg"
+          },
+          {
+            "url": "https://elcellonline.com/atg/NARUICO/AKA/HB-01-IPH16PLUS-3.jpg"
+          }
+        ]
+      },
+      "manufacturer": "Head Case Designs",
+      "manufacturerPartNumber": "HB401-IPH16PLUS-NARUICO-AKA",
+      "modelNumber": "Apple iPhone 16 Plus",
+      "category": {
+        "CellPhoneAccessories": {
+          "specProductType": "Cell Phone Cases",
+          "variantGroupId": "HB401-IPH-NARUICO-AKA",
+          "variantAttributeNames": "color,compatibleModels",
+          "isPrimaryVariant": "No",
+          "swatchVariantAttribute": "color",
+          "swatchImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/HB-01-IPH16PLUS-1.jpg",
+          "color": "Akatsuki Red Cloud",
+          "colorCategory": "Multi-color",
+          "compatibleBrands": "Apple",
+          "compatibleModels": "iPhone 16 Plus",
+          "cell_phone_case_type": "Bumper",
+          "cell_phone_case_features": "Official Naruto Shippuden Akatsuki Hybrid MagSafe Black Bumper Case for Apple iPhone 16 Plus. MagSafe compatible with integrated magnetic ring. Military-grade drop protection. TPU bumper + PC hard back + integrated MagSafe magnetic ring construction. Scratch-resistant polycarbonate back with shock-absorbing TPU bumper. Wireless charging compatible. Raised bezels for screen and camera protection. Slim profile, lightweight design. Precision cutouts for all ports and buttons. High-definition UV-printed fade-resistant artwork.",
+          "character": "Akatsuki",
+          "pattern": "Character",
+          "theme": "Anime",
+          "globalBrandLicense": "VIZ Media",
+          "case_material": "TPU",
+          "case_style": "Back Cover",
+          "attachmentStyle": "Snap-On",
+          "assembledProductWeight": {
+            "measure": 0.11,
+            "unit": "lb"
+          }
+        }
+      },
+      "fulfillmentLagTime": 1,
+      "startDate": "2026-03-22",
+      "endDate": "2124-08-08"
+    },
+    {
+      "sku": "HTPCR-IPH15PMAX-NARUICO-AKA",
+      "productIdentifiers": {
+        "productIdType": "GTIN",
+        "productId": "05063290000000"
+      },
+      "productName": "Head Case Designs Naruto Shippuden Akatsuki Hybrid MagSafe Clear Bumper Case for Apple iPhone 15 Pro Max",
+      "brand": "Head Case Designs",
+      "price": 19.95,
+      "ShippingWeight": 0.11,
+      "condition": "New",
+      "shortDescription": "<div class=\"product-description\">\n<p>The <strong>Head Case Designs Naruto Shippuden Akatsuki Hybrid MagSafe Clear Bumper Case for Apple iPhone 15 Pro Max</strong> combines officially licensed Naruto Shippuden artwork with premium phone case protection for your Apple iPhone 15 Pro Max. The iconic red cloud pattern of the Akatsuki organization from Naruto Shippuden, featuring the distinctive crimson clouds on a dark background. This hybrid magsafe clear bumper case is the perfect way to showcase your fandom while keeping your device safe from everyday wear and tear.</p>\n\n<p>Engineered with a TPU bumper + PC hard back + integrated MagSafe magnetic ring construction, this Naruto Shippuden Akatsuki phone case delivers military-grade drop protection in a slim, lightweight profile. The shock-absorbing bumper guards against impacts from all angles, while the scratch-resistant polycarbonate back panel preserves the vivid, high-definition UV-printed Akatsuki artwork for long-lasting color vibrancy. The integrated MagSafe magnetic ring ensures perfect alignment with MagSafe chargers and accessories, while remaining fully compatible with standard Qi wireless charging.</p>\n\n<p>Designed specifically for the Apple iPhone 15 Pro Max, this case features precision-cut openings for all ports, buttons, speakers, and camera lenses, ensuring complete device functionality without ever removing the case. Raised bezels around the screen and camera module provide additional scratch and drop protection when placed face-down on surfaces.</p>\n\n<p>Head Case Designs is a leading UK-based designer of officially licensed phone accessories with over 15 years of experience creating premium cases for fans worldwide. Every design is crafted in-house and produced under official license, guaranteeing authentic Naruto Shippuden artwork you will not find anywhere else.</p>\n</div>",
+      "keyFeatures": [
+        "Officially licensed Naruto Shippuden Akatsuki design \u2014 authentic artwork featuring the iconic red cloud pattern of the akatsuki organization from naruto shippuden that you will not find on unauthorized products",
+        "Custom-engineered specifically for Apple iPhone 15 Pro Max with precision-molded fit that provides full access to all ports, buttons, speakers, and camera lenses",
+        "Military-grade drop protection with shock-absorbing TPU bumper engineered to withstand impacts from multiple angles",
+        "Premium TPU bumper combined with scratch-resistant polycarbonate hard back for dual-layer defense",
+        "MagSafe compatible with integrated magnetic ring for seamless attachment to MagSafe chargers and accessories",
+        "Vivid high-definition UV-printed Naruto Shippuden Akatsuki artwork delivers bold, fade-resistant colors that stay vibrant through years of daily use",
+        "Raised bezels around camera and screen provide elevated protection against surface scratches and drops",
+        "Designed by Head Case Designs, a UK-based team with 15+ years of expertise in premium officially licensed phone accessories, backed by quality guarantee"
+      ],
+      "mainImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH15PMAX-1.jpg",
+      "additionalProductAttributes": {
+        "productSecondaryImageURL": [
+          {
+            "url": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH15PMAX-2.jpg"
+          },
+          {
+            "url": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH15PMAX-3.jpg"
+          }
+        ]
+      },
+      "manufacturer": "Head Case Designs",
+      "manufacturerPartNumber": "HTPCR-IPH15PMAX-NARUICO-AKA",
+      "modelNumber": "Apple iPhone 15 Pro Max",
+      "category": {
+        "CellPhoneAccessories": {
+          "specProductType": "Cell Phone Cases",
+          "variantGroupId": "HTPCR-IPH-NARUICO-AKA",
+          "variantAttributeNames": "color,compatibleModels",
+          "isPrimaryVariant": "No",
+          "swatchVariantAttribute": "color",
+          "swatchImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH15PMAX-1.jpg",
+          "color": "Akatsuki Red Cloud",
+          "colorCategory": "Multi-color",
+          "compatibleBrands": "Apple",
+          "compatibleModels": "iPhone 15 Pro Max",
+          "cell_phone_case_type": "Bumper",
+          "cell_phone_case_features": "Official Naruto Shippuden Akatsuki Hybrid MagSafe Clear Bumper Case for Apple iPhone 15 Pro Max. MagSafe compatible with integrated magnetic ring. Military-grade drop protection. TPU bumper + PC hard back + integrated MagSafe magnetic ring construction. Scratch-resistant polycarbonate back with shock-absorbing TPU bumper. Wireless charging compatible. Raised bezels for screen and camera protection. Slim profile, lightweight design. Precision cutouts for all ports and buttons. High-definition UV-printed fade-resistant artwork.",
+          "character": "Akatsuki",
+          "pattern": "Character",
+          "theme": "Anime",
+          "globalBrandLicense": "VIZ Media",
+          "case_material": "TPU",
+          "case_style": "Back Cover",
+          "attachmentStyle": "Snap-On",
+          "assembledProductWeight": {
+            "measure": 0.11,
+            "unit": "lb"
+          }
+        }
+      },
+      "fulfillmentLagTime": 1,
+      "startDate": "2026-03-22",
+      "endDate": "2124-08-08"
+    },
+    {
+      "sku": "HB401-IPH15PMAX-NARUICO-AKA",
+      "productIdentifiers": {
+        "productIdType": "GTIN",
+        "productId": "05057546330554"
+      },
+      "productName": "Head Case Designs Naruto Shippuden Akatsuki Hybrid MagSafe Black Bumper Case for Apple iPhone 15 Pro Max",
+      "brand": "Head Case Designs",
+      "price": 19.95,
+      "ShippingWeight": 0.11,
+      "condition": "New",
+      "shortDescription": "<div class=\"product-description\">\n<p>The <strong>Head Case Designs Naruto Shippuden Akatsuki Hybrid MagSafe Black Bumper Case for Apple iPhone 15 Pro Max</strong> combines officially licensed Naruto Shippuden artwork with premium phone case protection for your Apple iPhone 15 Pro Max. The iconic red cloud pattern of the Akatsuki organization from Naruto Shippuden, featuring the distinctive crimson clouds on a dark background. This hybrid magsafe black bumper case is the perfect way to showcase your fandom while keeping your device safe from everyday wear and tear.</p>\n\n<p>Engineered with a TPU bumper + PC hard back + integrated MagSafe magnetic ring construction, this Naruto Shippuden Akatsuki phone case delivers military-grade drop protection in a slim, lightweight profile. The shock-absorbing bumper guards against impacts from all angles, while the scratch-resistant polycarbonate back panel preserves the vivid, high-definition UV-printed Akatsuki artwork for long-lasting color vibrancy. The integrated MagSafe magnetic ring ensures perfect alignment with MagSafe chargers and accessories, while remaining fully compatible with standard Qi wireless charging.</p>\n\n<p>Designed specifically for the Apple iPhone 15 Pro Max, this case features precision-cut openings for all ports, buttons, speakers, and camera lenses, ensuring complete device functionality without ever removing the case. Raised bezels around the screen and camera module provide additional scratch and drop protection when placed face-down on surfaces.</p>\n\n<p>Head Case Designs is a leading UK-based designer of officially licensed phone accessories with over 15 years of experience creating premium cases for fans worldwide. Every design is crafted in-house and produced under official license, guaranteeing authentic Naruto Shippuden artwork you will not find anywhere else.</p>\n</div>",
+      "keyFeatures": [
+        "Officially licensed Naruto Shippuden Akatsuki design \u2014 authentic artwork featuring the iconic red cloud pattern of the akatsuki organization from naruto shippuden that you will not find on unauthorized products",
+        "Custom-engineered specifically for Apple iPhone 15 Pro Max with precision-molded fit that provides full access to all ports, buttons, speakers, and camera lenses",
+        "Military-grade drop protection with shock-absorbing black opaque TPU bumper for enhanced impact resistance",
+        "Premium black TPU bumper combined with scratch-resistant polycarbonate hard back for dual-layer defense",
+        "MagSafe compatible with integrated magnetic ring for seamless attachment to MagSafe chargers and accessories",
+        "Vivid high-definition UV-printed Naruto Shippuden Akatsuki artwork delivers bold, fade-resistant colors that stay vibrant through years of daily use",
+        "Raised bezels around camera and screen provide elevated protection against surface scratches and drops",
+        "Designed by Head Case Designs, a UK-based team with 15+ years of expertise in premium officially licensed phone accessories, backed by quality guarantee"
+      ],
+      "mainImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/HB-01-IPH15PMAX-1.jpg",
+      "additionalProductAttributes": {
+        "productSecondaryImageURL": [
+          {
+            "url": "https://elcellonline.com/atg/NARUICO/AKA/HB-01-IPH15PMAX-2.jpg"
+          },
+          {
+            "url": "https://elcellonline.com/atg/NARUICO/AKA/HB-01-IPH15PMAX-3.jpg"
+          }
+        ]
+      },
+      "manufacturer": "Head Case Designs",
+      "manufacturerPartNumber": "HB401-IPH15PMAX-NARUICO-AKA",
+      "modelNumber": "Apple iPhone 15 Pro Max",
+      "category": {
+        "CellPhoneAccessories": {
+          "specProductType": "Cell Phone Cases",
+          "variantGroupId": "HB401-IPH-NARUICO-AKA",
+          "variantAttributeNames": "color,compatibleModels",
+          "isPrimaryVariant": "No",
+          "swatchVariantAttribute": "color",
+          "swatchImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/HB-01-IPH15PMAX-1.jpg",
+          "color": "Akatsuki Red Cloud",
+          "colorCategory": "Multi-color",
+          "compatibleBrands": "Apple",
+          "compatibleModels": "iPhone 15 Pro Max",
+          "cell_phone_case_type": "Bumper",
+          "cell_phone_case_features": "Official Naruto Shippuden Akatsuki Hybrid MagSafe Black Bumper Case for Apple iPhone 15 Pro Max. MagSafe compatible with integrated magnetic ring. Military-grade drop protection. TPU bumper + PC hard back + integrated MagSafe magnetic ring construction. Scratch-resistant polycarbonate back with shock-absorbing TPU bumper. Wireless charging compatible. Raised bezels for screen and camera protection. Slim profile, lightweight design. Precision cutouts for all ports and buttons. High-definition UV-printed fade-resistant artwork.",
+          "character": "Akatsuki",
+          "pattern": "Character",
+          "theme": "Anime",
+          "globalBrandLicense": "VIZ Media",
+          "case_material": "TPU",
+          "case_style": "Back Cover",
+          "attachmentStyle": "Snap-On",
+          "assembledProductWeight": {
+            "measure": 0.11,
+            "unit": "lb"
+          }
+        }
+      },
+      "fulfillmentLagTime": 1,
+      "startDate": "2026-03-22",
+      "endDate": "2124-08-08"
+    },
+    {
+      "sku": "HTPCR-IPH15PRO-NARUICO-AKA",
+      "productIdentifiers": {
+        "productIdType": "GTIN",
+        "productId": "05057546014324"
+      },
+      "productName": "Head Case Designs Naruto Shippuden Akatsuki Hybrid MagSafe Clear Bumper Case for Apple iPhone 15 Pro",
+      "brand": "Head Case Designs",
+      "price": 19.95,
+      "ShippingWeight": 0.11,
+      "condition": "New",
+      "shortDescription": "<div class=\"product-description\">\n<p>The <strong>Head Case Designs Naruto Shippuden Akatsuki Hybrid MagSafe Clear Bumper Case for Apple iPhone 15 Pro</strong> combines officially licensed Naruto Shippuden artwork with premium phone case protection for your Apple iPhone 15 Pro. The iconic red cloud pattern of the Akatsuki organization from Naruto Shippuden, featuring the distinctive crimson clouds on a dark background. This hybrid magsafe clear bumper case is the perfect way to showcase your fandom while keeping your device safe from everyday wear and tear.</p>\n\n<p>Engineered with a TPU bumper + PC hard back + integrated MagSafe magnetic ring construction, this Naruto Shippuden Akatsuki phone case delivers military-grade drop protection in a slim, lightweight profile. The shock-absorbing bumper guards against impacts from all angles, while the scratch-resistant polycarbonate back panel preserves the vivid, high-definition UV-printed Akatsuki artwork for long-lasting color vibrancy. The integrated MagSafe magnetic ring ensures perfect alignment with MagSafe chargers and accessories, while remaining fully compatible with standard Qi wireless charging.</p>\n\n<p>Designed specifically for the Apple iPhone 15 Pro, this case features precision-cut openings for all ports, buttons, speakers, and camera lenses, ensuring complete device functionality without ever removing the case. Raised bezels around the screen and camera module provide additional scratch and drop protection when placed face-down on surfaces.</p>\n\n<p>Head Case Designs is a leading UK-based designer of officially licensed phone accessories with over 15 years of experience creating premium cases for fans worldwide. Every design is crafted in-house and produced under official license, guaranteeing authentic Naruto Shippuden artwork you will not find anywhere else.</p>\n</div>",
+      "keyFeatures": [
+        "Officially licensed Naruto Shippuden Akatsuki design \u2014 authentic artwork featuring the iconic red cloud pattern of the akatsuki organization from naruto shippuden that you will not find on unauthorized products",
+        "Custom-engineered specifically for Apple iPhone 15 Pro with precision-molded fit that provides full access to all ports, buttons, speakers, and camera lenses",
+        "Military-grade drop protection with shock-absorbing TPU bumper engineered to withstand impacts from multiple angles",
+        "Premium TPU bumper combined with scratch-resistant polycarbonate hard back for dual-layer defense",
+        "MagSafe compatible with integrated magnetic ring for seamless attachment to MagSafe chargers and accessories",
+        "Vivid high-definition UV-printed Naruto Shippuden Akatsuki artwork delivers bold, fade-resistant colors that stay vibrant through years of daily use",
+        "Raised bezels around camera and screen provide elevated protection against surface scratches and drops",
+        "Designed by Head Case Designs, a UK-based team with 15+ years of expertise in premium officially licensed phone accessories, backed by quality guarantee"
+      ],
+      "mainImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH15PRO-1.jpg",
+      "additionalProductAttributes": {
+        "productSecondaryImageURL": [
+          {
+            "url": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH15PRO-2.jpg"
+          },
+          {
+            "url": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH15PRO-3.jpg"
+          }
+        ]
+      },
+      "manufacturer": "Head Case Designs",
+      "manufacturerPartNumber": "HTPCR-IPH15PRO-NARUICO-AKA",
+      "modelNumber": "Apple iPhone 15 Pro",
+      "category": {
+        "CellPhoneAccessories": {
+          "specProductType": "Cell Phone Cases",
+          "variantGroupId": "HTPCR-IPH-NARUICO-AKA",
+          "variantAttributeNames": "color,compatibleModels",
+          "isPrimaryVariant": "No",
+          "swatchVariantAttribute": "color",
+          "swatchImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH15PRO-1.jpg",
+          "color": "Akatsuki Red Cloud",
+          "colorCategory": "Multi-color",
+          "compatibleBrands": "Apple",
+          "compatibleModels": "iPhone 15 Pro",
+          "cell_phone_case_type": "Bumper",
+          "cell_phone_case_features": "Official Naruto Shippuden Akatsuki Hybrid MagSafe Clear Bumper Case for Apple iPhone 15 Pro. MagSafe compatible with integrated magnetic ring. Military-grade drop protection. TPU bumper + PC hard back + integrated MagSafe magnetic ring construction. Scratch-resistant polycarbonate back with shock-absorbing TPU bumper. Wireless charging compatible. Raised bezels for screen and camera protection. Slim profile, lightweight design. Precision cutouts for all ports and buttons. High-definition UV-printed fade-resistant artwork.",
+          "character": "Akatsuki",
+          "pattern": "Character",
+          "theme": "Anime",
+          "globalBrandLicense": "VIZ Media",
+          "case_material": "TPU",
+          "case_style": "Back Cover",
+          "attachmentStyle": "Snap-On",
+          "assembledProductWeight": {
+            "measure": 0.11,
+            "unit": "lb"
+          }
+        }
+      },
+      "fulfillmentLagTime": 1,
+      "startDate": "2026-03-22",
+      "endDate": "2124-08-08"
+    },
+    {
+      "sku": "HB401-IPH15PRO-NARUICO-AKA",
+      "productIdentifiers": {
+        "productIdType": "GTIN",
+        "productId": "05057546388494"
+      },
+      "productName": "Head Case Designs Naruto Shippuden Akatsuki Hybrid MagSafe Black Bumper Case for Apple iPhone 15 Pro",
+      "brand": "Head Case Designs",
+      "price": 19.95,
+      "ShippingWeight": 0.11,
+      "condition": "New",
+      "shortDescription": "<div class=\"product-description\">\n<p>The <strong>Head Case Designs Naruto Shippuden Akatsuki Hybrid MagSafe Black Bumper Case for Apple iPhone 15 Pro</strong> combines officially licensed Naruto Shippuden artwork with premium phone case protection for your Apple iPhone 15 Pro. The iconic red cloud pattern of the Akatsuki organization from Naruto Shippuden, featuring the distinctive crimson clouds on a dark background. This hybrid magsafe black bumper case is the perfect way to showcase your fandom while keeping your device safe from everyday wear and tear.</p>\n\n<p>Engineered with a TPU bumper + PC hard back + integrated MagSafe magnetic ring construction, this Naruto Shippuden Akatsuki phone case delivers military-grade drop protection in a slim, lightweight profile. The shock-absorbing bumper guards against impacts from all angles, while the scratch-resistant polycarbonate back panel preserves the vivid, high-definition UV-printed Akatsuki artwork for long-lasting color vibrancy. The integrated MagSafe magnetic ring ensures perfect alignment with MagSafe chargers and accessories, while remaining fully compatible with standard Qi wireless charging.</p>\n\n<p>Designed specifically for the Apple iPhone 15 Pro, this case features precision-cut openings for all ports, buttons, speakers, and camera lenses, ensuring complete device functionality without ever removing the case. Raised bezels around the screen and camera module provide additional scratch and drop protection when placed face-down on surfaces.</p>\n\n<p>Head Case Designs is a leading UK-based designer of officially licensed phone accessories with over 15 years of experience creating premium cases for fans worldwide. Every design is crafted in-house and produced under official license, guaranteeing authentic Naruto Shippuden artwork you will not find anywhere else.</p>\n</div>",
+      "keyFeatures": [
+        "Officially licensed Naruto Shippuden Akatsuki design \u2014 authentic artwork featuring the iconic red cloud pattern of the akatsuki organization from naruto shippuden that you will not find on unauthorized products",
+        "Custom-engineered specifically for Apple iPhone 15 Pro with precision-molded fit that provides full access to all ports, buttons, speakers, and camera lenses",
+        "Military-grade drop protection with shock-absorbing black opaque TPU bumper for enhanced impact resistance",
+        "Premium black TPU bumper combined with scratch-resistant polycarbonate hard back for dual-layer defense",
+        "MagSafe compatible with integrated magnetic ring for seamless attachment to MagSafe chargers and accessories",
+        "Vivid high-definition UV-printed Naruto Shippuden Akatsuki artwork delivers bold, fade-resistant colors that stay vibrant through years of daily use",
+        "Raised bezels around camera and screen provide elevated protection against surface scratches and drops",
+        "Designed by Head Case Designs, a UK-based team with 15+ years of expertise in premium officially licensed phone accessories, backed by quality guarantee"
+      ],
+      "mainImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/HB-01-IPH15PRO-1.jpg",
+      "additionalProductAttributes": {
+        "productSecondaryImageURL": [
+          {
+            "url": "https://elcellonline.com/atg/NARUICO/AKA/HB-01-IPH15PRO-2.jpg"
+          },
+          {
+            "url": "https://elcellonline.com/atg/NARUICO/AKA/HB-01-IPH15PRO-3.jpg"
+          }
+        ]
+      },
+      "manufacturer": "Head Case Designs",
+      "manufacturerPartNumber": "HB401-IPH15PRO-NARUICO-AKA",
+      "modelNumber": "Apple iPhone 15 Pro",
+      "category": {
+        "CellPhoneAccessories": {
+          "specProductType": "Cell Phone Cases",
+          "variantGroupId": "HB401-IPH-NARUICO-AKA",
+          "variantAttributeNames": "color,compatibleModels",
+          "isPrimaryVariant": "No",
+          "swatchVariantAttribute": "color",
+          "swatchImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/HB-01-IPH15PRO-1.jpg",
+          "color": "Akatsuki Red Cloud",
+          "colorCategory": "Multi-color",
+          "compatibleBrands": "Apple",
+          "compatibleModels": "iPhone 15 Pro",
+          "cell_phone_case_type": "Bumper",
+          "cell_phone_case_features": "Official Naruto Shippuden Akatsuki Hybrid MagSafe Black Bumper Case for Apple iPhone 15 Pro. MagSafe compatible with integrated magnetic ring. Military-grade drop protection. TPU bumper + PC hard back + integrated MagSafe magnetic ring construction. Scratch-resistant polycarbonate back with shock-absorbing TPU bumper. Wireless charging compatible. Raised bezels for screen and camera protection. Slim profile, lightweight design. Precision cutouts for all ports and buttons. High-definition UV-printed fade-resistant artwork.",
+          "character": "Akatsuki",
+          "pattern": "Character",
+          "theme": "Anime",
+          "globalBrandLicense": "VIZ Media",
+          "case_material": "TPU",
+          "case_style": "Back Cover",
+          "attachmentStyle": "Snap-On",
+          "assembledProductWeight": {
+            "measure": 0.11,
+            "unit": "lb"
+          }
+        }
+      },
+      "fulfillmentLagTime": 1,
+      "startDate": "2026-03-22",
+      "endDate": "2124-08-08"
+    },
+    {
+      "sku": "HTPCR-IPH15-NARUICO-AKA",
+      "productIdentifiers": {
+        "productIdType": "GTIN",
+        "productId": "05063290000000"
+      },
+      "productName": "Head Case Designs Naruto Shippuden Akatsuki Hybrid MagSafe Clear Bumper Case for Apple iPhone 15",
+      "brand": "Head Case Designs",
+      "price": 19.95,
+      "ShippingWeight": 0.11,
+      "condition": "New",
+      "shortDescription": "<div class=\"product-description\">\n<p>The <strong>Head Case Designs Naruto Shippuden Akatsuki Hybrid MagSafe Clear Bumper Case for Apple iPhone 15</strong> combines officially licensed Naruto Shippuden artwork with premium phone case protection for your Apple iPhone 15. The iconic red cloud pattern of the Akatsuki organization from Naruto Shippuden, featuring the distinctive crimson clouds on a dark background. This hybrid magsafe clear bumper case is the perfect way to showcase your fandom while keeping your device safe from everyday wear and tear.</p>\n\n<p>Engineered with a TPU bumper + PC hard back + integrated MagSafe magnetic ring construction, this Naruto Shippuden Akatsuki phone case delivers military-grade drop protection in a slim, lightweight profile. The shock-absorbing bumper guards against impacts from all angles, while the scratch-resistant polycarbonate back panel preserves the vivid, high-definition UV-printed Akatsuki artwork for long-lasting color vibrancy. The integrated MagSafe magnetic ring ensures perfect alignment with MagSafe chargers and accessories, while remaining fully compatible with standard Qi wireless charging.</p>\n\n<p>Designed specifically for the Apple iPhone 15, this case features precision-cut openings for all ports, buttons, speakers, and camera lenses, ensuring complete device functionality without ever removing the case. Raised bezels around the screen and camera module provide additional scratch and drop protection when placed face-down on surfaces.</p>\n\n<p>Head Case Designs is a leading UK-based designer of officially licensed phone accessories with over 15 years of experience creating premium cases for fans worldwide. Every design is crafted in-house and produced under official license, guaranteeing authentic Naruto Shippuden artwork you will not find anywhere else.</p>\n</div>",
+      "keyFeatures": [
+        "Officially licensed Naruto Shippuden Akatsuki design \u2014 authentic artwork featuring the iconic red cloud pattern of the akatsuki organization from naruto shippuden that you will not find on unauthorized products",
+        "Custom-engineered specifically for Apple iPhone 15 with precision-molded fit that provides full access to all ports, buttons, speakers, and camera lenses",
+        "Military-grade drop protection with shock-absorbing TPU bumper engineered to withstand impacts from multiple angles",
+        "Premium TPU bumper combined with scratch-resistant polycarbonate hard back for dual-layer defense",
+        "MagSafe compatible with integrated magnetic ring for seamless attachment to MagSafe chargers and accessories",
+        "Vivid high-definition UV-printed Naruto Shippuden Akatsuki artwork delivers bold, fade-resistant colors that stay vibrant through years of daily use",
+        "Raised bezels around camera and screen provide elevated protection against surface scratches and drops",
+        "Designed by Head Case Designs, a UK-based team with 15+ years of expertise in premium officially licensed phone accessories, backed by quality guarantee"
+      ],
+      "mainImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH15-1.jpg",
+      "additionalProductAttributes": {
+        "productSecondaryImageURL": [
+          {
+            "url": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH15-2.jpg"
+          },
+          {
+            "url": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH15-3.jpg"
+          }
+        ]
+      },
+      "manufacturer": "Head Case Designs",
+      "manufacturerPartNumber": "HTPCR-IPH15-NARUICO-AKA",
+      "modelNumber": "Apple iPhone 15",
+      "category": {
+        "CellPhoneAccessories": {
+          "specProductType": "Cell Phone Cases",
+          "variantGroupId": "HTPCR-IPH-NARUICO-AKA",
+          "variantAttributeNames": "color,compatibleModels",
+          "isPrimaryVariant": "No",
+          "swatchVariantAttribute": "color",
+          "swatchImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH15-1.jpg",
+          "color": "Akatsuki Red Cloud",
+          "colorCategory": "Multi-color",
+          "compatibleBrands": "Apple",
+          "compatibleModels": "iPhone 15",
+          "cell_phone_case_type": "Bumper",
+          "cell_phone_case_features": "Official Naruto Shippuden Akatsuki Hybrid MagSafe Clear Bumper Case for Apple iPhone 15. MagSafe compatible with integrated magnetic ring. Military-grade drop protection. TPU bumper + PC hard back + integrated MagSafe magnetic ring construction. Scratch-resistant polycarbonate back with shock-absorbing TPU bumper. Wireless charging compatible. Raised bezels for screen and camera protection. Slim profile, lightweight design. Precision cutouts for all ports and buttons. High-definition UV-printed fade-resistant artwork.",
+          "character": "Akatsuki",
+          "pattern": "Character",
+          "theme": "Anime",
+          "globalBrandLicense": "VIZ Media",
+          "case_material": "TPU",
+          "case_style": "Back Cover",
+          "attachmentStyle": "Snap-On",
+          "assembledProductWeight": {
+            "measure": 0.11,
+            "unit": "lb"
+          }
+        }
+      },
+      "fulfillmentLagTime": 1,
+      "startDate": "2026-03-22",
+      "endDate": "2124-08-08"
+    },
+    {
+      "sku": "HB401-IPH15-NARUICO-AKA",
+      "productIdentifiers": {
+        "productIdType": "GTIN",
+        "productId": "05057546238379"
+      },
+      "productName": "Head Case Designs Naruto Shippuden Akatsuki Hybrid MagSafe Black Bumper Case for Apple iPhone 15",
+      "brand": "Head Case Designs",
+      "price": 19.95,
+      "ShippingWeight": 0.11,
+      "condition": "New",
+      "shortDescription": "<div class=\"product-description\">\n<p>The <strong>Head Case Designs Naruto Shippuden Akatsuki Hybrid MagSafe Black Bumper Case for Apple iPhone 15</strong> combines officially licensed Naruto Shippuden artwork with premium phone case protection for your Apple iPhone 15. The iconic red cloud pattern of the Akatsuki organization from Naruto Shippuden, featuring the distinctive crimson clouds on a dark background. This hybrid magsafe black bumper case is the perfect way to showcase your fandom while keeping your device safe from everyday wear and tear.</p>\n\n<p>Engineered with a TPU bumper + PC hard back + integrated MagSafe magnetic ring construction, this Naruto Shippuden Akatsuki phone case delivers military-grade drop protection in a slim, lightweight profile. The shock-absorbing bumper guards against impacts from all angles, while the scratch-resistant polycarbonate back panel preserves the vivid, high-definition UV-printed Akatsuki artwork for long-lasting color vibrancy. The integrated MagSafe magnetic ring ensures perfect alignment with MagSafe chargers and accessories, while remaining fully compatible with standard Qi wireless charging.</p>\n\n<p>Designed specifically for the Apple iPhone 15, this case features precision-cut openings for all ports, buttons, speakers, and camera lenses, ensuring complete device functionality without ever removing the case. Raised bezels around the screen and camera module provide additional scratch and drop protection when placed face-down on surfaces.</p>\n\n<p>Head Case Designs is a leading UK-based designer of officially licensed phone accessories with over 15 years of experience creating premium cases for fans worldwide. Every design is crafted in-house and produced under official license, guaranteeing authentic Naruto Shippuden artwork you will not find anywhere else.</p>\n</div>",
+      "keyFeatures": [
+        "Officially licensed Naruto Shippuden Akatsuki design \u2014 authentic artwork featuring the iconic red cloud pattern of the akatsuki organization from naruto shippuden that you will not find on unauthorized products",
+        "Custom-engineered specifically for Apple iPhone 15 with precision-molded fit that provides full access to all ports, buttons, speakers, and camera lenses",
+        "Military-grade drop protection with shock-absorbing black opaque TPU bumper for enhanced impact resistance",
+        "Premium black TPU bumper combined with scratch-resistant polycarbonate hard back for dual-layer defense",
+        "MagSafe compatible with integrated magnetic ring for seamless attachment to MagSafe chargers and accessories",
+        "Vivid high-definition UV-printed Naruto Shippuden Akatsuki artwork delivers bold, fade-resistant colors that stay vibrant through years of daily use",
+        "Raised bezels around camera and screen provide elevated protection against surface scratches and drops",
+        "Designed by Head Case Designs, a UK-based team with 15+ years of expertise in premium officially licensed phone accessories, backed by quality guarantee"
+      ],
+      "mainImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/HB-01-IPH15-1.jpg",
+      "additionalProductAttributes": {
+        "productSecondaryImageURL": [
+          {
+            "url": "https://elcellonline.com/atg/NARUICO/AKA/HB-01-IPH15-2.jpg"
+          },
+          {
+            "url": "https://elcellonline.com/atg/NARUICO/AKA/HB-01-IPH15-3.jpg"
+          }
+        ]
+      },
+      "manufacturer": "Head Case Designs",
+      "manufacturerPartNumber": "HB401-IPH15-NARUICO-AKA",
+      "modelNumber": "Apple iPhone 15",
+      "category": {
+        "CellPhoneAccessories": {
+          "specProductType": "Cell Phone Cases",
+          "variantGroupId": "HB401-IPH-NARUICO-AKA",
+          "variantAttributeNames": "color,compatibleModels",
+          "isPrimaryVariant": "No",
+          "swatchVariantAttribute": "color",
+          "swatchImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/HB-01-IPH15-1.jpg",
+          "color": "Akatsuki Red Cloud",
+          "colorCategory": "Multi-color",
+          "compatibleBrands": "Apple",
+          "compatibleModels": "iPhone 15",
+          "cell_phone_case_type": "Bumper",
+          "cell_phone_case_features": "Official Naruto Shippuden Akatsuki Hybrid MagSafe Black Bumper Case for Apple iPhone 15. MagSafe compatible with integrated magnetic ring. Military-grade drop protection. TPU bumper + PC hard back + integrated MagSafe magnetic ring construction. Scratch-resistant polycarbonate back with shock-absorbing TPU bumper. Wireless charging compatible. Raised bezels for screen and camera protection. Slim profile, lightweight design. Precision cutouts for all ports and buttons. High-definition UV-printed fade-resistant artwork.",
+          "character": "Akatsuki",
+          "pattern": "Character",
+          "theme": "Anime",
+          "globalBrandLicense": "VIZ Media",
+          "case_material": "TPU",
+          "case_style": "Back Cover",
+          "attachmentStyle": "Snap-On",
+          "assembledProductWeight": {
+            "measure": 0.11,
+            "unit": "lb"
+          }
+        }
+      },
+      "fulfillmentLagTime": 1,
+      "startDate": "2026-03-22",
+      "endDate": "2124-08-08"
+    },
+    {
+      "sku": "HTPCR-IPH14-NARUICO-AKA",
+      "productIdentifiers": {
+        "productIdType": "GTIN",
+        "productId": "05063290000000"
+      },
+      "productName": "Head Case Designs Naruto Shippuden Akatsuki Hybrid MagSafe Clear Bumper Case for Apple iPhone 14",
+      "brand": "Head Case Designs",
+      "price": 19.95,
+      "ShippingWeight": 0.11,
+      "condition": "New",
+      "shortDescription": "<div class=\"product-description\">\n<p>The <strong>Head Case Designs Naruto Shippuden Akatsuki Hybrid MagSafe Clear Bumper Case for Apple iPhone 14</strong> combines officially licensed Naruto Shippuden artwork with premium phone case protection for your Apple iPhone 14. The iconic red cloud pattern of the Akatsuki organization from Naruto Shippuden, featuring the distinctive crimson clouds on a dark background. This hybrid magsafe clear bumper case is the perfect way to showcase your fandom while keeping your device safe from everyday wear and tear.</p>\n\n<p>Engineered with a TPU bumper + PC hard back + integrated MagSafe magnetic ring construction, this Naruto Shippuden Akatsuki phone case delivers military-grade drop protection in a slim, lightweight profile. The shock-absorbing bumper guards against impacts from all angles, while the scratch-resistant polycarbonate back panel preserves the vivid, high-definition UV-printed Akatsuki artwork for long-lasting color vibrancy. The integrated MagSafe magnetic ring ensures perfect alignment with MagSafe chargers and accessories, while remaining fully compatible with standard Qi wireless charging.</p>\n\n<p>Designed specifically for the Apple iPhone 14, this case features precision-cut openings for all ports, buttons, speakers, and camera lenses, ensuring complete device functionality without ever removing the case. Raised bezels around the screen and camera module provide additional scratch and drop protection when placed face-down on surfaces.</p>\n\n<p>Head Case Designs is a leading UK-based designer of officially licensed phone accessories with over 15 years of experience creating premium cases for fans worldwide. Every design is crafted in-house and produced under official license, guaranteeing authentic Naruto Shippuden artwork you will not find anywhere else.</p>\n</div>",
+      "keyFeatures": [
+        "Officially licensed Naruto Shippuden Akatsuki design \u2014 authentic artwork featuring the iconic red cloud pattern of the akatsuki organization from naruto shippuden that you will not find on unauthorized products",
+        "Custom-engineered specifically for Apple iPhone 14 with precision-molded fit that provides full access to all ports, buttons, speakers, and camera lenses",
+        "Military-grade drop protection with shock-absorbing TPU bumper engineered to withstand impacts from multiple angles",
+        "Premium TPU bumper combined with scratch-resistant polycarbonate hard back for dual-layer defense",
+        "MagSafe compatible with integrated magnetic ring for seamless attachment to MagSafe chargers and accessories",
+        "Vivid high-definition UV-printed Naruto Shippuden Akatsuki artwork delivers bold, fade-resistant colors that stay vibrant through years of daily use",
+        "Raised bezels around camera and screen provide elevated protection against surface scratches and drops",
+        "Designed by Head Case Designs, a UK-based team with 15+ years of expertise in premium officially licensed phone accessories, backed by quality guarantee"
+      ],
+      "mainImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH14-1.jpg",
+      "additionalProductAttributes": {
+        "productSecondaryImageURL": [
+          {
+            "url": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH14-2.jpg"
+          },
+          {
+            "url": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH14-3.jpg"
+          }
+        ]
+      },
+      "manufacturer": "Head Case Designs",
+      "manufacturerPartNumber": "HTPCR-IPH14-NARUICO-AKA",
+      "modelNumber": "Apple iPhone 14",
+      "category": {
+        "CellPhoneAccessories": {
+          "specProductType": "Cell Phone Cases",
+          "variantGroupId": "HTPCR-IPH-NARUICO-AKA",
+          "variantAttributeNames": "color,compatibleModels",
+          "isPrimaryVariant": "No",
+          "swatchVariantAttribute": "color",
+          "swatchImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH14-1.jpg",
+          "color": "Akatsuki Red Cloud",
+          "colorCategory": "Multi-color",
+          "compatibleBrands": "Apple",
+          "compatibleModels": "iPhone 14",
+          "cell_phone_case_type": "Bumper",
+          "cell_phone_case_features": "Official Naruto Shippuden Akatsuki Hybrid MagSafe Clear Bumper Case for Apple iPhone 14. MagSafe compatible with integrated magnetic ring. Military-grade drop protection. TPU bumper + PC hard back + integrated MagSafe magnetic ring construction. Scratch-resistant polycarbonate back with shock-absorbing TPU bumper. Wireless charging compatible. Raised bezels for screen and camera protection. Slim profile, lightweight design. Precision cutouts for all ports and buttons. High-definition UV-printed fade-resistant artwork.",
+          "character": "Akatsuki",
+          "pattern": "Character",
+          "theme": "Anime",
+          "globalBrandLicense": "VIZ Media",
+          "case_material": "TPU",
+          "case_style": "Back Cover",
+          "attachmentStyle": "Snap-On",
+          "assembledProductWeight": {
+            "measure": 0.11,
+            "unit": "lb"
+          }
+        }
+      },
+      "fulfillmentLagTime": 1,
+      "startDate": "2026-03-22",
+      "endDate": "2124-08-08"
+    },
+    {
+      "sku": "HB401-IPH14-NARUICO-AKA",
+      "productIdentifiers": {
+        "productIdType": "GTIN",
+        "productId": "05057546187783"
+      },
+      "productName": "Head Case Designs Naruto Shippuden Akatsuki Hybrid MagSafe Black Bumper Case for Apple iPhone 14",
+      "brand": "Head Case Designs",
+      "price": 19.95,
+      "ShippingWeight": 0.11,
+      "condition": "New",
+      "shortDescription": "<div class=\"product-description\">\n<p>The <strong>Head Case Designs Naruto Shippuden Akatsuki Hybrid MagSafe Black Bumper Case for Apple iPhone 14</strong> combines officially licensed Naruto Shippuden artwork with premium phone case protection for your Apple iPhone 14. The iconic red cloud pattern of the Akatsuki organization from Naruto Shippuden, featuring the distinctive crimson clouds on a dark background. This hybrid magsafe black bumper case is the perfect way to showcase your fandom while keeping your device safe from everyday wear and tear.</p>\n\n<p>Engineered with a TPU bumper + PC hard back + integrated MagSafe magnetic ring construction, this Naruto Shippuden Akatsuki phone case delivers military-grade drop protection in a slim, lightweight profile. The shock-absorbing bumper guards against impacts from all angles, while the scratch-resistant polycarbonate back panel preserves the vivid, high-definition UV-printed Akatsuki artwork for long-lasting color vibrancy. The integrated MagSafe magnetic ring ensures perfect alignment with MagSafe chargers and accessories, while remaining fully compatible with standard Qi wireless charging.</p>\n\n<p>Designed specifically for the Apple iPhone 14, this case features precision-cut openings for all ports, buttons, speakers, and camera lenses, ensuring complete device functionality without ever removing the case. Raised bezels around the screen and camera module provide additional scratch and drop protection when placed face-down on surfaces.</p>\n\n<p>Head Case Designs is a leading UK-based designer of officially licensed phone accessories with over 15 years of experience creating premium cases for fans worldwide. Every design is crafted in-house and produced under official license, guaranteeing authentic Naruto Shippuden artwork you will not find anywhere else.</p>\n</div>",
+      "keyFeatures": [
+        "Officially licensed Naruto Shippuden Akatsuki design \u2014 authentic artwork featuring the iconic red cloud pattern of the akatsuki organization from naruto shippuden that you will not find on unauthorized products",
+        "Custom-engineered specifically for Apple iPhone 14 with precision-molded fit that provides full access to all ports, buttons, speakers, and camera lenses",
+        "Military-grade drop protection with shock-absorbing black opaque TPU bumper for enhanced impact resistance",
+        "Premium black TPU bumper combined with scratch-resistant polycarbonate hard back for dual-layer defense",
+        "MagSafe compatible with integrated magnetic ring for seamless attachment to MagSafe chargers and accessories",
+        "Vivid high-definition UV-printed Naruto Shippuden Akatsuki artwork delivers bold, fade-resistant colors that stay vibrant through years of daily use",
+        "Raised bezels around camera and screen provide elevated protection against surface scratches and drops",
+        "Designed by Head Case Designs, a UK-based team with 15+ years of expertise in premium officially licensed phone accessories, backed by quality guarantee"
+      ],
+      "mainImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/HB-01-IPH14-1.jpg",
+      "additionalProductAttributes": {
+        "productSecondaryImageURL": [
+          {
+            "url": "https://elcellonline.com/atg/NARUICO/AKA/HB-01-IPH14-2.jpg"
+          },
+          {
+            "url": "https://elcellonline.com/atg/NARUICO/AKA/HB-01-IPH14-3.jpg"
+          }
+        ]
+      },
+      "manufacturer": "Head Case Designs",
+      "manufacturerPartNumber": "HB401-IPH14-NARUICO-AKA",
+      "modelNumber": "Apple iPhone 14",
+      "category": {
+        "CellPhoneAccessories": {
+          "specProductType": "Cell Phone Cases",
+          "variantGroupId": "HB401-IPH-NARUICO-AKA",
+          "variantAttributeNames": "color,compatibleModels",
+          "isPrimaryVariant": "No",
+          "swatchVariantAttribute": "color",
+          "swatchImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/HB-01-IPH14-1.jpg",
+          "color": "Akatsuki Red Cloud",
+          "colorCategory": "Multi-color",
+          "compatibleBrands": "Apple",
+          "compatibleModels": "iPhone 14",
+          "cell_phone_case_type": "Bumper",
+          "cell_phone_case_features": "Official Naruto Shippuden Akatsuki Hybrid MagSafe Black Bumper Case for Apple iPhone 14. MagSafe compatible with integrated magnetic ring. Military-grade drop protection. TPU bumper + PC hard back + integrated MagSafe magnetic ring construction. Scratch-resistant polycarbonate back with shock-absorbing TPU bumper. Wireless charging compatible. Raised bezels for screen and camera protection. Slim profile, lightweight design. Precision cutouts for all ports and buttons. High-definition UV-printed fade-resistant artwork.",
+          "character": "Akatsuki",
+          "pattern": "Character",
+          "theme": "Anime",
+          "globalBrandLicense": "VIZ Media",
+          "case_material": "TPU",
+          "case_style": "Back Cover",
+          "attachmentStyle": "Snap-On",
+          "assembledProductWeight": {
+            "measure": 0.11,
+            "unit": "lb"
+          }
+        }
+      },
+      "fulfillmentLagTime": 1,
+      "startDate": "2026-03-22",
+      "endDate": "2124-08-08"
+    },
+    {
+      "sku": "HTPCR-IPH13-NARUICO-AKA",
+      "productIdentifiers": {
+        "productIdType": "GTIN",
+        "productId": "05063290000000"
+      },
+      "productName": "Head Case Designs Naruto Shippuden Akatsuki Hybrid MagSafe Clear Bumper Case for Apple iPhone 13",
+      "brand": "Head Case Designs",
+      "price": 19.95,
+      "ShippingWeight": 0.11,
+      "condition": "New",
+      "shortDescription": "<div class=\"product-description\">\n<p>The <strong>Head Case Designs Naruto Shippuden Akatsuki Hybrid MagSafe Clear Bumper Case for Apple iPhone 13</strong> combines officially licensed Naruto Shippuden artwork with premium phone case protection for your Apple iPhone 13. The iconic red cloud pattern of the Akatsuki organization from Naruto Shippuden, featuring the distinctive crimson clouds on a dark background. This hybrid magsafe clear bumper case is the perfect way to showcase your fandom while keeping your device safe from everyday wear and tear.</p>\n\n<p>Engineered with a TPU bumper + PC hard back + integrated MagSafe magnetic ring construction, this Naruto Shippuden Akatsuki phone case delivers military-grade drop protection in a slim, lightweight profile. The shock-absorbing bumper guards against impacts from all angles, while the scratch-resistant polycarbonate back panel preserves the vivid, high-definition UV-printed Akatsuki artwork for long-lasting color vibrancy. The integrated MagSafe magnetic ring ensures perfect alignment with MagSafe chargers and accessories, while remaining fully compatible with standard Qi wireless charging.</p>\n\n<p>Designed specifically for the Apple iPhone 13, this case features precision-cut openings for all ports, buttons, speakers, and camera lenses, ensuring complete device functionality without ever removing the case. Raised bezels around the screen and camera module provide additional scratch and drop protection when placed face-down on surfaces.</p>\n\n<p>Head Case Designs is a leading UK-based designer of officially licensed phone accessories with over 15 years of experience creating premium cases for fans worldwide. Every design is crafted in-house and produced under official license, guaranteeing authentic Naruto Shippuden artwork you will not find anywhere else.</p>\n</div>",
+      "keyFeatures": [
+        "Officially licensed Naruto Shippuden Akatsuki design \u2014 authentic artwork featuring the iconic red cloud pattern of the akatsuki organization from naruto shippuden that you will not find on unauthorized products",
+        "Custom-engineered specifically for Apple iPhone 13 with precision-molded fit that provides full access to all ports, buttons, speakers, and camera lenses",
+        "Military-grade drop protection with shock-absorbing TPU bumper engineered to withstand impacts from multiple angles",
+        "Premium TPU bumper combined with scratch-resistant polycarbonate hard back for dual-layer defense",
+        "MagSafe compatible with integrated magnetic ring for seamless attachment to MagSafe chargers and accessories",
+        "Vivid high-definition UV-printed Naruto Shippuden Akatsuki artwork delivers bold, fade-resistant colors that stay vibrant through years of daily use",
+        "Raised bezels around camera and screen provide elevated protection against surface scratches and drops",
+        "Designed by Head Case Designs, a UK-based team with 15+ years of expertise in premium officially licensed phone accessories, backed by quality guarantee"
+      ],
+      "mainImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH13-1.jpg",
+      "additionalProductAttributes": {
+        "productSecondaryImageURL": [
+          {
+            "url": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH13-2.jpg"
+          },
+          {
+            "url": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH13-3.jpg"
+          }
+        ]
+      },
+      "manufacturer": "Head Case Designs",
+      "manufacturerPartNumber": "HTPCR-IPH13-NARUICO-AKA",
+      "modelNumber": "Apple iPhone 13",
+      "category": {
+        "CellPhoneAccessories": {
+          "specProductType": "Cell Phone Cases",
+          "variantGroupId": "HTPCR-IPH-NARUICO-AKA",
+          "variantAttributeNames": "color,compatibleModels",
+          "isPrimaryVariant": "No",
+          "swatchVariantAttribute": "color",
+          "swatchImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH13-1.jpg",
+          "color": "Akatsuki Red Cloud",
+          "colorCategory": "Multi-color",
+          "compatibleBrands": "Apple",
+          "compatibleModels": "iPhone 13",
+          "cell_phone_case_type": "Bumper",
+          "cell_phone_case_features": "Official Naruto Shippuden Akatsuki Hybrid MagSafe Clear Bumper Case for Apple iPhone 13. MagSafe compatible with integrated magnetic ring. Military-grade drop protection. TPU bumper + PC hard back + integrated MagSafe magnetic ring construction. Scratch-resistant polycarbonate back with shock-absorbing TPU bumper. Wireless charging compatible. Raised bezels for screen and camera protection. Slim profile, lightweight design. Precision cutouts for all ports and buttons. High-definition UV-printed fade-resistant artwork.",
+          "character": "Akatsuki",
+          "pattern": "Character",
+          "theme": "Anime",
+          "globalBrandLicense": "VIZ Media",
+          "case_material": "TPU",
+          "case_style": "Back Cover",
+          "attachmentStyle": "Snap-On",
+          "assembledProductWeight": {
+            "measure": 0.11,
+            "unit": "lb"
+          }
+        }
+      },
+      "fulfillmentLagTime": 1,
+      "startDate": "2026-03-22",
+      "endDate": "2124-08-08"
+    },
+    {
+      "sku": "HB401-IPH13-NARUICO-AKA",
+      "productIdentifiers": {
+        "productIdType": "GTIN",
+        "productId": "05057089023586"
+      },
+      "productName": "Head Case Designs Naruto Shippuden Akatsuki Hybrid MagSafe Black Bumper Case for Apple iPhone 13",
+      "brand": "Head Case Designs",
+      "price": 19.95,
+      "ShippingWeight": 0.11,
+      "condition": "New",
+      "shortDescription": "<div class=\"product-description\">\n<p>The <strong>Head Case Designs Naruto Shippuden Akatsuki Hybrid MagSafe Black Bumper Case for Apple iPhone 13</strong> combines officially licensed Naruto Shippuden artwork with premium phone case protection for your Apple iPhone 13. The iconic red cloud pattern of the Akatsuki organization from Naruto Shippuden, featuring the distinctive crimson clouds on a dark background. This hybrid magsafe black bumper case is the perfect way to showcase your fandom while keeping your device safe from everyday wear and tear.</p>\n\n<p>Engineered with a TPU bumper + PC hard back + integrated MagSafe magnetic ring construction, this Naruto Shippuden Akatsuki phone case delivers military-grade drop protection in a slim, lightweight profile. The shock-absorbing bumper guards against impacts from all angles, while the scratch-resistant polycarbonate back panel preserves the vivid, high-definition UV-printed Akatsuki artwork for long-lasting color vibrancy. The integrated MagSafe magnetic ring ensures perfect alignment with MagSafe chargers and accessories, while remaining fully compatible with standard Qi wireless charging.</p>\n\n<p>Designed specifically for the Apple iPhone 13, this case features precision-cut openings for all ports, buttons, speakers, and camera lenses, ensuring complete device functionality without ever removing the case. Raised bezels around the screen and camera module provide additional scratch and drop protection when placed face-down on surfaces.</p>\n\n<p>Head Case Designs is a leading UK-based designer of officially licensed phone accessories with over 15 years of experience creating premium cases for fans worldwide. Every design is crafted in-house and produced under official license, guaranteeing authentic Naruto Shippuden artwork you will not find anywhere else.</p>\n</div>",
+      "keyFeatures": [
+        "Officially licensed Naruto Shippuden Akatsuki design \u2014 authentic artwork featuring the iconic red cloud pattern of the akatsuki organization from naruto shippuden that you will not find on unauthorized products",
+        "Custom-engineered specifically for Apple iPhone 13 with precision-molded fit that provides full access to all ports, buttons, speakers, and camera lenses",
+        "Military-grade drop protection with shock-absorbing black opaque TPU bumper for enhanced impact resistance",
+        "Premium black TPU bumper combined with scratch-resistant polycarbonate hard back for dual-layer defense",
+        "MagSafe compatible with integrated magnetic ring for seamless attachment to MagSafe chargers and accessories",
+        "Vivid high-definition UV-printed Naruto Shippuden Akatsuki artwork delivers bold, fade-resistant colors that stay vibrant through years of daily use",
+        "Raised bezels around camera and screen provide elevated protection against surface scratches and drops",
+        "Designed by Head Case Designs, a UK-based team with 15+ years of expertise in premium officially licensed phone accessories, backed by quality guarantee"
+      ],
+      "mainImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/HB-01-IPH13-1.jpg",
+      "additionalProductAttributes": {
+        "productSecondaryImageURL": [
+          {
+            "url": "https://elcellonline.com/atg/NARUICO/AKA/HB-01-IPH13-2.jpg"
+          },
+          {
+            "url": "https://elcellonline.com/atg/NARUICO/AKA/HB-01-IPH13-3.jpg"
+          }
+        ]
+      },
+      "manufacturer": "Head Case Designs",
+      "manufacturerPartNumber": "HB401-IPH13-NARUICO-AKA",
+      "modelNumber": "Apple iPhone 13",
+      "category": {
+        "CellPhoneAccessories": {
+          "specProductType": "Cell Phone Cases",
+          "variantGroupId": "HB401-IPH-NARUICO-AKA",
+          "variantAttributeNames": "color,compatibleModels",
+          "isPrimaryVariant": "No",
+          "swatchVariantAttribute": "color",
+          "swatchImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/HB-01-IPH13-1.jpg",
+          "color": "Akatsuki Red Cloud",
+          "colorCategory": "Multi-color",
+          "compatibleBrands": "Apple",
+          "compatibleModels": "iPhone 13",
+          "cell_phone_case_type": "Bumper",
+          "cell_phone_case_features": "Official Naruto Shippuden Akatsuki Hybrid MagSafe Black Bumper Case for Apple iPhone 13. MagSafe compatible with integrated magnetic ring. Military-grade drop protection. TPU bumper + PC hard back + integrated MagSafe magnetic ring construction. Scratch-resistant polycarbonate back with shock-absorbing TPU bumper. Wireless charging compatible. Raised bezels for screen and camera protection. Slim profile, lightweight design. Precision cutouts for all ports and buttons. High-definition UV-printed fade-resistant artwork.",
+          "character": "Akatsuki",
+          "pattern": "Character",
+          "theme": "Anime",
+          "globalBrandLicense": "VIZ Media",
+          "case_material": "TPU",
+          "case_style": "Back Cover",
+          "attachmentStyle": "Snap-On",
+          "assembledProductWeight": {
+            "measure": 0.11,
+            "unit": "lb"
+          }
+        }
+      },
+      "fulfillmentLagTime": 1,
+      "startDate": "2026-03-22",
+      "endDate": "2124-08-08"
+    },
+    {
+      "sku": "HTPCR-IPH12-NARUICO-AKA",
+      "productIdentifiers": {
+        "productIdType": "GTIN",
+        "productId": "05063290000000"
+      },
+      "productName": "Head Case Designs Naruto Shippuden Akatsuki Hybrid MagSafe Clear Bumper Case for Apple iPhone 12",
+      "brand": "Head Case Designs",
+      "price": 19.95,
+      "ShippingWeight": 0.11,
+      "condition": "New",
+      "shortDescription": "<div class=\"product-description\">\n<p>The <strong>Head Case Designs Naruto Shippuden Akatsuki Hybrid MagSafe Clear Bumper Case for Apple iPhone 12</strong> combines officially licensed Naruto Shippuden artwork with premium phone case protection for your Apple iPhone 12 / 12 Pro. The iconic red cloud pattern of the Akatsuki organization from Naruto Shippuden, featuring the distinctive crimson clouds on a dark background. This hybrid magsafe clear bumper case is the perfect way to showcase your fandom while keeping your device safe from everyday wear and tear.</p>\n\n<p>Engineered with a TPU bumper + PC hard back + integrated MagSafe magnetic ring construction, this Naruto Shippuden Akatsuki phone case delivers military-grade drop protection in a slim, lightweight profile. The shock-absorbing bumper guards against impacts from all angles, while the scratch-resistant polycarbonate back panel preserves the vivid, high-definition UV-printed Akatsuki artwork for long-lasting color vibrancy. The integrated MagSafe magnetic ring ensures perfect alignment with MagSafe chargers and accessories, while remaining fully compatible with standard Qi wireless charging.</p>\n\n<p>Designed specifically for the Apple iPhone 12 / 12 Pro, this case features precision-cut openings for all ports, buttons, speakers, and camera lenses, ensuring complete device functionality without ever removing the case. Raised bezels around the screen and camera module provide additional scratch and drop protection when placed face-down on surfaces.</p>\n\n<p>Head Case Designs is a leading UK-based designer of officially licensed phone accessories with over 15 years of experience creating premium cases for fans worldwide. Every design is crafted in-house and produced under official license, guaranteeing authentic Naruto Shippuden artwork you will not find anywhere else.</p>\n</div>",
+      "keyFeatures": [
+        "Officially licensed Naruto Shippuden Akatsuki design \u2014 authentic artwork featuring the iconic red cloud pattern of the akatsuki organization from naruto shippuden that you will not find on unauthorized products",
+        "Custom-engineered specifically for Apple iPhone 12 / 12 Pro with precision-molded fit that provides full access to all ports, buttons, speakers, and camera lenses",
+        "Military-grade drop protection with shock-absorbing TPU bumper engineered to withstand impacts from multiple angles",
+        "Premium TPU bumper combined with scratch-resistant polycarbonate hard back for dual-layer defense",
+        "MagSafe compatible with integrated magnetic ring for seamless attachment to MagSafe chargers and accessories",
+        "Vivid high-definition UV-printed Naruto Shippuden Akatsuki artwork delivers bold, fade-resistant colors that stay vibrant through years of daily use",
+        "Raised bezels around camera and screen provide elevated protection against surface scratches and drops",
+        "Designed by Head Case Designs, a UK-based team with 15+ years of expertise in premium officially licensed phone accessories, backed by quality guarantee"
+      ],
+      "mainImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH12-1.jpg",
+      "additionalProductAttributes": {
+        "productSecondaryImageURL": [
+          {
+            "url": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH12-2.jpg"
+          },
+          {
+            "url": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH12-3.jpg"
+          }
+        ]
+      },
+      "manufacturer": "Head Case Designs",
+      "manufacturerPartNumber": "HTPCR-IPH12-NARUICO-AKA",
+      "modelNumber": "Apple iPhone 12 / 12 Pro",
+      "category": {
+        "CellPhoneAccessories": {
+          "specProductType": "Cell Phone Cases",
+          "variantGroupId": "HTPCR-IPH-NARUICO-AKA",
+          "variantAttributeNames": "color,compatibleModels",
+          "isPrimaryVariant": "No",
+          "swatchVariantAttribute": "color",
+          "swatchImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH12-1.jpg",
+          "color": "Akatsuki Red Cloud",
+          "colorCategory": "Multi-color",
+          "compatibleBrands": "Apple",
+          "compatibleModels": "iPhone 12",
+          "cell_phone_case_type": "Bumper",
+          "cell_phone_case_features": "Official Naruto Shippuden Akatsuki Hybrid MagSafe Clear Bumper Case for Apple iPhone 12. MagSafe compatible with integrated magnetic ring. Military-grade drop protection. TPU bumper + PC hard back + integrated MagSafe magnetic ring construction. Scratch-resistant polycarbonate back with shock-absorbing TPU bumper. Wireless charging compatible. Raised bezels for screen and camera protection. Slim profile, lightweight design. Precision cutouts for all ports and buttons. High-definition UV-printed fade-resistant artwork.",
+          "character": "Akatsuki",
+          "pattern": "Character",
+          "theme": "Anime",
+          "globalBrandLicense": "VIZ Media",
+          "case_material": "TPU",
+          "case_style": "Back Cover",
+          "attachmentStyle": "Snap-On",
+          "assembledProductWeight": {
+            "measure": 0.11,
+            "unit": "lb"
+          }
+        }
+      },
+      "fulfillmentLagTime": 1,
+      "startDate": "2026-03-22",
+      "endDate": "2124-08-08"
+    },
+    {
+      "sku": "HB401-IPH12-NARUICO-AKA",
+      "productIdentifiers": {
+        "productIdType": "GTIN",
+        "productId": "05057546316435"
+      },
+      "productName": "Head Case Designs Naruto Shippuden Akatsuki Hybrid MagSafe Black Bumper Case for Apple iPhone 12",
+      "brand": "Head Case Designs",
+      "price": 19.95,
+      "ShippingWeight": 0.11,
+      "condition": "New",
+      "shortDescription": "<div class=\"product-description\">\n<p>The <strong>Head Case Designs Naruto Shippuden Akatsuki Hybrid MagSafe Black Bumper Case for Apple iPhone 12</strong> combines officially licensed Naruto Shippuden artwork with premium phone case protection for your Apple iPhone 12 / 12 Pro. The iconic red cloud pattern of the Akatsuki organization from Naruto Shippuden, featuring the distinctive crimson clouds on a dark background. This hybrid magsafe black bumper case is the perfect way to showcase your fandom while keeping your device safe from everyday wear and tear.</p>\n\n<p>Engineered with a TPU bumper + PC hard back + integrated MagSafe magnetic ring construction, this Naruto Shippuden Akatsuki phone case delivers military-grade drop protection in a slim, lightweight profile. The shock-absorbing bumper guards against impacts from all angles, while the scratch-resistant polycarbonate back panel preserves the vivid, high-definition UV-printed Akatsuki artwork for long-lasting color vibrancy. The integrated MagSafe magnetic ring ensures perfect alignment with MagSafe chargers and accessories, while remaining fully compatible with standard Qi wireless charging.</p>\n\n<p>Designed specifically for the Apple iPhone 12 / 12 Pro, this case features precision-cut openings for all ports, buttons, speakers, and camera lenses, ensuring complete device functionality without ever removing the case. Raised bezels around the screen and camera module provide additional scratch and drop protection when placed face-down on surfaces.</p>\n\n<p>Head Case Designs is a leading UK-based designer of officially licensed phone accessories with over 15 years of experience creating premium cases for fans worldwide. Every design is crafted in-house and produced under official license, guaranteeing authentic Naruto Shippuden artwork you will not find anywhere else.</p>\n</div>",
+      "keyFeatures": [
+        "Officially licensed Naruto Shippuden Akatsuki design \u2014 authentic artwork featuring the iconic red cloud pattern of the akatsuki organization from naruto shippuden that you will not find on unauthorized products",
+        "Custom-engineered specifically for Apple iPhone 12 / 12 Pro with precision-molded fit that provides full access to all ports, buttons, speakers, and camera lenses",
+        "Military-grade drop protection with shock-absorbing black opaque TPU bumper for enhanced impact resistance",
+        "Premium black TPU bumper combined with scratch-resistant polycarbonate hard back for dual-layer defense",
+        "MagSafe compatible with integrated magnetic ring for seamless attachment to MagSafe chargers and accessories",
+        "Vivid high-definition UV-printed Naruto Shippuden Akatsuki artwork delivers bold, fade-resistant colors that stay vibrant through years of daily use",
+        "Raised bezels around camera and screen provide elevated protection against surface scratches and drops",
+        "Designed by Head Case Designs, a UK-based team with 15+ years of expertise in premium officially licensed phone accessories, backed by quality guarantee"
+      ],
+      "mainImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/HB-01-IPH12-1.jpg",
+      "additionalProductAttributes": {
+        "productSecondaryImageURL": [
+          {
+            "url": "https://elcellonline.com/atg/NARUICO/AKA/HB-01-IPH12-2.jpg"
+          },
+          {
+            "url": "https://elcellonline.com/atg/NARUICO/AKA/HB-01-IPH12-3.jpg"
+          }
+        ]
+      },
+      "manufacturer": "Head Case Designs",
+      "manufacturerPartNumber": "HB401-IPH12-NARUICO-AKA",
+      "modelNumber": "Apple iPhone 12 / 12 Pro",
+      "category": {
+        "CellPhoneAccessories": {
+          "specProductType": "Cell Phone Cases",
+          "variantGroupId": "HB401-IPH-NARUICO-AKA",
+          "variantAttributeNames": "color,compatibleModels",
+          "isPrimaryVariant": "No",
+          "swatchVariantAttribute": "color",
+          "swatchImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/HB-01-IPH12-1.jpg",
+          "color": "Akatsuki Red Cloud",
+          "colorCategory": "Multi-color",
+          "compatibleBrands": "Apple",
+          "compatibleModels": "iPhone 12",
+          "cell_phone_case_type": "Bumper",
+          "cell_phone_case_features": "Official Naruto Shippuden Akatsuki Hybrid MagSafe Black Bumper Case for Apple iPhone 12. MagSafe compatible with integrated magnetic ring. Military-grade drop protection. TPU bumper + PC hard back + integrated MagSafe magnetic ring construction. Scratch-resistant polycarbonate back with shock-absorbing TPU bumper. Wireless charging compatible. Raised bezels for screen and camera protection. Slim profile, lightweight design. Precision cutouts for all ports and buttons. High-definition UV-printed fade-resistant artwork.",
+          "character": "Akatsuki",
+          "pattern": "Character",
+          "theme": "Anime",
+          "globalBrandLicense": "VIZ Media",
+          "case_material": "TPU",
+          "case_style": "Back Cover",
+          "attachmentStyle": "Snap-On",
+          "assembledProductWeight": {
+            "measure": 0.11,
+            "unit": "lb"
+          }
+        }
+      },
+      "fulfillmentLagTime": 1,
+      "startDate": "2026-03-22",
+      "endDate": "2124-08-08"
+    },
+    {
+      "sku": "HTPCR-IPH11-NARUICO-AKA",
+      "productIdentifiers": {
+        "productIdType": "GTIN",
+        "productId": "05063290000000"
+      },
+      "productName": "Head Case Designs Naruto Shippuden Akatsuki Hybrid MagSafe Clear Bumper Case for Apple iPhone 11",
+      "brand": "Head Case Designs",
+      "price": 19.95,
+      "ShippingWeight": 0.11,
+      "condition": "New",
+      "shortDescription": "<div class=\"product-description\">\n<p>The <strong>Head Case Designs Naruto Shippuden Akatsuki Hybrid MagSafe Clear Bumper Case for Apple iPhone 11</strong> combines officially licensed Naruto Shippuden artwork with premium phone case protection for your Apple iPhone 11. The iconic red cloud pattern of the Akatsuki organization from Naruto Shippuden, featuring the distinctive crimson clouds on a dark background. This hybrid magsafe clear bumper case is the perfect way to showcase your fandom while keeping your device safe from everyday wear and tear.</p>\n\n<p>Engineered with a TPU bumper + PC hard back + integrated MagSafe magnetic ring construction, this Naruto Shippuden Akatsuki phone case delivers military-grade drop protection in a slim, lightweight profile. The shock-absorbing bumper guards against impacts from all angles, while the scratch-resistant polycarbonate back panel preserves the vivid, high-definition UV-printed Akatsuki artwork for long-lasting color vibrancy. The integrated MagSafe magnetic ring ensures perfect alignment with MagSafe chargers and accessories, while remaining fully compatible with standard Qi wireless charging.</p>\n\n<p>Designed specifically for the Apple iPhone 11, this case features precision-cut openings for all ports, buttons, speakers, and camera lenses, ensuring complete device functionality without ever removing the case. Raised bezels around the screen and camera module provide additional scratch and drop protection when placed face-down on surfaces.</p>\n\n<p>Head Case Designs is a leading UK-based designer of officially licensed phone accessories with over 15 years of experience creating premium cases for fans worldwide. Every design is crafted in-house and produced under official license, guaranteeing authentic Naruto Shippuden artwork you will not find anywhere else.</p>\n</div>",
+      "keyFeatures": [
+        "Officially licensed Naruto Shippuden Akatsuki design \u2014 authentic artwork featuring the iconic red cloud pattern of the akatsuki organization from naruto shippuden that you will not find on unauthorized products",
+        "Custom-engineered specifically for Apple iPhone 11 with precision-molded fit that provides full access to all ports, buttons, speakers, and camera lenses",
+        "Military-grade drop protection with shock-absorbing TPU bumper engineered to withstand impacts from multiple angles",
+        "Premium TPU bumper combined with scratch-resistant polycarbonate hard back for dual-layer defense",
+        "MagSafe compatible with integrated magnetic ring for seamless attachment to MagSafe chargers and accessories",
+        "Vivid high-definition UV-printed Naruto Shippuden Akatsuki artwork delivers bold, fade-resistant colors that stay vibrant through years of daily use",
+        "Raised bezels around camera and screen provide elevated protection against surface scratches and drops",
+        "Designed by Head Case Designs, a UK-based team with 15+ years of expertise in premium officially licensed phone accessories, backed by quality guarantee"
+      ],
+      "mainImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH11-1.jpg",
+      "additionalProductAttributes": {
+        "productSecondaryImageURL": [
+          {
+            "url": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH11-2.jpg"
+          },
+          {
+            "url": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH11-3.jpg"
+          }
+        ]
+      },
+      "manufacturer": "Head Case Designs",
+      "manufacturerPartNumber": "HTPCR-IPH11-NARUICO-AKA",
+      "modelNumber": "Apple iPhone 11",
+      "category": {
+        "CellPhoneAccessories": {
+          "specProductType": "Cell Phone Cases",
+          "variantGroupId": "HTPCR-IPH-NARUICO-AKA",
+          "variantAttributeNames": "color,compatibleModels",
+          "isPrimaryVariant": "No",
+          "swatchVariantAttribute": "color",
+          "swatchImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH11-1.jpg",
+          "color": "Akatsuki Red Cloud",
+          "colorCategory": "Multi-color",
+          "compatibleBrands": "Apple",
+          "compatibleModels": "iPhone 11",
+          "cell_phone_case_type": "Bumper",
+          "cell_phone_case_features": "Official Naruto Shippuden Akatsuki Hybrid MagSafe Clear Bumper Case for Apple iPhone 11. MagSafe compatible with integrated magnetic ring. Military-grade drop protection. TPU bumper + PC hard back + integrated MagSafe magnetic ring construction. Scratch-resistant polycarbonate back with shock-absorbing TPU bumper. Wireless charging compatible. Raised bezels for screen and camera protection. Slim profile, lightweight design. Precision cutouts for all ports and buttons. High-definition UV-printed fade-resistant artwork.",
+          "character": "Akatsuki",
+          "pattern": "Character",
+          "theme": "Anime",
+          "globalBrandLicense": "VIZ Media",
+          "case_material": "TPU",
+          "case_style": "Back Cover",
+          "attachmentStyle": "Snap-On",
+          "assembledProductWeight": {
+            "measure": 0.11,
+            "unit": "lb"
+          }
+        }
+      },
+      "fulfillmentLagTime": 1,
+      "startDate": "2026-03-22",
+      "endDate": "2124-08-08"
+    },
+    {
+      "sku": "HB401-IPH11-NARUICO-AKA",
+      "productIdentifiers": {
+        "productIdType": "GTIN",
+        "productId": "05057546253518"
+      },
+      "productName": "Head Case Designs Naruto Shippuden Akatsuki Hybrid MagSafe Black Bumper Case for Apple iPhone 11",
+      "brand": "Head Case Designs",
+      "price": 19.95,
+      "ShippingWeight": 0.11,
+      "condition": "New",
+      "shortDescription": "<div class=\"product-description\">\n<p>The <strong>Head Case Designs Naruto Shippuden Akatsuki Hybrid MagSafe Black Bumper Case for Apple iPhone 11</strong> combines officially licensed Naruto Shippuden artwork with premium phone case protection for your Apple iPhone 11. The iconic red cloud pattern of the Akatsuki organization from Naruto Shippuden, featuring the distinctive crimson clouds on a dark background. This hybrid magsafe black bumper case is the perfect way to showcase your fandom while keeping your device safe from everyday wear and tear.</p>\n\n<p>Engineered with a TPU bumper + PC hard back + integrated MagSafe magnetic ring construction, this Naruto Shippuden Akatsuki phone case delivers military-grade drop protection in a slim, lightweight profile. The shock-absorbing bumper guards against impacts from all angles, while the scratch-resistant polycarbonate back panel preserves the vivid, high-definition UV-printed Akatsuki artwork for long-lasting color vibrancy. The integrated MagSafe magnetic ring ensures perfect alignment with MagSafe chargers and accessories, while remaining fully compatible with standard Qi wireless charging.</p>\n\n<p>Designed specifically for the Apple iPhone 11, this case features precision-cut openings for all ports, buttons, speakers, and camera lenses, ensuring complete device functionality without ever removing the case. Raised bezels around the screen and camera module provide additional scratch and drop protection when placed face-down on surfaces.</p>\n\n<p>Head Case Designs is a leading UK-based designer of officially licensed phone accessories with over 15 years of experience creating premium cases for fans worldwide. Every design is crafted in-house and produced under official license, guaranteeing authentic Naruto Shippuden artwork you will not find anywhere else.</p>\n</div>",
+      "keyFeatures": [
+        "Officially licensed Naruto Shippuden Akatsuki design \u2014 authentic artwork featuring the iconic red cloud pattern of the akatsuki organization from naruto shippuden that you will not find on unauthorized products",
+        "Custom-engineered specifically for Apple iPhone 11 with precision-molded fit that provides full access to all ports, buttons, speakers, and camera lenses",
+        "Military-grade drop protection with shock-absorbing black opaque TPU bumper for enhanced impact resistance",
+        "Premium black TPU bumper combined with scratch-resistant polycarbonate hard back for dual-layer defense",
+        "MagSafe compatible with integrated magnetic ring for seamless attachment to MagSafe chargers and accessories",
+        "Vivid high-definition UV-printed Naruto Shippuden Akatsuki artwork delivers bold, fade-resistant colors that stay vibrant through years of daily use",
+        "Raised bezels around camera and screen provide elevated protection against surface scratches and drops",
+        "Designed by Head Case Designs, a UK-based team with 15+ years of expertise in premium officially licensed phone accessories, backed by quality guarantee"
+      ],
+      "mainImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/HB-01-IPH11-1.jpg",
+      "additionalProductAttributes": {
+        "productSecondaryImageURL": [
+          {
+            "url": "https://elcellonline.com/atg/NARUICO/AKA/HB-01-IPH11-2.jpg"
+          },
+          {
+            "url": "https://elcellonline.com/atg/NARUICO/AKA/HB-01-IPH11-3.jpg"
+          }
+        ]
+      },
+      "manufacturer": "Head Case Designs",
+      "manufacturerPartNumber": "HB401-IPH11-NARUICO-AKA",
+      "modelNumber": "Apple iPhone 11",
+      "category": {
+        "CellPhoneAccessories": {
+          "specProductType": "Cell Phone Cases",
+          "variantGroupId": "HB401-IPH-NARUICO-AKA",
+          "variantAttributeNames": "color,compatibleModels",
+          "isPrimaryVariant": "No",
+          "swatchVariantAttribute": "color",
+          "swatchImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/HB-01-IPH11-1.jpg",
+          "color": "Akatsuki Red Cloud",
+          "colorCategory": "Multi-color",
+          "compatibleBrands": "Apple",
+          "compatibleModels": "iPhone 11",
+          "cell_phone_case_type": "Bumper",
+          "cell_phone_case_features": "Official Naruto Shippuden Akatsuki Hybrid MagSafe Black Bumper Case for Apple iPhone 11. MagSafe compatible with integrated magnetic ring. Military-grade drop protection. TPU bumper + PC hard back + integrated MagSafe magnetic ring construction. Scratch-resistant polycarbonate back with shock-absorbing TPU bumper. Wireless charging compatible. Raised bezels for screen and camera protection. Slim profile, lightweight design. Precision cutouts for all ports and buttons. High-definition UV-printed fade-resistant artwork.",
+          "character": "Akatsuki",
+          "pattern": "Character",
+          "theme": "Anime",
+          "globalBrandLicense": "VIZ Media",
+          "case_material": "TPU",
+          "case_style": "Back Cover",
+          "attachmentStyle": "Snap-On",
+          "assembledProductWeight": {
+            "measure": 0.11,
+            "unit": "lb"
+          }
+        }
+      },
+      "fulfillmentLagTime": 1,
+      "startDate": "2026-03-22",
+      "endDate": "2124-08-08"
+    }
+  ]
+}

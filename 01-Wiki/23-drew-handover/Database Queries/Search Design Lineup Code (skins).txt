@@ -1,0 +1,16 @@
+then for skins naman po:
+ 
+SELECT DISTINCT CONCAT(LineupLabel, '-', DesignLabel) AS DesignCode
+FROM headcase.`tblDesignGroupAvailability`
+INNER JOIN headcase.tblDesigns USING(DesignID)
+INNER JOIN headcase.tblLineups USING(LineupID)
+INNER JOIN unit_groups USING(GroupID)
+INNER JOIN lineups_brand USING(LineupID)
+INNER JOIN brands USING(BrandID)
+INNER JOIN uv_product_colors USING(ProductColorID)
+INNER JOIN unit_groupings USING(GroupID)
+INNER JOIN units USING(UnitID)
+WHERE BrandStatus = 1 AND LineupStatus = 1 AND DesignStatus = 1
+AND REPLACE(CONCAT("H", ProductCode, ColorCode), 'HHCCR', 'HC') = 'H8939'
+AND UnitTypeID IN (19,20,21,22,23,29)
+AND LineupLabel = 'EDBEDRA'

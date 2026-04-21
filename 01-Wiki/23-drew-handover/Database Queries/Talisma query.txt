@@ -1,0 +1,29 @@
+taslisma query CS chat
+=CONCATENATE("or MsgFrom like ","'%",A2,"%","'"," ")
+<-- select RouteDate, MsgFrom
+from MailMessage 
+where (MsgFrom like '%emjayzigs%' )
+and RouteDate between '2018-07-09 00:00:00:000' and '2018-07-10 23:59:59:000' -->
+=VLOOKUP(A:A,B:C,2,0)
+
+/*Get MsgID, Date from -1 day*/
+SELECT TOP 1 MsgID, DateRecv
+  			FROM MailMessage
+  			where DateRecv >= '2021-07-22 23:00:00.000'
+  			order by MsgID;
+  			
+
+/*New talisma qeury*/
+SELECT DateRecv, RouteDate, MsgFrom
+			FROM MailMessage 
+			WHERE MsgID >= 9200313
+			AND (
+			   MsgFrom like '%princesasusie%'
+);
+
+\\EC2AMAZ-H9LA7AL\Sage\reporting\default\reports
+
+database backup -- barcode first 
+talisma backup before EOD
+--I:\TalismaDB  20.42
+--TalismaDB_00002019.bak

@@ -1,0 +1,1 @@
+SELECT * FROM t_amalgamated_po_line ORDER BY f_DateAdded DESC LIMIT 100;

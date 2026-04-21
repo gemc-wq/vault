@@ -1,0 +1,21 @@
+SELECT 
+	Sales_Record_Number, 
+	f_eTransaction_ID, 
+	f_ebay_site,
+	User_ID,
+	Transaction_ID,
+	Paid_on_Date,
+	f_upload_day, 
+	Custom_Label,
+	Sale_Price,
+	LENGTH(Custom_Label) AS CLLength, 
+	Quantity 
+FROM order_tracker_xls 
+WHERE f_status = 'Pending'
+AND f_sage_order_no IS NULL
+AND f_rip_label = 'No' 
+AND f_refunded = 'No' 
+AND f_manual_insert = 'No'    
+AND INSTR(Sales_Record_Number, 'PO') = 0
+#AND (User_ID IS NULL OR User_ID = '') #VERIFY BLANK USERID
+ORDER BY STR_TO_DATE(Paid_on_Date, '%d-%b-%y') ASC, f_eTransaction_ID ASC

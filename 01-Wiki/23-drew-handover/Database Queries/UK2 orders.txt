@@ -1,0 +1,5 @@
+SELECT * FROM order_tracker_xls WHERE Transaction_ID = 'Amazon.co.uk (UK2)' ORDER BY f_sage_insert_date DESC LIMIT 20
+SELECT * FROM order_tracker_xls WHERE Transaction_ID = 'Amazon.es (UK2)' ORDER BY f_sage_insert_date DESC LIMIT 20
+SELECT * FROM order_tracker_xls WHERE Transaction_ID = 'Amazon.it (UK2)'  ORDER BY f_sage_insert_date DESC LIMIT 20
+SELECT * FROM order_tracker_xls WHERE Transaction_ID = 'Amazon.fr (UK2)'  ORDER BY f_sage_insert_date DESC LIMIT 20
+SELECT * FROM order_tracker_xls WHERE Transaction_ID = 'Amazon.de (UK2)'  ORDER BY f_sage_insert_date DESC LIMIT 20

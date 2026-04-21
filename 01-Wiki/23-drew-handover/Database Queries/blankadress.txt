@@ -1,0 +1,3 @@
+select * from order_tracker_xls where 
+(User_ID is NULL or User_ID = '') and (Buyer_Fullname is NULL or Buyer_Fullname = '') and 
+(Buyer_Address_1 is NULL or Buyer_Address_1 = '') and (Buyer_City is NULL or Buyer_City = '');

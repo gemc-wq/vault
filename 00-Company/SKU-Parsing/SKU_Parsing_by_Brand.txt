@@ -1,0 +1,862 @@
+Brand Name 	Label
+One Direction	1D
+One Direction Custom	1D
+One Direction Custom Christmas	1D
+20SomethingArt	20SO
+5 Seconds of Summer	5SOS
+5 Seconds of Summer Custom	5SOS
+Angry Bird	ABIR
+Angry Birds Custom	ABIR
+AC/DC	ACDC
+AC/DC Custom	ACDC
+Time Warner A CHRISTMAS STORY	ACHR
+Time Warner A CLOCKWORK ORANGE	ACLO
+AC Milan	ACM
+AC Milan Custom	ACM
+Activision Classics / Catalog	ACTC
+Hasbro Action Man	ACTM
+Adventure Time	ADVE
+Aerosmith	AERO
+Argentina Football Association	AFA
+Argentina Football Association	AFA
+Arsenal Football Club	AFC
+Arsenal Football Club Custom	AFC
+Arsenal Football Club	AFCx
+Andi GreyScale	AG
+AIMEE STEWART	AIME
+Aini Tolonen	AINI
+ARTBYJWPI	AJWP
+Ali Chris	ALCR
+Alessandro Spedicato	ALES
+Alchemy Gothic	ALGO
+Alchemy Gothic Custom	ALGO
+Ali Gulec	ALIG
+Alyn Spiller	ALYN
+Amanda Laurel Atkins	AMAN
+Amy Brown	AMBR
+Amy Diener	AMDI
+Amanda Hilburn	AMHL
+Ameritech	AMTE
+Amy Sia	AMYS
+Time Warner Annabelle	ANAB
+Time Warner Annabelle Comes Home	ANABCH
+ANDREA ANDEREGG	ANDA
+ANDREA LAUREN DESIGN	ANDR
+A Nightmare On Elm Street (2010)	ANEL10
+A Nightmare On Elm Street 2 Freddy's Revenge	ANEL2FR
+A Nightmare On Elm Street 3 Dream Warriors	ANEL3DW
+A Nightmare On Elm Street 4 The Dream Master	ANEL4DM
+A Nightmare On Elm Street (1984)	ANEL84
+A Nightmare On Elm Street: The Dream Child	ANELDC
+A Nightmare On Elm Street: Freddy's Dead	ANELFD
+A Nightmare On Elm Street: New Nightmare	ANELNN
+Argentina National Football Team	ANFT
+Angelo Cerantola	ANGC
+Animal Club International	ANICLU
+ANIS ILLUSTRATION	ANIL
+Anne Lambelet	ANLA
+Time Warner ANIMANIACS	ANMC
+Anthony Christou	ANTC
+Anthem	ANTH
+Andy Westface	ANWE
+Time Warner Aquaman Core	AQCO
+Aquaman And The Lost Kingdom	AQLK
+Time Warner AQUAMAN MOVIE 2018	AQMO
+Aqua Teen Hunger Force	AQTE
+ARCHIVE	ARCH
+Aron Art	ARON
+Time Warner Arrow TV Series	ARRW
+ArtPopTart	ARTP
+Anne Stokes	AS
+Anne Stokes Custom	AS
+Ash Evans	ASHE
+Ubisoft Assassin's Creed	ASSA
+Atletico de Madrid	ATM
+Atletico de Madrid Custom	ATM
+AUSTRALIA NATIONAL RUGBY UNION TEAM	AURT
+AUSTRALIA NATIONAL RUGBY UNION TEAM Custom	AURT
+Aston Villa FC	AVFC
+Aston Villa FC	AVLA
+Aston Villa FC Custom	AVLA
+Ayeyokp	AYEY
+Ben 10: Alien Force	B10AF
+Ben 10: Animated Series	B10AS
+Ben 10: Omniverse	B10OM
+Ben 10: Ultimate Alien	B10UA
+British and Irish Lions	BAIL
+Batman Returns	BARE
+Barruf	BARR
+Brigid Ashwood	BASH
+Brigid Ashwood Custom	BASH
+Batman (1989)	BATM
+Breaking Bad	BBAD
+Breaking Bad Custom	BBAD
+Batman Begins	BBEG
+Beano	BEAN
+Time Warner BEETLEJUICE	BEET
+BELI	BELI
+BEN HEINE	BENH
+Brenda Erickson	BERK
+Universal Studios BACK TO THE FUTURE	BFUT
+Brighton & Hove Albion F.C	BHA
+Brighton & Hove Albion F.C Custom	BHA
+Bianca Green	BIAN
+Billy Idol	BIDO
+Bioworkz	BIOW
+Busted Knuckle Garage	BKG
+Bla_ Rojs	BLAZ
+Black Adam	BLKA
+Time Warner BLACK LIGHTNING	BLKL
+Bal‡zs Solti	BLZS
+British Museum	BMUS
+Batman V Superman: Dawn Of Justice	BMVSM
+BOO - THE WORLD'S CUTEST DOGª	BOOW
+Time Warner BIRDS OF PREY	BOP
+Bored of Directors	BORE
+BOTICA SONORA	BOTI
+Brandalised	BR
+Britto	BRTT
+BRITNEY SPEARS	BSPR
+Been Trill	BT
+BT21	BT21
+BT21 Custom Case	BT21
+Time Warner BATMAN: ARKHAM CITY	BTAC
+Time Warner Batman Arkham Knight	BTAK
+Time Warner BATMAN: ARKHAM ORIGINS	BTAO
+Time Warner BATMAN: ARKHAM ASYLUM	BTAS
+Bill & Ted's Bogus Journey	BTEDBJ
+Bill & Ted's Excellent Adventure	BTEDEX
+Time Warner Batman Core	BTMC
+Time Warner Batman TV series	BTTS
+Bugs Bunny Builders	BUGS
+Burcu Korkmazyurek	BURC
+Bravado The 1975	BV1975
+Bravado Aerosmith	BVAE
+Bravado Amy Winehouse	BVAMY
+Bravado Ariana Grande	BVARI
+Bravado Arthur	BVART
+Bravado The Beach Boys	BVBB
+Bravado The Black Crowes	BVBCR
+Bravado - BILLIE EILISH	BVBE
+Bravado Bring Me the Horizon	BVBH
+Bravado BLUE NOTE RECORDS	BVBLU
+Bravado Blackpink	BVBPNK
+Bravado Blackpink Custom	BVBPNK
+Bravado Bebe Rexha	BVBREX
+Bravado Bros	BVBROS
+Bravado Black Sabbath	BVBSAB
+Bullet for my Valentine	BVBUL
+Bravado Black Veil Brides	BVBVB
+Bravado Catfish and the Bottlemen	BVCBO
+Bravado David Bowie	BVDB
+Bravado The Doors	BVDOO
+Bravado ELTON JOHN	BVEJ
+Bravado Grumpy Cat	BVGC
+Bravado Green Day	BVGD
+Bravado Guns 'N Roses	BVGUN
+Bravado HRVY	BVHRVY
+Bravado Imagine Dragons	BVIDR
+Bravado In Flames	BVINF
+Bravado Justin Bieber	BVJB
+Bravado Jimi Hendrix	BVJIM
+Bravado KILLSWITCH ENGAGE	BVKIL
+Bravado King Diamond	BVKNGD
+Bravado Kreator	BVKREA
+Bravado Mercyful Fate	BVMF
+Bravado Marilyn Manson	BVMMA
+Bravado Monty Python	BVMONP
+Bravado NICKI MINAJ	BVNICK
+Bravado Ozzy Osbourne	BVOZZ
+Bravado Pantera	BVPAN
+Bravado Public Enemy	BVPUB
+Bravado Queen	BVQUEE
+Bravado Brian May	BVQUEEB
+Bravado Ramones	BVRAM
+Bravado Rita Ora	BVRIT
+Bravado Ronan Keating	BVRKE
+Bravado Rod Stewart	BVROD
+Bravado The Rolling Stones	BVRS
+Bravado Run DMC	BVRUN
+Bravado Rush	BVRUS
+Bravado Robbie Williams	BVRW
+Bravado Selena Gomez	BVSG
+Bravado Slipknot	BVSK
+Bravado Sex Pistols	BVSP
+Bravado SAM SMITH	BVSSM
+Bravado Take That	BVTAKE
+Bravado The Jam	BVTJ
+Bravado The Pogues	BVTPG
+Bravado Tupac Shakur	BVTUP
+Bravado The Who	BVTW
+Bravado WILLIE NELSON	BVWN
+BRAVADO YUNGBLUD	BVYBL
+Beth Wilson	BWIL
+Casablanca	CABL
+Caddyshack	CADD
+Cameron Gray	CAGR
+Captain Planet And The Planeteers	CAPP
+Time Warner CHILLING ADVENTURES OF SABRINA: TELEVISION SERIES	CASA
+Crash Bandicoot	CBAN
+Crash Bandicoot 4	CBAN4
+Time Warner CYBORG DC COMICS	CBCO
+CARE BEARS	CBEA
+Showdeer	CBIG
+Chuck Black	CBLA
+Cat Coquillette	CCOQ
+CHRIS DYER	CDYE
+Celandine Design	CELN
+CHELSEA FOOTBALL CLUB	CFC
+Chowder: Animated Series	CHOW
+Universal Studios Chucky	CHUC
+Universal Studios Bride of Chucky	CHUC
+Universal Studios Seed of Chucky	CHUC
+Christos Karapanos	CKAR
+Celebrate Life Gallery	CLGAL
+Hasbro Clue	CLUE
+Cluedo	CLUED
+Christmas Mix	CMIX
+Carla Morrow	CMOR
+Cartoon Network	CNET
+COBRA KAI	COBR
+Cobra Kai Custom	COBR
+Call of Duty: Franchise	COD
+Call of Duty: Black Ops Cold War	CODBCW
+Call of Duty Modern Warfare 2	CODMW2
+Call of Duty: Vanguard	CODV
+Call of Duty: Warzone	CODW
+Consejo Mundial De Lucha Libre	CONM
+CORPSE BRIDE	CORP
+Courage The Cowardly Dog	COUR
+Cow and Chicken	COWC
+Crystal Palace Football Club	CPFC
+Crystal Palace Football Club Custom	CPFC
+Chobopop	CPOP
+CRYSTAL PALACE Football Club	CRFC
+CRYSTAL PALACE Football Club CUSTOM	CRFC
+Carrie Schmitt	CSCH
+COSMO 18	CSMO
+Cosmopolitan	CSP
+CATSPAWS	CSPW
+CATHY STANDRIDGE	CSTA
+Caleb Troy	CTRO
+Crash Team Rumble	CTRU
+Charlotte Winter	CWIN
+Caitlin Workman	CWOR
+DRAGON AGE	DAGE
+Dallas: Television Series	DALL
+DAVE LOBLAW	DAVE
+DAVID OLENICK	DAVO
+DawgArt	DAWG
+Drew Brophy	DBRO
+Time Warner DC SUPER HERO GIRLS	DCHG
+DC League Of Super Pets	DCLSP
+Daniel Conway	DCON
+Time Warner DC SUPER FRIENDS	DCSF
+Time Warner DC Women Core	DCWO
+Hasbro DUNGEONS & DRAGONS	DDRA
+Demian Dressler	DDRE
+Dumb And Dumber	DDUM
+Dean Russo	DEAN
+Def Leppard	DEFL
+Derby County	DERB
+DesirŽe Feldmann	DESI
+Dexter's Laboratory	DEXT
+Dennis Frates	DFRA
+Dorit Fuhg	DFUH
+DJ Semtex	DJSE
+Denyse Klette	DKLE
+David Lozeau	DLOZ
+DinoMike	DMIK
+DOCTOR WHO	DOCW
+Doom Patrol	DOOM
+Dragon Ball	DRGB
+Dragon Ball Super	DRGBS
+Dragon Ball Z	DRGBZ
+Dr. Seuss	DRSE
+Universal Studios DESPICABLE ME	DSPC
+Universal Studios DESPICABLE ME 4	DSPC4
+Universal Studios DESPICABLE ME 2	DSPCM2
+Universal Studios DESPICABLE ME 2 Custom	DSPCM2
+Universal Studios DESPICABLE ME - MINIONS	DSPCMN
+D.S. Valori	DSVA
+Djuno Tomsni	DTOM
+Dukla Praha (COOLCASE)	DUPR
+Dukla Praha (COOLCASE) Custom Case	DUPR
+Duirwaigh	DURW
+DEVIL MAY CRY	DVMC
+DEVIL MAY CRY 5	DVMC5
+Time Warner DOROTHY AND THE WIZARD OF OZ	DWOZ
+Darren White Photography	DWPH
+EbiEmporium	EBIE
+ENGLAND AND WALES CRICKET BOARD	ECB
+Ed Beard Jr	EDBE
+"Ed, Edd, n Eddy"	EDDY
+EDINBURGH RUGBY	EDRU
+EDINBURGH RUGBY Custom	EDRU
+Efty	EFTY
+Eric Joyner	EJOY
+Elena Kulikova	EKUL
+Time Warner ELF	ELF
+Elisabeth Fredriksson	ELFR
+Emoji	EMOJ
+Emoji Custom	EMOJ
+Episodic Drawing	EPIS
+Erika Pochybova	ERPO
+England Rugby	ERU
+England Rugby Custom	ERU
+Universal Studios E.T.	ET
+Everton FC	EVFC
+Everton FC Custom	EVFC
+Eli Vokounova	EVOK
+Exileden	EXIL
+FORMULA 1	F1
+Friday the 13th 2009	F1309
+Friday the 13th 1980	F1380
+Friday the 13th: Jason Goes To Hell	F13HEL
+Friday the 13th: Jason X	F13JAX
+Friday the 13th Part III	F13P3
+Friday the 13th: The Final Chapter	F13P4
+Friday the 13th: A New Beginning	F13P5
+Friday the 13th Part VI	F13P6
+Friday the 13th Part VII	F13P7
+Friday the 13th Part VIII	F13P8
+Ubisoft Far Cry	FARC
+Time Warner FANTASTIC BEASTS : The Crimes of Grindelwald	FBCG
+FC BAYERN MUNICH	FBM
+Florent Bodart	FBOD
+Fantastic Beasts: The Secrets of Dumbledore	FBSD
+Time Warner FANTASTIC BEASTS AND WHERE TO FIND THEM	FBWF
+Universal Studios Felix the Cat	FCAT
+FC BARCELONA	FCB
+FC Barcelona Custom	FCB
+Universal Studios Fast & Furious Franchise	FFUR
+Foster's Home For Imaginary Friends	FHOM
+For Honor	FHON
+Frida Kahlo	FK
+Time Warner FULL METAL	FMJA
+Frank Moth	FMOT
+Five Nights At Freddy's	FNAF
+FRIDAY NIGHT DINNER	FNDN
+Ford Motor Company	FORD
+Ford Motor Company Custom	FORD
+Fosforos Galileo	FOSF
+Frazetta	FRAZ
+Time Warner FRIENDS	FRND
+Time Warner FRIENDS Custom	FRND
+Time Warner FROSTY THE SNOWMAN	FROS
+Fear The Walking Dead	FTWD
+Freddy VS. Jason	FVJA
+Gabriela Thomeu	GATH
+Team GB	GB
+Geno Peoples	GENO
+Graham Gercken	GGRE
+Hasbro G.I. Joe	GIJO
+Giulio Rossi	GIRO
+Time Warner GREEN LANTERN DC COMICS	GLCO
+Michael David Ward	GLMWA
+Pixelmated Animals	GLPIX
+Royce Bair	GLRB
+Shambhala Light Visionary Art	GLSHM
+Suzanne Allard	GLSUZ
+GLASGOW WARRIORS	GLW
+GLASGOW WARRIORS CUSTOM	GLW
+Wumples	GLWUM
+Gilmore Girls	GMOR
+Gossip Girl	GOSS
+Gotham Knights	GOTH
+GRACE	GRAC
+GRAEME STEVENSON	GRAE
+Graham Bradshaw	GRAH
+Time Warner GREMLINS	GRML
+HBO Game of Thrones	GT
+Xbox Game Studios Halo	HALO
+Haroulita	HARO
+Hatsune Miku	HATS
+Haley Bush	HBUS
+Universal Studios Hellboy II	HELL
+Hibernian F.C.	HFC
+Howie Green	HGRE
+Hogwarts Legacy	HOGW
+House Of The Dragon: Television Series	HOTD
+Harry Potter: Magic Awakened	HPMA
+Time Warner HARRY POTTER	HPOT
+Time Warner HARRY POTTER CUSTOM	HPOT
+Harry Potter: Wizards Unite	HPWU
+Universal Studios HOW TO TRAIN YOUR DRAGON	HTTYD
+Universal Studios HOW TO TRAIN YOUR DRAGON 2	HTTYD
+Universal Studios HOW TO TRAIN YOUR DRAGON: The Hidden World	HTTYD
+I Am Weasel.	IAMW
+International Cricket Council	ICC
+ICC Australia	ICC
+ICC Bangladesh	ICC
+ICC CWC 2019	ICC
+ICC England	ICC
+ICC India	ICC
+ICC New Zealand	ICC
+ICC Pakistan	ICC
+ICC South Africa	ICC
+ICC Sri Lanka	ICC
+ICC Typography	ICC
+ICC Under19 World Cup 2018	ICC
+ICC Women's World T20	ICC
+INSANE CLOWN POSSE	ICP
+IISA M…NTTINEN	IISA
+IMG College	IMGC
+Arizona State University ASU	IMGC
+University Of Central Florida UCF	IMGC
+Cornell University	IMGC
+Florida State University FSU	IMGC
+Georgetown University	IMGC
+Georgia Institute Of Technology	IMGC
+Idaho State University ISU	IMGC
+University Of Illinois U of I	IMGC
+Louisiana State University LSU	IMGC
+Marshall University MU	IMGC
+University Of Nebraska-Lincoln UNL	IMGC
+New York University NYU	IMGC
+Northwestern University NU	IMGC
+Pepperdine University	IMGC
+Rice University	IMGC
+Stanford University The Farm	IMGC
+The University Of Tulsa TU	IMGC
+Vanderbilt University Vandy	IMGC
+College Of William And Mary	IMGC
+University Of Wyoming UW	IMGC
+Texas A&M University	IMGC
+"University Of California, LA"	IMGC
+University Of Florida	IMGC
+University Of Pittsburgh	IMGC
+Louisiana State University 2	IMGC
+Auburn University AU	IMGC
+Clemson University	IMGC
+Pennsylvania State University PSU	IMGC
+University Of Alabama UA	IMGC
+University of Oklahoma OU	IMGC
+University Of Tennessee UTK	IMGC
+LSU Custom	IMGC
+FSU Custom	IMGC
+University Of Oklahoma Custom	IMGC
+Inter Milan	IMIL
+Inter Milan Custom Case	IMIL
+Time Warner INFINITE CRISIS	INFC
+Injustice 2	INJU2
+Injustice: Gods Among Us	INJUG
+Inter Milan	INTM
+Inter Milan Custom	INTM
+Iron Maiden	IRON
+Time Warner IT 2017 MOVIE	IT17
+IT Chapter 2	ITC2
+IT: Television Miniseries	ITTM
+Iuliia Lelekova	IULI
+Jack Ottanio	JACK
+Jane Starr Weils	JANE
+Universal Studios JAWS	JAWS
+Julia Badeeva	JBAD
+Random Galaxy	JBOO
+Johnny Bravo	JBRA
+Jason Bullard	JBUL
+Joel Christopher Payne	JCHR
+JENA DELLAGROTTALIA	JENA
+Juventus Football Club	JFC
+Juventus Football Club Custom	JFC
+Janet Hill	JHIL
+Jimmy The Bull	JIMB
+Jonas Jšdicke	JJOD
+JK Stewart	JKST
+Time Warner Justice League Action	JLAC
+Time Warner Justice League Core	JLCO
+John Lennon	JLEN
+Time Warner Justice League Movie (2017)	JLGE
+ZACK SNYDER'S JUSTICE LEAGUE	JLGES
+Jason Limon	JLIM
+Jacqueline Maldonado	JMAL
+Julien Missaire	JMIS
+Jason Naylor	JNAY
+JOAN OF ART	JOAN
+Joel Gratte	JOEL
+Jonna James	JONN
+Journey	JOUR
+JULIA GRIFOL	JULI
+Jumbie Art	JUMB
+Universal Studios Jurassic Park	JURAP
+Universal Studios Jurassic World	JURAW1
+Universal Studios Jurassic World: Fallen Kingdom	JURAW2
+Ubisoft Just Dance	JUSD
+JVY CREATIONS	JVYC
+Universal Studios Jurassic World: Camp Cretaceous	JWCC
+Jody Wright	JWRI
+KATERINA KIRILOVA	KATK
+Kayomi Harai	KAYO
+Kierkegaard Design Studio	KIER
+Kijiermono	KIJI
+Kiss	KISS
+Kitten Rain	KITR
+Kristina Kvilis	KKVI
+KookiePixel	KOOK
+Universal Studios Knight Rider	KRID
+Klaudia Senator	KSEN
+Lacabezaenlasnubes	LACA
+Lanre Adefioye	LADE
+Lantern Press	LANT
+Laura O'Connor	LAUR
+LIDIEBUG	LBUG
+Lonely Dog	LDOG
+LEBENSART	LEBE
+Lyrics Written by Lennon & McCartney	LEMC
+Liverpool Football Club	LFC
+Liverpool Football Club Custom	LFC
+Luke Gram	LGRA
+Larry Grossman	LGRO
+Lisa Sparling	LISA
+Little Mix	LMIX
+LAUREN MOSS	LMOS
+Live Nation Beastie Boys	LNATBB
+LIVE NATION - FOO FIGHTERS	LNATFF
+LIVE NATION - MEGADETH	LNATMD
+LIVE NATION - MISFITS	LNATMF
+LIVE NATION - NIRVANA	LNATNV
+LouiJoverArt	LOUI
+Laurie Prindle	LPRI
+LAURA THOMPSON	LTHO
+Legends Of Tomorrow	LTOM
+Time Warner LOONEY TUNES	LTOO
+Lucia Heffernan	LUCI
+LILY & VAL	LVAL
+LA Williams	LWIL
+The Macneil Studio	MACN
+MAD DOG ART	MADD
+MAI AUTUMN	MAIA
+Marta Olga Klara	MAKL
+MERCEDES-AMG PETRONAS F1 TEAM	MAMG
+MARIE ANTOINETTE	MARA
+Marc Allante	MARC
+MARIANNA MILLS	MARI
+Mark Ashkenazi	MASH
+MASS EFFECT	MASS
+Masters Collection	MAST
+Matt Bailey	MBAI
+Mr.Bean Animated	MBEA
+Mr. Bean	MBEN
+Michael Blanchette	MBPH
+Manchester City Football Club	MC
+Manchester City Football Club Custom	MC
+Melanie Delon	MDEL
+Meredith Dillman	MERE
+ME TO YOU	METY
+Micklyn Le Feuvre	MFEU
+McLaren Honda	MHON
+McLaren Honda Custom	MHON
+Magdalena Hristova	MHRI
+Monster Hunter World	MHUN
+Monster Hunter Rise	MHUNR
+Monster Hunter Stories 2 Wings of Ruin	MHUNS2
+Universal Studios Miami Vice	MIAM
+Miraculous Tales of Ladybug & Cat Noir	MIRA
+MICHAEL JACKSON	MJAC
+Time Warner Time Mortal Kombat	MKBT11
+Time Warner MORTAL KOMBAT 9	MKBT9
+Time Warner Mortal Kombat Klassic	MKBTKL
+Mortal Kombat X	MKBTX
+MICHEL KECK	MKEC
+MCLAREN	MLRN
+MALAVIDA	MLVD
+Mandie Manzano	MMAN
+Mat Miller	MMIL
+Motorhead	MOHD
+MOLANG	MOLA
+Hasbro Monopoly	MONO
+M…TLEY CR†E	MOTL
+Marion Rose	MROS
+Hasbro Mr. Potato Head	MRPO
+Martina Illustration	MRTI
+M-SPORT	MSPO
+Monika Strigel	MSTR
+Mango Tangerine Studio	MTAN
+Hasbro Magic The Gathering	MTGA
+Muy Pop	MUYP
+Myles Pinkney	MYLE
+Myroslava Voloschuk	MYRO
+Nancy Moore	NANC
+Naruto Shippuden	NARU
+Natasha Wescoat	NATW
+National Basketball Association	NBA
+Newcastle United Football Club	NCFC
+Newcastle United Football Club Custom	NCFC
+Hasbro Nerf	NERF
+National Football League	NFL
+NFL Custom	NFL
+National Hockey League	NHL
+National Hot Rod Association	NHRA
+Nicklas Gustafsson	NICK
+NINOLA	NINO
+Time Warner NATIONAL LAMPOON'S CHRISTMAS VACATION	NLAM
+NATURE MAGICK	NMAG
+Nika Martinez	NMAR
+Nene Thomas	NTHO
+Nene Thomas Custom	NTHO
+Nene Thomas	NTHOx
+Newcastle United Football Club	NUFC
+Newcastle United Football Club Custom	NUFC
+Orphan Black	OB
+Ohio State University	OHIO
+Oilikki	OIL
+Olivia Joy St. Claire	OJST
+Hasbro Operation	OPER
+Hasbro Ouija	OUIJ
+Outlander	OUTL
+Paula Belle Flores	PAUL
+Peter Barreda	PBAR
+PEAKY BLINDERS	PBLI
+PAUL BRENT	PBRE
+P.D. MORENO	PDMO
+PEPINO DE MAR	PEPI
+Pulp Fiction	PFIC
+Paul Fuentes	PFUE
+Pete Harrison	PHAR
+Piya Wannachaiwong	PIYA
+Planet Cat	PLAC
+PLDESIGN	PLDS
+Pretty Little Liars	PLLI
+Patrik Lovrin	PLOV
+Peacemaker: Television Series	PMAK
+PEANUTS	PNUT
+PEANUTS CUSTOM	PNUT
+Poison	POIS
+Pom Graphic Design	POMGD
+Hasbro My Little Pony	PONY
+Hasbro My Little Pony Classic	PONYC
+Hasbro My Little Pony Retro	PONYR
+Hasbro Power Rangers	POWR
+Hasbro Power Rangers TV Series	POWRT
+PINK PANTHER	PPAN
+PINK PANTHER Custom	PPAN
+The Powerpuff Girls	PPUF
+Popeye	PPYE
+Preacher	PRCH
+Pets Rock	PRCK
+Pets Rock Custom	PRCK
+Project M	PRJM
+PARENTAL ADVISORY	PRTL
+PIXIE COLD	PXCO
+Ubisoft Rabbids	RABB
+Rachel Anderson	RACD
+Rachel Paxton	RAPX
+Rachel Caldwell	RCAL
+Rock Demarco	RDEM
+Ready Player One	READ
+Renee Biertempfel	RENE
+Robert Farkas	RFAR
+Rangers FC	RFC
+Rangers FC Custom	RFC
+Ric Stultz	RIC
+Time Warner Riverdale	RIVD
+Time Warner Riverdale Custom	RIVD
+Rainer Kalwitz	RKAL
+ROSE KHAN	RKHA
+Real Madrid CF	RMCF
+Rick And Morty	RMOR
+Robot Chicken	ROBO
+AS Roma	ROMA
+AS Roma Custom	ROMA
+RON SCHMIDT	RONS
+RON SCHMIDT Custom	RONS
+Riza Peker	RPEK
+Ruth Thompson	RTHO
+RUNA	RUNA
+Rusty Sherrill	RUST
+Resident Evil	RVIL
+SagePizza	SAGE
+Sex and The City	SATC
+Shelly Bremmer	SBRE
+Support British Soldiers Official	SBS
+Spacescapes	SCAP
+Simon's Cat	SCAT
+Simon's Cat Custom	SCAT
+Time Warner SCOOBY-DOO	SCDO
+Scotland National Football Team	SCFA
+Scotland National Football Team Custom	SCFA
+Time Warner SCOOB!	SCOO
+Scorpions	SCOR
+Hasbro Scrabble	SCRB
+Sylvie Demers	SDEM
+Seinfeld	SEIN
+Sesame Street	SESA
+Sesame Street Custom	SESA
+Selina Fenech	SFEN
+SIMONE GATTERWE	SGAT
+Shannon Maer	SHANM
+Shelby	SHEL
+SHAUNA HENRY	SHEN
+Time Warner Shazam!	SHZM
+Space Jam: A New Legacy	SJAL
+Stephanie Law	SLAW
+S.L BENFICA	SLB
+S.L BENFICA Custom	SLB
+Suzan Lind	SLIN
+Smallfoot	SMFO
+Samurai Jack	SMJA
+Stanley Morrison	SMOR
+Time Warner 2001 A SPACE ODYSSEY	SODY
+Studio Pets	SPET
+Space Ghost Coast to Coast	SPGH
+Sheena Pike	SPIK
+Space Jam (1996)	SPJA
+Time Warner Superman Core	SPRC
+Spires	SPRE
+Spyro	SPYRO
+STEVEN RHODES	SRHO
+Sarah Richter	SRIT
+SCOTTISH RUGBY	SRU
+SCOTTISH RUGBY Custom	SRU
+Suicide Squad: Kill The Justice League	SSKJ
+Suicide Squad 2016	SSQU
+Ubisoft Starlink: Battle For Atlas	STAR
+Steve Brown	STBR
+Steven Universe	STEV
+Street Fighter	STFI
+STEPHEN HUNECK	STHU
+Strangeling	STRA
+Star Trek	STREK
+Star Trek Discovery	STREK
+Star Trek: Picard	STREKP
+SHARON TURNER	STUR
+Steve Wade	STWA
+Hasbro Subbuteo	SUBB
+Sunderland AFC	SUFC
+Time Warner Supergirl	SUPG
+Time Warner SUPERNATURAL	SUPN
+Sven Fauth	SVEN
+Shazam!: Fury Of The Gods	SZFG
+The Batman	TBAT
+Time Warner The Big Bang Theory	TBBT
+Universal Studios The Big Lebowski	TBIG
+Universal Studios The Blues Brothers	TBLU
+Universal Studios The Breakfast Club	TBRE
+The Curse of La Llorona	TCLA
+The Walking Dead: Daryl Dixon	TDDX
+The Dark Knight	TDKN
+The Dark Knight Rises	TDKR
+Ted Lasso	TEDL
+Time Warner THE EXORCIST	TEXO
+The Flash 2023	TF23
+The FA	TFA
+The FA Custom	TFA
+Time Warner THE FLASH DC COMICS	TFCO
+Time Warner THE FLINTSTONES	TFLN
+Hasbro Transformers	TFMR
+Hasbro Transformers Bumblebee Movie	TFMRBU
+Tobe Fonseca	TFON
+Time Warner THE FLASH TELEVISION SERIES	TFTS
+The Great Gatsby	TGGA
+The Goonies	TGOO
+The Grim Adventures of Billy & Mandy	TGRA
+Time Warner The Hobbit: An Unexpected Journey	THBB
+Time Warner The Hobbit: The Battle of the Five Armies	THBBBF
+Tottenham Hotspur F.C.	THFC
+Tottenham Hotspur F.C. Custom	THFC
+Thomas Barbey	THOB
+Time Warner THE SHINING	THSI
+Thundercats	THUN
+Tiffany Toland	TIFF
+The Inbetweeners	TINB
+The Jetsons	TJET
+Tom And Jerry Movie (2021)	TJMO
+Time Warner THE JOKER	TJOK
+Time Warner THE LOST BOYS	TLOS
+Time Warner THE LORD OF THE RINGS: THE FELLOWSHIP OF THE RING	TLRIF
+Time Warner THE LORD OF THE RINGS: THE RETURN OF THE KING	TLRIR
+Time Warner THE LORD OF THE RINGS: THE TWO TOWERS	TLRIT
+The Matrix Reloaded	TMRL
+The Matrix Resurrections	TMRS
+The Matrix Revolutions	TMRV
+The Matrix	TMRX
+The Native State	TNAT
+The National Gallery	TNGA
+Toonami	TNMI
+The Nun	TNUN
+The Next Step	TNXT
+TOULOUSE FOOTBALL CLUB	TOFC
+Ubisoft Tom Clancy's	TOMC
+Ubisoft Tom Clancy's The Division 2	TOMCD2
+Ubisoft Tom Clancy's Ghost Recon Breakpoint	TOMCGR
+Tom Clancy's Ghost Recon Wildlands	TOMCGRW
+Ubisoft Tom Clancy's Rainbow Six Siege	TOMCRS
+Ubisoft Tom Clancy's The Division	TOMCTD
+Tom and Jerry	TOMJ
+Tom Wood	TOMW
+TOP TRUMPS	TOPT
+Universal Studios TROLLS 2019	TR19
+Universal Studios Trolls 3: Band Together	TR3B
+Tracie Andrews	TRAC
+Universal Studios THE SECRET LIFE OF PETS	TSLP
+The Suicide Squad 2021	TSSQ
+Taka Sudo	TSUD
+Tangerine-Tane	TTAN
+Time Warner Teen Titans Go! To The Movies	TTGO
+Tummeow	TUMM
+Turnowsky	TURN
+TV Boy	TVB
+The Walking Dead	TWD
+The Walking Dead: The Ones Who Live	TWDT
+Universal Studios Trolls World Tour	TWTO
+Time Warner THE YEAR WITHOUT SANTA	TYEA
+UFC	UFC
+UFC Custom	UFC
+Universal Studios UMBRELLA ACADEMY	UMAC
+Universal Studios Universal Monsters	UNIM
+U.S. ARMY	USAR
+U.S. ARMY Custom	USAR
+UtArt	UTART
+Vasare Nar	VASR
+VINCENT HIE	VHIE
+Vikings	VIKI
+Vikings Custom	VIKI
+Vikings Valhalla	VIKIVA
+Vin Zzep	VINZ
+VALENTINA	VLTN
+Veronica Mars	VMAR
+Universal Studios Voltron	VOLT
+Vincent Trinidad Art	VTRI
+Time Warner WACKY RACES	WACK
+Time Warner WACKY RACES 2016	WACK16
+Warner Bros. Shield	WBSH
+Ubisoft Watchdogs	WDOG
+Ubisoft Watchdogs 2	WDOG2
+Ubisoft WATCHDOGS LEGION	WDOGL
+We Bare Bears	WEBB
+West Ham United Football Club	WFC
+West Ham United Football Club Custom	WFC
+Time Warner WILLY WONKA AND THE CHOCOLATE FACTORY	WIWO
+Biffy Clyro	WMBCL
+Chloe Moriondo	WMCHL
+Warner Music Green Day	WMGDAY
+Goo Goo Dolls	WMGGD
+Warner Music Gojira	WMGOJI
+Warner Music Grateful Dead	WMGRAT
+Westminster	WMIN
+Jack Harlow	WMJHA
+Warner Music Joy Division	WMJOYD
+Korn	WMKORN
+Liam Gallagher	WMLIA
+Pooh Shiesty	WMPOO
+The Monkees	WMTMO
+Trivium	WMTVM
+War	WMWAR
+WondrousCre8tions	WOCR
+World of Outlaws	WOUT
+Universal Studios Where's Wally?	WWAL
+Time Warner Wonder Woman Core	WWCO
+World Wrestling Entertainment	WWE
+Time Warner WHERE THE WILD THINGS ARE - BOOKS	WWILB
+Time Warner WHERE THE WILD THINGS ARE - MOVIE	WWILM
+Universal Studios Where's Waldo?	WWLD
+Time Warner Wonder Woman Movie 2017	WWOM
+Time Warner Wonder Woman 1984 (2020)	WWOM84
+Time Warner WESTWORLD TV SERIES	WWOR
+Wyanne	WYAN
+XBOX	XBOX
+YALE UNIVERSITY	YALE
+Young Justice	YJUS
+ZELKO RADIC BFVRP	ZELC
+Zombie Makeout Club	ZOMB
+ZZ Top	ZZT

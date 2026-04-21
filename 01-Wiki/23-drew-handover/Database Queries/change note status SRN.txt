@@ -1,0 +1,5 @@
+UPDATE order_tracker_xls SET Notes_to_Yourself = "US Eligible" WHERE Sales_Record_Number IN ('BC3575',
+'BC3585',
+'BC3592',
+'BC3598',
+'BC3606')

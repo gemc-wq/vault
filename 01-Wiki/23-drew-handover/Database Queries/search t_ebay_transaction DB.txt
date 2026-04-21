@@ -1,0 +1,1 @@
+Select * From t_ebay_transaction where f_order_sales_record_number = '306-6716801-3526762';

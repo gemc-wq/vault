@@ -1,0 +1,36 @@
+SELECT
+	a.Sales_Record_Number AS 'SalesRecordNumber',
+    	a.f_ship_tracking AS 'TrackingNumber',
+	a.f_sage_order_no AS 'SageOrderNumber',
+	a.f_status AS 'Status',
+	a.f_refunded AS 'IsRefunded',
+	a.Buyer_Fullname AS 'BuyerName',
+	a.Buyer_Country AS 'BuyerCountry',
+	a.Custom_Label AS 'CustomLabel',
+	a.Quantity,
+	a.Sale_Price AS 'SalePrice',
+	a.Postage_and_Packing AS 'PostageAndPacking',
+	a.Total_Price AS 'TotalPrice',
+	a.Paid_on_Date AS 'PaidDate',
+	a.Dispatch_Date AS 'DispatchDate',
+	a.Transaction_ID AS 'TransactionID',
+	(SELECT f_erp_dbname FROM t_erp WHERE f_erp_id = a.f_eTransaction_ID) AS 'SageCompany',
+	(SELECT f_site_name FROM t_marketplaces WHERE f_site_id = a.f_ebay_site) AS 'Marketplace'
+FROM order_tracker_xls a
+WHERE STR_TO_DATE(a.Paid_on_Date, '%d-%b-%y') BETWEEN '2020-12-01' AND '2020-12-31'
+
+
+
+
+
+WHERE STR_TO_DATE(a.Paid_on_Date, '%d-%b-%y') >= '2021-12-01'
+AND a.Sales_Record_Number NOT IN (SELECT SalesRecordNumber FROM POBySRN)
+
+WHERE STR_TO_DATE(a.Paid_on_Date, '%d-%b-%y') >= DATE_SUB(NOW(), INTERVAL 6 MONTH)
+
+
+
+
+WHERE STR_TO_DATE(a.Paid_on_Date, '%d-%b-%y') BETWEEN '2022-06-01' AND '2022-06-30'
+AND a.`Sales_Record_Number` LIKE 'B2BOJAM%';
+

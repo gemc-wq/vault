@@ -1,0 +1,1148 @@
+[
+  {
+    "design": "NARUICO",
+    "revenue": 20096.31,
+    "htpcr_devices": 102,
+    "hb401_devices": 17
+  },
+  {
+    "design": "PNUTBOA",
+    "revenue": 12531.77,
+    "htpcr_devices": 109,
+    "hb401_devices": 22
+  },
+  {
+    "design": "DRGBSUSC",
+    "revenue": 12382.27,
+    "htpcr_devices": 91,
+    "hb401_devices": 17
+  },
+  {
+    "design": "NARUCHA",
+    "revenue": 12049.85,
+    "htpcr_devices": 102,
+    "hb401_devices": 17
+  },
+  {
+    "design": "PNUTCHA",
+    "revenue": 11904.4,
+    "htpcr_devices": 110,
+    "hb401_devices": 22
+  },
+  {
+    "design": "PNUTHAL",
+    "revenue": 11768.39,
+    "htpcr_devices": 106,
+    "hb401_devices": 22
+  },
+  {
+    "design": "HPOTDH37",
+    "revenue": 11731.93,
+    "htpcr_devices": 119,
+    "hb401_devices": 22
+  },
+  {
+    "design": "OHIOLOGO",
+    "revenue": 7013.91,
+    "htpcr_devices": 92,
+    "hb401_devices": 4
+  },
+  {
+    "design": "GMORGRA",
+    "revenue": 6340.54,
+    "htpcr_devices": 86,
+    "hb401_devices": 19
+  },
+  {
+    "design": "HATSGRA",
+    "revenue": 5940.32,
+    "htpcr_devices": 94,
+    "hb401_devices": 17
+  },
+  {
+    "design": "HPOTDH13",
+    "revenue": 5824.88,
+    "htpcr_devices": 112,
+    "hb401_devices": 22
+  },
+  {
+    "design": "IMGCUAL",
+    "revenue": 5678.92,
+    "htpcr_devices": 95,
+    "hb401_devices": 19
+  },
+  {
+    "design": "FCBCKT8",
+    "revenue": 5627.68,
+    "htpcr_devices": 92,
+    "hb401_devices": 22
+  },
+  {
+    "design": "RMCFKIT25",
+    "revenue": 5039.06,
+    "htpcr_devices": 102,
+    "hb401_devices": 23
+  },
+  {
+    "design": "PNUTBBU",
+    "revenue": 5021.15,
+    "htpcr_devices": 103,
+    "hb401_devices": 22
+  },
+  {
+    "design": "FCBKIT25",
+    "revenue": 4078.85,
+    "htpcr_devices": 99,
+    "hb401_devices": 22
+  },
+  {
+    "design": "BTMCHUS",
+    "revenue": 4071.46,
+    "htpcr_devices": 102,
+    "hb401_devices": 22
+  },
+  {
+    "design": "PNUTORI",
+    "revenue": 3920.41,
+    "htpcr_devices": 103,
+    "hb401_devices": 22
+  },
+  {
+    "design": "WMGRATTRE",
+    "revenue": 3869.79,
+    "htpcr_devices": 102,
+    "hb401_devices": 19
+  },
+  {
+    "design": "IMGCUAAR",
+    "revenue": 3630.57,
+    "htpcr_devices": 95,
+    "hb401_devices": 19
+  },
+  {
+    "design": "ADVEGRA",
+    "revenue": 3516.61,
+    "htpcr_devices": 93,
+    "hb401_devices": 19
+  },
+  {
+    "design": "HPOTPRI2",
+    "revenue": 3475.33,
+    "htpcr_devices": 111,
+    "hb401_devices": 22
+  },
+  {
+    "design": "PNUTSCO",
+    "revenue": 3340.21,
+    "htpcr_devices": 103,
+    "hb401_devices": 22
+  },
+  {
+    "design": "IMGCUOK",
+    "revenue": 3339.26,
+    "htpcr_devices": 93,
+    "hb401_devices": 19
+  },
+  {
+    "design": "PNUTDDR",
+    "revenue": 3240.52,
+    "htpcr_devices": 107,
+    "hb401_devices": 22
+  },
+  {
+    "design": "NARUKEY",
+    "revenue": 2937.0,
+    "htpcr_devices": 102,
+    "hb401_devices": 17
+  },
+  {
+    "design": "WWE2JEY",
+    "revenue": 2900.04,
+    "htpcr_devices": 92,
+    "hb401_devices": 22
+  },
+  {
+    "design": "FCBPHKT25",
+    "revenue": 2863.4,
+    "htpcr_devices": 83,
+    "hb401_devices": 22
+  },
+  {
+    "design": "BVBEKYA",
+    "revenue": 2722.11,
+    "htpcr_devices": 109,
+    "hb401_devices": 17
+  },
+  {
+    "design": "WWE2RHE",
+    "revenue": 2673.06,
+    "htpcr_devices": 97,
+    "hb401_devices": 22
+  },
+  {
+    "design": "FCBCPA",
+    "revenue": 2592.84,
+    "htpcr_devices": 88,
+    "hb401_devices": 22
+  },
+  {
+    "design": "IMGCLSU",
+    "revenue": 2537.4,
+    "htpcr_devices": 93,
+    "hb401_devices": 19
+  },
+  {
+    "design": "PPUFGRA",
+    "revenue": 2534.23,
+    "htpcr_devices": 83,
+    "hb401_devices": 19
+  },
+  {
+    "design": "BTMCLOG",
+    "revenue": 2473.5,
+    "htpcr_devices": 104,
+    "hb401_devices": 22
+  },
+  {
+    "design": "RMCFRET",
+    "revenue": 2450.82,
+    "htpcr_devices": 99,
+    "hb401_devices": 22
+  },
+  {
+    "design": "SPRCCOM",
+    "revenue": 2287.33,
+    "htpcr_devices": 89,
+    "hb401_devices": 19
+  },
+  {
+    "design": "NHLBOSB",
+    "revenue": 2263.38,
+    "htpcr_devices": 89,
+    "hb401_devices": 22
+  },
+  {
+    "design": "PNUTWOD",
+    "revenue": 2234.68,
+    "htpcr_devices": 103,
+    "hb401_devices": 22
+  },
+  {
+    "design": "HPOTSOR2",
+    "revenue": 2224.4,
+    "htpcr_devices": 108,
+    "hb401_devices": 22
+  },
+  {
+    "design": "SCDO50T",
+    "revenue": 2029.63,
+    "htpcr_devices": 89,
+    "hb401_devices": 18
+  },
+  {
+    "design": "SUPNKEY",
+    "revenue": 1973.52,
+    "htpcr_devices": 97,
+    "hb401_devices": 19
+  },
+  {
+    "design": "SPRCLOG",
+    "revenue": 1948.47,
+    "htpcr_devices": 96,
+    "hb401_devices": 19
+  },
+  {
+    "design": "WWE2W41",
+    "revenue": 1845.34,
+    "htpcr_devices": 94,
+    "hb401_devices": 17
+  },
+  {
+    "design": "OHIOFLOG",
+    "revenue": 1796.51,
+    "htpcr_devices": 88,
+    "hb401_devices": 0
+  },
+  {
+    "design": "RMCFURB",
+    "revenue": 1763.99,
+    "htpcr_devices": 99,
+    "hb401_devices": 22
+  },
+  {
+    "design": "DRGBSUSA",
+    "revenue": 1749.44,
+    "htpcr_devices": 91,
+    "hb401_devices": 17
+  },
+  {
+    "design": "DRGBCHA",
+    "revenue": 1725.75,
+    "htpcr_devices": 78,
+    "hb401_devices": 22
+  },
+  {
+    "design": "NBA2WAR",
+    "revenue": 1698.09,
+    "htpcr_devices": 99,
+    "hb401_devices": 22
+  },
+  {
+    "design": "WWE2CRH",
+    "revenue": 1687.7,
+    "htpcr_devices": 88,
+    "hb401_devices": 22
+  },
+  {
+    "design": "IMGCPSU",
+    "revenue": 1683.4,
+    "htpcr_devices": 92,
+    "hb401_devices": 19
+  },
+  {
+    "design": "FCBFTM2G1",
+    "revenue": 1519.55,
+    "htpcr_devices": 89,
+    "hb401_devices": 19
+  },
+  {
+    "design": "MCBDKIT25",
+    "revenue": 1516.5,
+    "htpcr_devices": 102,
+    "hb401_devices": 22
+  },
+  {
+    "design": "HPOTLTYP",
+    "revenue": 1474.8,
+    "htpcr_devices": 101,
+    "hb401_devices": 17
+  },
+  {
+    "design": "PNUTT21",
+    "revenue": 1426.57,
+    "htpcr_devices": 56,
+    "hb401_devices": 0
+  },
+  {
+    "design": "NBA2LOS",
+    "revenue": 1420.7,
+    "htpcr_devices": 99,
+    "hb401_devices": 22
+  },
+  {
+    "design": "PNUTAPO",
+    "revenue": 1412.81,
+    "htpcr_devices": 95,
+    "hb401_devices": 22
+  },
+  {
+    "design": "IMGCPSA",
+    "revenue": 1380.49,
+    "htpcr_devices": 80,
+    "hb401_devices": 19
+  },
+  {
+    "design": "IMGCFSU",
+    "revenue": 1327.57,
+    "htpcr_devices": 40,
+    "hb401_devices": 19
+  },
+  {
+    "design": "HPOTDH14",
+    "revenue": 1316.72,
+    "htpcr_devices": 104,
+    "hb401_devices": 22
+  },
+  {
+    "design": "PNUTADI",
+    "revenue": 1282.03,
+    "htpcr_devices": 104,
+    "hb401_devices": 22
+  },
+  {
+    "design": "HPOTDH9",
+    "revenue": 1225.08,
+    "htpcr_devices": 94,
+    "hb401_devices": 22
+  },
+  {
+    "design": "IT17GRA",
+    "revenue": 1220.84,
+    "htpcr_devices": 92,
+    "hb401_devices": 19
+  },
+  {
+    "design": "NHLNYKR",
+    "revenue": 1216.31,
+    "htpcr_devices": 69,
+    "hb401_devices": 22
+  },
+  {
+    "design": "NBA2CEL",
+    "revenue": 1214.2,
+    "htpcr_devices": 99,
+    "hb401_devices": 22
+  },
+  {
+    "design": "WWE2ROM",
+    "revenue": 1206.71,
+    "htpcr_devices": 85,
+    "hb401_devices": 22
+  },
+  {
+    "design": "NBA2NKN",
+    "revenue": 1187.24,
+    "htpcr_devices": 99,
+    "hb401_devices": 22
+  },
+  {
+    "design": "BVBEHTE",
+    "revenue": 1167.05,
+    "htpcr_devices": 105,
+    "hb401_devices": 17
+  },
+  {
+    "design": "IMGCLSUA",
+    "revenue": 1145.46,
+    "htpcr_devices": 79,
+    "hb401_devices": 19
+  },
+  {
+    "design": "LFCDCA",
+    "revenue": 1117.44,
+    "htpcr_devices": 98,
+    "hb401_devices": 22
+  },
+  {
+    "design": "CFCCRE",
+    "revenue": 1085.62,
+    "htpcr_devices": 97,
+    "hb401_devices": 22
+  },
+  {
+    "design": "TDKNKEY",
+    "revenue": 1077.04,
+    "htpcr_devices": 83,
+    "hb401_devices": 17
+  },
+  {
+    "design": "BALL",
+    "revenue": 1076.72,
+    "htpcr_devices": 86,
+    "hb401_devices": 0
+  },
+  {
+    "design": "BTMCICB",
+    "revenue": 1063.66,
+    "htpcr_devices": 98,
+    "hb401_devices": 22
+  },
+  {
+    "design": "WWE2LIV",
+    "revenue": 1040.48,
+    "htpcr_devices": 97,
+    "hb401_devices": 22
+  },
+  {
+    "design": "WWE2CMP",
+    "revenue": 1036.07,
+    "htpcr_devices": 86,
+    "hb401_devices": 22
+  },
+  {
+    "design": "PNUTMAN",
+    "revenue": 1021.54,
+    "htpcr_devices": 104,
+    "hb401_devices": 19
+  },
+  {
+    "design": "AFCKIT25",
+    "revenue": 1021.47,
+    "htpcr_devices": 103,
+    "hb401_devices": 22
+  },
+  {
+    "design": "FRNDICO",
+    "revenue": 1009.53,
+    "htpcr_devices": 91,
+    "hb401_devices": 22
+  },
+  {
+    "design": "FCBCKT7",
+    "revenue": 1003.6,
+    "htpcr_devices": 94,
+    "hb401_devices": 22
+  },
+  {
+    "design": "LFCLVBRD",
+    "revenue": 968.72,
+    "htpcr_devices": 89,
+    "hb401_devices": 22
+  },
+  {
+    "design": "SCDOSCO",
+    "revenue": 963.7,
+    "htpcr_devices": 92,
+    "hb401_devices": 19
+  },
+  {
+    "design": "LFCKIT25",
+    "revenue": 944.77,
+    "htpcr_devices": 102,
+    "hb401_devices": 22
+  },
+  {
+    "design": "DRGBZCAS",
+    "revenue": 924.74,
+    "htpcr_devices": 109,
+    "hb401_devices": 22
+  },
+  {
+    "design": "AFCCRE",
+    "revenue": 905.52,
+    "htpcr_devices": 97,
+    "hb401_devices": 22
+  },
+  {
+    "design": "PNUTROC",
+    "revenue": 893.28,
+    "htpcr_devices": 105,
+    "hb401_devices": 19
+  },
+  {
+    "design": "WWE2JCEN",
+    "revenue": 889.85,
+    "htpcr_devices": 97,
+    "hb401_devices": 22
+  },
+  {
+    "design": "IMGCUOKA",
+    "revenue": 875.9,
+    "htpcr_devices": 77,
+    "hb401_devices": 19
+  },
+  {
+    "design": "AFA24G1",
+    "revenue": 867.95,
+    "htpcr_devices": 84,
+    "hb401_devices": 17
+  },
+  {
+    "design": "RMORS1N2",
+    "revenue": 859.8,
+    "htpcr_devices": 79,
+    "hb401_devices": 22
+  },
+  {
+    "design": "BTMCFCB",
+    "revenue": 834.0,
+    "htpcr_devices": 84,
+    "hb401_devices": 17
+  },
+  {
+    "design": "DRGBSFTR",
+    "revenue": 832.1,
+    "htpcr_devices": 83,
+    "hb401_devices": 22
+  },
+  {
+    "design": "IRONALB",
+    "revenue": 806.05,
+    "htpcr_devices": 96,
+    "hb401_devices": 22
+  },
+  {
+    "design": "LTOOGCH",
+    "revenue": 785.1,
+    "htpcr_devices": 87,
+    "hb401_devices": 17
+  },
+  {
+    "design": "WWESUP",
+    "revenue": 780.1,
+    "htpcr_devices": 70,
+    "hb401_devices": 17
+  },
+  {
+    "design": "SHELCAR",
+    "revenue": 778.1,
+    "htpcr_devices": 83,
+    "hb401_devices": 17
+  },
+  {
+    "design": "TLRIFRG",
+    "revenue": 758.2,
+    "htpcr_devices": 89,
+    "hb401_devices": 0
+  },
+  {
+    "design": "CFCKIT25",
+    "revenue": 750.97,
+    "htpcr_devices": 103,
+    "hb401_devices": 22
+  },
+  {
+    "design": "AFCCPA",
+    "revenue": 750.19,
+    "htpcr_devices": 97,
+    "hb401_devices": 22
+  },
+  {
+    "design": "AFCLOGOS",
+    "revenue": 748.22,
+    "htpcr_devices": 99,
+    "hb401_devices": 22
+  },
+  {
+    "design": "WWE2TBE",
+    "revenue": 742.15,
+    "htpcr_devices": 84,
+    "hb401_devices": 17
+  },
+  {
+    "design": "BTMCTHR",
+    "revenue": 738.18,
+    "htpcr_devices": 98,
+    "hb401_devices": 22
+  },
+  {
+    "design": "AFCCGLO",
+    "revenue": 736.74,
+    "htpcr_devices": 88,
+    "hb401_devices": 22
+  },
+  {
+    "design": "PNUTCBR",
+    "revenue": 735.51,
+    "htpcr_devices": 103,
+    "hb401_devices": 19
+  },
+  {
+    "design": "IRONART",
+    "revenue": 711.3,
+    "htpcr_devices": 96,
+    "hb401_devices": 22
+  },
+  {
+    "design": "NHLTAML",
+    "revenue": 693.35,
+    "htpcr_devices": 73,
+    "hb401_devices": 22
+  },
+  {
+    "design": "HPOTDH8",
+    "revenue": 678.97,
+    "htpcr_devices": 86,
+    "hb401_devices": 17
+  },
+  {
+    "design": "BTMCVFA",
+    "revenue": 665.8,
+    "htpcr_devices": 83,
+    "hb401_devices": 22
+  },
+  {
+    "design": "RMORS3GR",
+    "revenue": 660.0,
+    "htpcr_devices": 104,
+    "hb401_devices": 22
+  },
+  {
+    "design": "AFCCKT9",
+    "revenue": 617.2,
+    "htpcr_devices": 105,
+    "hb401_devices": 22
+  },
+  {
+    "design": "UFCLOGO",
+    "revenue": 602.61,
+    "htpcr_devices": 24,
+    "hb401_devices": 0
+  },
+  {
+    "design": "FLAG",
+    "revenue": 594.35,
+    "htpcr_devices": 86,
+    "hb401_devices": 0
+  },
+  {
+    "design": "WWE2BRY",
+    "revenue": 579.75,
+    "htpcr_devices": 92,
+    "hb401_devices": 22
+  },
+  {
+    "design": "NHLPITP",
+    "revenue": 577.35,
+    "htpcr_devices": 47,
+    "hb401_devices": 22
+  },
+  {
+    "design": "RMCFORI",
+    "revenue": 558.7,
+    "htpcr_devices": 99,
+    "hb401_devices": 22
+  },
+  {
+    "design": "AFCCKT7",
+    "revenue": 549.23,
+    "htpcr_devices": 97,
+    "hb401_devices": 22
+  },
+  {
+    "design": "SHSDOG",
+    "revenue": 544.5,
+    "htpcr_devices": 87,
+    "hb401_devices": 0
+  },
+  {
+    "design": "NHLPHIF",
+    "revenue": 542.69,
+    "htpcr_devices": 47,
+    "hb401_devices": 22
+  },
+  {
+    "design": "NHLDETR",
+    "revenue": 514.8,
+    "htpcr_devices": 48,
+    "hb401_devices": 22
+  },
+  {
+    "design": "CORPKEY",
+    "revenue": 514.33,
+    "htpcr_devices": 93,
+    "hb401_devices": 19
+  },
+  {
+    "design": "FCBCRE",
+    "revenue": 512.7,
+    "htpcr_devices": 99,
+    "hb401_devices": 22
+  },
+  {
+    "design": "CFCRETKS",
+    "revenue": 511.78,
+    "htpcr_devices": 92,
+    "hb401_devices": 22
+  },
+  {
+    "design": "SHELLOG",
+    "revenue": 498.75,
+    "htpcr_devices": 80,
+    "hb401_devices": 17
+  },
+  {
+    "design": "THFCBAD",
+    "revenue": 482.84,
+    "htpcr_devices": 91,
+    "hb401_devices": 22
+  },
+  {
+    "design": "FCBCKT6",
+    "revenue": 475.09,
+    "htpcr_devices": 87,
+    "hb401_devices": 19
+  },
+  {
+    "design": "SCDOMYS",
+    "revenue": 466.9,
+    "htpcr_devices": 90,
+    "hb401_devices": 19
+  },
+  {
+    "design": "HPOTDH10",
+    "revenue": 464.9,
+    "htpcr_devices": 88,
+    "hb401_devices": 19
+  },
+  {
+    "design": "MCBADGE",
+    "revenue": 461.93,
+    "htpcr_devices": 97,
+    "hb401_devices": 22
+  },
+  {
+    "design": "NHLMINW",
+    "revenue": 456.9,
+    "htpcr_devices": 47,
+    "hb401_devices": 22
+  },
+  {
+    "design": "NHLVEGG",
+    "revenue": 454.9,
+    "htpcr_devices": 72,
+    "hb401_devices": 22
+  },
+  {
+    "design": "BTMCCBCO",
+    "revenue": 450.95,
+    "htpcr_devices": 83,
+    "hb401_devices": 22
+  },
+  {
+    "design": "FKREFLO",
+    "revenue": 437.95,
+    "htpcr_devices": 97,
+    "hb401_devices": 17
+  },
+  {
+    "design": "NHLSTLB",
+    "revenue": 429.0,
+    "htpcr_devices": 90,
+    "hb401_devices": 22
+  },
+  {
+    "design": "IMGCUIL",
+    "revenue": 418.95,
+    "htpcr_devices": 75,
+    "hb401_devices": 17
+  },
+  {
+    "design": "THFCKIT25",
+    "revenue": 417.87,
+    "htpcr_devices": 101,
+    "hb401_devices": 22
+  },
+  {
+    "design": "IRONTOU",
+    "revenue": 411.6,
+    "htpcr_devices": 98,
+    "hb401_devices": 22
+  },
+  {
+    "design": "TWDDOEX",
+    "revenue": 406.56,
+    "htpcr_devices": 82,
+    "hb401_devices": 17
+  },
+  {
+    "design": "MCBDKIT8",
+    "revenue": 406.05,
+    "htpcr_devices": 97,
+    "hb401_devices": 22
+  },
+  {
+    "design": "NBA2BUL",
+    "revenue": 405.0,
+    "htpcr_devices": 99,
+    "hb401_devices": 22
+  },
+  {
+    "design": "BTMCRHO",
+    "revenue": 402.05,
+    "htpcr_devices": 80,
+    "hb401_devices": 22
+  },
+  {
+    "design": "COBRGRA",
+    "revenue": 401.29,
+    "htpcr_devices": 87,
+    "hb401_devices": 17
+  },
+  {
+    "design": "MCPHKT25",
+    "revenue": 400.05,
+    "htpcr_devices": 100,
+    "hb401_devices": 22
+  },
+  {
+    "design": "HPOTCSE2",
+    "revenue": 398.74,
+    "htpcr_devices": 99,
+    "hb401_devices": 22
+  },
+  {
+    "design": "FCBCKT4",
+    "revenue": 393.76,
+    "htpcr_devices": 98,
+    "hb401_devices": 19
+  },
+  {
+    "design": "BTMCNWI",
+    "revenue": 381.97,
+    "htpcr_devices": 80,
+    "hb401_devices": 22
+  },
+  {
+    "design": "WMGDAYGRA",
+    "revenue": 379.05,
+    "htpcr_devices": 82,
+    "hb401_devices": 17
+  },
+  {
+    "design": "BVGUNSKY",
+    "revenue": 379.05,
+    "htpcr_devices": 105,
+    "hb401_devices": 17
+  },
+  {
+    "design": "DRGBICO",
+    "revenue": 359.1,
+    "htpcr_devices": 78,
+    "hb401_devices": 22
+  },
+  {
+    "design": "PNUTCPA",
+    "revenue": 357.51,
+    "htpcr_devices": 56,
+    "hb401_devices": 0
+  },
+  {
+    "design": "HPOTDH18",
+    "revenue": 349.2,
+    "htpcr_devices": 100,
+    "hb401_devices": 22
+  },
+  {
+    "design": "BVSKWEA",
+    "revenue": 349.1,
+    "htpcr_devices": 108,
+    "hb401_devices": 17
+  },
+  {
+    "design": "BTAOKEY",
+    "revenue": 346.38,
+    "htpcr_devices": 96,
+    "hb401_devices": 19
+  },
+  {
+    "design": "LTOOSEA",
+    "revenue": 342.19,
+    "htpcr_devices": 87,
+    "hb401_devices": 17
+  },
+  {
+    "design": "NHLNEWJ",
+    "revenue": 341.59,
+    "htpcr_devices": 48,
+    "hb401_devices": 22
+  },
+  {
+    "design": "IMGCUIART",
+    "revenue": 339.15,
+    "htpcr_devices": 75,
+    "hb401_devices": 17
+  },
+  {
+    "design": "LFCCRE1",
+    "revenue": 330.15,
+    "htpcr_devices": 88,
+    "hb401_devices": 22
+  },
+  {
+    "design": "SCDOSEA",
+    "revenue": 329.2,
+    "htpcr_devices": 76,
+    "hb401_devices": 17
+  },
+  {
+    "design": "NHL25SCC",
+    "revenue": 327.25,
+    "htpcr_devices": 98,
+    "hb401_devices": 0
+  },
+  {
+    "design": "SUPNVEC",
+    "revenue": 327.17,
+    "htpcr_devices": 78,
+    "hb401_devices": 19
+  },
+  {
+    "design": "IMGCAUB",
+    "revenue": 323.33,
+    "htpcr_devices": 75,
+    "hb401_devices": 17
+  },
+  {
+    "design": "PNUTCUSTA",
+    "revenue": 320.4,
+    "htpcr_devices": 97,
+    "hb401_devices": 0
+  },
+  {
+    "design": "IMGCASU",
+    "revenue": 319.2,
+    "htpcr_devices": 75,
+    "hb401_devices": 17
+  },
+  {
+    "design": "BVSKKEY",
+    "revenue": 319.2,
+    "htpcr_devices": 106,
+    "hb401_devices": 17
+  },
+  {
+    "design": "WWE2UND",
+    "revenue": 314.65,
+    "htpcr_devices": 84,
+    "hb401_devices": 22
+  },
+  {
+    "design": "RCALPAT",
+    "revenue": 314.1,
+    "htpcr_devices": 0,
+    "hb401_devices": 0
+  },
+  {
+    "design": "HPOTDH31",
+    "revenue": 301.25,
+    "htpcr_devices": 87,
+    "hb401_devices": 22
+  },
+  {
+    "design": "IMGCAUAR",
+    "revenue": 299.25,
+    "htpcr_devices": 76,
+    "hb401_devices": 19
+  },
+  {
+    "design": "SHAM",
+    "revenue": 294.2,
+    "htpcr_devices": 78,
+    "hb401_devices": 0
+  },
+  {
+    "design": "MASS1GR",
+    "revenue": 293.29,
+    "htpcr_devices": 86,
+    "hb401_devices": 17
+  },
+  {
+    "design": "ACMCKT7",
+    "revenue": 289.34,
+    "htpcr_devices": 108,
+    "hb401_devices": 22
+  },
+  {
+    "design": "HPOTDH16",
+    "revenue": 287.3,
+    "htpcr_devices": 102,
+    "hb401_devices": 17
+  },
+  {
+    "design": "WWE2DOM",
+    "revenue": 286.85,
+    "htpcr_devices": 84,
+    "hb401_devices": 19
+  },
+  {
+    "design": "CFLAGS1",
+    "revenue": 284.25,
+    "htpcr_devices": 83,
+    "hb401_devices": 0
+  },
+  {
+    "design": "LTOOFUL",
+    "revenue": 283.85,
+    "htpcr_devices": 82,
+    "hb401_devices": 19
+  },
+  {
+    "design": "FCBCKT3",
+    "revenue": 283.3,
+    "htpcr_devices": 88,
+    "hb401_devices": 17
+  },
+  {
+    "design": "BATMKEY",
+    "revenue": 279.3,
+    "htpcr_devices": 83,
+    "hb401_devices": 17
+  },
+  {
+    "design": "TLRIFRC",
+    "revenue": 279.3,
+    "htpcr_devices": 77,
+    "hb401_devices": 17
+  },
+  {
+    "design": "WWECRHO",
+    "revenue": 278.99,
+    "htpcr_devices": 68,
+    "hb401_devices": 22
+  },
+  {
+    "design": "FCBCKT5",
+    "revenue": 277.81,
+    "htpcr_devices": 85,
+    "hb401_devices": 19
+  },
+  {
+    "design": "BVRSKAR",
+    "revenue": 259.35,
+    "htpcr_devices": 108,
+    "hb401_devices": 17
+  },
+  {
+    "design": "DEANDOG",
+    "revenue": 259.35,
+    "htpcr_devices": 84,
+    "hb401_devices": 17
+  },
+  {
+    "design": "MKECDG3",
+    "revenue": 251.3,
+    "htpcr_devices": 84,
+    "hb401_devices": 17
+  },
+  {
+    "design": "MCBDKIT9",
+    "revenue": 250.91,
+    "htpcr_devices": 109,
+    "hb401_devices": 22
+  },
+  {
+    "design": "HPOTBUP",
+    "revenue": 249.4,
+    "htpcr_devices": 84,
+    "hb401_devices": 20
+  },
+  {
+    "design": "VFLA2",
+    "revenue": 249.3,
+    "htpcr_devices": 80,
+    "hb401_devices": 0
+  },
+  {
+    "design": "BTAKCHA",
+    "revenue": 249.04,
+    "htpcr_devices": 83,
+    "hb401_devices": 17
+  },
+  {
+    "design": "LFCCREST3",
+    "revenue": 246.36,
+    "htpcr_devices": 84,
+    "hb401_devices": 17
+  },
+  {
+    "design": "BVRSLCOL",
+    "revenue": 239.4,
+    "htpcr_devices": 107,
+    "hb401_devices": 17
+  },
+  {
+    "design": "IMGCASUA",
+    "revenue": 239.4,
+    "htpcr_devices": 75,
+    "hb401_devices": 17
+  },
+  {
+    "design": "CFCKIT6",
+    "revenue": 236.57,
+    "htpcr_devices": 106,
+    "hb401_devices": 22
+  },
+  {
+    "design": "GCFLAGS1",
+    "revenue": 235.35,
+    "htpcr_devices": 84,
+    "hb401_devices": 0
+  },
+  {
+    "design": "BTAKGRA",
+    "revenue": 231.44,
+    "htpcr_devices": 94,
+    "hb401_devices": 19
+  }
+]

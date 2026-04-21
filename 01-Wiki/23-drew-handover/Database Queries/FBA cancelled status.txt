@@ -1,0 +1,17 @@
+SELECT
+                Sales_Record_Number AS 'SalesRecordNumber',
+                f_status AS 'Status',
+                f_refunded AS 'IsRefunded',
+                Custom_Label AS 'CustomLabel',
+                Buyer_Country AS 'BuyerCountry',
+                STR_TO_DATE(Paid_on_Date, '%d-%b-%y') AS 'PaidDate',
+                DATEDIFF(NOW(), STR_TO_DATE(Paid_on_Date, '%d-%b-%y')) AS 'DaysOld'
+            FROM order_tracker_xls 
+            WHERE f_status = 'Cancel' 
+            AND f_refunded = 'No' 
+            AND f_sage_order_no IS NULL
+            AND f_ebay_site = '3'
+            AND Buyer_Country IN ('US','USA','United States','United States Of America') 
+            AND f_upload_day > '2024-02-01' 
+            AND Buyer_Fullname = 'FBA'
+            ORDER BY f_upload_day DESC

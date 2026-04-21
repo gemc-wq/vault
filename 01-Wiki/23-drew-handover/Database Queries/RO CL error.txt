@@ -1,0 +1,1 @@
+SELECT * FROM t_po_srn a WHERE a.`Sales_Record_Number` = '171-6494172-2630754PO1'

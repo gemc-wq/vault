@@ -1,0 +1,27 @@
+<claude-code-hint v="1" type="plugin" value="vercel@claude-plugins-official" />
+Fetching projects in ecells-projects-3c3b03d7
+> Projects found under ecells-projects-3c3b03d7  [2s]
+
+  Project Name              Latest Production URL                                            Updated   Node Version   
+  pulse-dashboard-v2        https://pulse-dashboard-v2.vercel.app                            9h        24.x           
+  ecell-inventory           https://ecell-inventory-ecells-projects-3c3b03d7.vercel.app      6d        24.x           
+  deploy2                   https://deploy2-ecells-projects-3c3b03d7.vercel.app              6d        24.x           
+  procurement-system        https://procurement-system-ecells-projects-3c3b03d7.vercel.app   6d        24.x           
+  vercel-deploy             https://vercel-deploy-ecells-projects-3c3b03d7.vercel.app        6d        24.x           
+  ecell-site                https://ecellglobal.com                                          29d       24.x           
+  conversion-dashboard      https://conversion-dashboard-kohl.vercel.app                     33d       24.x           
+  sales-dashboard-v2        https://sales-dashboard-v2-nine.vercel.app                       38d       24.x           
+  prune-app                 https://prune-app-xi.vercel.app                                  38d       24.x           
+  pulse-dashboard           https://pulse-dashboard-inky.vercel.app                          38d       24.x           
+  blueprint-dashboard       --                                                               39d       24.x           
+  app                       https://app-zeta-sable.vercel.app                                41d       24.x           
+  command-center            https://command-center-one-puce.vercel.app                       43d       24.x           
+  goheadcase-frontend       https://goheadcase-frontend.vercel.app                           46d       24.x           
+  sports-frontend           https://sports-frontend-three.vercel.app                         46d       24.x           
+  anime-frontend            https://anime-frontend-lilac.vercel.app                          46d       24.x           
+  sales-dashboard           https://sales-dashboard-iota-six.vercel.app                      46d       24.x           
+  dashboard-product-entry   https://dashboard-product-entry.vercel.app                       46d       24.x           
+  orbit-pm                  https://orbit-pm.vercel.app                                      46d       24.x           
+  business-dashboard        https://ecell.app                                                49d       24.x           
+
+> To display the next page, run `vercel project ls --next 1772243576833`

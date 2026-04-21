@@ -1,0 +1,1 @@
+SELECT * FROM t_amalgamated_po_line WHERE f_POType = 'Sample' AND f_DateAdded BETWEEN '2023-08-31' AND '2023-10-01';

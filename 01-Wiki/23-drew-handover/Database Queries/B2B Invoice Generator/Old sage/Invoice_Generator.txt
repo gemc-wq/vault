@@ -1,0 +1,34 @@
+Invoice Generator
+
+http://34.196.137.61/barcode/SalesOrderInvoiceGenerator.php
+
+Generate inovice for
+FAN
+JAM
+Marek
+
+b2b account number
+
+Sage UK
+Fanatics D2C - 01105610
+
+Sage DE
+Marek - 00053230
+Pavel Hluzek (Jiri) - 00053229
+00053234 - NBC UNIVERSAL GLOBAL NETWORKS ESPANA SLU
+00053338 - Universal Pictures International Italy S.r.l.
+00053224 - Universal Studios International BV 
+00053335 - NBCUniversal International Television
+
+Zero SO
+ESPANASLU - NBC UNIVERSAL GLOBAL NETWORKS ESPANA SLU
+ITALYSRL - Universal Pictures International Italy S.r.l.
+INTERBV - Universal Studios International BV 
+INTERTELE - NBCUniversal International Television
+
+Sage JP
+JAM - 00002193
+
+
+Klaudia Senator - TransactionID
+KSB2B

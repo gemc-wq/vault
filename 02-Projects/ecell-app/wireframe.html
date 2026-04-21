@@ -1,0 +1,150 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Ecell Ops Dashboard — Wireframes</title>
+  <style>
+    :root{
+      --bg:#0b0c10; --panel:#11131a; --muted:#7a8299; --line:#23273a; --text:#e8ecff;
+      --good:#25d366; --warn:#ffcc00;
+    }
+    body{margin:0;font-family:ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial; background:var(--bg); color:var(--text);}
+    header{padding:28px 22px;border-bottom:1px solid var(--line);background:linear-gradient(180deg,#0b0c10 0%,#0b0c10 60%,rgba(11,12,16,.2) 100%)}
+    h1{margin:0 0 6px 0;font-size:22px;letter-spacing:.2px}
+    p{margin:0;color:var(--muted);font-size:13px;max-width:820px;line-height:1.5}
+    .grid{display:grid;grid-template-columns:repeat(12,1fr);gap:14px;padding:22px;max-width:1180px;margin:0 auto;}
+    .card{grid-column:span 6;background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:16px;min-height:290px;}
+    .card h2{margin:0 0 10px 0;font-size:14px;color:#fff;letter-spacing:.3px}
+    .wf{border:1px dashed #3a3f58;border-radius:12px;padding:14px;background:rgba(255,255,255,.02)}
+    .row{display:flex;gap:10px;align-items:center;margin-bottom:10px}
+    .box{height:12px;border-radius:6px;background:#1a1e2c;border:1px solid #2a2f45;flex:1}
+    .btn{height:12px;width:68px;border-radius:6px;background:#1f2740;border:1px solid #2a355a}
+    .tile{height:56px;border-radius:12px;background:#0f1320;border:1px solid #252b44;margin-top:10px}
+    .small{font-size:11px;color:var(--muted)}
+    .pill{display:inline-flex;align-items:center;gap:6px;border:1px solid #2a2f45;border-radius:999px;padding:4px 8px;font-size:11px;color:var(--muted)}
+    .dot{width:7px;height:7px;border-radius:50%}
+    .dot.good{background:var(--good)}
+    .dot.warn{background:var(--warn)}
+    @media (max-width: 900px){.card{grid-column:span 12}}
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Ecell Ops Dashboard — Wireframes</h1>
+    <p>One secure URL for internal business apps. These are layout wireframes (not final UI). Primary idea: a “launcher” dashboard with cards for Orbit PM, Product Entry, Image Maker, and any future apps. Includes role-based access later.</p>
+  </header>
+
+  <div class="grid">
+    <section class="card">
+      <div class="row" style="justify-content:space-between">
+        <h2>Wireframe A — App Launcher (Home)</h2>
+        <span class="pill"><span class="dot good"></span> recommended</span>
+      </div>
+      <div class="wf">
+        <div class="row">
+          <div class="box" style="max-width:240px"></div>
+          <div class="box" style="max-width:120px"></div>
+          <div class="btn"></div>
+        </div>
+        <div class="box" style="height:26px;border-radius:10px;margin:12px 0 8px 0"></div>
+        <div class="small">H1: “Business Apps” + short description</div>
+        <div class="row" style="margin-top:12px">
+          <div class="tile" style="flex:1"></div>
+          <div class="tile" style="flex:1"></div>
+        </div>
+        <div class="row">
+          <div class="tile" style="flex:1"></div>
+          <div class="tile" style="flex:1"></div>
+        </div>
+        <div class="small" style="margin-top:10px">Cards: Orbit PM (Live), Product Entry, Image Maker, Reports…</div>
+      </div>
+    </section>
+
+    <section class="card">
+      <div class="row" style="justify-content:space-between">
+        <h2>Wireframe B — Role-Based View</h2>
+        <span class="pill"><span class="dot warn"></span> phase 2</span>
+      </div>
+      <div class="wf">
+        <div class="row">
+          <div class="box" style="max-width:240px"></div>
+          <div class="pill">Role: Ops</div>
+          <div class="btn"></div>
+        </div>
+        <div class="small">Role switcher (admin only) + app list filtered by permissions</div>
+        <div class="row" style="margin-top:16px">
+          <div style="flex:1">
+            <div class="small">Apps</div>
+            <div class="tile"></div>
+            <div class="tile"></div>
+            <div class="tile"></div>
+          </div>
+          <div style="flex:1">
+            <div class="small">Recent Activity</div>
+            <div class="box" style="height:180px;border-radius:12px"></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="card">
+      <div class="row" style="justify-content:space-between">
+        <h2>Wireframe C — Product Entry App (embedded)</h2>
+        <span class="pill"><span class="dot warn"></span> phase 1 build</span>
+      </div>
+      <div class="wf">
+        <div class="row">
+          <div class="box" style="max-width:220px"></div>
+          <div class="box" style="max-width:120px"></div>
+          <div class="btn"></div>
+        </div>
+        <div class="row" style="margin-top:14px">
+          <div class="box" style="height:22px;border-radius:10px"></div>
+          <div class="btn"></div>
+        </div>
+        <div class="row" style="margin-top:14px">
+          <div style="flex:1">
+            <div class="small">Single Entry Form</div>
+            <div class="box" style="height:190px;border-radius:12px"></div>
+          </div>
+          <div style="flex:1">
+            <div class="small">Live SKU Preview + Validation</div>
+            <div class="box" style="height:190px;border-radius:12px"></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="card">
+      <div class="row" style="justify-content:space-between">
+        <h2>Wireframe D — Image Maker App (pipeline)</h2>
+        <span class="pill"><span class="dot warn"></span> phase 1 build</span>
+      </div>
+      <div class="wf">
+        <div class="row">
+          <div class="box" style="max-width:220px"></div>
+          <div class="box" style="max-width:120px"></div>
+          <div class="btn"></div>
+        </div>
+        <div class="row" style="margin-top:14px">
+          <div class="box" style="height:22px;border-radius:10px"></div>
+          <div class="box" style="height:22px;border-radius:10px"></div>
+          <div class="btn"></div>
+        </div>
+        <div class="row" style="margin-top:14px">
+          <div style="flex:1">
+            <div class="small">Inputs (Artwork + Device + Case Type + Shots)</div>
+            <div class="box" style="height:190px;border-radius:12px"></div>
+          </div>
+          <div style="flex:1">
+            <div class="small">Outputs (Gallery + Approve/Regenerate)</div>
+            <div class="box" style="height:190px;border-radius:12px"></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+  </div>
+</body>
+</html>

@@ -1,0 +1,1 @@
+SELECT * FROM t_user_profile a WHERE a.`f_username` IN ('l.casem', 'j.alemana')

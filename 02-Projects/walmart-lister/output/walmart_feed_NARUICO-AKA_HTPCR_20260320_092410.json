@@ -1,0 +1,1390 @@
+{
+  "MPItemFeedHeader": {
+    "version": "5.0",
+    "locale": "en",
+    "sellingChannel": "marketplace",
+    "feedDate": "2026-03-20T13:24:10+00:00"
+  },
+  "MPItem": [
+    {
+      "sku": "HTPCR-IPH17PMAX-NARUICO-AKA",
+      "productType": "Cell Phone Cases",
+      "variantGroupId": "HTPCR-IPH-NARUICO-AKA",
+      "variantAttributeNames": [
+        "actual_color",
+        "size"
+      ],
+      "isPrimaryVariant": true,
+      "Orderable": {
+        "sku": "HTPCR-IPH17PMAX-NARUICO-AKA",
+        "productId": "5057546986911",
+        "productIdType": "EAN",
+        "price": 19.95,
+        "currency": "USD",
+        "mustShipAlone": "No",
+        "manufacturerPartNumber": "HTPCR-IPH17PMAX-NARUICO-AKA"
+      },
+      "Visible": {
+        "productName": "Head Case Designs Officially Licensed Naruto Shippuden Akatsuki Soft Gel Case Compatible with iPhone 17 Pro Max",
+        "brand": "Head Case Designs",
+        "manufacturer": "Head Case Designs",
+        "mainImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH17PMAX-1.jpg",
+        "shortDescription": "Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden case is compatible with MagSafe and offers lightweight, drop-tested defense without compromising on swag and aesthetics. It provides the best shock-absorbing protection against drops, bumps, and daily wear. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. Th.",
+        "longDescription": "Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden case is compatible with MagSafe and offers lightweight, drop-tested defense without compromising on swag and aesthetics. It provides the best shock-absorbing protection against drops, bumps, and daily wear. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. This soft gel case delivers military-grade shock absorption with silicone bumpers, ensuring superior protection without extra bulk. Scratch-Resistant with Raised Bezels. Elevated edges shield your screen and camera lens, providing long-lasting clarity and durability. Ergonomic Grip & Non-Slip Texture. This slim magnetic case provides a comfortable, non-slip grip, reducing accidental drops while maintaining a smooth finish. Precision Cutouts for Effortless Access. Designed for seamless fit, this case provides precise cutouts for easy access to all buttons, ports, and speakers without interference. Effortless Installation & Case Swapping. The flexible, form-fitting TPU allows for quick, hassle-free installation, so you can easily switch between designs to match your mood or occasion. Stylish, Licensed Designs. Show off your personality with this officially licensed Naruto Shippuden merch, this case makes a great gift while keeping your device safe. Features: Compatible with MagSafe Military-Grade Protection Official Naruto Shippuden product The case doesn\"t interfere with wireless charging coils Slim & Shockproof Design Durable & Lightweight Screen and Camera Lens Protection Comfortable Grip & Pocket-Friendly Profile Precision Cutouts for Effortless Access Quick & Easy Installation Flexible TPU material Stylish, Licensed Designs' Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden Apple iPhone 17 case is compatible with wireless charging and offers lightweight, drop-tested (up to 1.2m/4ft) defense without compromising on swag and aesthetics. Crafted from premium TPU, it provides the best shock-absorbing protection against drops, bumps, and daily wear while maintaining a slim, pocket-friendly profile. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. This official Naruto Shippuden soft gel case delivers military-grade shock absorption with silicone bumpers, ensuring superior protection without extra bulk. Scratch-Resistant with Raised Bezels. Elevated edges shield your screen and camera lens, providing long-lasting clarity and durability. Ergonomic Grip & Non-Slip Texture. Made from soft-touch TPU, this slim Apple iPhone 17 case provides a comfortable, non-slip grip, reducing accidental drops while maintaining a smooth, stylish finish. Precision Cutouts for Effortless Access. Designed for seamless compatibility, this case provides precise cutouts for easy access to all buttons, ports, and speakers without interference. Effortless Installation & Case Swapping. The flexible",
+        "actual_color": "Akatsuki",
+        "size": "iPhone 17 Pro Max",
+        "modelNumber": "HTPCR-IPH17PMAX-NARUICO-AKA",
+        "compatibleBrand": "Apple",
+        "compatibleModels": [
+          "iPhone 17 Pro Max"
+        ],
+        "cellPhoneCaseType": "Soft Gel Case",
+        "material": "TPU"
+      },
+      "groupingAttributes": [
+        {
+          "name": "actual_color",
+          "value": "Akatsuki"
+        },
+        {
+          "name": "size",
+          "value": "iPhone 17 Pro Max"
+        }
+      ]
+    },
+    {
+      "sku": "HTPCR-IPH16-NARUICO-AKA",
+      "productType": "Cell Phone Cases",
+      "variantGroupId": "HTPCR-IPH-NARUICO-AKA",
+      "variantAttributeNames": [
+        "actual_color",
+        "size"
+      ],
+      "isPrimaryVariant": false,
+      "Orderable": {
+        "sku": "HTPCR-IPH16-NARUICO-AKA",
+        "productId": "5063291000192",
+        "productIdType": "EAN",
+        "price": 19.95,
+        "currency": "USD",
+        "mustShipAlone": "No",
+        "manufacturerPartNumber": "HTPCR-IPH16-NARUICO-AKA"
+      },
+      "Visible": {
+        "productName": "Head Case Designs Officially Licensed Naruto Shippuden Akatsuki Soft Gel Case Compatible with iPhone 16",
+        "brand": "Head Case Designs",
+        "manufacturer": "Head Case Designs",
+        "mainImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH16-1.jpg",
+        "shortDescription": "Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden case is compatible with MagSafe and offers lightweight, drop-tested defense without compromising on swag and aesthetics. It provides the best shock-absorbing protection against drops, bumps, and daily wear. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. Th.",
+        "longDescription": "Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden case is compatible with MagSafe and offers lightweight, drop-tested defense without compromising on swag and aesthetics. It provides the best shock-absorbing protection against drops, bumps, and daily wear. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. This soft gel case delivers military-grade shock absorption with silicone bumpers, ensuring superior protection without extra bulk. Scratch-Resistant with Raised Bezels. Elevated edges shield your screen and camera lens, providing long-lasting clarity and durability. Ergonomic Grip & Non-Slip Texture. This slim magnetic case provides a comfortable, non-slip grip, reducing accidental drops while maintaining a smooth finish. Precision Cutouts for Effortless Access. Designed for seamless fit, this case provides precise cutouts for easy access to all buttons, ports, and speakers without interference. Effortless Installation & Case Swapping. The flexible, form-fitting TPU allows for quick, hassle-free installation, so you can easily switch between designs to match your mood or occasion. Stylish, Licensed Designs. Show off your personality with this officially licensed Naruto Shippuden merch, this case makes a great gift while keeping your device safe. Features: Compatible with MagSafe Military-Grade Protection Official Naruto Shippuden product The case doesn\"t interfere with wireless charging coils Slim & Shockproof Design Durable & Lightweight Screen and Camera Lens Protection Comfortable Grip & Pocket-Friendly Profile Precision Cutouts for Effortless Access Quick & Easy Installation Flexible TPU material Stylish, Licensed Designs' Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden Apple iPhone 17 case is compatible with wireless charging and offers lightweight, drop-tested (up to 1.2m/4ft) defense without compromising on swag and aesthetics. Crafted from premium TPU, it provides the best shock-absorbing protection against drops, bumps, and daily wear while maintaining a slim, pocket-friendly profile. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. This official Naruto Shippuden soft gel case delivers military-grade shock absorption with silicone bumpers, ensuring superior protection without extra bulk. Scratch-Resistant with Raised Bezels. Elevated edges shield your screen and camera lens, providing long-lasting clarity and durability. Ergonomic Grip & Non-Slip Texture. Made from soft-touch TPU, this slim Apple iPhone 17 case provides a comfortable, non-slip grip, reducing accidental drops while maintaining a smooth, stylish finish. Precision Cutouts for Effortless Access. Designed for seamless compatibility, this case provides precise cutouts for easy access to all buttons, ports, and speakers without interference. Effortless Installation & Case Swapping. The flexible",
+        "actual_color": "Akatsuki",
+        "size": "iPhone 16",
+        "modelNumber": "HTPCR-IPH16-NARUICO-AKA",
+        "compatibleBrand": "Apple",
+        "compatibleModels": [
+          "iPhone 16"
+        ],
+        "cellPhoneCaseType": "Soft Gel Case",
+        "material": "TPU"
+      },
+      "groupingAttributes": [
+        {
+          "name": "actual_color",
+          "value": "Akatsuki"
+        },
+        {
+          "name": "size",
+          "value": "iPhone 16"
+        }
+      ]
+    },
+    {
+      "sku": "HTPCR-IPH17-NARUICO-AKA",
+      "productType": "Cell Phone Cases",
+      "variantGroupId": "HTPCR-IPH-NARUICO-AKA",
+      "variantAttributeNames": [
+        "actual_color",
+        "size"
+      ],
+      "isPrimaryVariant": false,
+      "Orderable": {
+        "sku": "HTPCR-IPH17-NARUICO-AKA",
+        "productId": "5057546987130",
+        "productIdType": "EAN",
+        "price": 19.95,
+        "currency": "USD",
+        "mustShipAlone": "No",
+        "manufacturerPartNumber": "HTPCR-IPH17-NARUICO-AKA"
+      },
+      "Visible": {
+        "productName": "Head Case Designs Officially Licensed Naruto Shippuden Akatsuki Soft Gel Case Compatible with iPhone 17",
+        "brand": "Head Case Designs",
+        "manufacturer": "Head Case Designs",
+        "mainImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH17-1.jpg",
+        "shortDescription": "Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden case is compatible with MagSafe and offers lightweight, drop-tested defense without compromising on swag and aesthetics. It provides the best shock-absorbing protection against drops, bumps, and daily wear. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. Th.",
+        "longDescription": "Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden case is compatible with MagSafe and offers lightweight, drop-tested defense without compromising on swag and aesthetics. It provides the best shock-absorbing protection against drops, bumps, and daily wear. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. This soft gel case delivers military-grade shock absorption with silicone bumpers, ensuring superior protection without extra bulk. Scratch-Resistant with Raised Bezels. Elevated edges shield your screen and camera lens, providing long-lasting clarity and durability. Ergonomic Grip & Non-Slip Texture. This slim magnetic case provides a comfortable, non-slip grip, reducing accidental drops while maintaining a smooth finish. Precision Cutouts for Effortless Access. Designed for seamless fit, this case provides precise cutouts for easy access to all buttons, ports, and speakers without interference. Effortless Installation & Case Swapping. The flexible, form-fitting TPU allows for quick, hassle-free installation, so you can easily switch between designs to match your mood or occasion. Stylish, Licensed Designs. Show off your personality with this officially licensed Naruto Shippuden merch, this case makes a great gift while keeping your device safe. Features: Compatible with MagSafe Military-Grade Protection Official Naruto Shippuden product The case doesn\"t interfere with wireless charging coils Slim & Shockproof Design Durable & Lightweight Screen and Camera Lens Protection Comfortable Grip & Pocket-Friendly Profile Precision Cutouts for Effortless Access Quick & Easy Installation Flexible TPU material Stylish, Licensed Designs' Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden Apple iPhone 17 case is compatible with wireless charging and offers lightweight, drop-tested (up to 1.2m/4ft) defense without compromising on swag and aesthetics. Crafted from premium TPU, it provides the best shock-absorbing protection against drops, bumps, and daily wear while maintaining a slim, pocket-friendly profile. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. This official Naruto Shippuden soft gel case delivers military-grade shock absorption with silicone bumpers, ensuring superior protection without extra bulk. Scratch-Resistant with Raised Bezels. Elevated edges shield your screen and camera lens, providing long-lasting clarity and durability. Ergonomic Grip & Non-Slip Texture. Made from soft-touch TPU, this slim Apple iPhone 17 case provides a comfortable, non-slip grip, reducing accidental drops while maintaining a smooth, stylish finish. Precision Cutouts for Effortless Access. Designed for seamless compatibility, this case provides precise cutouts for easy access to all buttons, ports, and speakers without interference. Effortless Installation & Case Swapping. The flexible",
+        "actual_color": "Akatsuki",
+        "size": "iPhone 17",
+        "modelNumber": "HTPCR-IPH17-NARUICO-AKA",
+        "compatibleBrand": "Apple",
+        "compatibleModels": [
+          "iPhone 17"
+        ],
+        "cellPhoneCaseType": "Soft Gel Case",
+        "material": "TPU"
+      },
+      "groupingAttributes": [
+        {
+          "name": "actual_color",
+          "value": "Akatsuki"
+        },
+        {
+          "name": "size",
+          "value": "iPhone 17"
+        }
+      ]
+    },
+    {
+      "sku": "HTPCR-IPH15-NARUICO-AKA",
+      "productType": "Cell Phone Cases",
+      "variantGroupId": "HTPCR-IPH-NARUICO-AKA",
+      "variantAttributeNames": [
+        "actual_color",
+        "size"
+      ],
+      "isPrimaryVariant": false,
+      "Orderable": {
+        "sku": "HTPCR-IPH15-NARUICO-AKA",
+        "productId": "5063291113403",
+        "productIdType": "EAN",
+        "price": 19.95,
+        "currency": "USD",
+        "mustShipAlone": "No",
+        "manufacturerPartNumber": "HTPCR-IPH15-NARUICO-AKA"
+      },
+      "Visible": {
+        "productName": "Head Case Designs Officially Licensed Naruto Shippuden Akatsuki Soft Gel Case Compatible with iPhone 15",
+        "brand": "Head Case Designs",
+        "manufacturer": "Head Case Designs",
+        "mainImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH15-1.jpg",
+        "shortDescription": "Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden case is compatible with MagSafe and offers lightweight, drop-tested defense without compromising on swag and aesthetics. It provides the best shock-absorbing protection against drops, bumps, and daily wear. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. Th.",
+        "longDescription": "Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden case is compatible with MagSafe and offers lightweight, drop-tested defense without compromising on swag and aesthetics. It provides the best shock-absorbing protection against drops, bumps, and daily wear. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. This soft gel case delivers military-grade shock absorption with silicone bumpers, ensuring superior protection without extra bulk. Scratch-Resistant with Raised Bezels. Elevated edges shield your screen and camera lens, providing long-lasting clarity and durability. Ergonomic Grip & Non-Slip Texture. This slim magnetic case provides a comfortable, non-slip grip, reducing accidental drops while maintaining a smooth finish. Precision Cutouts for Effortless Access. Designed for seamless fit, this case provides precise cutouts for easy access to all buttons, ports, and speakers without interference. Effortless Installation & Case Swapping. The flexible, form-fitting TPU allows for quick, hassle-free installation, so you can easily switch between designs to match your mood or occasion. Stylish, Licensed Designs. Show off your personality with this officially licensed Naruto Shippuden merch, this case makes a great gift while keeping your device safe. Features: Compatible with MagSafe Military-Grade Protection Official Naruto Shippuden product The case doesn\"t interfere with wireless charging coils Slim & Shockproof Design Durable & Lightweight Screen and Camera Lens Protection Comfortable Grip & Pocket-Friendly Profile Precision Cutouts for Effortless Access Quick & Easy Installation Flexible TPU material Stylish, Licensed Designs' Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden Apple iPhone 17 case is compatible with wireless charging and offers lightweight, drop-tested (up to 1.2m/4ft) defense without compromising on swag and aesthetics. Crafted from premium TPU, it provides the best shock-absorbing protection against drops, bumps, and daily wear while maintaining a slim, pocket-friendly profile. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. This official Naruto Shippuden soft gel case delivers military-grade shock absorption with silicone bumpers, ensuring superior protection without extra bulk. Scratch-Resistant with Raised Bezels. Elevated edges shield your screen and camera lens, providing long-lasting clarity and durability. Ergonomic Grip & Non-Slip Texture. Made from soft-touch TPU, this slim Apple iPhone 17 case provides a comfortable, non-slip grip, reducing accidental drops while maintaining a smooth, stylish finish. Precision Cutouts for Effortless Access. Designed for seamless compatibility, this case provides precise cutouts for easy access to all buttons, ports, and speakers without interference. Effortless Installation & Case Swapping. The flexible",
+        "actual_color": "Akatsuki",
+        "size": "iPhone 15",
+        "modelNumber": "HTPCR-IPH15-NARUICO-AKA",
+        "compatibleBrand": "Apple",
+        "compatibleModels": [
+          "iPhone 15"
+        ],
+        "cellPhoneCaseType": "Soft Gel Case",
+        "material": "TPU"
+      },
+      "groupingAttributes": [
+        {
+          "name": "actual_color",
+          "value": "Akatsuki"
+        },
+        {
+          "name": "size",
+          "value": "iPhone 15"
+        }
+      ]
+    },
+    {
+      "sku": "HTPCR-IPH17PRO-NARUICO-AKA",
+      "productType": "Cell Phone Cases",
+      "variantGroupId": "HTPCR-IPH-NARUICO-AKA",
+      "variantAttributeNames": [
+        "actual_color",
+        "size"
+      ],
+      "isPrimaryVariant": false,
+      "Orderable": {
+        "sku": "HTPCR-IPH17PRO-NARUICO-AKA",
+        "productId": "5057546986805",
+        "productIdType": "EAN",
+        "price": 19.95,
+        "currency": "USD",
+        "mustShipAlone": "No",
+        "manufacturerPartNumber": "HTPCR-IPH17PRO-NARUICO-AKA"
+      },
+      "Visible": {
+        "productName": "Head Case Designs Officially Licensed Naruto Shippuden Akatsuki Soft Gel Case Compatible with iPhone 17 Pro",
+        "brand": "Head Case Designs",
+        "manufacturer": "Head Case Designs",
+        "mainImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH17PRO-1.jpg",
+        "shortDescription": "Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden case is compatible with MagSafe and offers lightweight, drop-tested defense without compromising on swag and aesthetics. It provides the best shock-absorbing protection against drops, bumps, and daily wear. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. Th.",
+        "longDescription": "Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden case is compatible with MagSafe and offers lightweight, drop-tested defense without compromising on swag and aesthetics. It provides the best shock-absorbing protection against drops, bumps, and daily wear. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. This soft gel case delivers military-grade shock absorption with silicone bumpers, ensuring superior protection without extra bulk. Scratch-Resistant with Raised Bezels. Elevated edges shield your screen and camera lens, providing long-lasting clarity and durability. Ergonomic Grip & Non-Slip Texture. This slim magnetic case provides a comfortable, non-slip grip, reducing accidental drops while maintaining a smooth finish. Precision Cutouts for Effortless Access. Designed for seamless fit, this case provides precise cutouts for easy access to all buttons, ports, and speakers without interference. Effortless Installation & Case Swapping. The flexible, form-fitting TPU allows for quick, hassle-free installation, so you can easily switch between designs to match your mood or occasion. Stylish, Licensed Designs. Show off your personality with this officially licensed Naruto Shippuden merch, this case makes a great gift while keeping your device safe. Features: Compatible with MagSafe Military-Grade Protection Official Naruto Shippuden product The case doesn\"t interfere with wireless charging coils Slim & Shockproof Design Durable & Lightweight Screen and Camera Lens Protection Comfortable Grip & Pocket-Friendly Profile Precision Cutouts for Effortless Access Quick & Easy Installation Flexible TPU material Stylish, Licensed Designs' Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden Apple iPhone 17 case is compatible with wireless charging and offers lightweight, drop-tested (up to 1.2m/4ft) defense without compromising on swag and aesthetics. Crafted from premium TPU, it provides the best shock-absorbing protection against drops, bumps, and daily wear while maintaining a slim, pocket-friendly profile. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. This official Naruto Shippuden soft gel case delivers military-grade shock absorption with silicone bumpers, ensuring superior protection without extra bulk. Scratch-Resistant with Raised Bezels. Elevated edges shield your screen and camera lens, providing long-lasting clarity and durability. Ergonomic Grip & Non-Slip Texture. Made from soft-touch TPU, this slim Apple iPhone 17 case provides a comfortable, non-slip grip, reducing accidental drops while maintaining a smooth, stylish finish. Precision Cutouts for Effortless Access. Designed for seamless compatibility, this case provides precise cutouts for easy access to all buttons, ports, and speakers without interference. Effortless Installation & Case Swapping. The flexible",
+        "actual_color": "Akatsuki",
+        "size": "iPhone 17 Pro",
+        "modelNumber": "HTPCR-IPH17PRO-NARUICO-AKA",
+        "compatibleBrand": "Apple",
+        "compatibleModels": [
+          "iPhone 17 Pro"
+        ],
+        "cellPhoneCaseType": "Soft Gel Case",
+        "material": "TPU"
+      },
+      "groupingAttributes": [
+        {
+          "name": "actual_color",
+          "value": "Akatsuki"
+        },
+        {
+          "name": "size",
+          "value": "iPhone 17 Pro"
+        }
+      ]
+    },
+    {
+      "sku": "HTPCR-IPH14-NARUICO-AKA",
+      "productType": "Cell Phone Cases",
+      "variantGroupId": "HTPCR-IPH-NARUICO-AKA",
+      "variantAttributeNames": [
+        "actual_color",
+        "size"
+      ],
+      "isPrimaryVariant": false,
+      "Orderable": {
+        "sku": "HTPCR-IPH14-NARUICO-AKA",
+        "productId": "5063291072120",
+        "productIdType": "EAN",
+        "price": 19.95,
+        "currency": "USD",
+        "mustShipAlone": "No",
+        "manufacturerPartNumber": "HTPCR-IPH14-NARUICO-AKA"
+      },
+      "Visible": {
+        "productName": "Head Case Designs Officially Licensed Naruto Shippuden Akatsuki Soft Gel Case Compatible with Apple iPhone 14",
+        "brand": "Head Case Designs",
+        "manufacturer": "Head Case Designs",
+        "mainImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH14-1.jpg",
+        "shortDescription": "Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden case is compatible with MagSafe and offers lightweight, drop-tested defense without compromising on swag and aesthetics. It provides the best shock-absorbing protection against drops, bumps, and daily wear. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. Th.",
+        "longDescription": "Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden case is compatible with MagSafe and offers lightweight, drop-tested defense without compromising on swag and aesthetics. It provides the best shock-absorbing protection against drops, bumps, and daily wear. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. This soft gel case delivers military-grade shock absorption with silicone bumpers, ensuring superior protection without extra bulk. Scratch-Resistant with Raised Bezels. Elevated edges shield your screen and camera lens, providing long-lasting clarity and durability. Ergonomic Grip & Non-Slip Texture. This slim magnetic case provides a comfortable, non-slip grip, reducing accidental drops while maintaining a smooth finish. Precision Cutouts for Effortless Access. Designed for seamless fit, this case provides precise cutouts for easy access to all buttons, ports, and speakers without interference. Effortless Installation & Case Swapping. The flexible, form-fitting TPU allows for quick, hassle-free installation, so you can easily switch between designs to match your mood or occasion. Stylish, Licensed Designs. Show off your personality with this officially licensed Naruto Shippuden merch, this case makes a great gift while keeping your device safe. Features: Compatible with MagSafe Military-Grade Protection Official Naruto Shippuden product The case doesn\"t interfere with wireless charging coils Slim & Shockproof Design Durable & Lightweight Screen and Camera Lens Protection Comfortable Grip & Pocket-Friendly Profile Precision Cutouts for Effortless Access Quick & Easy Installation Flexible TPU material Stylish, Licensed Designs' Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden Apple iPhone 17 case is compatible with wireless charging and offers lightweight, drop-tested (up to 1.2m/4ft) defense without compromising on swag and aesthetics. Crafted from premium TPU, it provides the best shock-absorbing protection against drops, bumps, and daily wear while maintaining a slim, pocket-friendly profile. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. This official Naruto Shippuden soft gel case delivers military-grade shock absorption with silicone bumpers, ensuring superior protection without extra bulk. Scratch-Resistant with Raised Bezels. Elevated edges shield your screen and camera lens, providing long-lasting clarity and durability. Ergonomic Grip & Non-Slip Texture. Made from soft-touch TPU, this slim Apple iPhone 17 case provides a comfortable, non-slip grip, reducing accidental drops while maintaining a smooth, stylish finish. Precision Cutouts for Effortless Access. Designed for seamless compatibility, this case provides precise cutouts for easy access to all buttons, ports, and speakers without interference. Effortless Installation & Case Swapping. The flexible",
+        "actual_color": "Akatsuki",
+        "size": "Apple iPhone 14",
+        "modelNumber": "HTPCR-IPH14-NARUICO-AKA",
+        "compatibleBrand": "Apple",
+        "compatibleModels": [
+          "Apple iPhone 14"
+        ],
+        "cellPhoneCaseType": "Soft Gel Case",
+        "material": "TPU"
+      },
+      "groupingAttributes": [
+        {
+          "name": "actual_color",
+          "value": "Akatsuki"
+        },
+        {
+          "name": "size",
+          "value": "Apple iPhone 14"
+        }
+      ]
+    },
+    {
+      "sku": "HTPCR-IPH13-NARUICO-AKA",
+      "productType": "Cell Phone Cases",
+      "variantGroupId": "HTPCR-IPH-NARUICO-AKA",
+      "variantAttributeNames": [
+        "actual_color",
+        "size"
+      ],
+      "isPrimaryVariant": false,
+      "Orderable": {
+        "sku": "HTPCR-IPH13-NARUICO-AKA",
+        "productId": "5063291140249",
+        "productIdType": "EAN",
+        "price": 19.95,
+        "currency": "USD",
+        "mustShipAlone": "No",
+        "manufacturerPartNumber": "HTPCR-IPH13-NARUICO-AKA"
+      },
+      "Visible": {
+        "productName": "Head Case Designs Officially Licensed Naruto Shippuden Akatsuki Soft Gel Case Compatible with Apple iPhone 13",
+        "brand": "Head Case Designs",
+        "manufacturer": "Head Case Designs",
+        "mainImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH13-1.jpg",
+        "shortDescription": "Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden case is compatible with MagSafe and offers lightweight, drop-tested defense without compromising on swag and aesthetics. It provides the best shock-absorbing protection against drops, bumps, and daily wear. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. Th.",
+        "longDescription": "Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden case is compatible with MagSafe and offers lightweight, drop-tested defense without compromising on swag and aesthetics. It provides the best shock-absorbing protection against drops, bumps, and daily wear. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. This soft gel case delivers military-grade shock absorption with silicone bumpers, ensuring superior protection without extra bulk. Scratch-Resistant with Raised Bezels. Elevated edges shield your screen and camera lens, providing long-lasting clarity and durability. Ergonomic Grip & Non-Slip Texture. This slim magnetic case provides a comfortable, non-slip grip, reducing accidental drops while maintaining a smooth finish. Precision Cutouts for Effortless Access. Designed for seamless fit, this case provides precise cutouts for easy access to all buttons, ports, and speakers without interference. Effortless Installation & Case Swapping. The flexible, form-fitting TPU allows for quick, hassle-free installation, so you can easily switch between designs to match your mood or occasion. Stylish, Licensed Designs. Show off your personality with this officially licensed Naruto Shippuden merch, this case makes a great gift while keeping your device safe. Features: Compatible with MagSafe Military-Grade Protection Official Naruto Shippuden product The case doesn\"t interfere with wireless charging coils Slim & Shockproof Design Durable & Lightweight Screen and Camera Lens Protection Comfortable Grip & Pocket-Friendly Profile Precision Cutouts for Effortless Access Quick & Easy Installation Flexible TPU material Stylish, Licensed Designs' Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden Apple iPhone 17 case is compatible with wireless charging and offers lightweight, drop-tested (up to 1.2m/4ft) defense without compromising on swag and aesthetics. Crafted from premium TPU, it provides the best shock-absorbing protection against drops, bumps, and daily wear while maintaining a slim, pocket-friendly profile. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. This official Naruto Shippuden soft gel case delivers military-grade shock absorption with silicone bumpers, ensuring superior protection without extra bulk. Scratch-Resistant with Raised Bezels. Elevated edges shield your screen and camera lens, providing long-lasting clarity and durability. Ergonomic Grip & Non-Slip Texture. Made from soft-touch TPU, this slim Apple iPhone 17 case provides a comfortable, non-slip grip, reducing accidental drops while maintaining a smooth, stylish finish. Precision Cutouts for Effortless Access. Designed for seamless compatibility, this case provides precise cutouts for easy access to all buttons, ports, and speakers without interference. Effortless Installation & Case Swapping. The flexible",
+        "actual_color": "Akatsuki",
+        "size": "Apple iPhone 13",
+        "modelNumber": "HTPCR-IPH13-NARUICO-AKA",
+        "compatibleBrand": "Apple",
+        "compatibleModels": [
+          "Apple iPhone 13"
+        ],
+        "cellPhoneCaseType": "Soft Gel Case",
+        "material": "TPU"
+      },
+      "groupingAttributes": [
+        {
+          "name": "actual_color",
+          "value": "Akatsuki"
+        },
+        {
+          "name": "size",
+          "value": "Apple iPhone 13"
+        }
+      ]
+    },
+    {
+      "sku": "HTPCR-IPH16PMAX-NARUICO-AKA",
+      "productType": "Cell Phone Cases",
+      "variantGroupId": "HTPCR-IPH-NARUICO-AKA",
+      "variantAttributeNames": [
+        "actual_color",
+        "size"
+      ],
+      "isPrimaryVariant": false,
+      "Orderable": {
+        "sku": "HTPCR-IPH16PMAX-NARUICO-AKA",
+        "productId": "5063291029315",
+        "productIdType": "EAN",
+        "price": 19.95,
+        "currency": "USD",
+        "mustShipAlone": "No",
+        "manufacturerPartNumber": "HTPCR-IPH16PMAX-NARUICO-AKA"
+      },
+      "Visible": {
+        "productName": "Head Case Designs Officially Licensed Naruto Shippuden Akatsuki Soft Gel Case Compatible with iPhone 16 Pro Max",
+        "brand": "Head Case Designs",
+        "manufacturer": "Head Case Designs",
+        "mainImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH16PMAX-1.jpg",
+        "shortDescription": "Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden case is compatible with MagSafe and offers lightweight, drop-tested defense without compromising on swag and aesthetics. It provides the best shock-absorbing protection against drops, bumps, and daily wear. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. Th.",
+        "longDescription": "Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden case is compatible with MagSafe and offers lightweight, drop-tested defense without compromising on swag and aesthetics. It provides the best shock-absorbing protection against drops, bumps, and daily wear. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. This soft gel case delivers military-grade shock absorption with silicone bumpers, ensuring superior protection without extra bulk. Scratch-Resistant with Raised Bezels. Elevated edges shield your screen and camera lens, providing long-lasting clarity and durability. Ergonomic Grip & Non-Slip Texture. This slim magnetic case provides a comfortable, non-slip grip, reducing accidental drops while maintaining a smooth finish. Precision Cutouts for Effortless Access. Designed for seamless fit, this case provides precise cutouts for easy access to all buttons, ports, and speakers without interference. Effortless Installation & Case Swapping. The flexible, form-fitting TPU allows for quick, hassle-free installation, so you can easily switch between designs to match your mood or occasion. Stylish, Licensed Designs. Show off your personality with this officially licensed Naruto Shippuden merch, this case makes a great gift while keeping your device safe. Features: Compatible with MagSafe Military-Grade Protection Official Naruto Shippuden product The case doesn\"t interfere with wireless charging coils Slim & Shockproof Design Durable & Lightweight Screen and Camera Lens Protection Comfortable Grip & Pocket-Friendly Profile Precision Cutouts for Effortless Access Quick & Easy Installation Flexible TPU material Stylish, Licensed Designs' Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden Apple iPhone 17 case is compatible with wireless charging and offers lightweight, drop-tested (up to 1.2m/4ft) defense without compromising on swag and aesthetics. Crafted from premium TPU, it provides the best shock-absorbing protection against drops, bumps, and daily wear while maintaining a slim, pocket-friendly profile. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. This official Naruto Shippuden soft gel case delivers military-grade shock absorption with silicone bumpers, ensuring superior protection without extra bulk. Scratch-Resistant with Raised Bezels. Elevated edges shield your screen and camera lens, providing long-lasting clarity and durability. Ergonomic Grip & Non-Slip Texture. Made from soft-touch TPU, this slim Apple iPhone 17 case provides a comfortable, non-slip grip, reducing accidental drops while maintaining a smooth, stylish finish. Precision Cutouts for Effortless Access. Designed for seamless compatibility, this case provides precise cutouts for easy access to all buttons, ports, and speakers without interference. Effortless Installation & Case Swapping. The flexible",
+        "actual_color": "Akatsuki",
+        "size": "iPhone 16 Pro Max",
+        "modelNumber": "HTPCR-IPH16PMAX-NARUICO-AKA",
+        "compatibleBrand": "Apple",
+        "compatibleModels": [
+          "iPhone 16 Pro Max"
+        ],
+        "cellPhoneCaseType": "Soft Gel Case",
+        "material": "TPU"
+      },
+      "groupingAttributes": [
+        {
+          "name": "actual_color",
+          "value": "Akatsuki"
+        },
+        {
+          "name": "size",
+          "value": "iPhone 16 Pro Max"
+        }
+      ]
+    },
+    {
+      "sku": "HTPCR-IPHSE4-NARUICO-AKA",
+      "productType": "Cell Phone Cases",
+      "variantGroupId": "HTPCR-IPH-NARUICO-AKA",
+      "variantAttributeNames": [
+        "actual_color",
+        "size"
+      ],
+      "isPrimaryVariant": false,
+      "Orderable": {
+        "sku": "HTPCR-IPHSE4-NARUICO-AKA",
+        "productId": "5063291060134",
+        "productIdType": "EAN",
+        "price": 19.95,
+        "currency": "USD",
+        "mustShipAlone": "No",
+        "manufacturerPartNumber": "HTPCR-IPHSE4-NARUICO-AKA"
+      },
+      "Visible": {
+        "productName": "Head Case Designs Officially Licensed Naruto Shippuden Akatsuki Soft Gel Case Compatible with IPHSE4",
+        "brand": "Head Case Designs",
+        "manufacturer": "Head Case Designs",
+        "mainImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPHSE4-1.jpg",
+        "shortDescription": "Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden case is compatible with MagSafe and offers lightweight, drop-tested defense without compromising on swag and aesthetics. It provides the best shock-absorbing protection against drops, bumps, and daily wear. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. Th.",
+        "longDescription": "Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden case is compatible with MagSafe and offers lightweight, drop-tested defense without compromising on swag and aesthetics. It provides the best shock-absorbing protection against drops, bumps, and daily wear. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. This soft gel case delivers military-grade shock absorption with silicone bumpers, ensuring superior protection without extra bulk. Scratch-Resistant with Raised Bezels. Elevated edges shield your screen and camera lens, providing long-lasting clarity and durability. Ergonomic Grip & Non-Slip Texture. This slim magnetic case provides a comfortable, non-slip grip, reducing accidental drops while maintaining a smooth finish. Precision Cutouts for Effortless Access. Designed for seamless fit, this case provides precise cutouts for easy access to all buttons, ports, and speakers without interference. Effortless Installation & Case Swapping. The flexible, form-fitting TPU allows for quick, hassle-free installation, so you can easily switch between designs to match your mood or occasion. Stylish, Licensed Designs. Show off your personality with this officially licensed Naruto Shippuden merch, this case makes a great gift while keeping your device safe. Features: Compatible with MagSafe Military-Grade Protection Official Naruto Shippuden product The case doesn\"t interfere with wireless charging coils Slim & Shockproof Design Durable & Lightweight Screen and Camera Lens Protection Comfortable Grip & Pocket-Friendly Profile Precision Cutouts for Effortless Access Quick & Easy Installation Flexible TPU material Stylish, Licensed Designs' Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden Apple iPhone 17 case is compatible with wireless charging and offers lightweight, drop-tested (up to 1.2m/4ft) defense without compromising on swag and aesthetics. Crafted from premium TPU, it provides the best shock-absorbing protection against drops, bumps, and daily wear while maintaining a slim, pocket-friendly profile. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. This official Naruto Shippuden soft gel case delivers military-grade shock absorption with silicone bumpers, ensuring superior protection without extra bulk. Scratch-Resistant with Raised Bezels. Elevated edges shield your screen and camera lens, providing long-lasting clarity and durability. Ergonomic Grip & Non-Slip Texture. Made from soft-touch TPU, this slim Apple iPhone 17 case provides a comfortable, non-slip grip, reducing accidental drops while maintaining a smooth, stylish finish. Precision Cutouts for Effortless Access. Designed for seamless compatibility, this case provides precise cutouts for easy access to all buttons, ports, and speakers without interference. Effortless Installation & Case Swapping. The flexible",
+        "actual_color": "Akatsuki",
+        "size": "IPHSE4",
+        "modelNumber": "HTPCR-IPHSE4-NARUICO-AKA",
+        "compatibleBrand": "Apple",
+        "compatibleModels": [
+          "IPHSE4"
+        ],
+        "cellPhoneCaseType": "Soft Gel Case",
+        "material": "TPU"
+      },
+      "groupingAttributes": [
+        {
+          "name": "actual_color",
+          "value": "Akatsuki"
+        },
+        {
+          "name": "size",
+          "value": "IPHSE4"
+        }
+      ]
+    },
+    {
+      "sku": "HTPCR-IPH15PMAX-NARUICO-AKA",
+      "productType": "Cell Phone Cases",
+      "variantGroupId": "HTPCR-IPH-NARUICO-AKA",
+      "variantAttributeNames": [
+        "actual_color",
+        "size"
+      ],
+      "isPrimaryVariant": false,
+      "Orderable": {
+        "sku": "HTPCR-IPH15PMAX-NARUICO-AKA",
+        "productId": "5063291212441",
+        "productIdType": "EAN",
+        "price": 19.95,
+        "currency": "USD",
+        "mustShipAlone": "No",
+        "manufacturerPartNumber": "HTPCR-IPH15PMAX-NARUICO-AKA"
+      },
+      "Visible": {
+        "productName": "Head Case Designs Officially Licensed Naruto Shippuden Akatsuki Soft Gel Case Compatible with iPhone 15 Pro Max",
+        "brand": "Head Case Designs",
+        "manufacturer": "Head Case Designs",
+        "mainImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH15PMAX-1.jpg",
+        "shortDescription": "Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden case is compatible with MagSafe and offers lightweight, drop-tested defense without compromising on swag and aesthetics. It provides the best shock-absorbing protection against drops, bumps, and daily wear. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. Th.",
+        "longDescription": "Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden case is compatible with MagSafe and offers lightweight, drop-tested defense without compromising on swag and aesthetics. It provides the best shock-absorbing protection against drops, bumps, and daily wear. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. This soft gel case delivers military-grade shock absorption with silicone bumpers, ensuring superior protection without extra bulk. Scratch-Resistant with Raised Bezels. Elevated edges shield your screen and camera lens, providing long-lasting clarity and durability. Ergonomic Grip & Non-Slip Texture. This slim magnetic case provides a comfortable, non-slip grip, reducing accidental drops while maintaining a smooth finish. Precision Cutouts for Effortless Access. Designed for seamless fit, this case provides precise cutouts for easy access to all buttons, ports, and speakers without interference. Effortless Installation & Case Swapping. The flexible, form-fitting TPU allows for quick, hassle-free installation, so you can easily switch between designs to match your mood or occasion. Stylish, Licensed Designs. Show off your personality with this officially licensed Naruto Shippuden merch, this case makes a great gift while keeping your device safe. Features: Compatible with MagSafe Military-Grade Protection Official Naruto Shippuden product The case doesn\"t interfere with wireless charging coils Slim & Shockproof Design Durable & Lightweight Screen and Camera Lens Protection Comfortable Grip & Pocket-Friendly Profile Precision Cutouts for Effortless Access Quick & Easy Installation Flexible TPU material Stylish, Licensed Designs' Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden Apple iPhone 17 case is compatible with wireless charging and offers lightweight, drop-tested (up to 1.2m/4ft) defense without compromising on swag and aesthetics. Crafted from premium TPU, it provides the best shock-absorbing protection against drops, bumps, and daily wear while maintaining a slim, pocket-friendly profile. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. This official Naruto Shippuden soft gel case delivers military-grade shock absorption with silicone bumpers, ensuring superior protection without extra bulk. Scratch-Resistant with Raised Bezels. Elevated edges shield your screen and camera lens, providing long-lasting clarity and durability. Ergonomic Grip & Non-Slip Texture. Made from soft-touch TPU, this slim Apple iPhone 17 case provides a comfortable, non-slip grip, reducing accidental drops while maintaining a smooth, stylish finish. Precision Cutouts for Effortless Access. Designed for seamless compatibility, this case provides precise cutouts for easy access to all buttons, ports, and speakers without interference. Effortless Installation & Case Swapping. The flexible",
+        "actual_color": "Akatsuki",
+        "size": "iPhone 15 Pro Max",
+        "modelNumber": "HTPCR-IPH15PMAX-NARUICO-AKA",
+        "compatibleBrand": "Apple",
+        "compatibleModels": [
+          "iPhone 15 Pro Max"
+        ],
+        "cellPhoneCaseType": "Soft Gel Case",
+        "material": "TPU"
+      },
+      "groupingAttributes": [
+        {
+          "name": "actual_color",
+          "value": "Akatsuki"
+        },
+        {
+          "name": "size",
+          "value": "iPhone 15 Pro Max"
+        }
+      ]
+    },
+    {
+      "sku": "HTPCR-IPH12-NARUICO-AKA",
+      "productType": "Cell Phone Cases",
+      "variantGroupId": "HTPCR-IPH-NARUICO-AKA",
+      "variantAttributeNames": [
+        "actual_color",
+        "size"
+      ],
+      "isPrimaryVariant": false,
+      "Orderable": {
+        "sku": "HTPCR-IPH12-NARUICO-AKA",
+        "productId": "5063291104067",
+        "productIdType": "EAN",
+        "price": 19.95,
+        "currency": "USD",
+        "mustShipAlone": "No",
+        "manufacturerPartNumber": "HTPCR-IPH12-NARUICO-AKA"
+      },
+      "Visible": {
+        "productName": "Head Case Designs Officially Licensed Naruto Shippuden Akatsuki Soft Gel Case Compatible with Apple iPhone 12 / iPhone 12 Pro",
+        "brand": "Head Case Designs",
+        "manufacturer": "Head Case Designs",
+        "mainImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH12-1.jpg",
+        "shortDescription": "Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden case is compatible with MagSafe and offers lightweight, drop-tested defense without compromising on swag and aesthetics. It provides the best shock-absorbing protection against drops, bumps, and daily wear. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. Th.",
+        "longDescription": "Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden case is compatible with MagSafe and offers lightweight, drop-tested defense without compromising on swag and aesthetics. It provides the best shock-absorbing protection against drops, bumps, and daily wear. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. This soft gel case delivers military-grade shock absorption with silicone bumpers, ensuring superior protection without extra bulk. Scratch-Resistant with Raised Bezels. Elevated edges shield your screen and camera lens, providing long-lasting clarity and durability. Ergonomic Grip & Non-Slip Texture. This slim magnetic case provides a comfortable, non-slip grip, reducing accidental drops while maintaining a smooth finish. Precision Cutouts for Effortless Access. Designed for seamless fit, this case provides precise cutouts for easy access to all buttons, ports, and speakers without interference. Effortless Installation & Case Swapping. The flexible, form-fitting TPU allows for quick, hassle-free installation, so you can easily switch between designs to match your mood or occasion. Stylish, Licensed Designs. Show off your personality with this officially licensed Naruto Shippuden merch, this case makes a great gift while keeping your device safe. Features: Compatible with MagSafe Military-Grade Protection Official Naruto Shippuden product The case doesn\"t interfere with wireless charging coils Slim & Shockproof Design Durable & Lightweight Screen and Camera Lens Protection Comfortable Grip & Pocket-Friendly Profile Precision Cutouts for Effortless Access Quick & Easy Installation Flexible TPU material Stylish, Licensed Designs' Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden Apple iPhone 17 case is compatible with wireless charging and offers lightweight, drop-tested (up to 1.2m/4ft) defense without compromising on swag and aesthetics. Crafted from premium TPU, it provides the best shock-absorbing protection against drops, bumps, and daily wear while maintaining a slim, pocket-friendly profile. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. This official Naruto Shippuden soft gel case delivers military-grade shock absorption with silicone bumpers, ensuring superior protection without extra bulk. Scratch-Resistant with Raised Bezels. Elevated edges shield your screen and camera lens, providing long-lasting clarity and durability. Ergonomic Grip & Non-Slip Texture. Made from soft-touch TPU, this slim Apple iPhone 17 case provides a comfortable, non-slip grip, reducing accidental drops while maintaining a smooth, stylish finish. Precision Cutouts for Effortless Access. Designed for seamless compatibility, this case provides precise cutouts for easy access to all buttons, ports, and speakers without interference. Effortless Installation & Case Swapping. The flexible",
+        "actual_color": "Akatsuki",
+        "size": "Apple iPhone 12 / iPhone 12 Pro",
+        "modelNumber": "HTPCR-IPH12-NARUICO-AKA",
+        "compatibleBrand": "Apple",
+        "compatibleModels": [
+          "Apple iPhone 12 / iPhone 12 Pro"
+        ],
+        "cellPhoneCaseType": "Soft Gel Case",
+        "material": "TPU"
+      },
+      "groupingAttributes": [
+        {
+          "name": "actual_color",
+          "value": "Akatsuki"
+        },
+        {
+          "name": "size",
+          "value": "Apple iPhone 12 / iPhone 12 Pro"
+        }
+      ]
+    },
+    {
+      "sku": "HTPCR-S938U-NARUICO-AKA",
+      "productType": "Cell Phone Cases",
+      "variantGroupId": "HTPCR-IPH-NARUICO-AKA",
+      "variantAttributeNames": [
+        "actual_color",
+        "size"
+      ],
+      "isPrimaryVariant": false,
+      "Orderable": {
+        "sku": "HTPCR-S938U-NARUICO-AKA",
+        "productId": "5063291150927",
+        "productIdType": "EAN",
+        "price": 19.95,
+        "currency": "USD",
+        "mustShipAlone": "No",
+        "manufacturerPartNumber": "HTPCR-S938U-NARUICO-AKA"
+      },
+      "Visible": {
+        "productName": "Head Case Designs Officially Licensed Naruto Shippuden Akatsuki Soft Gel Case Compatible with S938U",
+        "brand": "Head Case Designs",
+        "manufacturer": "Head Case Designs",
+        "mainImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-S938U-1.jpg",
+        "shortDescription": "Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden case is compatible with MagSafe and offers lightweight, drop-tested defense without compromising on swag and aesthetics. It provides the best shock-absorbing protection against drops, bumps, and daily wear. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. Th.",
+        "longDescription": "Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden case is compatible with MagSafe and offers lightweight, drop-tested defense without compromising on swag and aesthetics. It provides the best shock-absorbing protection against drops, bumps, and daily wear. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. This soft gel case delivers military-grade shock absorption with silicone bumpers, ensuring superior protection without extra bulk. Scratch-Resistant with Raised Bezels. Elevated edges shield your screen and camera lens, providing long-lasting clarity and durability. Ergonomic Grip & Non-Slip Texture. This slim magnetic case provides a comfortable, non-slip grip, reducing accidental drops while maintaining a smooth finish. Precision Cutouts for Effortless Access. Designed for seamless fit, this case provides precise cutouts for easy access to all buttons, ports, and speakers without interference. Effortless Installation & Case Swapping. The flexible, form-fitting TPU allows for quick, hassle-free installation, so you can easily switch between designs to match your mood or occasion. Stylish, Licensed Designs. Show off your personality with this officially licensed Naruto Shippuden merch, this case makes a great gift while keeping your device safe. Features: Compatible with MagSafe Military-Grade Protection Official Naruto Shippuden product The case doesn\"t interfere with wireless charging coils Slim & Shockproof Design Durable & Lightweight Screen and Camera Lens Protection Comfortable Grip & Pocket-Friendly Profile Precision Cutouts for Effortless Access Quick & Easy Installation Flexible TPU material Stylish, Licensed Designs' Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden Apple iPhone 17 case is compatible with wireless charging and offers lightweight, drop-tested (up to 1.2m/4ft) defense without compromising on swag and aesthetics. Crafted from premium TPU, it provides the best shock-absorbing protection against drops, bumps, and daily wear while maintaining a slim, pocket-friendly profile. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. This official Naruto Shippuden soft gel case delivers military-grade shock absorption with silicone bumpers, ensuring superior protection without extra bulk. Scratch-Resistant with Raised Bezels. Elevated edges shield your screen and camera lens, providing long-lasting clarity and durability. Ergonomic Grip & Non-Slip Texture. Made from soft-touch TPU, this slim Apple iPhone 17 case provides a comfortable, non-slip grip, reducing accidental drops while maintaining a smooth, stylish finish. Precision Cutouts for Effortless Access. Designed for seamless compatibility, this case provides precise cutouts for easy access to all buttons, ports, and speakers without interference. Effortless Installation & Case Swapping. The flexible",
+        "actual_color": "Akatsuki",
+        "size": "S938U",
+        "modelNumber": "HTPCR-S938U-NARUICO-AKA",
+        "compatibleBrand": "Samsung",
+        "compatibleModels": [
+          "S938U"
+        ],
+        "cellPhoneCaseType": "Soft Gel Case",
+        "material": "TPU"
+      },
+      "groupingAttributes": [
+        {
+          "name": "actual_color",
+          "value": "Akatsuki"
+        },
+        {
+          "name": "size",
+          "value": "S938U"
+        }
+      ]
+    },
+    {
+      "sku": "HTPCR-IPH16PRO-NARUICO-AKA",
+      "productType": "Cell Phone Cases",
+      "variantGroupId": "HTPCR-IPH-NARUICO-AKA",
+      "variantAttributeNames": [
+        "actual_color",
+        "size"
+      ],
+      "isPrimaryVariant": false,
+      "Orderable": {
+        "sku": "HTPCR-IPH16PRO-NARUICO-AKA",
+        "productId": "5063291043533",
+        "productIdType": "EAN",
+        "price": 19.95,
+        "currency": "USD",
+        "mustShipAlone": "No",
+        "manufacturerPartNumber": "HTPCR-IPH16PRO-NARUICO-AKA"
+      },
+      "Visible": {
+        "productName": "Head Case Designs Officially Licensed Naruto Shippuden Akatsuki Soft Gel Case Compatible with iPhone 16 Pro",
+        "brand": "Head Case Designs",
+        "manufacturer": "Head Case Designs",
+        "mainImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH16PRO-1.jpg",
+        "shortDescription": "Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden case is compatible with MagSafe and offers lightweight, drop-tested defense without compromising on swag and aesthetics. It provides the best shock-absorbing protection against drops, bumps, and daily wear. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. Th.",
+        "longDescription": "Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden case is compatible with MagSafe and offers lightweight, drop-tested defense without compromising on swag and aesthetics. It provides the best shock-absorbing protection against drops, bumps, and daily wear. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. This soft gel case delivers military-grade shock absorption with silicone bumpers, ensuring superior protection without extra bulk. Scratch-Resistant with Raised Bezels. Elevated edges shield your screen and camera lens, providing long-lasting clarity and durability. Ergonomic Grip & Non-Slip Texture. This slim magnetic case provides a comfortable, non-slip grip, reducing accidental drops while maintaining a smooth finish. Precision Cutouts for Effortless Access. Designed for seamless fit, this case provides precise cutouts for easy access to all buttons, ports, and speakers without interference. Effortless Installation & Case Swapping. The flexible, form-fitting TPU allows for quick, hassle-free installation, so you can easily switch between designs to match your mood or occasion. Stylish, Licensed Designs. Show off your personality with this officially licensed Naruto Shippuden merch, this case makes a great gift while keeping your device safe. Features: Compatible with MagSafe Military-Grade Protection Official Naruto Shippuden product The case doesn\"t interfere with wireless charging coils Slim & Shockproof Design Durable & Lightweight Screen and Camera Lens Protection Comfortable Grip & Pocket-Friendly Profile Precision Cutouts for Effortless Access Quick & Easy Installation Flexible TPU material Stylish, Licensed Designs' Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden Apple iPhone 17 case is compatible with wireless charging and offers lightweight, drop-tested (up to 1.2m/4ft) defense without compromising on swag and aesthetics. Crafted from premium TPU, it provides the best shock-absorbing protection against drops, bumps, and daily wear while maintaining a slim, pocket-friendly profile. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. This official Naruto Shippuden soft gel case delivers military-grade shock absorption with silicone bumpers, ensuring superior protection without extra bulk. Scratch-Resistant with Raised Bezels. Elevated edges shield your screen and camera lens, providing long-lasting clarity and durability. Ergonomic Grip & Non-Slip Texture. Made from soft-touch TPU, this slim Apple iPhone 17 case provides a comfortable, non-slip grip, reducing accidental drops while maintaining a smooth, stylish finish. Precision Cutouts for Effortless Access. Designed for seamless compatibility, this case provides precise cutouts for easy access to all buttons, ports, and speakers without interference. Effortless Installation & Case Swapping. The flexible",
+        "actual_color": "Akatsuki",
+        "size": "iPhone 16 Pro",
+        "modelNumber": "HTPCR-IPH16PRO-NARUICO-AKA",
+        "compatibleBrand": "Apple",
+        "compatibleModels": [
+          "iPhone 16 Pro"
+        ],
+        "cellPhoneCaseType": "Soft Gel Case",
+        "material": "TPU"
+      },
+      "groupingAttributes": [
+        {
+          "name": "actual_color",
+          "value": "Akatsuki"
+        },
+        {
+          "name": "size",
+          "value": "iPhone 16 Pro"
+        }
+      ]
+    },
+    {
+      "sku": "HTPCR-A165G-NARUICO-AKA",
+      "productType": "Cell Phone Cases",
+      "variantGroupId": "HTPCR-IPH-NARUICO-AKA",
+      "variantAttributeNames": [
+        "actual_color",
+        "size"
+      ],
+      "isPrimaryVariant": false,
+      "Orderable": {
+        "sku": "HTPCR-A165G-NARUICO-AKA",
+        "productId": "5063291086448",
+        "productIdType": "EAN",
+        "price": 19.95,
+        "currency": "USD",
+        "mustShipAlone": "No",
+        "manufacturerPartNumber": "HTPCR-A165G-NARUICO-AKA"
+      },
+      "Visible": {
+        "productName": "Head Case Designs Officially Licensed Naruto Shippuden Akatsuki Soft Gel Case Compatible with A165G",
+        "brand": "Head Case Designs",
+        "manufacturer": "Head Case Designs",
+        "mainImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-A165G-1.jpg",
+        "shortDescription": "Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden case is compatible with MagSafe and offers lightweight, drop-tested defense without compromising on swag and aesthetics. It provides the best shock-absorbing protection against drops, bumps, and daily wear. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. Th.",
+        "longDescription": "Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden case is compatible with MagSafe and offers lightweight, drop-tested defense without compromising on swag and aesthetics. It provides the best shock-absorbing protection against drops, bumps, and daily wear. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. This soft gel case delivers military-grade shock absorption with silicone bumpers, ensuring superior protection without extra bulk. Scratch-Resistant with Raised Bezels. Elevated edges shield your screen and camera lens, providing long-lasting clarity and durability. Ergonomic Grip & Non-Slip Texture. This slim magnetic case provides a comfortable, non-slip grip, reducing accidental drops while maintaining a smooth finish. Precision Cutouts for Effortless Access. Designed for seamless fit, this case provides precise cutouts for easy access to all buttons, ports, and speakers without interference. Effortless Installation & Case Swapping. The flexible, form-fitting TPU allows for quick, hassle-free installation, so you can easily switch between designs to match your mood or occasion. Stylish, Licensed Designs. Show off your personality with this officially licensed Naruto Shippuden merch, this case makes a great gift while keeping your device safe. Features: Compatible with MagSafe Military-Grade Protection Official Naruto Shippuden product The case doesn\"t interfere with wireless charging coils Slim & Shockproof Design Durable & Lightweight Screen and Camera Lens Protection Comfortable Grip & Pocket-Friendly Profile Precision Cutouts for Effortless Access Quick & Easy Installation Flexible TPU material Stylish, Licensed Designs' Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden Apple iPhone 17 case is compatible with wireless charging and offers lightweight, drop-tested (up to 1.2m/4ft) defense without compromising on swag and aesthetics. Crafted from premium TPU, it provides the best shock-absorbing protection against drops, bumps, and daily wear while maintaining a slim, pocket-friendly profile. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. This official Naruto Shippuden soft gel case delivers military-grade shock absorption with silicone bumpers, ensuring superior protection without extra bulk. Scratch-Resistant with Raised Bezels. Elevated edges shield your screen and camera lens, providing long-lasting clarity and durability. Ergonomic Grip & Non-Slip Texture. Made from soft-touch TPU, this slim Apple iPhone 17 case provides a comfortable, non-slip grip, reducing accidental drops while maintaining a smooth, stylish finish. Precision Cutouts for Effortless Access. Designed for seamless compatibility, this case provides precise cutouts for easy access to all buttons, ports, and speakers without interference. Effortless Installation & Case Swapping. The flexible",
+        "actual_color": "Akatsuki",
+        "size": "A165G",
+        "modelNumber": "HTPCR-A165G-NARUICO-AKA",
+        "compatibleBrand": "Samsung",
+        "compatibleModels": [
+          "A165G"
+        ],
+        "cellPhoneCaseType": "Soft Gel Case",
+        "material": "TPU"
+      },
+      "groupingAttributes": [
+        {
+          "name": "actual_color",
+          "value": "Akatsuki"
+        },
+        {
+          "name": "size",
+          "value": "A165G"
+        }
+      ]
+    },
+    {
+      "sku": "HTPCR-IPH13PMAX-NARUICO-AKA",
+      "productType": "Cell Phone Cases",
+      "variantGroupId": "HTPCR-IPH-NARUICO-AKA",
+      "variantAttributeNames": [
+        "actual_color",
+        "size"
+      ],
+      "isPrimaryVariant": false,
+      "Orderable": {
+        "sku": "HTPCR-IPH13PMAX-NARUICO-AKA",
+        "productId": "5063291440028",
+        "productIdType": "EAN",
+        "price": 19.95,
+        "currency": "USD",
+        "mustShipAlone": "No",
+        "manufacturerPartNumber": "HTPCR-IPH13PMAX-NARUICO-AKA"
+      },
+      "Visible": {
+        "productName": "Head Case Designs Officially Licensed Naruto Shippuden Akatsuki Soft Gel Case Compatible with Apple iPhone 13 Pro Max",
+        "brand": "Head Case Designs",
+        "manufacturer": "Head Case Designs",
+        "mainImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH13PMAX-1.jpg",
+        "shortDescription": "Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden case is compatible with MagSafe and offers lightweight, drop-tested defense without compromising on swag and aesthetics. It provides the best shock-absorbing protection against drops, bumps, and daily wear. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. Th.",
+        "longDescription": "Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden case is compatible with MagSafe and offers lightweight, drop-tested defense without compromising on swag and aesthetics. It provides the best shock-absorbing protection against drops, bumps, and daily wear. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. This soft gel case delivers military-grade shock absorption with silicone bumpers, ensuring superior protection without extra bulk. Scratch-Resistant with Raised Bezels. Elevated edges shield your screen and camera lens, providing long-lasting clarity and durability. Ergonomic Grip & Non-Slip Texture. This slim magnetic case provides a comfortable, non-slip grip, reducing accidental drops while maintaining a smooth finish. Precision Cutouts for Effortless Access. Designed for seamless fit, this case provides precise cutouts for easy access to all buttons, ports, and speakers without interference. Effortless Installation & Case Swapping. The flexible, form-fitting TPU allows for quick, hassle-free installation, so you can easily switch between designs to match your mood or occasion. Stylish, Licensed Designs. Show off your personality with this officially licensed Naruto Shippuden merch, this case makes a great gift while keeping your device safe. Features: Compatible with MagSafe Military-Grade Protection Official Naruto Shippuden product The case doesn\"t interfere with wireless charging coils Slim & Shockproof Design Durable & Lightweight Screen and Camera Lens Protection Comfortable Grip & Pocket-Friendly Profile Precision Cutouts for Effortless Access Quick & Easy Installation Flexible TPU material Stylish, Licensed Designs' Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden Apple iPhone 17 case is compatible with wireless charging and offers lightweight, drop-tested (up to 1.2m/4ft) defense without compromising on swag and aesthetics. Crafted from premium TPU, it provides the best shock-absorbing protection against drops, bumps, and daily wear while maintaining a slim, pocket-friendly profile. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. This official Naruto Shippuden soft gel case delivers military-grade shock absorption with silicone bumpers, ensuring superior protection without extra bulk. Scratch-Resistant with Raised Bezels. Elevated edges shield your screen and camera lens, providing long-lasting clarity and durability. Ergonomic Grip & Non-Slip Texture. Made from soft-touch TPU, this slim Apple iPhone 17 case provides a comfortable, non-slip grip, reducing accidental drops while maintaining a smooth, stylish finish. Precision Cutouts for Effortless Access. Designed for seamless compatibility, this case provides precise cutouts for easy access to all buttons, ports, and speakers without interference. Effortless Installation & Case Swapping. The flexible",
+        "actual_color": "Akatsuki",
+        "size": "Apple iPhone 13 Pro Max",
+        "modelNumber": "HTPCR-IPH13PMAX-NARUICO-AKA",
+        "compatibleBrand": "Apple",
+        "compatibleModels": [
+          "Apple iPhone 13 Pro Max"
+        ],
+        "cellPhoneCaseType": "Soft Gel Case",
+        "material": "TPU"
+      },
+      "groupingAttributes": [
+        {
+          "name": "actual_color",
+          "value": "Akatsuki"
+        },
+        {
+          "name": "size",
+          "value": "Apple iPhone 13 Pro Max"
+        }
+      ]
+    },
+    {
+      "sku": "HTPCR-IPH11-NARUICO-AKA",
+      "productType": "Cell Phone Cases",
+      "variantGroupId": "HTPCR-IPH-NARUICO-AKA",
+      "variantAttributeNames": [
+        "actual_color",
+        "size"
+      ],
+      "isPrimaryVariant": false,
+      "Orderable": {
+        "sku": "HTPCR-IPH11-NARUICO-AKA",
+        "productId": "5063291767699",
+        "productIdType": "EAN",
+        "price": 19.95,
+        "currency": "USD",
+        "mustShipAlone": "No",
+        "manufacturerPartNumber": "HTPCR-IPH11-NARUICO-AKA"
+      },
+      "Visible": {
+        "productName": "Head Case Designs Officially Licensed Naruto Shippuden Akatsuki Soft Gel Case Compatible with Apple iPhone 11",
+        "brand": "Head Case Designs",
+        "manufacturer": "Head Case Designs",
+        "mainImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH11-1.jpg",
+        "shortDescription": "Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden case is compatible with MagSafe and offers lightweight, drop-tested defense without compromising on swag and aesthetics. It provides the best shock-absorbing protection against drops, bumps, and daily wear. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. Th.",
+        "longDescription": "Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden case is compatible with MagSafe and offers lightweight, drop-tested defense without compromising on swag and aesthetics. It provides the best shock-absorbing protection against drops, bumps, and daily wear. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. This soft gel case delivers military-grade shock absorption with silicone bumpers, ensuring superior protection without extra bulk. Scratch-Resistant with Raised Bezels. Elevated edges shield your screen and camera lens, providing long-lasting clarity and durability. Ergonomic Grip & Non-Slip Texture. This slim magnetic case provides a comfortable, non-slip grip, reducing accidental drops while maintaining a smooth finish. Precision Cutouts for Effortless Access. Designed for seamless fit, this case provides precise cutouts for easy access to all buttons, ports, and speakers without interference. Effortless Installation & Case Swapping. The flexible, form-fitting TPU allows for quick, hassle-free installation, so you can easily switch between designs to match your mood or occasion. Stylish, Licensed Designs. Show off your personality with this officially licensed Naruto Shippuden merch, this case makes a great gift while keeping your device safe. Features: Compatible with MagSafe Military-Grade Protection Official Naruto Shippuden product The case doesn\"t interfere with wireless charging coils Slim & Shockproof Design Durable & Lightweight Screen and Camera Lens Protection Comfortable Grip & Pocket-Friendly Profile Precision Cutouts for Effortless Access Quick & Easy Installation Flexible TPU material Stylish, Licensed Designs' Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden Apple iPhone 17 case is compatible with wireless charging and offers lightweight, drop-tested (up to 1.2m/4ft) defense without compromising on swag and aesthetics. Crafted from premium TPU, it provides the best shock-absorbing protection against drops, bumps, and daily wear while maintaining a slim, pocket-friendly profile. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. This official Naruto Shippuden soft gel case delivers military-grade shock absorption with silicone bumpers, ensuring superior protection without extra bulk. Scratch-Resistant with Raised Bezels. Elevated edges shield your screen and camera lens, providing long-lasting clarity and durability. Ergonomic Grip & Non-Slip Texture. Made from soft-touch TPU, this slim Apple iPhone 17 case provides a comfortable, non-slip grip, reducing accidental drops while maintaining a smooth, stylish finish. Precision Cutouts for Effortless Access. Designed for seamless compatibility, this case provides precise cutouts for easy access to all buttons, ports, and speakers without interference. Effortless Installation & Case Swapping. The flexible",
+        "actual_color": "Akatsuki",
+        "size": "Apple iPhone 11",
+        "modelNumber": "HTPCR-IPH11-NARUICO-AKA",
+        "compatibleBrand": "Apple",
+        "compatibleModels": [
+          "Apple iPhone 11"
+        ],
+        "cellPhoneCaseType": "Soft Gel Case",
+        "material": "TPU"
+      },
+      "groupingAttributes": [
+        {
+          "name": "actual_color",
+          "value": "Akatsuki"
+        },
+        {
+          "name": "size",
+          "value": "Apple iPhone 11"
+        }
+      ]
+    },
+    {
+      "sku": "HTPCR-IPH14PMAX-NARUICO-AKA",
+      "productType": "Cell Phone Cases",
+      "variantGroupId": "HTPCR-IPH-NARUICO-AKA",
+      "variantAttributeNames": [
+        "actual_color",
+        "size"
+      ],
+      "isPrimaryVariant": false,
+      "Orderable": {
+        "sku": "HTPCR-IPH14PMAX-NARUICO-AKA",
+        "productId": "5063291379205",
+        "productIdType": "EAN",
+        "price": 19.95,
+        "currency": "USD",
+        "mustShipAlone": "No",
+        "manufacturerPartNumber": "HTPCR-IPH14PMAX-NARUICO-AKA"
+      },
+      "Visible": {
+        "productName": "Head Case Designs Officially Licensed Naruto Shippuden Akatsuki Soft Gel Case Compatible with Apple iPhone 14 Pro Max",
+        "brand": "Head Case Designs",
+        "manufacturer": "Head Case Designs",
+        "mainImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH14PMAX-1.jpg",
+        "shortDescription": "Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden case is compatible with MagSafe and offers lightweight, drop-tested defense without compromising on swag and aesthetics. It provides the best shock-absorbing protection against drops, bumps, and daily wear. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. Th.",
+        "longDescription": "Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden case is compatible with MagSafe and offers lightweight, drop-tested defense without compromising on swag and aesthetics. It provides the best shock-absorbing protection against drops, bumps, and daily wear. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. This soft gel case delivers military-grade shock absorption with silicone bumpers, ensuring superior protection without extra bulk. Scratch-Resistant with Raised Bezels. Elevated edges shield your screen and camera lens, providing long-lasting clarity and durability. Ergonomic Grip & Non-Slip Texture. This slim magnetic case provides a comfortable, non-slip grip, reducing accidental drops while maintaining a smooth finish. Precision Cutouts for Effortless Access. Designed for seamless fit, this case provides precise cutouts for easy access to all buttons, ports, and speakers without interference. Effortless Installation & Case Swapping. The flexible, form-fitting TPU allows for quick, hassle-free installation, so you can easily switch between designs to match your mood or occasion. Stylish, Licensed Designs. Show off your personality with this officially licensed Naruto Shippuden merch, this case makes a great gift while keeping your device safe. Features: Compatible with MagSafe Military-Grade Protection Official Naruto Shippuden product The case doesn\"t interfere with wireless charging coils Slim & Shockproof Design Durable & Lightweight Screen and Camera Lens Protection Comfortable Grip & Pocket-Friendly Profile Precision Cutouts for Effortless Access Quick & Easy Installation Flexible TPU material Stylish, Licensed Designs' Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden Apple iPhone 17 case is compatible with wireless charging and offers lightweight, drop-tested (up to 1.2m/4ft) defense without compromising on swag and aesthetics. Crafted from premium TPU, it provides the best shock-absorbing protection against drops, bumps, and daily wear while maintaining a slim, pocket-friendly profile. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. This official Naruto Shippuden soft gel case delivers military-grade shock absorption with silicone bumpers, ensuring superior protection without extra bulk. Scratch-Resistant with Raised Bezels. Elevated edges shield your screen and camera lens, providing long-lasting clarity and durability. Ergonomic Grip & Non-Slip Texture. Made from soft-touch TPU, this slim Apple iPhone 17 case provides a comfortable, non-slip grip, reducing accidental drops while maintaining a smooth, stylish finish. Precision Cutouts for Effortless Access. Designed for seamless compatibility, this case provides precise cutouts for easy access to all buttons, ports, and speakers without interference. Effortless Installation & Case Swapping. The flexible",
+        "actual_color": "Akatsuki",
+        "size": "Apple iPhone 14 Pro Max",
+        "modelNumber": "HTPCR-IPH14PMAX-NARUICO-AKA",
+        "compatibleBrand": "Apple",
+        "compatibleModels": [
+          "Apple iPhone 14 Pro Max"
+        ],
+        "cellPhoneCaseType": "Soft Gel Case",
+        "material": "TPU"
+      },
+      "groupingAttributes": [
+        {
+          "name": "actual_color",
+          "value": "Akatsuki"
+        },
+        {
+          "name": "size",
+          "value": "Apple iPhone 14 Pro Max"
+        }
+      ]
+    },
+    {
+      "sku": "HTPCR-S931X-NARUICO-AKA",
+      "productType": "Cell Phone Cases",
+      "variantGroupId": "HTPCR-IPH-NARUICO-AKA",
+      "variantAttributeNames": [
+        "actual_color",
+        "size"
+      ],
+      "isPrimaryVariant": false,
+      "Orderable": {
+        "sku": "HTPCR-S931X-NARUICO-AKA",
+        "productId": "5063291243261",
+        "productIdType": "EAN",
+        "price": 19.95,
+        "currency": "USD",
+        "mustShipAlone": "No",
+        "manufacturerPartNumber": "HTPCR-S931X-NARUICO-AKA"
+      },
+      "Visible": {
+        "productName": "Head Case Designs Officially Licensed Naruto Shippuden Akatsuki Soft Gel Case Compatible with Samsung Galaxy S25",
+        "brand": "Head Case Designs",
+        "manufacturer": "Head Case Designs",
+        "mainImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-S931X-1.jpg",
+        "shortDescription": "Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden case is compatible with MagSafe and offers lightweight, drop-tested defense without compromising on swag and aesthetics. It provides the best shock-absorbing protection against drops, bumps, and daily wear. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. Th.",
+        "longDescription": "Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden case is compatible with MagSafe and offers lightweight, drop-tested defense without compromising on swag and aesthetics. It provides the best shock-absorbing protection against drops, bumps, and daily wear. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. This soft gel case delivers military-grade shock absorption with silicone bumpers, ensuring superior protection without extra bulk. Scratch-Resistant with Raised Bezels. Elevated edges shield your screen and camera lens, providing long-lasting clarity and durability. Ergonomic Grip & Non-Slip Texture. This slim magnetic case provides a comfortable, non-slip grip, reducing accidental drops while maintaining a smooth finish. Precision Cutouts for Effortless Access. Designed for seamless fit, this case provides precise cutouts for easy access to all buttons, ports, and speakers without interference. Effortless Installation & Case Swapping. The flexible, form-fitting TPU allows for quick, hassle-free installation, so you can easily switch between designs to match your mood or occasion. Stylish, Licensed Designs. Show off your personality with this officially licensed Naruto Shippuden merch, this case makes a great gift while keeping your device safe. Features: Compatible with MagSafe Military-Grade Protection Official Naruto Shippuden product The case doesn\"t interfere with wireless charging coils Slim & Shockproof Design Durable & Lightweight Screen and Camera Lens Protection Comfortable Grip & Pocket-Friendly Profile Precision Cutouts for Effortless Access Quick & Easy Installation Flexible TPU material Stylish, Licensed Designs' Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden Apple iPhone 17 case is compatible with wireless charging and offers lightweight, drop-tested (up to 1.2m/4ft) defense without compromising on swag and aesthetics. Crafted from premium TPU, it provides the best shock-absorbing protection against drops, bumps, and daily wear while maintaining a slim, pocket-friendly profile. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. This official Naruto Shippuden soft gel case delivers military-grade shock absorption with silicone bumpers, ensuring superior protection without extra bulk. Scratch-Resistant with Raised Bezels. Elevated edges shield your screen and camera lens, providing long-lasting clarity and durability. Ergonomic Grip & Non-Slip Texture. Made from soft-touch TPU, this slim Apple iPhone 17 case provides a comfortable, non-slip grip, reducing accidental drops while maintaining a smooth, stylish finish. Precision Cutouts for Effortless Access. Designed for seamless compatibility, this case provides precise cutouts for easy access to all buttons, ports, and speakers without interference. Effortless Installation & Case Swapping. The flexible",
+        "actual_color": "Akatsuki",
+        "size": "Samsung Galaxy S25",
+        "modelNumber": "HTPCR-S931X-NARUICO-AKA",
+        "compatibleBrand": "Samsung",
+        "compatibleModels": [
+          "Samsung Galaxy S25"
+        ],
+        "cellPhoneCaseType": "Soft Gel Case",
+        "material": "TPU"
+      },
+      "groupingAttributes": [
+        {
+          "name": "actual_color",
+          "value": "Akatsuki"
+        },
+        {
+          "name": "size",
+          "value": "Samsung Galaxy S25"
+        }
+      ]
+    },
+    {
+      "sku": "HTPCR-A152024-NARUICO-AKA",
+      "productType": "Cell Phone Cases",
+      "variantGroupId": "HTPCR-IPH-NARUICO-AKA",
+      "variantAttributeNames": [
+        "actual_color",
+        "size"
+      ],
+      "isPrimaryVariant": false,
+      "Orderable": {
+        "sku": "HTPCR-A152024-NARUICO-AKA",
+        "productId": "5063291282604",
+        "productIdType": "EAN",
+        "price": 19.95,
+        "currency": "USD",
+        "mustShipAlone": "No",
+        "manufacturerPartNumber": "HTPCR-A152024-NARUICO-AKA"
+      },
+      "Visible": {
+        "productName": "Head Case Designs Officially Licensed Naruto Shippuden Akatsuki Soft Gel Case Compatible with Samsung Galaxy A15 (2024)",
+        "brand": "Head Case Designs",
+        "manufacturer": "Head Case Designs",
+        "mainImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-A152024-1.jpg",
+        "shortDescription": "Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden case is compatible with MagSafe and offers lightweight, drop-tested defense without compromising on swag and aesthetics. It provides the best shock-absorbing protection against drops, bumps, and daily wear. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. Th.",
+        "longDescription": "Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden case is compatible with MagSafe and offers lightweight, drop-tested defense without compromising on swag and aesthetics. It provides the best shock-absorbing protection against drops, bumps, and daily wear. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. This soft gel case delivers military-grade shock absorption with silicone bumpers, ensuring superior protection without extra bulk. Scratch-Resistant with Raised Bezels. Elevated edges shield your screen and camera lens, providing long-lasting clarity and durability. Ergonomic Grip & Non-Slip Texture. This slim magnetic case provides a comfortable, non-slip grip, reducing accidental drops while maintaining a smooth finish. Precision Cutouts for Effortless Access. Designed for seamless fit, this case provides precise cutouts for easy access to all buttons, ports, and speakers without interference. Effortless Installation & Case Swapping. The flexible, form-fitting TPU allows for quick, hassle-free installation, so you can easily switch between designs to match your mood or occasion. Stylish, Licensed Designs. Show off your personality with this officially licensed Naruto Shippuden merch, this case makes a great gift while keeping your device safe. Features: Compatible with MagSafe Military-Grade Protection Official Naruto Shippuden product The case doesn\"t interfere with wireless charging coils Slim & Shockproof Design Durable & Lightweight Screen and Camera Lens Protection Comfortable Grip & Pocket-Friendly Profile Precision Cutouts for Effortless Access Quick & Easy Installation Flexible TPU material Stylish, Licensed Designs' Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden Apple iPhone 17 case is compatible with wireless charging and offers lightweight, drop-tested (up to 1.2m/4ft) defense without compromising on swag and aesthetics. Crafted from premium TPU, it provides the best shock-absorbing protection against drops, bumps, and daily wear while maintaining a slim, pocket-friendly profile. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. This official Naruto Shippuden soft gel case delivers military-grade shock absorption with silicone bumpers, ensuring superior protection without extra bulk. Scratch-Resistant with Raised Bezels. Elevated edges shield your screen and camera lens, providing long-lasting clarity and durability. Ergonomic Grip & Non-Slip Texture. Made from soft-touch TPU, this slim Apple iPhone 17 case provides a comfortable, non-slip grip, reducing accidental drops while maintaining a smooth, stylish finish. Precision Cutouts for Effortless Access. Designed for seamless compatibility, this case provides precise cutouts for easy access to all buttons, ports, and speakers without interference. Effortless Installation & Case Swapping. The flexible",
+        "actual_color": "Akatsuki",
+        "size": "Samsung Galaxy A15 (2024)",
+        "modelNumber": "HTPCR-A152024-NARUICO-AKA",
+        "compatibleBrand": "Samsung",
+        "compatibleModels": [
+          "Samsung Galaxy A15 (2024)"
+        ],
+        "cellPhoneCaseType": "Soft Gel Case",
+        "material": "TPU"
+      },
+      "groupingAttributes": [
+        {
+          "name": "actual_color",
+          "value": "Akatsuki"
+        },
+        {
+          "name": "size",
+          "value": "Samsung Galaxy A15 (2024)"
+        }
+      ]
+    },
+    {
+      "sku": "HTPCR-S928U-NARUICO-AKA",
+      "productType": "Cell Phone Cases",
+      "variantGroupId": "HTPCR-IPH-NARUICO-AKA",
+      "variantAttributeNames": [
+        "actual_color",
+        "size"
+      ],
+      "isPrimaryVariant": false,
+      "Orderable": {
+        "sku": "HTPCR-S928U-NARUICO-AKA",
+        "productId": "5063291318358",
+        "productIdType": "EAN",
+        "price": 19.95,
+        "currency": "USD",
+        "mustShipAlone": "No",
+        "manufacturerPartNumber": "HTPCR-S928U-NARUICO-AKA"
+      },
+      "Visible": {
+        "productName": "Head Case Designs Officially Licensed Naruto Shippuden Akatsuki Soft Gel Case Compatible with Samsung Galaxy S24 Ultra 5G",
+        "brand": "Head Case Designs",
+        "manufacturer": "Head Case Designs",
+        "mainImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-S928U-1.jpg",
+        "shortDescription": "Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden case is compatible with MagSafe and offers lightweight, drop-tested defense without compromising on swag and aesthetics. It provides the best shock-absorbing protection against drops, bumps, and daily wear. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. Th.",
+        "longDescription": "Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden case is compatible with MagSafe and offers lightweight, drop-tested defense without compromising on swag and aesthetics. It provides the best shock-absorbing protection against drops, bumps, and daily wear. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. This soft gel case delivers military-grade shock absorption with silicone bumpers, ensuring superior protection without extra bulk. Scratch-Resistant with Raised Bezels. Elevated edges shield your screen and camera lens, providing long-lasting clarity and durability. Ergonomic Grip & Non-Slip Texture. This slim magnetic case provides a comfortable, non-slip grip, reducing accidental drops while maintaining a smooth finish. Precision Cutouts for Effortless Access. Designed for seamless fit, this case provides precise cutouts for easy access to all buttons, ports, and speakers without interference. Effortless Installation & Case Swapping. The flexible, form-fitting TPU allows for quick, hassle-free installation, so you can easily switch between designs to match your mood or occasion. Stylish, Licensed Designs. Show off your personality with this officially licensed Naruto Shippuden merch, this case makes a great gift while keeping your device safe. Features: Compatible with MagSafe Military-Grade Protection Official Naruto Shippuden product The case doesn\"t interfere with wireless charging coils Slim & Shockproof Design Durable & Lightweight Screen and Camera Lens Protection Comfortable Grip & Pocket-Friendly Profile Precision Cutouts for Effortless Access Quick & Easy Installation Flexible TPU material Stylish, Licensed Designs' Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden Apple iPhone 17 case is compatible with wireless charging and offers lightweight, drop-tested (up to 1.2m/4ft) defense without compromising on swag and aesthetics. Crafted from premium TPU, it provides the best shock-absorbing protection against drops, bumps, and daily wear while maintaining a slim, pocket-friendly profile. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. This official Naruto Shippuden soft gel case delivers military-grade shock absorption with silicone bumpers, ensuring superior protection without extra bulk. Scratch-Resistant with Raised Bezels. Elevated edges shield your screen and camera lens, providing long-lasting clarity and durability. Ergonomic Grip & Non-Slip Texture. Made from soft-touch TPU, this slim Apple iPhone 17 case provides a comfortable, non-slip grip, reducing accidental drops while maintaining a smooth, stylish finish. Precision Cutouts for Effortless Access. Designed for seamless compatibility, this case provides precise cutouts for easy access to all buttons, ports, and speakers without interference. Effortless Installation & Case Swapping. The flexible",
+        "actual_color": "Akatsuki",
+        "size": "Samsung Galaxy S24 Ultra 5G",
+        "modelNumber": "HTPCR-S928U-NARUICO-AKA",
+        "compatibleBrand": "Samsung",
+        "compatibleModels": [
+          "Samsung Galaxy S24 Ultra 5G"
+        ],
+        "cellPhoneCaseType": "Soft Gel Case",
+        "material": "TPU"
+      },
+      "groupingAttributes": [
+        {
+          "name": "actual_color",
+          "value": "Akatsuki"
+        },
+        {
+          "name": "size",
+          "value": "Samsung Galaxy S24 Ultra 5G"
+        }
+      ]
+    },
+    {
+      "sku": "HTPCR-IPH7-NARUICO-AKA",
+      "productType": "Cell Phone Cases",
+      "variantGroupId": "HTPCR-IPH-NARUICO-AKA",
+      "variantAttributeNames": [
+        "actual_color",
+        "size"
+      ],
+      "isPrimaryVariant": false,
+      "Orderable": {
+        "sku": "HTPCR-IPH7-NARUICO-AKA",
+        "productId": "5063291163729",
+        "productIdType": "EAN",
+        "price": 19.95,
+        "currency": "USD",
+        "mustShipAlone": "No",
+        "manufacturerPartNumber": "HTPCR-IPH7-NARUICO-AKA"
+      },
+      "Visible": {
+        "productName": "Head Case Designs Officially Licensed Naruto Shippuden Akatsuki Soft Gel Case Compatible with Apple iPhone 7 / 8 / SE 2020 & 2022",
+        "brand": "Head Case Designs",
+        "manufacturer": "Head Case Designs",
+        "mainImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH7-1.jpg",
+        "shortDescription": "Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden case is compatible with MagSafe and offers lightweight, drop-tested defense without compromising on swag and aesthetics. It provides the best shock-absorbing protection against drops, bumps, and daily wear. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. Th.",
+        "longDescription": "Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden case is compatible with MagSafe and offers lightweight, drop-tested defense without compromising on swag and aesthetics. It provides the best shock-absorbing protection against drops, bumps, and daily wear. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. This soft gel case delivers military-grade shock absorption with silicone bumpers, ensuring superior protection without extra bulk. Scratch-Resistant with Raised Bezels. Elevated edges shield your screen and camera lens, providing long-lasting clarity and durability. Ergonomic Grip & Non-Slip Texture. This slim magnetic case provides a comfortable, non-slip grip, reducing accidental drops while maintaining a smooth finish. Precision Cutouts for Effortless Access. Designed for seamless fit, this case provides precise cutouts for easy access to all buttons, ports, and speakers without interference. Effortless Installation & Case Swapping. The flexible, form-fitting TPU allows for quick, hassle-free installation, so you can easily switch between designs to match your mood or occasion. Stylish, Licensed Designs. Show off your personality with this officially licensed Naruto Shippuden merch, this case makes a great gift while keeping your device safe. Features: Compatible with MagSafe Military-Grade Protection Official Naruto Shippuden product The case doesn\"t interfere with wireless charging coils Slim & Shockproof Design Durable & Lightweight Screen and Camera Lens Protection Comfortable Grip & Pocket-Friendly Profile Precision Cutouts for Effortless Access Quick & Easy Installation Flexible TPU material Stylish, Licensed Designs' Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden Apple iPhone 17 case is compatible with wireless charging and offers lightweight, drop-tested (up to 1.2m/4ft) defense without compromising on swag and aesthetics. Crafted from premium TPU, it provides the best shock-absorbing protection against drops, bumps, and daily wear while maintaining a slim, pocket-friendly profile. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. This official Naruto Shippuden soft gel case delivers military-grade shock absorption with silicone bumpers, ensuring superior protection without extra bulk. Scratch-Resistant with Raised Bezels. Elevated edges shield your screen and camera lens, providing long-lasting clarity and durability. Ergonomic Grip & Non-Slip Texture. Made from soft-touch TPU, this slim Apple iPhone 17 case provides a comfortable, non-slip grip, reducing accidental drops while maintaining a smooth, stylish finish. Precision Cutouts for Effortless Access. Designed for seamless compatibility, this case provides precise cutouts for easy access to all buttons, ports, and speakers without interference. Effortless Installation & Case Swapping. The flexible",
+        "actual_color": "Akatsuki",
+        "size": "Apple iPhone 7 / 8 / SE 2020 & 2022",
+        "modelNumber": "HTPCR-IPH7-NARUICO-AKA",
+        "compatibleBrand": "Apple",
+        "compatibleModels": [
+          "Apple iPhone 7 / 8 / SE 2020 & 2022"
+        ],
+        "cellPhoneCaseType": "Soft Gel Case",
+        "material": "TPU"
+      },
+      "groupingAttributes": [
+        {
+          "name": "actual_color",
+          "value": "Akatsuki"
+        },
+        {
+          "name": "size",
+          "value": "Apple iPhone 7 / 8 / SE 2020 & 2022"
+        }
+      ]
+    },
+    {
+      "sku": "HTPCR-IPH16PLUS-NARUICO-AKA",
+      "productType": "Cell Phone Cases",
+      "variantGroupId": "HTPCR-IPH-NARUICO-AKA",
+      "variantAttributeNames": [
+        "actual_color",
+        "size"
+      ],
+      "isPrimaryVariant": false,
+      "Orderable": {
+        "sku": "HTPCR-IPH16PLUS-NARUICO-AKA",
+        "productId": "5057546027508",
+        "productIdType": "EAN",
+        "price": 19.95,
+        "currency": "USD",
+        "mustShipAlone": "No",
+        "manufacturerPartNumber": "HTPCR-IPH16PLUS-NARUICO-AKA"
+      },
+      "Visible": {
+        "productName": "Head Case Designs Officially Licensed Naruto Shippuden Akatsuki Soft Gel Case Compatible with iPhone 16 Plus",
+        "brand": "Head Case Designs",
+        "manufacturer": "Head Case Designs",
+        "mainImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH16PLUS-1.jpg",
+        "shortDescription": "Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden case is compatible with MagSafe and offers lightweight, drop-tested defense without compromising on swag and aesthetics. It provides the best shock-absorbing protection against drops, bumps, and daily wear. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. Th.",
+        "longDescription": "Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden case is compatible with MagSafe and offers lightweight, drop-tested defense without compromising on swag and aesthetics. It provides the best shock-absorbing protection against drops, bumps, and daily wear. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. This soft gel case delivers military-grade shock absorption with silicone bumpers, ensuring superior protection without extra bulk. Scratch-Resistant with Raised Bezels. Elevated edges shield your screen and camera lens, providing long-lasting clarity and durability. Ergonomic Grip & Non-Slip Texture. This slim magnetic case provides a comfortable, non-slip grip, reducing accidental drops while maintaining a smooth finish. Precision Cutouts for Effortless Access. Designed for seamless fit, this case provides precise cutouts for easy access to all buttons, ports, and speakers without interference. Effortless Installation & Case Swapping. The flexible, form-fitting TPU allows for quick, hassle-free installation, so you can easily switch between designs to match your mood or occasion. Stylish, Licensed Designs. Show off your personality with this officially licensed Naruto Shippuden merch, this case makes a great gift while keeping your device safe. Features: Compatible with MagSafe Military-Grade Protection Official Naruto Shippuden product The case doesn\"t interfere with wireless charging coils Slim & Shockproof Design Durable & Lightweight Screen and Camera Lens Protection Comfortable Grip & Pocket-Friendly Profile Precision Cutouts for Effortless Access Quick & Easy Installation Flexible TPU material Stylish, Licensed Designs' Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden Apple iPhone 17 case is compatible with wireless charging and offers lightweight, drop-tested (up to 1.2m/4ft) defense without compromising on swag and aesthetics. Crafted from premium TPU, it provides the best shock-absorbing protection against drops, bumps, and daily wear while maintaining a slim, pocket-friendly profile. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. This official Naruto Shippuden soft gel case delivers military-grade shock absorption with silicone bumpers, ensuring superior protection without extra bulk. Scratch-Resistant with Raised Bezels. Elevated edges shield your screen and camera lens, providing long-lasting clarity and durability. Ergonomic Grip & Non-Slip Texture. Made from soft-touch TPU, this slim Apple iPhone 17 case provides a comfortable, non-slip grip, reducing accidental drops while maintaining a smooth, stylish finish. Precision Cutouts for Effortless Access. Designed for seamless compatibility, this case provides precise cutouts for easy access to all buttons, ports, and speakers without interference. Effortless Installation & Case Swapping. The flexible",
+        "actual_color": "Akatsuki",
+        "size": "iPhone 16 Plus",
+        "modelNumber": "HTPCR-IPH16PLUS-NARUICO-AKA",
+        "compatibleBrand": "Apple",
+        "compatibleModels": [
+          "iPhone 16 Plus"
+        ],
+        "cellPhoneCaseType": "Soft Gel Case",
+        "material": "TPU"
+      },
+      "groupingAttributes": [
+        {
+          "name": "actual_color",
+          "value": "Akatsuki"
+        },
+        {
+          "name": "size",
+          "value": "iPhone 16 Plus"
+        }
+      ]
+    },
+    {
+      "sku": "HTPCR-IPH14PLUS-NARUICO-AKA",
+      "productType": "Cell Phone Cases",
+      "variantGroupId": "HTPCR-IPH-NARUICO-AKA",
+      "variantAttributeNames": [
+        "actual_color",
+        "size"
+      ],
+      "isPrimaryVariant": false,
+      "Orderable": {
+        "sku": "HTPCR-IPH14PLUS-NARUICO-AKA",
+        "productId": "5057546009375",
+        "productIdType": "EAN",
+        "price": 19.95,
+        "currency": "USD",
+        "mustShipAlone": "No",
+        "manufacturerPartNumber": "HTPCR-IPH14PLUS-NARUICO-AKA"
+      },
+      "Visible": {
+        "productName": "Head Case Designs Officially Licensed Naruto Shippuden Akatsuki Soft Gel Case Compatible with Apple iPhone 14 Plus",
+        "brand": "Head Case Designs",
+        "manufacturer": "Head Case Designs",
+        "mainImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH14PLUS-1.jpg",
+        "shortDescription": "Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden case is compatible with MagSafe and offers lightweight, drop-tested defense without compromising on swag and aesthetics. It provides the best shock-absorbing protection against drops, bumps, and daily wear. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. Th.",
+        "longDescription": "Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden case is compatible with MagSafe and offers lightweight, drop-tested defense without compromising on swag and aesthetics. It provides the best shock-absorbing protection against drops, bumps, and daily wear. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. This soft gel case delivers military-grade shock absorption with silicone bumpers, ensuring superior protection without extra bulk. Scratch-Resistant with Raised Bezels. Elevated edges shield your screen and camera lens, providing long-lasting clarity and durability. Ergonomic Grip & Non-Slip Texture. This slim magnetic case provides a comfortable, non-slip grip, reducing accidental drops while maintaining a smooth finish. Precision Cutouts for Effortless Access. Designed for seamless fit, this case provides precise cutouts for easy access to all buttons, ports, and speakers without interference. Effortless Installation & Case Swapping. The flexible, form-fitting TPU allows for quick, hassle-free installation, so you can easily switch between designs to match your mood or occasion. Stylish, Licensed Designs. Show off your personality with this officially licensed Naruto Shippuden merch, this case makes a great gift while keeping your device safe. Features: Compatible with MagSafe Military-Grade Protection Official Naruto Shippuden product The case doesn\"t interfere with wireless charging coils Slim & Shockproof Design Durable & Lightweight Screen and Camera Lens Protection Comfortable Grip & Pocket-Friendly Profile Precision Cutouts for Effortless Access Quick & Easy Installation Flexible TPU material Stylish, Licensed Designs' Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden Apple iPhone 17 case is compatible with wireless charging and offers lightweight, drop-tested (up to 1.2m/4ft) defense without compromising on swag and aesthetics. Crafted from premium TPU, it provides the best shock-absorbing protection against drops, bumps, and daily wear while maintaining a slim, pocket-friendly profile. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. This official Naruto Shippuden soft gel case delivers military-grade shock absorption with silicone bumpers, ensuring superior protection without extra bulk. Scratch-Resistant with Raised Bezels. Elevated edges shield your screen and camera lens, providing long-lasting clarity and durability. Ergonomic Grip & Non-Slip Texture. Made from soft-touch TPU, this slim Apple iPhone 17 case provides a comfortable, non-slip grip, reducing accidental drops while maintaining a smooth, stylish finish. Precision Cutouts for Effortless Access. Designed for seamless compatibility, this case provides precise cutouts for easy access to all buttons, ports, and speakers without interference. Effortless Installation & Case Swapping. The flexible",
+        "actual_color": "Akatsuki",
+        "size": "Apple iPhone 14 Plus",
+        "modelNumber": "HTPCR-IPH14PLUS-NARUICO-AKA",
+        "compatibleBrand": "Apple",
+        "compatibleModels": [
+          "Apple iPhone 14 Plus"
+        ],
+        "cellPhoneCaseType": "Soft Gel Case",
+        "material": "TPU"
+      },
+      "groupingAttributes": [
+        {
+          "name": "actual_color",
+          "value": "Akatsuki"
+        },
+        {
+          "name": "size",
+          "value": "Apple iPhone 14 Plus"
+        }
+      ]
+    },
+    {
+      "sku": "HTPCR-IPH15PRO-NARUICO-AKA",
+      "productType": "Cell Phone Cases",
+      "variantGroupId": "HTPCR-IPH-NARUICO-AKA",
+      "variantAttributeNames": [
+        "actual_color",
+        "size"
+      ],
+      "isPrimaryVariant": false,
+      "Orderable": {
+        "sku": "HTPCR-IPH15PRO-NARUICO-AKA",
+        "productId": "5057546014324",
+        "productIdType": "EAN",
+        "price": 19.95,
+        "currency": "USD",
+        "mustShipAlone": "No",
+        "manufacturerPartNumber": "HTPCR-IPH15PRO-NARUICO-AKA"
+      },
+      "Visible": {
+        "productName": "Head Case Designs Officially Licensed Naruto Shippuden Akatsuki Soft Gel Case Compatible with iPhone 15 Pro",
+        "brand": "Head Case Designs",
+        "manufacturer": "Head Case Designs",
+        "mainImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH15PRO-1.jpg",
+        "shortDescription": "Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden case is compatible with MagSafe and offers lightweight, drop-tested defense without compromising on swag and aesthetics. It provides the best shock-absorbing protection against drops, bumps, and daily wear. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. Th.",
+        "longDescription": "Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden case is compatible with MagSafe and offers lightweight, drop-tested defense without compromising on swag and aesthetics. It provides the best shock-absorbing protection against drops, bumps, and daily wear. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. This soft gel case delivers military-grade shock absorption with silicone bumpers, ensuring superior protection without extra bulk. Scratch-Resistant with Raised Bezels. Elevated edges shield your screen and camera lens, providing long-lasting clarity and durability. Ergonomic Grip & Non-Slip Texture. This slim magnetic case provides a comfortable, non-slip grip, reducing accidental drops while maintaining a smooth finish. Precision Cutouts for Effortless Access. Designed for seamless fit, this case provides precise cutouts for easy access to all buttons, ports, and speakers without interference. Effortless Installation & Case Swapping. The flexible, form-fitting TPU allows for quick, hassle-free installation, so you can easily switch between designs to match your mood or occasion. Stylish, Licensed Designs. Show off your personality with this officially licensed Naruto Shippuden merch, this case makes a great gift while keeping your device safe. Features: Compatible with MagSafe Military-Grade Protection Official Naruto Shippuden product The case doesn\"t interfere with wireless charging coils Slim & Shockproof Design Durable & Lightweight Screen and Camera Lens Protection Comfortable Grip & Pocket-Friendly Profile Precision Cutouts for Effortless Access Quick & Easy Installation Flexible TPU material Stylish, Licensed Designs' Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden Apple iPhone 17 case is compatible with wireless charging and offers lightweight, drop-tested (up to 1.2m/4ft) defense without compromising on swag and aesthetics. Crafted from premium TPU, it provides the best shock-absorbing protection against drops, bumps, and daily wear while maintaining a slim, pocket-friendly profile. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. This official Naruto Shippuden soft gel case delivers military-grade shock absorption with silicone bumpers, ensuring superior protection without extra bulk. Scratch-Resistant with Raised Bezels. Elevated edges shield your screen and camera lens, providing long-lasting clarity and durability. Ergonomic Grip & Non-Slip Texture. Made from soft-touch TPU, this slim Apple iPhone 17 case provides a comfortable, non-slip grip, reducing accidental drops while maintaining a smooth, stylish finish. Precision Cutouts for Effortless Access. Designed for seamless compatibility, this case provides precise cutouts for easy access to all buttons, ports, and speakers without interference. Effortless Installation & Case Swapping. The flexible",
+        "actual_color": "Akatsuki",
+        "size": "iPhone 15 Pro",
+        "modelNumber": "HTPCR-IPH15PRO-NARUICO-AKA",
+        "compatibleBrand": "Apple",
+        "compatibleModels": [
+          "iPhone 15 Pro"
+        ],
+        "cellPhoneCaseType": "Soft Gel Case",
+        "material": "TPU"
+      },
+      "groupingAttributes": [
+        {
+          "name": "actual_color",
+          "value": "Akatsuki"
+        },
+        {
+          "name": "size",
+          "value": "iPhone 15 Pro"
+        }
+      ]
+    },
+    {
+      "sku": "HTPCR-IPH14PRO-NARUICO-AKA",
+      "productType": "Cell Phone Cases",
+      "variantGroupId": "HTPCR-IPH-NARUICO-AKA",
+      "variantAttributeNames": [
+        "actual_color",
+        "size"
+      ],
+      "isPrimaryVariant": false,
+      "Orderable": {
+        "sku": "HTPCR-IPH14PRO-NARUICO-AKA",
+        "productId": "5063291810579",
+        "productIdType": "EAN",
+        "price": 19.95,
+        "currency": "USD",
+        "mustShipAlone": "No",
+        "manufacturerPartNumber": "HTPCR-IPH14PRO-NARUICO-AKA"
+      },
+      "Visible": {
+        "productName": "Head Case Designs Officially Licensed Naruto Shippuden Akatsuki Soft Gel Case Compatible with Apple iPhone 14 Pro",
+        "brand": "Head Case Designs",
+        "manufacturer": "Head Case Designs",
+        "mainImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH14PRO-1.jpg",
+        "shortDescription": "Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden case is compatible with MagSafe and offers lightweight, drop-tested defense without compromising on swag and aesthetics. It provides the best shock-absorbing protection against drops, bumps, and daily wear. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. Th.",
+        "longDescription": "Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden case is compatible with MagSafe and offers lightweight, drop-tested defense without compromising on swag and aesthetics. It provides the best shock-absorbing protection against drops, bumps, and daily wear. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. This soft gel case delivers military-grade shock absorption with silicone bumpers, ensuring superior protection without extra bulk. Scratch-Resistant with Raised Bezels. Elevated edges shield your screen and camera lens, providing long-lasting clarity and durability. Ergonomic Grip & Non-Slip Texture. This slim magnetic case provides a comfortable, non-slip grip, reducing accidental drops while maintaining a smooth finish. Precision Cutouts for Effortless Access. Designed for seamless fit, this case provides precise cutouts for easy access to all buttons, ports, and speakers without interference. Effortless Installation & Case Swapping. The flexible, form-fitting TPU allows for quick, hassle-free installation, so you can easily switch between designs to match your mood or occasion. Stylish, Licensed Designs. Show off your personality with this officially licensed Naruto Shippuden merch, this case makes a great gift while keeping your device safe. Features: Compatible with MagSafe Military-Grade Protection Official Naruto Shippuden product The case doesn\"t interfere with wireless charging coils Slim & Shockproof Design Durable & Lightweight Screen and Camera Lens Protection Comfortable Grip & Pocket-Friendly Profile Precision Cutouts for Effortless Access Quick & Easy Installation Flexible TPU material Stylish, Licensed Designs' Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden Apple iPhone 17 case is compatible with wireless charging and offers lightweight, drop-tested (up to 1.2m/4ft) defense without compromising on swag and aesthetics. Crafted from premium TPU, it provides the best shock-absorbing protection against drops, bumps, and daily wear while maintaining a slim, pocket-friendly profile. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. This official Naruto Shippuden soft gel case delivers military-grade shock absorption with silicone bumpers, ensuring superior protection without extra bulk. Scratch-Resistant with Raised Bezels. Elevated edges shield your screen and camera lens, providing long-lasting clarity and durability. Ergonomic Grip & Non-Slip Texture. Made from soft-touch TPU, this slim Apple iPhone 17 case provides a comfortable, non-slip grip, reducing accidental drops while maintaining a smooth, stylish finish. Precision Cutouts for Effortless Access. Designed for seamless compatibility, this case provides precise cutouts for easy access to all buttons, ports, and speakers without interference. Effortless Installation & Case Swapping. The flexible",
+        "actual_color": "Akatsuki",
+        "size": "Apple iPhone 14 Pro",
+        "modelNumber": "HTPCR-IPH14PRO-NARUICO-AKA",
+        "compatibleBrand": "Apple",
+        "compatibleModels": [
+          "Apple iPhone 14 Pro"
+        ],
+        "cellPhoneCaseType": "Soft Gel Case",
+        "material": "TPU"
+      },
+      "groupingAttributes": [
+        {
+          "name": "actual_color",
+          "value": "Akatsuki"
+        },
+        {
+          "name": "size",
+          "value": "Apple iPhone 14 Pro"
+        }
+      ]
+    },
+    {
+      "sku": "HTPCR-IPH15PLUS-NARUICO-AKA",
+      "productType": "Cell Phone Cases",
+      "variantGroupId": "HTPCR-IPH-NARUICO-AKA",
+      "variantAttributeNames": [
+        "actual_color",
+        "size"
+      ],
+      "isPrimaryVariant": false,
+      "Orderable": {
+        "sku": "HTPCR-IPH15PLUS-NARUICO-AKA",
+        "productId": "5057546005575",
+        "productIdType": "EAN",
+        "price": 19.95,
+        "currency": "USD",
+        "mustShipAlone": "No",
+        "manufacturerPartNumber": "HTPCR-IPH15PLUS-NARUICO-AKA"
+      },
+      "Visible": {
+        "productName": "Head Case Designs Officially Licensed Naruto Shippuden Akatsuki Soft Gel Case Compatible with iPhone 15 Plus",
+        "brand": "Head Case Designs",
+        "manufacturer": "Head Case Designs",
+        "mainImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH15PLUS-1.jpg",
+        "shortDescription": "Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden case is compatible with MagSafe and offers lightweight, drop-tested defense without compromising on swag and aesthetics. It provides the best shock-absorbing protection against drops, bumps, and daily wear. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. Th.",
+        "longDescription": "Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden case is compatible with MagSafe and offers lightweight, drop-tested defense without compromising on swag and aesthetics. It provides the best shock-absorbing protection against drops, bumps, and daily wear. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. This soft gel case delivers military-grade shock absorption with silicone bumpers, ensuring superior protection without extra bulk. Scratch-Resistant with Raised Bezels. Elevated edges shield your screen and camera lens, providing long-lasting clarity and durability. Ergonomic Grip & Non-Slip Texture. This slim magnetic case provides a comfortable, non-slip grip, reducing accidental drops while maintaining a smooth finish. Precision Cutouts for Effortless Access. Designed for seamless fit, this case provides precise cutouts for easy access to all buttons, ports, and speakers without interference. Effortless Installation & Case Swapping. The flexible, form-fitting TPU allows for quick, hassle-free installation, so you can easily switch between designs to match your mood or occasion. Stylish, Licensed Designs. Show off your personality with this officially licensed Naruto Shippuden merch, this case makes a great gift while keeping your device safe. Features: Compatible with MagSafe Military-Grade Protection Official Naruto Shippuden product The case doesn\"t interfere with wireless charging coils Slim & Shockproof Design Durable & Lightweight Screen and Camera Lens Protection Comfortable Grip & Pocket-Friendly Profile Precision Cutouts for Effortless Access Quick & Easy Installation Flexible TPU material Stylish, Licensed Designs' Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden Apple iPhone 17 case is compatible with wireless charging and offers lightweight, drop-tested (up to 1.2m/4ft) defense without compromising on swag and aesthetics. Crafted from premium TPU, it provides the best shock-absorbing protection against drops, bumps, and daily wear while maintaining a slim, pocket-friendly profile. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. This official Naruto Shippuden soft gel case delivers military-grade shock absorption with silicone bumpers, ensuring superior protection without extra bulk. Scratch-Resistant with Raised Bezels. Elevated edges shield your screen and camera lens, providing long-lasting clarity and durability. Ergonomic Grip & Non-Slip Texture. Made from soft-touch TPU, this slim Apple iPhone 17 case provides a comfortable, non-slip grip, reducing accidental drops while maintaining a smooth, stylish finish. Precision Cutouts for Effortless Access. Designed for seamless compatibility, this case provides precise cutouts for easy access to all buttons, ports, and speakers without interference. Effortless Installation & Case Swapping. The flexible",
+        "actual_color": "Akatsuki",
+        "size": "iPhone 15 Plus",
+        "modelNumber": "HTPCR-IPH15PLUS-NARUICO-AKA",
+        "compatibleBrand": "Apple",
+        "compatibleModels": [
+          "iPhone 15 Plus"
+        ],
+        "cellPhoneCaseType": "Soft Gel Case",
+        "material": "TPU"
+      },
+      "groupingAttributes": [
+        {
+          "name": "actual_color",
+          "value": "Akatsuki"
+        },
+        {
+          "name": "size",
+          "value": "iPhone 15 Plus"
+        }
+      ]
+    },
+    {
+      "sku": "HTPCR-IPH13PRO-NARUICO-AKA",
+      "productType": "Cell Phone Cases",
+      "variantGroupId": "HTPCR-IPH-NARUICO-AKA",
+      "variantAttributeNames": [
+        "actual_color",
+        "size"
+      ],
+      "isPrimaryVariant": false,
+      "Orderable": {
+        "sku": "HTPCR-IPH13PRO-NARUICO-AKA",
+        "productId": "5057546069638",
+        "productIdType": "EAN",
+        "price": 19.95,
+        "currency": "USD",
+        "mustShipAlone": "No",
+        "manufacturerPartNumber": "HTPCR-IPH13PRO-NARUICO-AKA"
+      },
+      "Visible": {
+        "productName": "Head Case Designs Officially Licensed Naruto Shippuden Akatsuki Soft Gel Case Compatible with Apple iPhone 13 Pro",
+        "brand": "Head Case Designs",
+        "manufacturer": "Head Case Designs",
+        "mainImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH13PRO-1.jpg",
+        "shortDescription": "Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden case is compatible with MagSafe and offers lightweight, drop-tested defense without compromising on swag and aesthetics. It provides the best shock-absorbing protection against drops, bumps, and daily wear. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. Th.",
+        "longDescription": "Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden case is compatible with MagSafe and offers lightweight, drop-tested defense without compromising on swag and aesthetics. It provides the best shock-absorbing protection against drops, bumps, and daily wear. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. This soft gel case delivers military-grade shock absorption with silicone bumpers, ensuring superior protection without extra bulk. Scratch-Resistant with Raised Bezels. Elevated edges shield your screen and camera lens, providing long-lasting clarity and durability. Ergonomic Grip & Non-Slip Texture. This slim magnetic case provides a comfortable, non-slip grip, reducing accidental drops while maintaining a smooth finish. Precision Cutouts for Effortless Access. Designed for seamless fit, this case provides precise cutouts for easy access to all buttons, ports, and speakers without interference. Effortless Installation & Case Swapping. The flexible, form-fitting TPU allows for quick, hassle-free installation, so you can easily switch between designs to match your mood or occasion. Stylish, Licensed Designs. Show off your personality with this officially licensed Naruto Shippuden merch, this case makes a great gift while keeping your device safe. Features: Compatible with MagSafe Military-Grade Protection Official Naruto Shippuden product The case doesn\"t interfere with wireless charging coils Slim & Shockproof Design Durable & Lightweight Screen and Camera Lens Protection Comfortable Grip & Pocket-Friendly Profile Precision Cutouts for Effortless Access Quick & Easy Installation Flexible TPU material Stylish, Licensed Designs' Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden Apple iPhone 17 case is compatible with wireless charging and offers lightweight, drop-tested (up to 1.2m/4ft) defense without compromising on swag and aesthetics. Crafted from premium TPU, it provides the best shock-absorbing protection against drops, bumps, and daily wear while maintaining a slim, pocket-friendly profile. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. This official Naruto Shippuden soft gel case delivers military-grade shock absorption with silicone bumpers, ensuring superior protection without extra bulk. Scratch-Resistant with Raised Bezels. Elevated edges shield your screen and camera lens, providing long-lasting clarity and durability. Ergonomic Grip & Non-Slip Texture. Made from soft-touch TPU, this slim Apple iPhone 17 case provides a comfortable, non-slip grip, reducing accidental drops while maintaining a smooth, stylish finish. Precision Cutouts for Effortless Access. Designed for seamless compatibility, this case provides precise cutouts for easy access to all buttons, ports, and speakers without interference. Effortless Installation & Case Swapping. The flexible",
+        "actual_color": "Akatsuki",
+        "size": "Apple iPhone 13 Pro",
+        "modelNumber": "HTPCR-IPH13PRO-NARUICO-AKA",
+        "compatibleBrand": "Apple",
+        "compatibleModels": [
+          "Apple iPhone 13 Pro"
+        ],
+        "cellPhoneCaseType": "Soft Gel Case",
+        "material": "TPU"
+      },
+      "groupingAttributes": [
+        {
+          "name": "actual_color",
+          "value": "Akatsuki"
+        },
+        {
+          "name": "size",
+          "value": "Apple iPhone 13 Pro"
+        }
+      ]
+    },
+    {
+      "sku": "HTPCR-IPH12PMAX-NARUICO-AKA",
+      "productType": "Cell Phone Cases",
+      "variantGroupId": "HTPCR-IPH-NARUICO-AKA",
+      "variantAttributeNames": [
+        "actual_color",
+        "size"
+      ],
+      "isPrimaryVariant": false,
+      "Orderable": {
+        "sku": "HTPCR-IPH12PMAX-NARUICO-AKA",
+        "productId": "5057546037330",
+        "productIdType": "EAN",
+        "price": 19.95,
+        "currency": "USD",
+        "mustShipAlone": "No",
+        "manufacturerPartNumber": "HTPCR-IPH12PMAX-NARUICO-AKA"
+      },
+      "Visible": {
+        "productName": "Head Case Designs Officially Licensed Naruto Shippuden Akatsuki Soft Gel Case Compatible with Apple iPhone 12 Pro Max",
+        "brand": "Head Case Designs",
+        "manufacturer": "Head Case Designs",
+        "mainImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-IPH12PMAX-1.jpg",
+        "shortDescription": "Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden case is compatible with MagSafe and offers lightweight, drop-tested defense without compromising on swag and aesthetics. It provides the best shock-absorbing protection against drops, bumps, and daily wear. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. Th.",
+        "longDescription": "Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden case is compatible with MagSafe and offers lightweight, drop-tested defense without compromising on swag and aesthetics. It provides the best shock-absorbing protection against drops, bumps, and daily wear. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. This soft gel case delivers military-grade shock absorption with silicone bumpers, ensuring superior protection without extra bulk. Scratch-Resistant with Raised Bezels. Elevated edges shield your screen and camera lens, providing long-lasting clarity and durability. Ergonomic Grip & Non-Slip Texture. This slim magnetic case provides a comfortable, non-slip grip, reducing accidental drops while maintaining a smooth finish. Precision Cutouts for Effortless Access. Designed for seamless fit, this case provides precise cutouts for easy access to all buttons, ports, and speakers without interference. Effortless Installation & Case Swapping. The flexible, form-fitting TPU allows for quick, hassle-free installation, so you can easily switch between designs to match your mood or occasion. Stylish, Licensed Designs. Show off your personality with this officially licensed Naruto Shippuden merch, this case makes a great gift while keeping your device safe. Features: Compatible with MagSafe Military-Grade Protection Official Naruto Shippuden product The case doesn\"t interfere with wireless charging coils Slim & Shockproof Design Durable & Lightweight Screen and Camera Lens Protection Comfortable Grip & Pocket-Friendly Profile Precision Cutouts for Effortless Access Quick & Easy Installation Flexible TPU material Stylish, Licensed Designs' Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden Apple iPhone 17 case is compatible with wireless charging and offers lightweight, drop-tested (up to 1.2m/4ft) defense without compromising on swag and aesthetics. Crafted from premium TPU, it provides the best shock-absorbing protection against drops, bumps, and daily wear while maintaining a slim, pocket-friendly profile. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. This official Naruto Shippuden soft gel case delivers military-grade shock absorption with silicone bumpers, ensuring superior protection without extra bulk. Scratch-Resistant with Raised Bezels. Elevated edges shield your screen and camera lens, providing long-lasting clarity and durability. Ergonomic Grip & Non-Slip Texture. Made from soft-touch TPU, this slim Apple iPhone 17 case provides a comfortable, non-slip grip, reducing accidental drops while maintaining a smooth, stylish finish. Precision Cutouts for Effortless Access. Designed for seamless compatibility, this case provides precise cutouts for easy access to all buttons, ports, and speakers without interference. Effortless Installation & Case Swapping. The flexible",
+        "actual_color": "Akatsuki",
+        "size": "Apple iPhone 12 Pro Max",
+        "modelNumber": "HTPCR-IPH12PMAX-NARUICO-AKA",
+        "compatibleBrand": "Apple",
+        "compatibleModels": [
+          "Apple iPhone 12 Pro Max"
+        ],
+        "cellPhoneCaseType": "Soft Gel Case",
+        "material": "TPU"
+      },
+      "groupingAttributes": [
+        {
+          "name": "actual_color",
+          "value": "Akatsuki"
+        },
+        {
+          "name": "size",
+          "value": "Apple iPhone 12 Pro Max"
+        }
+      ]
+    },
+    {
+      "sku": "HTPCR-S918X-NARUICO-AKA",
+      "productType": "Cell Phone Cases",
+      "variantGroupId": "HTPCR-IPH-NARUICO-AKA",
+      "variantAttributeNames": [
+        "actual_color",
+        "size"
+      ],
+      "isPrimaryVariant": false,
+      "Orderable": {
+        "sku": "HTPCR-S918X-NARUICO-AKA",
+        "productId": "5057546049920",
+        "productIdType": "EAN",
+        "price": 19.95,
+        "currency": "USD",
+        "mustShipAlone": "No",
+        "manufacturerPartNumber": "HTPCR-S918X-NARUICO-AKA"
+      },
+      "Visible": {
+        "productName": "Head Case Designs Officially Licensed Naruto Shippuden Akatsuki Soft Gel Case Compatible with S918X",
+        "brand": "Head Case Designs",
+        "manufacturer": "Head Case Designs",
+        "mainImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-S918X-1.jpg",
+        "shortDescription": "Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden case is compatible with MagSafe and offers lightweight, drop-tested defense without compromising on swag and aesthetics. It provides the best shock-absorbing protection against drops, bumps, and daily wear. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. Th.",
+        "longDescription": "Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden case is compatible with MagSafe and offers lightweight, drop-tested defense without compromising on swag and aesthetics. It provides the best shock-absorbing protection against drops, bumps, and daily wear. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. This soft gel case delivers military-grade shock absorption with silicone bumpers, ensuring superior protection without extra bulk. Scratch-Resistant with Raised Bezels. Elevated edges shield your screen and camera lens, providing long-lasting clarity and durability. Ergonomic Grip & Non-Slip Texture. This slim magnetic case provides a comfortable, non-slip grip, reducing accidental drops while maintaining a smooth finish. Precision Cutouts for Effortless Access. Designed for seamless fit, this case provides precise cutouts for easy access to all buttons, ports, and speakers without interference. Effortless Installation & Case Swapping. The flexible, form-fitting TPU allows for quick, hassle-free installation, so you can easily switch between designs to match your mood or occasion. Stylish, Licensed Designs. Show off your personality with this officially licensed Naruto Shippuden merch, this case makes a great gift while keeping your device safe. Features: Compatible with MagSafe Military-Grade Protection Official Naruto Shippuden product The case doesn\"t interfere with wireless charging coils Slim & Shockproof Design Durable & Lightweight Screen and Camera Lens Protection Comfortable Grip & Pocket-Friendly Profile Precision Cutouts for Effortless Access Quick & Easy Installation Flexible TPU material Stylish, Licensed Designs' Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden Apple iPhone 17 case is compatible with wireless charging and offers lightweight, drop-tested (up to 1.2m/4ft) defense without compromising on swag and aesthetics. Crafted from premium TPU, it provides the best shock-absorbing protection against drops, bumps, and daily wear while maintaining a slim, pocket-friendly profile. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. This official Naruto Shippuden soft gel case delivers military-grade shock absorption with silicone bumpers, ensuring superior protection without extra bulk. Scratch-Resistant with Raised Bezels. Elevated edges shield your screen and camera lens, providing long-lasting clarity and durability. Ergonomic Grip & Non-Slip Texture. Made from soft-touch TPU, this slim Apple iPhone 17 case provides a comfortable, non-slip grip, reducing accidental drops while maintaining a smooth, stylish finish. Precision Cutouts for Effortless Access. Designed for seamless compatibility, this case provides precise cutouts for easy access to all buttons, ports, and speakers without interference. Effortless Installation & Case Swapping. The flexible",
+        "actual_color": "Akatsuki",
+        "size": "S918X",
+        "modelNumber": "HTPCR-S918X-NARUICO-AKA",
+        "compatibleBrand": "Samsung",
+        "compatibleModels": [
+          "S918X"
+        ],
+        "cellPhoneCaseType": "Soft Gel Case",
+        "material": "TPU"
+      },
+      "groupingAttributes": [
+        {
+          "name": "actual_color",
+          "value": "Akatsuki"
+        },
+        {
+          "name": "size",
+          "value": "S918X"
+        }
+      ]
+    },
+    {
+      "sku": "HTPCR-S911X-NARUICO-AKA",
+      "productType": "Cell Phone Cases",
+      "variantGroupId": "HTPCR-IPH-NARUICO-AKA",
+      "variantAttributeNames": [
+        "actual_color",
+        "size"
+      ],
+      "isPrimaryVariant": false,
+      "Orderable": {
+        "sku": "HTPCR-S911X-NARUICO-AKA",
+        "productId": "5057546113201",
+        "productIdType": "EAN",
+        "price": 19.95,
+        "currency": "USD",
+        "mustShipAlone": "No",
+        "manufacturerPartNumber": "HTPCR-S911X-NARUICO-AKA"
+      },
+      "Visible": {
+        "productName": "Head Case Designs Officially Licensed Naruto Shippuden Akatsuki Soft Gel Case Compatible with S911X",
+        "brand": "Head Case Designs",
+        "manufacturer": "Head Case Designs",
+        "mainImageUrl": "https://elcellonline.com/atg/NARUICO/AKA/TP-CR-S911X-1.jpg",
+        "shortDescription": "Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden case is compatible with MagSafe and offers lightweight, drop-tested defense without compromising on swag and aesthetics. It provides the best shock-absorbing protection against drops, bumps, and daily wear. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. Th.",
+        "longDescription": "Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden case is compatible with MagSafe and offers lightweight, drop-tested defense without compromising on swag and aesthetics. It provides the best shock-absorbing protection against drops, bumps, and daily wear. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. This soft gel case delivers military-grade shock absorption with silicone bumpers, ensuring superior protection without extra bulk. Scratch-Resistant with Raised Bezels. Elevated edges shield your screen and camera lens, providing long-lasting clarity and durability. Ergonomic Grip & Non-Slip Texture. This slim magnetic case provides a comfortable, non-slip grip, reducing accidental drops while maintaining a smooth finish. Precision Cutouts for Effortless Access. Designed for seamless fit, this case provides precise cutouts for easy access to all buttons, ports, and speakers without interference. Effortless Installation & Case Swapping. The flexible, form-fitting TPU allows for quick, hassle-free installation, so you can easily switch between designs to match your mood or occasion. Stylish, Licensed Designs. Show off your personality with this officially licensed Naruto Shippuden merch, this case makes a great gift while keeping your device safe. Features: Compatible with MagSafe Military-Grade Protection Official Naruto Shippuden product The case doesn\"t interfere with wireless charging coils Slim & Shockproof Design Durable & Lightweight Screen and Camera Lens Protection Comfortable Grip & Pocket-Friendly Profile Precision Cutouts for Effortless Access Quick & Easy Installation Flexible TPU material Stylish, Licensed Designs' Show your love for Naruto with our official Naruto Shippuden phone cases, perfectly matching your Naruto merch, such as your Naruto headband and Naruto shirt. Featuring stunning designs of your favourite characters like Naruto, Sasuke, Kakashi, Itachi, and the Akatsuki members. Whether you're a fan of Naruto cosplay, manga, or the action figure, our collection offers the widest range of official Naruto Shippuden phone cases available. Designed for those who demand both style and protection, this premium-quality Naruto Shippuden Apple iPhone 17 case is compatible with wireless charging and offers lightweight, drop-tested (up to 1.2m/4ft) defense without compromising on swag and aesthetics. Crafted from premium TPU, it provides the best shock-absorbing protection against drops, bumps, and daily wear while maintaining a slim, pocket-friendly profile. A screen and camera protector feature is provided by the raised bezels, safeguarding your phone from scratches. Military Grade & Shock-Absorbing Protection. This official Naruto Shippuden soft gel case delivers military-grade shock absorption with silicone bumpers, ensuring superior protection without extra bulk. Scratch-Resistant with Raised Bezels. Elevated edges shield your screen and camera lens, providing long-lasting clarity and durability. Ergonomic Grip & Non-Slip Texture. Made from soft-touch TPU, this slim Apple iPhone 17 case provides a comfortable, non-slip grip, reducing accidental drops while maintaining a smooth, stylish finish. Precision Cutouts for Effortless Access. Designed for seamless compatibility, this case provides precise cutouts for easy access to all buttons, ports, and speakers without interference. Effortless Installation & Case Swapping. The flexible",
+        "actual_color": "Akatsuki",
+        "size": "S911X",
+        "modelNumber": "HTPCR-S911X-NARUICO-AKA",
+        "compatibleBrand": "Samsung",
+        "compatibleModels": [
+          "S911X"
+        ],
+        "cellPhoneCaseType": "Soft Gel Case",
+        "material": "TPU"
+      },
+      "groupingAttributes": [
+        {
+          "name": "actual_color",
+          "value": "Akatsuki"
+        },
+        {
+          "name": "size",
+          "value": "S911X"
+        }
+      ]
+    }
+  ]
+}

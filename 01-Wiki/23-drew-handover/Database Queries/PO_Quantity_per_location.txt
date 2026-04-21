@@ -1,0 +1,6 @@
+SELECT 
+a.`PickerPH` AS PO_Location,
+SUM(a.`LineQuantity`) AS Quantity 
+FROM POBySRN a
+WHERE a.`DateTimeCreated` BETWEEN '2024-01-01 00:00:00' AND '2024-03-31 23:59:59'
+GROUP BY a.`PickerPH`

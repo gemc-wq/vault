@@ -1,0 +1,3007 @@
+{
+  "layer1_ready": [
+    {
+      "design": "LFCKIT25-HOM",
+      "revenue": 6670.03,
+      "orders": 346,
+      "devices": 44
+    },
+    {
+      "design": "LFCDCA-HRC",
+      "revenue": 3747.5499999999997,
+      "orders": 189,
+      "devices": 45
+    },
+    {
+      "design": "AFCCPA-MAR",
+      "revenue": 3047.2499999999986,
+      "orders": 155,
+      "devices": 36
+    },
+    {
+      "design": "AFCCKT7-AWY",
+      "revenue": 2636.019999999999,
+      "orders": 133,
+      "devices": 32
+    },
+    {
+      "design": "MCBDKIT25-HOM",
+      "revenue": 2506.54,
+      "orders": 129,
+      "devices": 40
+    },
+    {
+      "design": "MCGFMUR-PAT",
+      "revenue": 2476.6,
+      "orders": 128,
+      "devices": 35
+    },
+    {
+      "design": "AVLAKIT25-AWY",
+      "revenue": 2404.85,
+      "orders": 123,
+      "devices": 36
+    },
+    {
+      "design": "AFCKIT25-HOM",
+      "revenue": 2353.7000000000003,
+      "orders": 119,
+      "devices": 28
+    },
+    {
+      "design": "LFCLVBRD-BLK1",
+      "revenue": 2042.8000000000013,
+      "orders": 104,
+      "devices": 32
+    },
+    {
+      "design": "LFCCLP2-BGM",
+      "revenue": 1841.47,
+      "orders": 98,
+      "devices": 30
+    },
+    {
+      "design": "THFCKIT25-HOM",
+      "revenue": 1818.2800000000004,
+      "orders": 94,
+      "devices": 33
+    },
+    {
+      "design": "AVLAKIT25-HOM",
+      "revenue": 1764.5400000000006,
+      "orders": 89,
+      "devices": 28
+    },
+    {
+      "design": "CFCRETKS-LOG",
+      "revenue": 1743.1800000000003,
+      "orders": 93,
+      "devices": 25
+    },
+    {
+      "design": "HPOTDH37-HOP",
+      "revenue": 1585.950000000001,
+      "orders": 81,
+      "devices": 31
+    },
+    {
+      "design": "AFCLOGOS-COL",
+      "revenue": 1575.69,
+      "orders": 80,
+      "devices": 25
+    },
+    {
+      "design": "AFCKIT25-AWY",
+      "revenue": 1542.1000000000008,
+      "orders": 78,
+      "devices": 26
+    },
+    {
+      "design": "AVLACKIT-HOM",
+      "revenue": 1410.3500000000006,
+      "orders": 73,
+      "devices": 37
+    },
+    {
+      "design": "LFCKIT25-AWY",
+      "revenue": 1407.4500000000005,
+      "orders": 71,
+      "devices": 29
+    },
+    {
+      "design": "WFCKT8-HOM",
+      "revenue": 1400.4000000000003,
+      "orders": 72,
+      "devices": 32
+    },
+    {
+      "design": "PNUTBOA-XOX",
+      "revenue": 1370.5500000000002,
+      "orders": 69,
+      "devices": 28
+    },
+    {
+      "design": "THFCBAD-BGO",
+      "revenue": 1329.8700000000008,
+      "orders": 70,
+      "devices": 25
+    },
+    {
+      "design": "PNUTCHA-SNO",
+      "revenue": 1315.6500000000003,
+      "orders": 67,
+      "devices": 33
+    },
+    {
+      "design": "LFCLVBRD-BLK2",
+      "revenue": 1269.8000000000006,
+      "orders": 64,
+      "devices": 29
+    },
+    {
+      "design": "CFCKIT25-HOM",
+      "revenue": 1222.8500000000006,
+      "orders": 63,
+      "devices": 29
+    },
+    {
+      "design": "AFCKIT25-THI",
+      "revenue": 1208.9500000000003,
+      "orders": 61,
+      "devices": 27
+    },
+    {
+      "design": "RFCKIT25-HOM",
+      "revenue": 1103.19,
+      "orders": 56,
+      "devices": 19
+    },
+    {
+      "design": "LFCKIT25-THI",
+      "revenue": 1054.0200000000002,
+      "orders": 53,
+      "devices": 27
+    },
+    {
+      "design": "CFCKIT25-THI",
+      "revenue": 1042.3100000000002,
+      "orders": 54,
+      "devices": 21
+    },
+    {
+      "design": "MCBDKIT8-HOM",
+      "revenue": 1039.3500000000001,
+      "orders": 53,
+      "devices": 23
+    },
+    {
+      "design": "BVBEKYA-BLO",
+      "revenue": 1031.4000000000003,
+      "orders": 52,
+      "devices": 22
+    },
+    {
+      "design": "AFCCGLO-BLK",
+      "revenue": 992.5000000000002,
+      "orders": 50,
+      "devices": 18
+    },
+    {
+      "design": "THFCBKT3-DBL",
+      "revenue": 960.6000000000001,
+      "orders": 48,
+      "devices": 16
+    },
+    {
+      "design": "AFCCPA-RMA",
+      "revenue": 957.5500000000004,
+      "orders": 49,
+      "devices": 24
+    },
+    {
+      "design": "GMORGRA-ICO",
+      "revenue": 937.65,
+      "orders": 47,
+      "devices": 22
+    },
+    {
+      "design": "SCFAKTS3-HOM",
+      "revenue": 933.64,
+      "orders": 47,
+      "devices": 16
+    },
+    {
+      "design": "AFCCRE-BLO",
+      "revenue": 919.6000000000003,
+      "orders": 48,
+      "devices": 23
+    },
+    {
+      "design": "ERUMAR-WHT",
+      "revenue": 807.9499999999998,
+      "orders": 41,
+      "devices": 15
+    },
+    {
+      "design": "RFCKIT25-THI",
+      "revenue": 772.0000000000001,
+      "orders": 40,
+      "devices": 18
+    },
+    {
+      "design": "LFCKIT4-HGO",
+      "revenue": 740.0500000000001,
+      "orders": 39,
+      "devices": 22
+    },
+    {
+      "design": "NCFCCRE-GLD",
+      "revenue": 739.08,
+      "orders": 38,
+      "devices": 23
+    },
+    {
+      "design": "DRGBSUSC-GOK",
+      "revenue": 704.1000000000001,
+      "orders": 38,
+      "devices": 22
+    },
+    {
+      "design": "AFCCKT8-HOM",
+      "revenue": 689.2000000000002,
+      "orders": 36,
+      "devices": 23
+    },
+    {
+      "design": "MCBDKIT25-THI",
+      "revenue": 679.3,
+      "orders": 34,
+      "devices": 20
+    },
+    {
+      "design": "MCBAGEO-BLU",
+      "revenue": 660.25,
+      "orders": 35,
+      "devices": 20
+    },
+    {
+      "design": "THFCBAD-BLW",
+      "revenue": 653.6300000000001,
+      "orders": 35,
+      "devices": 16
+    },
+    {
+      "design": "NARUICO-AKA",
+      "revenue": 642.02,
+      "orders": 33,
+      "devices": 17
+    },
+    {
+      "design": "NCFCCRE-STR",
+      "revenue": 637.1999999999998,
+      "orders": 36,
+      "devices": 27
+    },
+    {
+      "design": "HPOTSOR2-CAS",
+      "revenue": 635.2500000000001,
+      "orders": 35,
+      "devices": 20
+    },
+    {
+      "design": "FCBPHKT25-YAM",
+      "revenue": 630.4,
+      "orders": 32,
+      "devices": 19
+    },
+    {
+      "design": "NCFCCRE-DIS",
+      "revenue": 627.3499999999998,
+      "orders": 33,
+      "devices": 18
+    },
+    {
+      "design": "CFCCRE-BMA",
+      "revenue": 626.3900000000001,
+      "orders": 32,
+      "devices": 14
+    },
+    {
+      "design": "MCBDKIT25-AWY",
+      "revenue": 615.5,
+      "orders": 30,
+      "devices": 17
+    },
+    {
+      "design": "PNUTORI-CBL",
+      "revenue": 612.4499999999999,
+      "orders": 31,
+      "devices": 20
+    },
+    {
+      "design": "LFCDCA-HRE",
+      "revenue": 612.35,
+      "orders": 33,
+      "devices": 18
+    },
+    {
+      "design": "NCFCKIT25-HOM",
+      "revenue": 584.4499999999999,
+      "orders": 31,
+      "devices": 19
+    },
+    {
+      "design": "FCBKIT25-HOM",
+      "revenue": 571.5400000000001,
+      "orders": 29,
+      "devices": 15
+    },
+    {
+      "design": "CFCRETKS-STA",
+      "revenue": 567.4699999999999,
+      "orders": 32,
+      "devices": 23
+    },
+    {
+      "design": "RFCKIT2-THI",
+      "revenue": 554.5999999999999,
+      "orders": 28,
+      "devices": 15
+    },
+    {
+      "design": "WWE2JEY-POR",
+      "revenue": 531.2299999999999,
+      "orders": 32,
+      "devices": 19
+    },
+    {
+      "design": "CFCKIT5-HOM",
+      "revenue": 520.5999999999999,
+      "orders": 28,
+      "devices": 19
+    },
+    {
+      "design": "RFCCRE-LOG",
+      "revenue": 511.69999999999993,
+      "orders": 26,
+      "devices": 13
+    },
+    {
+      "design": "LFCCAMO-HCC",
+      "revenue": 505.64999999999986,
+      "orders": 27,
+      "devices": 12
+    },
+    {
+      "design": "HPOTPRI2-MAR",
+      "revenue": 492.69999999999993,
+      "orders": 26,
+      "devices": 14
+    },
+    {
+      "design": "MCFTEAM5-HAA",
+      "revenue": 490.6999999999998,
+      "orders": 26,
+      "devices": 19
+    },
+    {
+      "design": "NCFCCRE-BMA",
+      "revenue": 480.74999999999994,
+      "orders": 25,
+      "devices": 14
+    },
+    {
+      "design": "BTMCHUS-LOG",
+      "revenue": 473.7999999999999,
+      "orders": 24,
+      "devices": 9
+    },
+    {
+      "design": "THFCEUW-BLU",
+      "revenue": 468.73999999999995,
+      "orders": 25,
+      "devices": 19
+    },
+    {
+      "design": "PNUTHAL-SWB",
+      "revenue": 465.7999999999999,
+      "orders": 24,
+      "devices": 11
+    },
+    {
+      "design": "AFCFT6-SAK",
+      "revenue": 463.8499999999999,
+      "orders": 23,
+      "devices": 12
+    },
+    {
+      "design": "LFCDCA-CCO",
+      "revenue": 456.7999999999999,
+      "orders": 24,
+      "devices": 18
+    },
+    {
+      "design": "LFCDCA-CCC",
+      "revenue": 451.84999999999985,
+      "orders": 23,
+      "devices": 17
+    },
+    {
+      "design": "WWE2CMP-RET",
+      "revenue": 450.9799999999999,
+      "orders": 35,
+      "devices": 15
+    },
+    {
+      "design": "WFCHAM-BGO",
+      "revenue": 450.8499999999999,
+      "orders": 23,
+      "devices": 12
+    },
+    {
+      "design": "AFCCRE-FAD",
+      "revenue": 447.84999999999997,
+      "orders": 23,
+      "devices": 15
+    },
+    {
+      "design": "AFCCKT8-AWY",
+      "revenue": 415.8999999999999,
+      "orders": 22,
+      "devices": 16
+    },
+    {
+      "design": "THFCBAD-MAR",
+      "revenue": 403.63999999999993,
+      "orders": 21,
+      "devices": 12
+    },
+    {
+      "design": "LFCMAR-BLI",
+      "revenue": 401.99999999999994,
+      "orders": 20,
+      "devices": 8
+    },
+    {
+      "design": "WFCKT8-THR",
+      "revenue": 377.0499999999999,
+      "orders": 19,
+      "devices": 14
+    },
+    {
+      "design": "MCFTEAM5-FOD",
+      "revenue": 376.0499999999999,
+      "orders": 19,
+      "devices": 12
+    },
+    {
+      "design": "MCBDKIT8-THI",
+      "revenue": 348.09,
+      "orders": 18,
+      "devices": 13
+    },
+    {
+      "design": "THFCBKT-AWY",
+      "revenue": 344.0999999999999,
+      "orders": 18,
+      "devices": 14
+    },
+    {
+      "design": "CFCKIT25-AWY",
+      "revenue": 344.0999999999999,
+      "orders": 18,
+      "devices": 15
+    },
+    {
+      "design": "PNUTHAL-CSW",
+      "revenue": 339.15,
+      "orders": 17,
+      "devices": 12
+    },
+    {
+      "design": "BVBEKYA-BBL",
+      "revenue": 337.1499999999999,
+      "orders": 17,
+      "devices": 12
+    },
+    {
+      "design": "THFCBAD-BWM",
+      "revenue": 326.15,
+      "orders": 17,
+      "devices": 10
+    },
+    {
+      "design": "ERUMAR-BLK",
+      "revenue": 321.8399999999999,
+      "orders": 17,
+      "devices": 12
+    },
+    {
+      "design": "WFCCRE-FCO",
+      "revenue": 318.19999999999993,
+      "orders": 16,
+      "devices": 10
+    },
+    {
+      "design": "DRGBSUSA-GRP",
+      "revenue": 317.19999999999993,
+      "orders": 16,
+      "devices": 11
+    },
+    {
+      "design": "CFCCRE-CAM",
+      "revenue": 316.37999999999994,
+      "orders": 20,
+      "devices": 13
+    },
+    {
+      "design": "RFCCRE-ORA",
+      "revenue": 311.19999999999993,
+      "orders": 16,
+      "devices": 10
+    },
+    {
+      "design": "TLRIFRG-ONE",
+      "revenue": 311.19999999999993,
+      "orders": 16,
+      "devices": 13
+    },
+    {
+      "design": "MCBADGE-BLF",
+      "revenue": 310.19999999999993,
+      "orders": 16,
+      "devices": 13
+    },
+    {
+      "design": "RMCFKIT25-AWY",
+      "revenue": 300.24999999999994,
+      "orders": 15,
+      "devices": 11
+    },
+    {
+      "design": "MCFTEAM4-FOD",
+      "revenue": 299.24999999999994,
+      "orders": 15,
+      "devices": 11
+    },
+    {
+      "design": "WWE2RHE-BRU",
+      "revenue": 297.13999999999993,
+      "orders": 20,
+      "devices": 12
+    },
+    {
+      "design": "NCFCKIT25-THI",
+      "revenue": 290.24999999999994,
+      "orders": 15,
+      "devices": 13
+    },
+    {
+      "design": "NCFCCRE-PLA",
+      "revenue": 286.23999999999995,
+      "orders": 15,
+      "devices": 11
+    },
+    {
+      "design": "WWE2RHE-POR",
+      "revenue": 285.5799999999999,
+      "orders": 16,
+      "devices": 11
+    },
+    {
+      "design": "LFCDCA-AWA",
+      "revenue": 283.24999999999994,
+      "orders": 15,
+      "devices": 13
+    },
+    {
+      "design": "HPOTDH14-TRI",
+      "revenue": 277.29999999999995,
+      "orders": 14,
+      "devices": 8
+    },
+    {
+      "design": "WWE2W41-KPO",
+      "revenue": 276.3,
+      "orders": 14,
+      "devices": 10
+    },
+    {
+      "design": "HPOTCSE2-DOB",
+      "revenue": 276.29999999999995,
+      "orders": 14,
+      "devices": 10
+    },
+    {
+      "design": "PNUTCHA-WOO",
+      "revenue": 274.29999999999995,
+      "orders": 14,
+      "devices": 11
+    },
+    {
+      "design": "AFCCKT9-THI",
+      "revenue": 268.29999999999995,
+      "orders": 14,
+      "devices": 7
+    },
+    {
+      "design": "AFCCKT7-HOM",
+      "revenue": 264.3,
+      "orders": 14,
+      "devices": 11
+    },
+    {
+      "design": "BHAKIT25-HOM",
+      "revenue": 263.2899999999999,
+      "orders": 14,
+      "devices": 13
+    },
+    {
+      "design": "SRUKIT25-HOM",
+      "revenue": 261.29999999999995,
+      "orders": 14,
+      "devices": 9
+    },
+    {
+      "design": "NARUCHA-ITA",
+      "revenue": 259.34999999999997,
+      "orders": 13,
+      "devices": 8
+    },
+    {
+      "design": "BTMCLOG-HUS",
+      "revenue": 259.34999999999997,
+      "orders": 13,
+      "devices": 8
+    },
+    {
+      "design": "THFCBAD-DIS",
+      "revenue": 258.34999999999997,
+      "orders": 13,
+      "devices": 9
+    },
+    {
+      "design": "MCBADGE-ELE",
+      "revenue": 257.4,
+      "orders": 12,
+      "devices": 8
+    },
+    {
+      "design": "PNUTDDR-HOU",
+      "revenue": 255.34999999999997,
+      "orders": 13,
+      "devices": 11
+    },
+    {
+      "design": "THFCKIT25-THI",
+      "revenue": 254.34999999999997,
+      "orders": 13,
+      "devices": 10
+    },
+    {
+      "design": "WWE2RHE-SHE",
+      "revenue": 254.31999999999994,
+      "orders": 15,
+      "devices": 13
+    },
+    {
+      "design": "RFCCRE-LPP",
+      "revenue": 253.34999999999994,
+      "orders": 13,
+      "devices": 12
+    },
+    {
+      "design": "HPOTDH9-HOG",
+      "revenue": 253.28999999999994,
+      "orders": 14,
+      "devices": 12
+    },
+    {
+      "design": "SRUKIT25-TRA",
+      "revenue": 248.35,
+      "orders": 13,
+      "devices": 7
+    },
+    {
+      "design": "HPOTDH37-LPA",
+      "revenue": 245.34999999999997,
+      "orders": 13,
+      "devices": 10
+    },
+    {
+      "design": "FCBCKT8-AWY",
+      "revenue": 241.29999999999995,
+      "orders": 14,
+      "devices": 10
+    },
+    {
+      "design": "LFCMAR-BCR",
+      "revenue": 239.4,
+      "orders": 12,
+      "devices": 8
+    },
+    {
+      "design": "PNUTBOA-CKA",
+      "revenue": 239.39999999999998,
+      "orders": 12,
+      "devices": 10
+    },
+    {
+      "design": "THFCBAD-CCK",
+      "revenue": 239.39999999999995,
+      "orders": 12,
+      "devices": 11
+    },
+    {
+      "design": "AFCLOGOS-BBN",
+      "revenue": 239.39999999999995,
+      "orders": 12,
+      "devices": 9
+    },
+    {
+      "design": "MCBADGE-BWO",
+      "revenue": 236.39999999999998,
+      "orders": 12,
+      "devices": 7
+    },
+    {
+      "design": "HPOTDH13-GPA",
+      "revenue": 235.39999999999998,
+      "orders": 12,
+      "devices": 7
+    },
+    {
+      "design": "HPOTDH37-HEP",
+      "revenue": 235.39999999999998,
+      "orders": 12,
+      "devices": 9
+    },
+    {
+      "design": "DFUHTRA-POR",
+      "revenue": 234.29999999999995,
+      "orders": 14,
+      "devices": 11
+    },
+    {
+      "design": "HPOTDH13-HOP",
+      "revenue": 227.25,
+      "orders": 15,
+      "devices": 9
+    },
+    {
+      "design": "RFCKIT-FOU",
+      "revenue": 222.44999999999996,
+      "orders": 11,
+      "devices": 9
+    },
+    {
+      "design": "AFCCKT8-HGO",
+      "revenue": 221.4,
+      "orders": 12,
+      "devices": 9
+    },
+    {
+      "design": "AFCCRE-FCR",
+      "revenue": 215.45,
+      "orders": 11,
+      "devices": 8
+    },
+    {
+      "design": "MCBAGEO-BWH",
+      "revenue": 215.44999999999996,
+      "orders": 11,
+      "devices": 8
+    },
+    {
+      "design": "NCFCPHKT25-GUI",
+      "revenue": 213.45,
+      "orders": 11,
+      "devices": 10
+    },
+    {
+      "design": "RMCFKIT25-HOM",
+      "revenue": 211.45,
+      "orders": 11,
+      "devices": 8
+    },
+    {
+      "design": "CFCKIT-HOM",
+      "revenue": 200.39999999999998,
+      "orders": 12,
+      "devices": 8
+    },
+    {
+      "design": "MCMARBA-BLK",
+      "revenue": 200.14,
+      "orders": 11,
+      "devices": 9
+    },
+    {
+      "design": "CBEA40A-RAI",
+      "revenue": 199.5,
+      "orders": 10,
+      "devices": 8
+    },
+    {
+      "design": "WFCKIT25-THI",
+      "revenue": 199.49999999999997,
+      "orders": 10,
+      "devices": 7
+    },
+    {
+      "design": "PNUTDDR-ORA",
+      "revenue": 197.5,
+      "orders": 10,
+      "devices": 7
+    },
+    {
+      "design": "MCMARBA-BLU",
+      "revenue": 197.48999999999995,
+      "orders": 10,
+      "devices": 8
+    },
+    {
+      "design": "LFCKIT4-HOM",
+      "revenue": 196.49999999999997,
+      "orders": 10,
+      "devices": 7
+    },
+    {
+      "design": "RMORS3GR-PIC",
+      "revenue": 196.49999999999997,
+      "orders": 10,
+      "devices": 8
+    },
+    {
+      "design": "SCFALOG-SCO",
+      "revenue": 195.45,
+      "orders": 11,
+      "devices": 10
+    },
+    {
+      "design": "ADVEGRA-BMO",
+      "revenue": 193.49999999999997,
+      "orders": 10,
+      "devices": 10
+    },
+    {
+      "design": "LFCCAMO-HCL",
+      "revenue": 192.49999999999997,
+      "orders": 10,
+      "devices": 9
+    },
+    {
+      "design": "RFCKIT-HOM",
+      "revenue": 191.5,
+      "orders": 10,
+      "devices": 9
+    },
+    {
+      "design": "BVBEHTE-AIM",
+      "revenue": 189.45,
+      "orders": 11,
+      "devices": 8
+    },
+    {
+      "design": "PNUTAPO-TOP",
+      "revenue": 186.5,
+      "orders": 10,
+      "devices": 6
+    },
+    {
+      "design": "LFCCAMO-CCC",
+      "revenue": 184.49999999999997,
+      "orders": 10,
+      "devices": 7
+    },
+    {
+      "design": "LFCCAMO-ACL",
+      "revenue": 179.54999999999998,
+      "orders": 9,
+      "devices": 6
+    },
+    {
+      "design": "HPOTDH13-HUP",
+      "revenue": 179.54999999999998,
+      "orders": 9,
+      "devices": 7
+    },
+    {
+      "design": "LFCLVBRD-BKIT1",
+      "revenue": 179.54999999999998,
+      "orders": 9,
+      "devices": 5
+    },
+    {
+      "design": "RMCFURB-GRE",
+      "revenue": 179.54999999999998,
+      "orders": 9,
+      "devices": 7
+    },
+    {
+      "design": "HATSGRA-NIG",
+      "revenue": 178.54999999999998,
+      "orders": 9,
+      "devices": 8
+    },
+    {
+      "design": "BTAOKEY-BAT",
+      "revenue": 177.55,
+      "orders": 9,
+      "devices": 6
+    },
+    {
+      "design": "MCBAGEO-BOM",
+      "revenue": 177.54999999999998,
+      "orders": 9,
+      "devices": 6
+    },
+    {
+      "design": "RFCKIT2-HOM",
+      "revenue": 177.54999999999998,
+      "orders": 9,
+      "devices": 8
+    },
+    {
+      "design": "AVLAPHKT25-ROG",
+      "revenue": 177.54999999999998,
+      "orders": 9,
+      "devices": 7
+    },
+    {
+      "design": "THFCKIT25-AWY",
+      "revenue": 176.55,
+      "orders": 9,
+      "devices": 7
+    },
+    {
+      "design": "SUPNKEY-SD2",
+      "revenue": 176.54999999999998,
+      "orders": 9,
+      "devices": 9
+    },
+    {
+      "design": "RFCKIT25-AWY",
+      "revenue": 176.54999999999998,
+      "orders": 9,
+      "devices": 7
+    },
+    {
+      "design": "CFCKIT5-AWY",
+      "revenue": 175.55,
+      "orders": 9,
+      "devices": 7
+    },
+    {
+      "design": "IRONTOU-LAD",
+      "revenue": 173.54999999999998,
+      "orders": 9,
+      "devices": 9
+    },
+    {
+      "design": "UFCLOGO-BGJ",
+      "revenue": 170.88,
+      "orders": 10,
+      "devices": 9
+    },
+    {
+      "design": "AFCCPA-DIG",
+      "revenue": 169.54999999999998,
+      "orders": 9,
+      "devices": 8
+    },
+    {
+      "design": "WFCKT8-AWY",
+      "revenue": 168.54999999999998,
+      "orders": 9,
+      "devices": 8
+    },
+    {
+      "design": "PNUTWOD-SWO",
+      "revenue": 166.54999999999998,
+      "orders": 9,
+      "devices": 7
+    },
+    {
+      "design": "IRONART-FIR",
+      "revenue": 166.49999999999997,
+      "orders": 10,
+      "devices": 7
+    },
+    {
+      "design": "NARUCHA-KAK",
+      "revenue": 159.6,
+      "orders": 8,
+      "devices": 7
+    },
+    {
+      "design": "THFCBAD-197",
+      "revenue": 159.6,
+      "orders": 8,
+      "devices": 6
+    },
+    {
+      "design": "THFCPHKT25-VEN",
+      "revenue": 159.6,
+      "orders": 8,
+      "devices": 5
+    },
+    {
+      "design": "HPOTDH18-HOG",
+      "revenue": 159.6,
+      "orders": 8,
+      "devices": 4
+    },
+    {
+      "design": "CRFCKIT25-HOM",
+      "revenue": 159.59999999999997,
+      "orders": 8,
+      "devices": 6
+    },
+    {
+      "design": "THFCBKT3-WHT",
+      "revenue": 159.59999999999997,
+      "orders": 8,
+      "devices": 6
+    },
+    {
+      "design": "PNUTBOA-BEA",
+      "revenue": 158.89000000000001,
+      "orders": 9,
+      "devices": 7
+    },
+    {
+      "design": "LFCCLI2-GEO",
+      "revenue": 158.6,
+      "orders": 8,
+      "devices": 6
+    },
+    {
+      "design": "SRULOG-TAR",
+      "revenue": 158.26999999999998,
+      "orders": 8,
+      "devices": 8
+    },
+    {
+      "design": "SUPNVEC-SAV",
+      "revenue": 157.59999999999997,
+      "orders": 8,
+      "devices": 6
+    },
+    {
+      "design": "THFCBAD-NLO",
+      "revenue": 156.6,
+      "orders": 8,
+      "devices": 8
+    },
+    {
+      "design": "SCDO50T-MYS",
+      "revenue": 156.26999999999998,
+      "orders": 8,
+      "devices": 5
+    },
+    {
+      "design": "PNUTSCO-NBA",
+      "revenue": 155.6,
+      "orders": 8,
+      "devices": 5
+    },
+    {
+      "design": "HPOTDH13-SPA",
+      "revenue": 155.6,
+      "orders": 8,
+      "devices": 7
+    },
+    {
+      "design": "LFCPLC25-BMA",
+      "revenue": 151.6,
+      "orders": 8,
+      "devices": 8
+    },
+    {
+      "design": "HPOTDH37-DPA",
+      "revenue": 151.54999999999998,
+      "orders": 9,
+      "devices": 8
+    },
+    {
+      "design": "TDKNKEY-JCA",
+      "revenue": 148.6,
+      "orders": 8,
+      "devices": 7
+    },
+    {
+      "design": "RMORS1N2-SCR",
+      "revenue": 148.59999999999997,
+      "orders": 8,
+      "devices": 6
+    },
+    {
+      "design": "NCFCCRE-WMA",
+      "revenue": 145.6,
+      "orders": 8,
+      "devices": 7
+    },
+    {
+      "design": "AFCCPA-GUN",
+      "revenue": 144.6,
+      "orders": 8,
+      "devices": 6
+    },
+    {
+      "design": "PNUTBOA-CSU",
+      "revenue": 144.6,
+      "orders": 8,
+      "devices": 7
+    },
+    {
+      "design": "DRGBSUSC-VEG",
+      "revenue": 142.65,
+      "orders": 7,
+      "devices": 7
+    },
+    {
+      "design": "AVLACKIT-AWY",
+      "revenue": 139.65,
+      "orders": 7,
+      "devices": 6
+    },
+    {
+      "design": "HPOTSOR-SLC",
+      "revenue": 139.65,
+      "orders": 7,
+      "devices": 5
+    },
+    {
+      "design": "SPRCLOG-CLA",
+      "revenue": 139.64999999999998,
+      "orders": 7,
+      "devices": 6
+    },
+    {
+      "design": "PNUTCHA-CBR",
+      "revenue": 139.64000000000001,
+      "orders": 7,
+      "devices": 6
+    },
+    {
+      "design": "WFCHAM-GRA",
+      "revenue": 138.65,
+      "orders": 7,
+      "devices": 3
+    },
+    {
+      "design": "SUPNKEY-SDC",
+      "revenue": 138.65,
+      "orders": 7,
+      "devices": 7
+    },
+    {
+      "design": "LFCDCA-ACC",
+      "revenue": 138.65,
+      "orders": 7,
+      "devices": 6
+    },
+    {
+      "design": "BAILKIT25-REP",
+      "revenue": 137.65,
+      "orders": 7,
+      "devices": 6
+    },
+    {
+      "design": "LFCCRE1-RGEO1",
+      "revenue": 137.65,
+      "orders": 7,
+      "devices": 4
+    },
+    {
+      "design": "HATSGRA-SRA",
+      "revenue": 137.65,
+      "orders": 7,
+      "devices": 6
+    },
+    {
+      "design": "MCBAGEO-BLK",
+      "revenue": 137.65,
+      "orders": 7,
+      "devices": 4
+    },
+    {
+      "design": "RFCCRE-LIG",
+      "revenue": 137.65,
+      "orders": 7,
+      "devices": 7
+    },
+    {
+      "design": "WFCKT9-AWY",
+      "revenue": 135.65,
+      "orders": 7,
+      "devices": 6
+    },
+    {
+      "design": "AFCCKT9-HOM",
+      "revenue": 135.6,
+      "orders": 8,
+      "devices": 8
+    },
+    {
+      "design": "RFCCRE-SST",
+      "revenue": 134.65,
+      "orders": 7,
+      "devices": 5
+    },
+    {
+      "design": "SPRCCOM-COL",
+      "revenue": 133.65,
+      "orders": 7,
+      "devices": 6
+    },
+    {
+      "design": "AFCCPA-PNK",
+      "revenue": 133.65,
+      "orders": 7,
+      "devices": 7
+    },
+    {
+      "design": "LFCCRE2-RPIX1",
+      "revenue": 132.65,
+      "orders": 7,
+      "devices": 7
+    },
+    {
+      "design": "HPOTPRI4-RHP",
+      "revenue": 129.65,
+      "orders": 7,
+      "devices": 5
+    },
+    {
+      "design": "WFCHAM-BWG",
+      "revenue": 129.34,
+      "orders": 6,
+      "devices": 6
+    },
+    {
+      "design": "THFCBAD-SPU",
+      "revenue": 126.65,
+      "orders": 7,
+      "devices": 7
+    },
+    {
+      "design": "NFLLOGRE-STR",
+      "revenue": 125.34,
+      "orders": 7,
+      "devices": 5
+    },
+    {
+      "design": "WWE2LIV-POR",
+      "revenue": 125.34,
+      "orders": 7,
+      "devices": 7
+    },
+    {
+      "design": "CFCKIT3-HOM",
+      "revenue": 119.7,
+      "orders": 6,
+      "devices": 6
+    },
+    {
+      "design": "BVBEKYA-BGR",
+      "revenue": 119.7,
+      "orders": 6,
+      "devices": 5
+    },
+    {
+      "design": "PNUTBBU-SUR",
+      "revenue": 119.7,
+      "orders": 6,
+      "devices": 4
+    },
+    {
+      "design": "NCFCKIT25-AWY",
+      "revenue": 119.7,
+      "orders": 6,
+      "devices": 5
+    },
+    {
+      "design": "LFCCRE1-BLK2",
+      "revenue": 119.7,
+      "orders": 6,
+      "devices": 4
+    },
+    {
+      "design": "AFCLOGOS-ZIG",
+      "revenue": 119.7,
+      "orders": 6,
+      "devices": 5
+    },
+    {
+      "design": "CBEACLA-WIS",
+      "revenue": 119.7,
+      "orders": 6,
+      "devices": 5
+    },
+    {
+      "design": "DRGBSUSA-UNI",
+      "revenue": 119.7,
+      "orders": 6,
+      "devices": 5
+    },
+    {
+      "design": "BTMCTHR-CLO",
+      "revenue": 119.7,
+      "orders": 6,
+      "devices": 5
+    },
+    {
+      "design": "PNUTCBR-PAT",
+      "revenue": 119.7,
+      "orders": 6,
+      "devices": 5
+    },
+    {
+      "design": "NFLLOSSE-FOO",
+      "revenue": 119.7,
+      "orders": 6,
+      "devices": 6
+    },
+    {
+      "design": "LFCCAMO-CCL",
+      "revenue": 119.69999999999999,
+      "orders": 6,
+      "devices": 3
+    },
+    {
+      "design": "HPOTDH31-HC1",
+      "revenue": 119.69999999999999,
+      "orders": 6,
+      "devices": 4
+    },
+    {
+      "design": "RFCCRE-STR",
+      "revenue": 118.7,
+      "orders": 6,
+      "devices": 6
+    },
+    {
+      "design": "NARUCHA-ITM",
+      "revenue": 117.7,
+      "orders": 6,
+      "devices": 6
+    },
+    {
+      "design": "BTMCHUS-LCD",
+      "revenue": 117.7,
+      "orders": 6,
+      "devices": 6
+    },
+    {
+      "design": "HPOTDH37-HER",
+      "revenue": 117.7,
+      "orders": 6,
+      "devices": 4
+    },
+    {
+      "design": "BTMCLOG-CLA",
+      "revenue": 117.69999999999999,
+      "orders": 6,
+      "devices": 4
+    },
+    {
+      "design": "PNUTROC-SWL",
+      "revenue": 116.7,
+      "orders": 6,
+      "devices": 6
+    },
+    {
+      "design": "LFCLVBRD-RED1",
+      "revenue": 116.69999999999999,
+      "orders": 6,
+      "devices": 5
+    },
+    {
+      "design": "PNUTCBR-GOO",
+      "revenue": 115.7,
+      "orders": 6,
+      "devices": 5
+    },
+    {
+      "design": "CBEACLA-GRP",
+      "revenue": 114.7,
+      "orders": 6,
+      "devices": 5
+    },
+    {
+      "design": "SCFALOG-TAR",
+      "revenue": 113.7,
+      "orders": 6,
+      "devices": 6
+    },
+    {
+      "design": "WWE2LIV-WAT",
+      "revenue": 111.03,
+      "orders": 7,
+      "devices": 7
+    },
+    {
+      "design": "WWE2CRH-DNA",
+      "revenue": 111.03,
+      "orders": 7,
+      "devices": 6
+    },
+    {
+      "design": "AFCCKT9-AWY",
+      "revenue": 109.7,
+      "orders": 6,
+      "devices": 5
+    },
+    {
+      "design": "PNUTADI-TRO",
+      "revenue": 108.7,
+      "orders": 6,
+      "devices": 6
+    },
+    {
+      "design": "HPOTDH14-SLY",
+      "revenue": 106.7,
+      "orders": 6,
+      "devices": 5
+    },
+    {
+      "design": "HPOTSOR2-PO2",
+      "revenue": 104.75,
+      "orders": 5,
+      "devices": 4
+    },
+    {
+      "design": "IRONALB-FOT",
+      "revenue": 104.7,
+      "orders": 6,
+      "devices": 6
+    },
+    {
+      "design": "WWE2JCEN-POR",
+      "revenue": 104.39,
+      "orders": 6,
+      "devices": 4
+    },
+    {
+      "design": "CFCCRE-SUP",
+      "revenue": 102.7,
+      "orders": 6,
+      "devices": 6
+    },
+    {
+      "design": "CFCKIT6-HOM",
+      "revenue": 102.65,
+      "orders": 7,
+      "devices": 7
+    },
+    {
+      "design": "SCDOSCO-SCO",
+      "revenue": 100.75,
+      "orders": 5,
+      "devices": 5
+    },
+    {
+      "design": "DRGBCHA-GOK",
+      "revenue": 99.75,
+      "orders": 5,
+      "devices": 4
+    },
+    {
+      "design": "NARUKEY-SAS",
+      "revenue": 99.75,
+      "orders": 5,
+      "devices": 4
+    },
+    {
+      "design": "FLAG-IRELAND",
+      "revenue": 99.75,
+      "orders": 5,
+      "devices": 3
+    },
+    {
+      "design": "THFCEUW-WHI",
+      "revenue": 99.75,
+      "orders": 5,
+      "devices": 5
+    },
+    {
+      "design": "PNUTHAL-SGE",
+      "revenue": 99.75,
+      "orders": 5,
+      "devices": 4
+    },
+    {
+      "design": "RFCCRE-LRP",
+      "revenue": 99.75,
+      "orders": 5,
+      "devices": 4
+    },
+    {
+      "design": "COBRGRA-LOG",
+      "revenue": 99.75,
+      "orders": 5,
+      "devices": 5
+    },
+    {
+      "design": "ASDRAGO4-CLA",
+      "revenue": 99.75,
+      "orders": 5,
+      "devices": 5
+    },
+    {
+      "design": "PNUTCBR-HAP",
+      "revenue": 99.75,
+      "orders": 5,
+      "devices": 4
+    },
+    {
+      "design": "FCBPHKT25-RAP",
+      "revenue": 99.75,
+      "orders": 5,
+      "devices": 4
+    },
+    {
+      "design": "WFCCRE-GRA",
+      "revenue": 99.75,
+      "orders": 5,
+      "devices": 3
+    },
+    {
+      "design": "PNUTCHA-GRP",
+      "revenue": 99.75,
+      "orders": 5,
+      "devices": 4
+    },
+    {
+      "design": "JFCKIT25-HOM",
+      "revenue": 99.75,
+      "orders": 5,
+      "devices": 5
+    },
+    {
+      "design": "NFLLOGRE-HEL",
+      "revenue": 99.75,
+      "orders": 5,
+      "devices": 3
+    },
+    {
+      "design": "LFCLVBRD-BLK4",
+      "revenue": 99.75,
+      "orders": 5,
+      "devices": 3
+    },
+    {
+      "design": "TWDS10CPO-NEG",
+      "revenue": 99.75,
+      "orders": 5,
+      "devices": 2
+    },
+    {
+      "design": "LFCCRE2-BLK2",
+      "revenue": 99.74000000000001,
+      "orders": 5,
+      "devices": 4
+    },
+    {
+      "design": "WWE2CRH-SGR",
+      "revenue": 99.33,
+      "orders": 10,
+      "devices": 2
+    },
+    {
+      "design": "THFCBAD-CAM",
+      "revenue": 98.75,
+      "orders": 5,
+      "devices": 5
+    },
+    {
+      "design": "RFCKIT-AWY",
+      "revenue": 97.75,
+      "orders": 5,
+      "devices": 4
+    },
+    {
+      "design": "BTACGRA-JOK",
+      "revenue": 97.75,
+      "orders": 5,
+      "devices": 2
+    },
+    {
+      "design": "CBEACLA-GRU",
+      "revenue": 96.75,
+      "orders": 5,
+      "devices": 4
+    },
+    {
+      "design": "SCDOMYS-TIE",
+      "revenue": 96.75,
+      "orders": 5,
+      "devices": 4
+    },
+    {
+      "design": "LFCCLP2-RMA",
+      "revenue": 96.75,
+      "orders": 5,
+      "devices": 4
+    },
+    {
+      "design": "WWE2BLO-WET",
+      "revenue": 96.72,
+      "orders": 7,
+      "devices": 6
+    },
+    {
+      "design": "IRONART-BOB",
+      "revenue": 95.75,
+      "orders": 5,
+      "devices": 4
+    },
+    {
+      "design": "THFCBAD-COY",
+      "revenue": 95.75,
+      "orders": 5,
+      "devices": 4
+    },
+    {
+      "design": "MCBADGE-BFC",
+      "revenue": 95.75,
+      "orders": 5,
+      "devices": 4
+    },
+    {
+      "design": "AFCCRE-TRA",
+      "revenue": 95.7,
+      "orders": 6,
+      "devices": 4
+    },
+    {
+      "design": "GTDDSIG-STR",
+      "revenue": 94.76,
+      "orders": 5,
+      "devices": 4
+    },
+    {
+      "design": "NFLLOBAL2-MAR",
+      "revenue": 94.39,
+      "orders": 6,
+      "devices": 5
+    },
+    {
+      "design": "SRUKIT25-AWY",
+      "revenue": 90.75,
+      "orders": 5,
+      "devices": 5
+    },
+    {
+      "design": "WWE2ROM-LIG",
+      "revenue": 89.08,
+      "orders": 6,
+      "devices": 5
+    },
+    {
+      "design": "NFLLOSFF-HEL",
+      "revenue": 89.08,
+      "orders": 6,
+      "devices": 5
+    },
+    {
+      "design": "THFCBKT3-AWY",
+      "revenue": 87.8,
+      "orders": 4,
+      "devices": 4
+    },
+    {
+      "design": "PNUTT21-SSP",
+      "revenue": 86.75,
+      "orders": 5,
+      "devices": 4
+    },
+    {
+      "design": "BTMCICB-REB",
+      "revenue": 85.75,
+      "orders": 5,
+      "devices": 4
+    },
+    {
+      "design": "PNUTORI-SUR",
+      "revenue": 84.8,
+      "orders": 4,
+      "devices": 3
+    },
+    {
+      "design": "CFCRETKS-84H",
+      "revenue": 83.44,
+      "orders": 5,
+      "devices": 4
+    },
+    {
+      "design": "IRONALB-BNW",
+      "revenue": 81.75,
+      "orders": 5,
+      "devices": 5
+    },
+    {
+      "design": "IRONART-BBR",
+      "revenue": 80.79,
+      "orders": 4,
+      "devices": 4
+    },
+    {
+      "design": "HPOTDH10-GRY",
+      "revenue": 79.8,
+      "orders": 4,
+      "devices": 3
+    },
+    {
+      "design": "SUPNKEY-SC2",
+      "revenue": 79.8,
+      "orders": 4,
+      "devices": 2
+    },
+    {
+      "design": "NHLPITP-JER",
+      "revenue": 79.8,
+      "orders": 4,
+      "devices": 4
+    },
+    {
+      "design": "MCFTEAM4-HAA",
+      "revenue": 79.8,
+      "orders": 4,
+      "devices": 3
+    },
+    {
+      "design": "HPOTDH13-RPA",
+      "revenue": 79.8,
+      "orders": 4,
+      "devices": 3
+    },
+    {
+      "design": "NFLLOSSE2-MAR",
+      "revenue": 79.8,
+      "orders": 4,
+      "devices": 4
+    },
+    {
+      "design": "TDKNKEY-BTB",
+      "revenue": 79.8,
+      "orders": 4,
+      "devices": 4
+    },
+    {
+      "design": "BVSKKEY-CRE",
+      "revenue": 79.8,
+      "orders": 4,
+      "devices": 2
+    },
+    {
+      "design": "CORPKEY-FLO",
+      "revenue": 79.8,
+      "orders": 4,
+      "devices": 4
+    },
+    {
+      "design": "FRNDICO-PEE",
+      "revenue": 79.8,
+      "orders": 4,
+      "devices": 4
+    },
+    {
+      "design": "IT17GRA-PN2",
+      "revenue": 79.8,
+      "orders": 4,
+      "devices": 4
+    },
+    {
+      "design": "LFCLVBRD-WKIT1",
+      "revenue": 79.8,
+      "orders": 4,
+      "devices": 4
+    },
+    {
+      "design": "ACMCPA-BGR",
+      "revenue": 79.8,
+      "orders": 4,
+      "devices": 3
+    },
+    {
+      "design": "SCDOSCO-FUL",
+      "revenue": 79.8,
+      "orders": 4,
+      "devices": 4
+    },
+    {
+      "design": "TLRIFRG-FLA",
+      "revenue": 79.8,
+      "orders": 4,
+      "devices": 2
+    },
+    {
+      "design": "NFLLOBUF-FOO",
+      "revenue": 79.8,
+      "orders": 4,
+      "devices": 3
+    },
+    {
+      "design": "THFCBKT2-HOM",
+      "revenue": 79.8,
+      "orders": 4,
+      "devices": 4
+    },
+    {
+      "design": "RMCFURB-WHI",
+      "revenue": 79.8,
+      "orders": 4,
+      "devices": 4
+    },
+    {
+      "design": "TBBTKYA-11A",
+      "revenue": 79.8,
+      "orders": 4,
+      "devices": 4
+    },
+    {
+      "design": "FRNDICO-CEN",
+      "revenue": 79.8,
+      "orders": 4,
+      "devices": 4
+    },
+    {
+      "design": "AFCCRE-FCB",
+      "revenue": 79.8,
+      "orders": 4,
+      "devices": 4
+    },
+    {
+      "design": "BVBEHTE-ASG",
+      "revenue": 79.8,
+      "orders": 4,
+      "devices": 4
+    },
+    {
+      "design": "WFCCRE-BGR",
+      "revenue": 79.8,
+      "orders": 4,
+      "devices": 2
+    },
+    {
+      "design": "LFCPLC25-DCA",
+      "revenue": 79.8,
+      "orders": 4,
+      "devices": 4
+    },
+    {
+      "design": "SCFALOG-GRA",
+      "revenue": 79.8,
+      "orders": 4,
+      "devices": 2
+    },
+    {
+      "design": "CRFCCRE-MAR",
+      "revenue": 79.8,
+      "orders": 4,
+      "devices": 2
+    },
+    {
+      "design": "CFCRETKS-53C",
+      "revenue": 79.8,
+      "orders": 4,
+      "devices": 3
+    },
+    {
+      "design": "CFCCRE-WMA",
+      "revenue": 79.8,
+      "orders": 4,
+      "devices": 4
+    },
+    {
+      "design": "HATSVSI-SAK",
+      "revenue": 79.8,
+      "orders": 4,
+      "devices": 4
+    },
+    {
+      "design": "BTAOKEY-JOK",
+      "revenue": 79.8,
+      "orders": 4,
+      "devices": 4
+    },
+    {
+      "design": "MCBADGE-OFC",
+      "revenue": 79.8,
+      "orders": 4,
+      "devices": 3
+    },
+    {
+      "design": "HPOTDH16-SLY",
+      "revenue": 79.8,
+      "orders": 4,
+      "devices": 4
+    },
+    {
+      "design": "WFCRET-FHO",
+      "revenue": 79.8,
+      "orders": 4,
+      "devices": 3
+    },
+    {
+      "design": "FCBCPA-BLK",
+      "revenue": 79.75,
+      "orders": 5,
+      "devices": 3
+    },
+    {
+      "design": "IRONALB-SSO",
+      "revenue": 78.8,
+      "orders": 4,
+      "devices": 4
+    },
+    {
+      "design": "CRFCCRE-DIS",
+      "revenue": 78.8,
+      "orders": 4,
+      "devices": 4
+    },
+    {
+      "design": "HATSGRA-STA",
+      "revenue": 78.8,
+      "orders": 4,
+      "devices": 3
+    },
+    {
+      "design": "PPUFGRA-BUT",
+      "revenue": 78.8,
+      "orders": 4,
+      "devices": 4
+    },
+    {
+      "design": "AFCCPA-CAM",
+      "revenue": 77.8,
+      "orders": 4,
+      "devices": 3
+    },
+    {
+      "design": "CFCKIT25-GOA",
+      "revenue": 77.8,
+      "orders": 4,
+      "devices": 4
+    },
+    {
+      "design": "AFCFT6-ODE",
+      "revenue": 77.8,
+      "orders": 4,
+      "devices": 4
+    },
+    {
+      "design": "HPOTLTYP-PLA",
+      "revenue": 77.8,
+      "orders": 4,
+      "devices": 4
+    },
+    {
+      "design": "SPRCCOM-OVE",
+      "revenue": 77.8,
+      "orders": 4,
+      "devices": 4
+    },
+    {
+      "design": "MCBAGEO-OFC",
+      "revenue": 77.8,
+      "orders": 4,
+      "devices": 3
+    },
+    {
+      "design": "LFCCLP2-DIG",
+      "revenue": 77.8,
+      "orders": 4,
+      "devices": 3
+    },
+    {
+      "design": "LFCCRE1-BLK3",
+      "revenue": 77.8,
+      "orders": 4,
+      "devices": 3
+    },
+    {
+      "design": "PNUTWOD-SGU",
+      "revenue": 76.8,
+      "orders": 4,
+      "devices": 4
+    },
+    {
+      "design": "LFCCLP2-RED",
+      "revenue": 76.8,
+      "orders": 4,
+      "devices": 4
+    },
+    {
+      "design": "LFCCRE1-BGEO2",
+      "revenue": 76.8,
+      "orders": 4,
+      "devices": 3
+    },
+    {
+      "design": "THFCBKT2-AWY",
+      "revenue": 75.8,
+      "orders": 4,
+      "devices": 3
+    },
+    {
+      "design": "MCFTEAM4-DEB",
+      "revenue": 75.8,
+      "orders": 4,
+      "devices": 1
+    },
+    {
+      "design": "HPOTDH37-HPA",
+      "revenue": 75.8,
+      "orders": 4,
+      "devices": 4
+    },
+    {
+      "design": "NARUICO-IMA",
+      "revenue": 75.8,
+      "orders": 4,
+      "devices": 4
+    },
+    {
+      "design": "SHSDOG-DAC",
+      "revenue": 74.8,
+      "orders": 4,
+      "devices": 4
+    },
+    {
+      "design": "TDKNKEY-BPO",
+      "revenue": 73.8,
+      "orders": 4,
+      "devices": 4
+    },
+    {
+      "design": "CRFCCRE-CAM",
+      "revenue": 73.8,
+      "orders": 4,
+      "devices": 4
+    },
+    {
+      "design": "LFCCLI2-RED",
+      "revenue": 73.75,
+      "orders": 5,
+      "devices": 5
+    },
+    {
+      "design": "HPOTDH13-HPA",
+      "revenue": 73.75,
+      "orders": 5,
+      "devices": 5
+    },
+    {
+      "design": "METYONC-HEA",
+      "revenue": 73.75,
+      "orders": 5,
+      "devices": 3
+    },
+    {
+      "design": "ASDRAFR-SIL",
+      "revenue": 72.8,
+      "orders": 4,
+      "devices": 4
+    },
+    {
+      "design": "NFLLOSSE-STR",
+      "revenue": 71.13,
+      "orders": 5,
+      "devices": 3
+    },
+    {
+      "design": "CUSTOM-PHOTO",
+      "revenue": 70.7,
+      "orders": 6,
+      "devices": 5
+    },
+    {
+      "design": "ACMCPA-CUR",
+      "revenue": 69.7,
+      "orders": 6,
+      "devices": 4
+    },
+    {
+      "design": "MCPHKT25-HAA",
+      "revenue": 68.85,
+      "orders": 3,
+      "devices": 3
+    },
+    {
+      "design": "NARUICO-KAK",
+      "revenue": 68.8,
+      "orders": 4,
+      "devices": 4
+    },
+    {
+      "design": "FCBCRE-OVE",
+      "revenue": 66.8,
+      "orders": 4,
+      "devices": 4
+    },
+    {
+      "design": "WWE2JEY-MAI",
+      "revenue": 65.49,
+      "orders": 4,
+      "devices": 3
+    },
+    {
+      "design": "NHLTORM-OVE",
+      "revenue": 65.49,
+      "orders": 4,
+      "devices": 3
+    },
+    {
+      "design": "PNUTCUSTA-SAW",
+      "revenue": 64.85,
+      "orders": 3,
+      "devices": 3
+    },
+    {
+      "design": "MCBAGEO-OWM",
+      "revenue": 63.8,
+      "orders": 4,
+      "devices": 4
+    },
+    {
+      "design": "CFCCRE-PBL",
+      "revenue": 63.489999999999995,
+      "orders": 4,
+      "devices": 4
+    },
+    {
+      "design": "HATSGRA-SAK",
+      "revenue": 62.8,
+      "orders": 4,
+      "devices": 4
+    },
+    {
+      "design": "SRUGRA-PAT",
+      "revenue": 61.849999999999994,
+      "orders": 3,
+      "devices": 3
+    },
+    {
+      "design": "WWE2CMP-GRA",
+      "revenue": 61.489999999999995,
+      "orders": 4,
+      "devices": 3
+    },
+    {
+      "design": "SRUCKIT4-HOM",
+      "revenue": 60.849999999999994,
+      "orders": 3,
+      "devices": 3
+    },
+    {
+      "design": "HPOTHLE-ACC",
+      "revenue": 59.85,
+      "orders": 3,
+      "devices": 1
+    },
+    {
+      "design": "SPRCCOM-FLI",
+      "revenue": 59.849999999999994,
+      "orders": 3,
+      "devices": 3
+    },
+    {
+      "design": "FKREFLO-PPA",
+      "revenue": 59.849999999999994,
+      "orders": 3,
+      "devices": 3
+    },
+    {
+      "design": "AFCLOGOS-APT",
+      "revenue": 59.849999999999994,
+      "orders": 3,
+      "devices": 3
+    },
+    {
+      "design": "TWDS10CPO-DAR",
+      "revenue": 59.849999999999994,
+      "orders": 3,
+      "devices": 3
+    },
+    {
+      "design": "ALGOWIN-POE",
+      "revenue": 59.849999999999994,
+      "orders": 3,
+      "devices": 3
+    },
+    {
+      "design": "RMORS3GR-PPA",
+      "revenue": 59.849999999999994,
+      "orders": 3,
+      "devices": 3
+    },
+    {
+      "design": "WMGRATTRE-BER",
+      "revenue": 59.849999999999994,
+      "orders": 3,
+      "devices": 2
+    },
+    {
+      "design": "PNUTORI-SLE",
+      "revenue": 59.849999999999994,
+      "orders": 3,
+      "devices": 3
+    },
+    {
+      "design": "NARUKEY-NAR",
+      "revenue": 59.849999999999994,
+      "orders": 3,
+      "devices": 3
+    },
+    {
+      "design": "LFCLVBRD-RED2",
+      "revenue": 59.849999999999994,
+      "orders": 3,
+      "devices": 3
+    },
+    {
+      "design": "CFCWCHA-HKT",
+      "revenue": 59.849999999999994,
+      "orders": 3,
+      "devices": 3
+    },
+    {
+      "design": "MCBDKIT9-HOM",
+      "revenue": 59.849999999999994,
+      "orders": 3,
+      "devices": 3
+    },
+    {
+      "design": "PNUTBOA-ILO",
+      "revenue": 59.849999999999994,
+      "orders": 3,
+      "devices": 3
+    },
+    {
+      "design": "NFLLODAL-FOO",
+      "revenue": 59.849999999999994,
+      "orders": 3,
+      "devices": 3
+    },
+    {
+      "design": "SSQUGRA-HAR",
+      "revenue": 59.849999999999994,
+      "orders": 3,
+      "devices": 3
+    },
+    {
+      "design": "WWECRHO-COD",
+      "revenue": 59.849999999999994,
+      "orders": 3,
+      "devices": 3
+    },
+    {
+      "design": "SCFAKTS3-AWY",
+      "revenue": 59.849999999999994,
+      "orders": 3,
+      "devices": 3
+    },
+    {
+      "design": "PNUTMAN-SEC",
+      "revenue": 59.849999999999994,
+      "orders": 3,
+      "devices": 2
+    },
+    {
+      "design": "TWDS11KY-POS",
+      "revenue": 59.849999999999994,
+      "orders": 3,
+      "devices": 2
+    },
+    {
+      "design": "MCBDKIT8-AWY",
+      "revenue": 59.849999999999994,
+      "orders": 3,
+      "devices": 3
+    },
+    {
+      "design": "HPOTDH14-RAV",
+      "revenue": 59.849999999999994,
+      "orders": 3,
+      "devices": 3
+    },
+    {
+      "design": "ANEL2FRGR-KEY",
+      "revenue": 59.849999999999994,
+      "orders": 3,
+      "devices": 3
+    },
+    {
+      "design": "HATSGRA-WIN",
+      "revenue": 59.849999999999994,
+      "orders": 3,
+      "devices": 2
+    },
+    {
+      "design": "WFC125-BCC",
+      "revenue": 59.849999999999994,
+      "orders": 3,
+      "devices": 3
+    },
+    {
+      "design": "BALL-GOLF",
+      "revenue": 59.849999999999994,
+      "orders": 3,
+      "devices": 2
+    },
+    {
+      "design": "FCBCKT7-HOM",
+      "revenue": 59.849999999999994,
+      "orders": 3,
+      "devices": 2
+    }
+  ],
+  "layer2_need_ean": [],
+  "layer3_need_bc": [
+    {
+      "design": "NCFCCKT-HOM",
+      "revenue": 3959.999999999998,
+      "orders": 200,
+      "devices": 51
+    },
+    {
+      "design": "AFCFT8-SAK",
+      "revenue": 855.85,
+      "orders": 43,
+      "devices": 22
+    },
+    {
+      "design": "NCFCCKT-THI",
+      "revenue": 675.3,
+      "orders": 34,
+      "devices": 19
+    },
+    {
+      "design": "ERUKIT3-AWY",
+      "revenue": 636.4000000000002,
+      "orders": 32,
+      "devices": 18
+    },
+    {
+      "design": "AVLAKIT25-THI",
+      "revenue": 603.4500000000002,
+      "orders": 31,
+      "devices": 22
+    },
+    {
+      "design": "NCFCFTM-GUI",
+      "revenue": 581.45,
+      "orders": 31,
+      "devices": 19
+    },
+    {
+      "design": "CFCFTEAM4-PAL",
+      "revenue": 514.6999999999999,
+      "orders": 26,
+      "devices": 14
+    },
+    {
+      "design": "AFCFT8-RIC",
+      "revenue": 437.8499999999999,
+      "orders": 23,
+      "devices": 15
+    },
+    {
+      "design": "AVLACRE-OVE",
+      "revenue": 407.9399999999999,
+      "orders": 21,
+      "devices": 15
+    },
+    {
+      "design": "ERUKIT3-HOM",
+      "revenue": 373.0499999999999,
+      "orders": 19,
+      "devices": 11
+    },
+    {
+      "design": "SRUGRA-TAR",
+      "revenue": 360.1,
+      "orders": 18,
+      "devices": 7
+    },
+    {
+      "design": "LFCPHK1T25-EKI",
+      "revenue": 354.09999999999985,
+      "orders": 18,
+      "devices": 15
+    },
+    {
+      "design": "AFCFT7-SAK",
+      "revenue": 317.2,
+      "orders": 16,
+      "devices": 6
+    },
+    {
+      "design": "ERUMAR-RED",
+      "revenue": 298.24999999999994,
+      "orders": 15,
+      "devices": 13
+    },
+    {
+      "design": "CRFCCKT3-HOM",
+      "revenue": 297.24999999999994,
+      "orders": 15,
+      "devices": 13
+    },
+    {
+      "design": "SCFAKIT26-HOM",
+      "revenue": 281.24999999999994,
+      "orders": 15,
+      "devices": 10
+    },
+    {
+      "design": "NCFCCKT-AWY",
+      "revenue": 275.2999999999999,
+      "orders": 14,
+      "devices": 12
+    },
+    {
+      "design": "CRFCCKT3-THI",
+      "revenue": 259.34999999999997,
+      "orders": 13,
+      "devices": 11
+    },
+    {
+      "design": "LISACRE-HIG",
+      "revenue": 217.45,
+      "orders": 11,
+      "devices": 8
+    },
+    {
+      "design": "ERUKIT5-AWY",
+      "revenue": 215.44999999999993,
+      "orders": 11,
+      "devices": 9
+    },
+    {
+      "design": "WWESUP-JOH",
+      "revenue": 204.39999999999998,
+      "orders": 12,
+      "devices": 8
+    },
+    {
+      "design": "NCFCCWI-HKT",
+      "revenue": 196.49999999999997,
+      "orders": 10,
+      "devices": 9
+    },
+    {
+      "design": "AVLACRE-RET",
+      "revenue": 194.49999999999997,
+      "orders": 10,
+      "devices": 8
+    },
+    {
+      "design": "NCFCFTM-BUR",
+      "revenue": 177.55,
+      "orders": 9,
+      "devices": 7
+    },
+    {
+      "design": "SCFAWBC26-GRA",
+      "revenue": 162.54999999999998,
+      "orders": 9,
+      "devices": 7
+    },
+    {
+      "design": "WMGDAYGRA-AME",
+      "revenue": 159.6,
+      "orders": 8,
+      "devices": 7
+    },
+    {
+      "design": "THFCHK2T25-SIM",
+      "revenue": 159.6,
+      "orders": 8,
+      "devices": 5
+    },
+    {
+      "design": "LFCCREST3-WHO",
+      "revenue": 140.6,
+      "orders": 8,
+      "devices": 7
+    },
+    {
+      "design": "AVLACRE-VAC",
+      "revenue": 139.65,
+      "orders": 7,
+      "devices": 5
+    },
+    {
+      "design": "NCFCHK1T25-GUI",
+      "revenue": 139.65,
+      "orders": 7,
+      "devices": 3
+    },
+    {
+      "design": "LFCCREST3-FCT",
+      "revenue": 139.6,
+      "orders": 8,
+      "devices": 7
+    },
+    {
+      "design": "BVSPBAN-NMT",
+      "revenue": 135.65,
+      "orders": 7,
+      "devices": 6
+    },
+    {
+      "design": "MCBPIXE-BMO",
+      "revenue": 133.6,
+      "orders": 8,
+      "devices": 5
+    },
+    {
+      "design": "EDRUKIT25-HOM",
+      "revenue": 130.65,
+      "orders": 7,
+      "devices": 6
+    },
+    {
+      "design": "AVLAHK1T25-CAS",
+      "revenue": 124.69999999999999,
+      "orders": 6,
+      "devices": 4
+    },
+    {
+      "design": "AVLACRE-BLK",
+      "revenue": 119.7,
+      "orders": 6,
+      "devices": 6
+    },
+    {
+      "design": "VHIEBFD-DAC",
+      "revenue": 119.69999999999999,
+      "orders": 6,
+      "devices": 4
+    },
+    {
+      "design": "NCFCFTM-GOR",
+      "revenue": 117.7,
+      "orders": 6,
+      "devices": 4
+    },
+    {
+      "design": "LFCPHK1T25-WIR",
+      "revenue": 117.7,
+      "orders": 6,
+      "devices": 6
+    },
+    {
+      "design": "IRONGRA-NOB",
+      "revenue": 117.69999999999999,
+      "orders": 6,
+      "devices": 5
+    },
+    {
+      "design": "NCFCFTM-TON",
+      "revenue": 106.7,
+      "orders": 6,
+      "devices": 6
+    },
+    {
+      "design": "GLWLOGO-TAR",
+      "revenue": 101.75,
+      "orders": 5,
+      "devices": 4
+    },
+    {
+      "design": "AVLACUST25-HOM",
+      "revenue": 101.75,
+      "orders": 5,
+      "devices": 3
+    },
+    {
+      "design": "SRUCKIT3-HOM",
+      "revenue": 99.75,
+      "orders": 5,
+      "devices": 4
+    },
+    {
+      "design": "BHACLOG-MAR",
+      "revenue": 99.75,
+      "orders": 5,
+      "devices": 3
+    },
+    {
+      "design": "LFCFTM5-SAL",
+      "revenue": 99.75,
+      "orders": 5,
+      "devices": 3
+    },
+    {
+      "design": "AVLACRE-CHE",
+      "revenue": 97.75,
+      "orders": 5,
+      "devices": 5
+    },
+    {
+      "design": "AFCCKT5-HOM",
+      "revenue": 97.75,
+      "orders": 5,
+      "devices": 2
+    },
+    {
+      "design": "WFCFTM2-BOW",
+      "revenue": 97.75,
+      "orders": 5,
+      "devices": 2
+    },
+    {
+      "design": "CFLAGS1-IRE",
+      "revenue": 96.75,
+      "orders": 5,
+      "devices": 4
+    },
+    {
+      "design": "LFCGMUR-YNW",
+      "revenue": 96.75,
+      "orders": 5,
+      "devices": 5
+    },
+    {
+      "design": "MC24PLCH-CHA",
+      "revenue": 95.75,
+      "orders": 5,
+      "devices": 4
+    },
+    {
+      "design": "GLWKIT25-HOM",
+      "revenue": 93.75,
+      "orders": 5,
+      "devices": 4
+    },
+    {
+      "design": "AFCGRAF-CRE",
+      "revenue": 89.8,
+      "orders": 4,
+      "devices": 3
+    },
+    {
+      "design": "SRUGRA-LPU",
+      "revenue": 82.8,
+      "orders": 4,
+      "devices": 4
+    },
+    {
+      "design": "SRUCKIT4-TRA",
+      "revenue": 80.8,
+      "orders": 4,
+      "devices": 3
+    },
+    {
+      "design": "AFCFT8-ODE",
+      "revenue": 79.8,
+      "orders": 4,
+      "devices": 4
+    },
+    {
+      "design": "FRNDDOO-PIV",
+      "revenue": 79.8,
+      "orders": 4,
+      "devices": 3
+    },
+    {
+      "design": "AVLAHK1T25-MAR",
+      "revenue": 79.8,
+      "orders": 4,
+      "devices": 3
+    },
+    {
+      "design": "LFCFTM8-JOT",
+      "revenue": 79.8,
+      "orders": 4,
+      "devices": 4
+    },
+    {
+      "design": "BHACLOG-PLA",
+      "revenue": 79.8,
+      "orders": 4,
+      "devices": 2
+    },
+    {
+      "design": "AFCWCH25-HOM",
+      "revenue": 79.8,
+      "orders": 4,
+      "devices": 4
+    },
+    {
+      "design": "BVARIDW-BUN",
+      "revenue": 79.8,
+      "orders": 4,
+      "devices": 3
+    },
+    {
+      "design": "BHACLOG-OVE",
+      "revenue": 79.8,
+      "orders": 4,
+      "devices": 3
+    },
+    {
+      "design": "BVARIDW-RLE",
+      "revenue": 79.8,
+      "orders": 4,
+      "devices": 4
+    },
+    {
+      "design": "SRUOTH-SAB",
+      "revenue": 79.8,
+      "orders": 4,
+      "devices": 3
+    },
+    {
+      "design": "METYCLA-PET",
+      "revenue": 79.8,
+      "orders": 4,
+      "devices": 2
+    },
+    {
+      "design": "SUFCCICO-SCR",
+      "revenue": 78.96,
+      "orders": 14,
+      "devices": 7
+    },
+    {
+      "design": "SRULOG-PLA",
+      "revenue": 78.8,
+      "orders": 4,
+      "devices": 4
+    },
+    {
+      "design": "AFCCKT6-HOM",
+      "revenue": 77.8,
+      "orders": 4,
+      "devices": 4
+    },
+    {
+      "design": "WFCFTM3-BOW",
+      "revenue": 77.8,
+      "orders": 4,
+      "devices": 4
+    },
+    {
+      "design": "LFCGMUR-FRD",
+      "revenue": 76.8,
+      "orders": 4,
+      "devices": 4
+    },
+    {
+      "design": "CRFCCKT-THI",
+      "revenue": 76.8,
+      "orders": 4,
+      "devices": 4
+    },
+    {
+      "design": "GLWKIT25-EU",
+      "revenue": 75.8,
+      "orders": 4,
+      "devices": 4
+    },
+    {
+      "design": "WFCCHI-PA5",
+      "revenue": 74.8,
+      "orders": 4,
+      "devices": 4
+    },
+    {
+      "design": "IDLON-UNI",
+      "revenue": 73.8,
+      "orders": 4,
+      "devices": 3
+    },
+    {
+      "design": "CFLAGS1-ENG",
+      "revenue": 73.8,
+      "orders": 4,
+      "devices": 4
+    },
+    {
+      "design": "NFLLOSSE2-LED",
+      "revenue": 73.74,
+      "orders": 8,
+      "devices": 6
+    },
+    {
+      "design": "ASHEANI-DAN",
+      "revenue": 71.8,
+      "orders": 4,
+      "devices": 3
+    },
+    {
+      "design": "ANDRBIR-PUF",
+      "revenue": 69.85,
+      "orders": 3,
+      "devices": 3
+    },
+    {
+      "design": "LFCPHK1T25-SZO",
+      "revenue": 68.8,
+      "orders": 4,
+      "devices": 4
+    },
+    {
+      "design": "DRGBSFTR-MER",
+      "revenue": 68.8,
+      "orders": 4,
+      "devices": 4
+    },
+    {
+      "design": "NHLANAD-JER",
+      "revenue": 68.1,
+      "orders": 7,
+      "devices": 7
+    },
+    {
+      "design": "LFCSHANK-MFL",
+      "revenue": 66.8,
+      "orders": 4,
+      "devices": 3
+    },
+    {
+      "design": "MCPHK2T25-DOK",
+      "revenue": 64.85,
+      "orders": 3,
+      "devices": 3
+    },
+    {
+      "design": "RFCCUST25-AWY",
+      "revenue": 61.849999999999994,
+      "orders": 3,
+      "devices": 3
+    },
+    {
+      "design": "CFLAGS1-WAL",
+      "revenue": 61.3,
+      "orders": 4,
+      "devices": 3
+    },
+    {
+      "design": "SPIKANI-PHO",
+      "revenue": 59.85,
+      "orders": 3,
+      "devices": 1
+    },
+    {
+      "design": "TF23GRA-BLK",
+      "revenue": 59.85,
+      "orders": 3,
+      "devices": 1
+    },
+    {
+      "design": "NCFCHK2T25-BAR",
+      "revenue": 59.849999999999994,
+      "orders": 3,
+      "devices": 3
+    },
+    {
+      "design": "CAMOU-GREY",
+      "revenue": 59.849999999999994,
+      "orders": 3,
+      "devices": 2
+    },
+    {
+      "design": "UFCMAK-FIG",
+      "revenue": 59.849999999999994,
+      "orders": 3,
+      "devices": 3
+    },
+    {
+      "design": "GRMLPHO-GIZ",
+      "revenue": 59.849999999999994,
+      "orders": 3,
+      "devices": 3
+    },
+    {
+      "design": "NCFCHK2T25-MIL",
+      "revenue": 59.849999999999994,
+      "orders": 3,
+      "devices": 3
+    },
+    {
+      "design": "WWESUP-BRO",
+      "revenue": 59.849999999999994,
+      "orders": 3,
+      "devices": 3
+    },
+    {
+      "design": "NFL3LOENG-HEL",
+      "revenue": 59.849999999999994,
+      "orders": 3,
+      "devices": 3
+    },
+    {
+      "design": "EVIL-NAZAR",
+      "revenue": 59.849999999999994,
+      "orders": 3,
+      "devices": 3
+    },
+    {
+      "design": "SRUGRA-GRA",
+      "revenue": 59.849999999999994,
+      "orders": 3,
+      "devices": 3
+    },
+    {
+      "design": "CFCKIT2-HOM",
+      "revenue": 59.849999999999994,
+      "orders": 3,
+      "devices": 3
+    },
+    {
+      "design": "BVSKWEA-RDI",
+      "revenue": 59.849999999999994,
+      "orders": 3,
+      "devices": 3
+    },
+    {
+      "design": "AFCPHK1T25-RAY",
+      "revenue": 59.849999999999994,
+      "orders": 3,
+      "devices": 3
+    },
+    {
+      "design": "TLRITTP-MAI",
+      "revenue": 59.849999999999994,
+      "orders": 3,
+      "devices": 3
+    },
+    {
+      "design": "AFCFT7-RIC",
+      "revenue": 59.849999999999994,
+      "orders": 3,
+      "devices": 3
+    },
+    {
+      "design": "WMJOYDGRA-CLO",
+      "revenue": 59.849999999999994,
+      "orders": 3,
+      "devices": 2
+    },
+    {
+      "design": "METYALL-BES",
+      "revenue": 59.849999999999994,
+      "orders": 3,
+      "devices": 3
+    },
+    {
+      "design": "DRGBSFTR-GRP",
+      "revenue": 59.849999999999994,
+      "orders": 3,
+      "devices": 3
+    },
+    {
+      "design": "NBA2LOS-STI",
+      "revenue": 59.849999999999994,
+      "orders": 3,
+      "devices": 3
+    },
+    {
+      "design": "TLRITTP-GAN",
+      "revenue": 59.849999999999994,
+      "orders": 3,
+      "devices": 3
+    },
+    {
+      "design": "NHLMONC-JER",
+      "revenue": 59.849999999999994,
+      "orders": 3,
+      "devices": 3
+    },
+    {
+      "design": "ERUKIT5-HOM",
+      "revenue": 59.849999999999994,
+      "orders": 3,
+      "devices": 3
+    }
+  ]
+}

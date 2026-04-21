@@ -1,0 +1,16 @@
+SELECT 
+a.`f_so_document_no` AS 'Sales Order Number',
+a.`f_so_customer_document_no` AS 'Sales Record Number',
+a.`f_document_date` AS 'Document Date',
+a.`f_so_warehouse` AS  'Warehouse',
+a.`f_shipping_fee` AS 'Shipping Fee',
+(SELECT f_erp_dbname FROM t_erp WHERE f_erp_id = a.`f_erp_id`) AS 'SageCompany',
+b.`f_item_code` AS 'CustomLabel',
+b.`f_quantity` AS 'Quantity',
+b.`f_price` AS 'Price',
+b.`f_tax_value` AS 'Tax',
+b.`f_total_value` AS 'Total Value'
+FROM t_sales_order_return a
+INNER JOIN t_sales_order_return_line b ON a.`f_so_return_id` = b.`f_so_return_id`
+AND a.`f_document_date` BETWEEN '2025-04-01' AND '2025-04-30'
+WHERE a.`f_so_customer_document_no` LIKE  '%INTERLIM%'

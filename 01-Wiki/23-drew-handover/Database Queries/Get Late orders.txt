@@ -1,0 +1,3 @@
+CALL usp_GetRecordsForSendToZero(10);
+
+SHOW FULL PROCESSLIST;

@@ -1,0 +1,1402 @@
+[
+  {
+    "design_code": "NARUICO",
+    "revenue_90d": 57834.68,
+    "bc_sku_count": 1034,
+    "has_upc": true,
+    "sample_upc": "5057546987130"
+  },
+  {
+    "design_code": "LFCLVBRD",
+    "revenue_90d": 54091.39,
+    "bc_sku_count": 2082,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "AFCLOGOS",
+    "revenue_90d": 42601.23,
+    "bc_sku_count": 1072,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "PNUTCHA",
+    "revenue_90d": 39894.68,
+    "bc_sku_count": 1753,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "PNUTBOA",
+    "revenue_90d": 27138.66,
+    "bc_sku_count": 1257,
+    "has_upc": true,
+    "sample_upc": "5063291842617"
+  },
+  {
+    "design_code": "FCBCRE",
+    "revenue_90d": 25080.95,
+    "bc_sku_count": 1323,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "ADVEGRA",
+    "revenue_90d": 22970.06,
+    "bc_sku_count": 1630,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "PNUTCBR",
+    "revenue_90d": 22745.86,
+    "bc_sku_count": 593,
+    "has_upc": true,
+    "sample_upc": "5063291771887"
+  },
+  {
+    "design_code": "NARUCHA",
+    "revenue_90d": 21712.98,
+    "bc_sku_count": 752,
+    "has_upc": true,
+    "sample_upc": "5057546988823"
+  },
+  {
+    "design_code": "MCBDKIT25",
+    "revenue_90d": 21100.03,
+    "bc_sku_count": 1078,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "HPOTDH37",
+    "revenue_90d": 19715.92,
+    "bc_sku_count": 1488,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "CFCCRE",
+    "revenue_90d": 19388.93,
+    "bc_sku_count": 3407,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "AFCCKT7",
+    "revenue_90d": 19325.11,
+    "bc_sku_count": 191,
+    "has_upc": true,
+    "sample_upc": "5057546255291"
+  },
+  {
+    "design_code": "MCBADGE",
+    "revenue_90d": 17674.68,
+    "bc_sku_count": 1579,
+    "has_upc": true,
+    "sample_upc": "5063291861236"
+  },
+  {
+    "design_code": "PNUTHAL",
+    "revenue_90d": 16567.29,
+    "bc_sku_count": 2252,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "LFCCRYN",
+    "revenue_90d": 16420.68,
+    "bc_sku_count": 654,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "DRGBSUSC",
+    "revenue_90d": 15335.93,
+    "bc_sku_count": 1619,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "LFCMAR",
+    "revenue_90d": 14241.91,
+    "bc_sku_count": 882,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "BVBEKYA",
+    "revenue_90d": 13983.35,
+    "bc_sku_count": 1555,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "BVRSLCOL",
+    "revenue_90d": 13951.99,
+    "bc_sku_count": 1989,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "FCBHK8",
+    "revenue_90d": 13759.58,
+    "bc_sku_count": 2046,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "LFCYNWA",
+    "revenue_90d": 13716.26,
+    "bc_sku_count": 588,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "PNUTORI",
+    "revenue_90d": 13258.62,
+    "bc_sku_count": 1706,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "IRONALB",
+    "revenue_90d": 12893.72,
+    "bc_sku_count": 3020,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "NARUKEY",
+    "revenue_90d": 12869.41,
+    "bc_sku_count": 846,
+    "has_upc": true,
+    "sample_upc": "5057546994800"
+  },
+  {
+    "design_code": "THFCBAD",
+    "revenue_90d": 12652.61,
+    "bc_sku_count": 4361,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "FCBCKT8",
+    "revenue_90d": 12468.58,
+    "bc_sku_count": 1110,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "LFCKIT25",
+    "revenue_90d": 11941.16,
+    "bc_sku_count": 454,
+    "has_upc": true,
+    "sample_upc": "5057546972716"
+  },
+  {
+    "design_code": "AFCFT8",
+    "revenue_90d": 11912.19,
+    "bc_sku_count": 1169,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "LTOOGCH",
+    "revenue_90d": 11858.71,
+    "bc_sku_count": 2678,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "THFCKIT25",
+    "revenue_90d": 11440.65,
+    "bc_sku_count": 849,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "BVRSGRA",
+    "revenue_90d": 10864.74,
+    "bc_sku_count": 2193,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "PNUTBBU",
+    "revenue_90d": 10844.89,
+    "bc_sku_count": 478,
+    "has_upc": true,
+    "sample_upc": "5063291810593"
+  },
+  {
+    "design_code": "BVQUEEKY",
+    "revenue_90d": 10792.0,
+    "bc_sku_count": 0,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "CFCRETKS",
+    "revenue_90d": 10454.64,
+    "bc_sku_count": 2896,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "AFCCRE",
+    "revenue_90d": 10251.5,
+    "bc_sku_count": 2354,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "FCBCPA",
+    "revenue_90d": 10016.88,
+    "bc_sku_count": 1157,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "LFCDCA",
+    "revenue_90d": 9889.55,
+    "bc_sku_count": 1069,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "AFCCKT8",
+    "revenue_90d": 9824.78,
+    "bc_sku_count": 737,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "PNUTMAN",
+    "revenue_90d": 9507.42,
+    "bc_sku_count": 415,
+    "has_upc": true,
+    "sample_upc": "5063291768030"
+  },
+  {
+    "design_code": "MCFTEAM4",
+    "revenue_90d": 8855.6,
+    "bc_sku_count": 482,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "NFLLOSSE",
+    "revenue_90d": 8854.12,
+    "bc_sku_count": 3669,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "WMGDAYGRA",
+    "revenue_90d": 8763.18,
+    "bc_sku_count": 1192,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "PPUFGRA",
+    "revenue_90d": 8333.72,
+    "bc_sku_count": 1636,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "AFCCPA",
+    "revenue_90d": 8277.4,
+    "bc_sku_count": 1503,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "HPOTSOR2",
+    "revenue_90d": 8220.92,
+    "bc_sku_count": 911,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "GMORGRA",
+    "revenue_90d": 8203.22,
+    "bc_sku_count": 895,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "PNUTWOD",
+    "revenue_90d": 8195.29,
+    "bc_sku_count": 901,
+    "has_upc": true,
+    "sample_upc": "5063291810777"
+  },
+  {
+    "design_code": "WWEJOH",
+    "revenue_90d": 8113.95,
+    "bc_sku_count": 100,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "WWILBGRA",
+    "revenue_90d": 8113.95,
+    "bc_sku_count": 1056,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "TDKRLOG",
+    "revenue_90d": 8110.76,
+    "bc_sku_count": 882,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "BV1975KY",
+    "revenue_90d": 8094.0,
+    "bc_sku_count": 1168,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "ROMACREG",
+    "revenue_90d": 8094.0,
+    "bc_sku_count": 0,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "BVBLUALB2",
+    "revenue_90d": 8094.0,
+    "bc_sku_count": 2628,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "HPOTDH13",
+    "revenue_90d": 8039.12,
+    "bc_sku_count": 1842,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "RMCFKIT25",
+    "revenue_90d": 7992.5,
+    "bc_sku_count": 377,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "OHIOLOGO",
+    "revenue_90d": 7707.88,
+    "bc_sku_count": 1099,
+    "has_upc": true,
+    "sample_upc": "5063291768009"
+  },
+  {
+    "design_code": "HATSGRA",
+    "revenue_90d": 7379.29,
+    "bc_sku_count": 3231,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "PNUTADI",
+    "revenue_90d": 7253.98,
+    "bc_sku_count": 814,
+    "has_upc": true,
+    "sample_upc": "5063291810753"
+  },
+  {
+    "design_code": "FCBFTM2G1",
+    "revenue_90d": 7130.72,
+    "bc_sku_count": 196,
+    "has_upc": true,
+    "sample_upc": "5063291767866"
+  },
+  {
+    "design_code": "PNUTDDR",
+    "revenue_90d": 7064.79,
+    "bc_sku_count": 837,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "AFCCGLO",
+    "revenue_90d": 6979.0,
+    "bc_sku_count": 638,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "CFCKIT5",
+    "revenue_90d": 6787.13,
+    "bc_sku_count": 427,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "AFCKIT25",
+    "revenue_90d": 6764.73,
+    "bc_sku_count": 1113,
+    "has_upc": true,
+    "sample_upc": "5057546929352"
+  },
+  {
+    "design_code": "PNUTROC",
+    "revenue_90d": 6650.37,
+    "bc_sku_count": 508,
+    "has_upc": true,
+    "sample_upc": "5063291768016"
+  },
+  {
+    "design_code": "FCBKIT25",
+    "revenue_90d": 6515.98,
+    "bc_sku_count": 342,
+    "has_upc": true,
+    "sample_upc": "5057546966456"
+  },
+  {
+    "design_code": "LFCKIT4",
+    "revenue_90d": 6452.46,
+    "bc_sku_count": 121,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "UFCLOGO",
+    "revenue_90d": 6358.7,
+    "bc_sku_count": 0,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "BTMCLOG",
+    "revenue_90d": 6056.37,
+    "bc_sku_count": 1820,
+    "has_upc": true,
+    "sample_upc": "5063291810944"
+  },
+  {
+    "design_code": "LTOOFUL",
+    "revenue_90d": 6028.89,
+    "bc_sku_count": 1923,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "IMGCUAL",
+    "revenue_90d": 6004.89,
+    "bc_sku_count": 1972,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "NCFCCKT",
+    "revenue_90d": 5857.2,
+    "bc_sku_count": 282,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "BVGUNVIN",
+    "revenue_90d": 5811.05,
+    "bc_sku_count": 2664,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "FRNDICO2",
+    "revenue_90d": 5692.3,
+    "bc_sku_count": 1654,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "FCBCKT5",
+    "revenue_90d": 5690.57,
+    "bc_sku_count": 153,
+    "has_upc": true,
+    "sample_upc": "5063291798358"
+  },
+  {
+    "design_code": "PNUTSNO",
+    "revenue_90d": 5679.11,
+    "bc_sku_count": 626,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "ERUKIT5",
+    "revenue_90d": 5606.12,
+    "bc_sku_count": 68,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "IMILHKT",
+    "revenue_90d": 5510.45,
+    "bc_sku_count": 2212,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "GLCOLOG",
+    "revenue_90d": 5505.75,
+    "bc_sku_count": 792,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "NFLLOOAK",
+    "revenue_90d": 5495.8,
+    "bc_sku_count": 617,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "TFTSPOS",
+    "revenue_90d": 5475.8,
+    "bc_sku_count": 579,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "HPOTPRI2",
+    "revenue_90d": 5441.51,
+    "bc_sku_count": 1269,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "MOHDLOG",
+    "revenue_90d": 5435.9,
+    "bc_sku_count": 823,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "LFCTIA",
+    "revenue_90d": 5429.52,
+    "bc_sku_count": 40,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "WEBBCHA",
+    "revenue_90d": 5415.95,
+    "bc_sku_count": 1528,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "MCGRAPH",
+    "revenue_90d": 5415.95,
+    "bc_sku_count": 336,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "LFCCHMP2",
+    "revenue_90d": 5415.95,
+    "bc_sku_count": 16,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "BVBLUALB",
+    "revenue_90d": 5410.59,
+    "bc_sku_count": 5549,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "WWESZA",
+    "revenue_90d": 5396.0,
+    "bc_sku_count": 12,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "BVQUEEBR",
+    "revenue_90d": 5396.0,
+    "bc_sku_count": 0,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "COWCGRA",
+    "revenue_90d": 5396.0,
+    "bc_sku_count": 802,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "HPOTDH9",
+    "revenue_90d": 5220.13,
+    "bc_sku_count": 1750,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "WFCKT8",
+    "revenue_90d": 5106.41,
+    "bc_sku_count": 884,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "HPOTDH14",
+    "revenue_90d": 5092.2,
+    "bc_sku_count": 1033,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "JFCMAR",
+    "revenue_90d": 5061.74,
+    "bc_sku_count": 1029,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "SPRCLOG",
+    "revenue_90d": 4960.91,
+    "bc_sku_count": 2362,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "BTMCHUS",
+    "revenue_90d": 4761.21,
+    "bc_sku_count": 1083,
+    "has_upc": true,
+    "sample_upc": "5063291812528"
+  },
+  {
+    "design_code": "AVLACKIT",
+    "revenue_90d": 4752.85,
+    "bc_sku_count": 162,
+    "has_upc": true,
+    "sample_upc": "5063291023399"
+  },
+  {
+    "design_code": "PNUTAPO",
+    "revenue_90d": 4677.61,
+    "bc_sku_count": 267,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "MCBAGEO",
+    "revenue_90d": 4647.9,
+    "bc_sku_count": 821,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "WWE2CRH",
+    "revenue_90d": 4634.8,
+    "bc_sku_count": 1822,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "TDKNKEY",
+    "revenue_90d": 4566.05,
+    "bc_sku_count": 1628,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "FRNDICO",
+    "revenue_90d": 4392.94,
+    "bc_sku_count": 3622,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "BVBEHTE",
+    "revenue_90d": 4324.43,
+    "bc_sku_count": 618,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "AVLAKIT25",
+    "revenue_90d": 4128.77,
+    "bc_sku_count": 522,
+    "has_upc": true,
+    "sample_upc": "5057546941095"
+  },
+  {
+    "design_code": "PNUTSCO",
+    "revenue_90d": 4083.46,
+    "bc_sku_count": 755,
+    "has_upc": true,
+    "sample_upc": "5063291810630"
+  },
+  {
+    "design_code": "FCBCKT7",
+    "revenue_90d": 4055.73,
+    "bc_sku_count": 463,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "HPOTDH8",
+    "revenue_90d": 4027.89,
+    "bc_sku_count": 621,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "WMGRATTRE",
+    "revenue_90d": 4007.27,
+    "bc_sku_count": 1609,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "CFCKIT25",
+    "revenue_90d": 3923.06,
+    "bc_sku_count": 2373,
+    "has_upc": true,
+    "sample_upc": "5057546913573"
+  },
+  {
+    "design_code": "IMILIM2S",
+    "revenue_90d": 3874.29,
+    "bc_sku_count": 325,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "HPOTCSE2",
+    "revenue_90d": 3834.0,
+    "bc_sku_count": 630,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "FCBPHKT25",
+    "revenue_90d": 3808.8,
+    "bc_sku_count": 850,
+    "has_upc": true,
+    "sample_upc": "5057546971825"
+  },
+  {
+    "design_code": "IMGCUAAR",
+    "revenue_90d": 3775.3,
+    "bc_sku_count": 762,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "ACMCRE",
+    "revenue_90d": 3769.71,
+    "bc_sku_count": 2054,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "WWE2RHE",
+    "revenue_90d": 3694.83,
+    "bc_sku_count": 829,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "HPOTSOR",
+    "revenue_90d": 3663.44,
+    "bc_sku_count": 1647,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "HPOTDH31",
+    "revenue_90d": 3654.97,
+    "bc_sku_count": 302,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "IMGCUOK",
+    "revenue_90d": 3545.54,
+    "bc_sku_count": 2418,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "BVRSKAR",
+    "revenue_90d": 3473.12,
+    "bc_sku_count": 1888,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "FCBCKT4",
+    "revenue_90d": 3448.58,
+    "bc_sku_count": 97,
+    "has_upc": true,
+    "sample_upc": "5057546050438"
+  },
+  {
+    "design_code": "BVGUNSKY",
+    "revenue_90d": 3415.14,
+    "bc_sku_count": 1188,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "IRONTOU",
+    "revenue_90d": 3413.68,
+    "bc_sku_count": 1059,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "FCBFTM4",
+    "revenue_90d": 3398.73,
+    "bc_sku_count": 2082,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "WWE2JEY",
+    "revenue_90d": 3352.08,
+    "bc_sku_count": 228,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "SCDOMYS",
+    "revenue_90d": 3338.45,
+    "bc_sku_count": 2201,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "ERUKIT3",
+    "revenue_90d": 3328.94,
+    "bc_sku_count": 48,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "CRFCCRE",
+    "revenue_90d": 3103.94,
+    "bc_sku_count": 3860,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "FCBCKT3",
+    "revenue_90d": 3103.78,
+    "bc_sku_count": 252,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "THFCBKT",
+    "revenue_90d": 3099.0,
+    "bc_sku_count": 2046,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "JFCRKT7",
+    "revenue_90d": 3016.91,
+    "bc_sku_count": 1019,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "NFLLOKAN",
+    "revenue_90d": 3016.43,
+    "bc_sku_count": 3726,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "CFCKIT3",
+    "revenue_90d": 2997.65,
+    "bc_sku_count": 82,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "MCMARBA",
+    "revenue_90d": 2994.08,
+    "bc_sku_count": 728,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "BVSPBAN",
+    "revenue_90d": 2980.82,
+    "bc_sku_count": 1480,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "NFLLODEN",
+    "revenue_90d": 2972.4,
+    "bc_sku_count": 3661,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "BVARIDW",
+    "revenue_90d": 2960.52,
+    "bc_sku_count": 891,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "AFCFT7",
+    "revenue_90d": 2957.35,
+    "bc_sku_count": 1722,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "CBEA40A",
+    "revenue_90d": 2946.38,
+    "bc_sku_count": 2016,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "SRULOG",
+    "revenue_90d": 2937.4,
+    "bc_sku_count": 1785,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "NHLEDMO",
+    "revenue_90d": 2934.47,
+    "bc_sku_count": 3370,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "MCPATT",
+    "revenue_90d": 2909.56,
+    "bc_sku_count": 593,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "TDKNGRA",
+    "revenue_90d": 2888.65,
+    "bc_sku_count": 1806,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "MCBPIXE",
+    "revenue_90d": 2882.64,
+    "bc_sku_count": 410,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "NFLLOBAL",
+    "revenue_90d": 2882.27,
+    "bc_sku_count": 3683,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "HPOTCSE",
+    "revenue_90d": 2872.22,
+    "bc_sku_count": 1383,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "ASMYTCR",
+    "revenue_90d": 2869.17,
+    "bc_sku_count": 730,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "NCFCCRE",
+    "revenue_90d": 2858.36,
+    "bc_sku_count": 1586,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "RMCFURB",
+    "revenue_90d": 2853.27,
+    "bc_sku_count": 576,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "WACKCLA",
+    "revenue_90d": 2836.38,
+    "bc_sku_count": 660,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "GRMLPHO",
+    "revenue_90d": 2835.32,
+    "bc_sku_count": 411,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "SPRCCOM",
+    "revenue_90d": 2833.83,
+    "bc_sku_count": 616,
+    "has_upc": true,
+    "sample_upc": "5063291837286"
+  },
+  {
+    "design_code": "SUPNKEY",
+    "revenue_90d": 2831.82,
+    "bc_sku_count": 1380,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "TFTSLOG",
+    "revenue_90d": 2826.92,
+    "bc_sku_count": 660,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "WWE2DGE",
+    "revenue_90d": 2825.13,
+    "bc_sku_count": 527,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "NFLLOPIT",
+    "revenue_90d": 2822.12,
+    "bc_sku_count": 3661,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "HPOTMEM",
+    "revenue_90d": 2821.43,
+    "bc_sku_count": 0,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "WIWOGRA",
+    "revenue_90d": 2817.7,
+    "bc_sku_count": 1180,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "BVMONPKY",
+    "revenue_90d": 2816.7,
+    "bc_sku_count": 2392,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "BVBSABKEY",
+    "revenue_90d": 2814.7,
+    "bc_sku_count": 1207,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "NFL4LOENG",
+    "revenue_90d": 2801.75,
+    "bc_sku_count": 972,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "TGOOGRA",
+    "revenue_90d": 2797.75,
+    "bc_sku_count": 897,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "ERUKIT6",
+    "revenue_90d": 2796.26,
+    "bc_sku_count": 588,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "TLRIRKP",
+    "revenue_90d": 2794.56,
+    "bc_sku_count": 833,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "BVJBKEY",
+    "revenue_90d": 2792.43,
+    "bc_sku_count": 2376,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "AFCTYP",
+    "revenue_90d": 2792.08,
+    "bc_sku_count": 273,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "GTGRAPH",
+    "revenue_90d": 2784.56,
+    "bc_sku_count": 344,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "COURGRA",
+    "revenue_90d": 2777.8,
+    "bc_sku_count": 765,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "SUPNGRA",
+    "revenue_90d": 2777.8,
+    "bc_sku_count": 573,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "MC24PLCH",
+    "revenue_90d": 2777.8,
+    "bc_sku_count": 1065,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "TBBTBAZ",
+    "revenue_90d": 2774.47,
+    "bc_sku_count": 882,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "HPOTDH22",
+    "revenue_90d": 2771.01,
+    "bc_sku_count": 40,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "HPOTDH36",
+    "revenue_90d": 2768.09,
+    "bc_sku_count": 420,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "TBATPOS",
+    "revenue_90d": 2767.08,
+    "bc_sku_count": 2360,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "NFL4LOCHI",
+    "revenue_90d": 2765.85,
+    "bc_sku_count": 984,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "HPOTDH17",
+    "revenue_90d": 2763.42,
+    "bc_sku_count": 210,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "WMJOYDGRA",
+    "revenue_90d": 2758.85,
+    "bc_sku_count": 399,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "WWEUGRA",
+    "revenue_90d": 2757.85,
+    "bc_sku_count": 4,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "PNUTEAS",
+    "revenue_90d": 2757.85,
+    "bc_sku_count": 20,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "UFCHOL",
+    "revenue_90d": 2757.85,
+    "bc_sku_count": 0,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "IMGCLSU",
+    "revenue_90d": 2756.38,
+    "bc_sku_count": 3688,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "NFL4LOSSE",
+    "revenue_90d": 2751.47,
+    "bc_sku_count": 977,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "TOMJTYP",
+    "revenue_90d": 2751.47,
+    "bc_sku_count": 264,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "FCBCAM",
+    "revenue_90d": 2751.19,
+    "bc_sku_count": 4,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "TOMJILL",
+    "revenue_90d": 2750.79,
+    "bc_sku_count": 396,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "IMILHKT4",
+    "revenue_90d": 2749.16,
+    "bc_sku_count": 750,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "NFL4LOBUF",
+    "revenue_90d": 2748.3,
+    "bc_sku_count": 954,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "AFCGOO",
+    "revenue_90d": 2744.57,
+    "bc_sku_count": 165,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "TOMCD2L",
+    "revenue_90d": 2738.9,
+    "bc_sku_count": 2086,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "TOMJFUL",
+    "revenue_90d": 2736.35,
+    "bc_sku_count": 1188,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "ALGODRA",
+    "revenue_90d": 2734.71,
+    "bc_sku_count": 584,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "NFLLOARI2",
+    "revenue_90d": 2734.71,
+    "bc_sku_count": 1272,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "TOMJCHA",
+    "revenue_90d": 2734.44,
+    "bc_sku_count": 396,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "MOTLTOU",
+    "revenue_90d": 2734.44,
+    "bc_sku_count": 1196,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "BVSGREV",
+    "revenue_90d": 2731.38,
+    "bc_sku_count": 2637,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "BVIDRKEY",
+    "revenue_90d": 2731.24,
+    "bc_sku_count": 2336,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "FCBCUL",
+    "revenue_90d": 2731.24,
+    "bc_sku_count": 12,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "FBSDGBAD",
+    "revenue_90d": 2727.95,
+    "bc_sku_count": 1764,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "NFLLOLOS2",
+    "revenue_90d": 2719.95,
+    "bc_sku_count": 0,
+    "has_upc": false,
+    "sample_upc": null
+  },
+  {
+    "design_code": "RMCFRET",
+    "revenue_90d": 2718.59,
+    "bc_sku_count": 192,
+    "has_upc": false,
+    "sample_upc": null
+  }
+]

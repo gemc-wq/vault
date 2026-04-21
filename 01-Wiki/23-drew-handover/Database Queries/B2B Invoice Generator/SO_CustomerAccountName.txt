@@ -1,0 +1,26 @@
+Zero SO:
+
+RITM Spain:
+ESPANASLU - NBC UNIVERSAL GLOBAL NETWORKS ESPANA 
+
+RITM Italy:
+SLUITALYSRL - Universal Pictures International Italy S.r.l.
+
+RITM Netherlands:
+INTERBV - Universal Studios International BV
+
+RITM Germany:
+INTERTELE - NBCUniversal International Television
+
+RITM/NBCU/EXTERNAL UK:
+INTERLIM - NBC UNIVERSAL INTERNATIONAL LIMITED
+
+NBCU US:
+STUDIOSLLC - Universal Studios LLC
+
+RITM France:
+
+NBCUNIFRSAS - NBC UNIVERSAL GLOBAL NETWORKS FRANCE SAS
+
+
+sample: 2024-12-04_STUDIOSLLC_3400682302

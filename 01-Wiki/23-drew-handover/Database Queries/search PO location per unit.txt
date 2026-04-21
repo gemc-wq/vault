@@ -1,0 +1,8 @@
+SELECT b.`Sales_Record_Number` AS SRN,
+	b.`Buyer_Country` AS Country,
+	b. `Custom_Label` AS CL
+                    FROM POBySRN a
+                    LEFT JOIN order_tracker_xls b ON a.`SalesRecordNumber` = b.`Sales_Record_Number`
+                    WHERE a.`PickerPH` = 'Florida'
+                    AND b.`Custom_Label` LIKE '%H89%'
+                    AND a.`DateTimeCreated` BETWEEN '2024-12-01' AND '2024-12-11'

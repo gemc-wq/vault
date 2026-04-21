@@ -1,0 +1,23 @@
+Prime orders
+SELECT
+	Sales_Record_Number,
+	f_ship_tracking,
+	f_status,
+	f_sage_order_no,
+	Custom_Label,
+	Quantity,
+	Sale_Price,
+	Paid_on_Date,
+	Buyer_Country,
+	Buyer_Fullname
+FROM order_tracker_xls
+WHERE f_ebay_site = 3
+AND STR_TO_DATE(Paid_on_Date, '%d-%b-%y') BETWEEN '2020-07-01' AND '2020-07-31'
+AND Sales_Record_Number IN 
+(
+	SELECT
+		tacc.f_accessory_srn
+	FROM t_accessory tacc
+	INNER JOIN t_marketplace_prime_orders tmpo ON tacc.f_sales_record_number = tmpo.f_sales_record_number
+	WHERE tmpo.f_is_prime = 1
+)

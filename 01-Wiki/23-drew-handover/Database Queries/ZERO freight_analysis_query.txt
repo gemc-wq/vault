@@ -1,0 +1,25 @@
+SELECT 
+a.`Sales_Record_Number` AS 'SalesRecordNumber',
+a.`f_ship_tracking` AS 'TrackingNumber',
+a.`f_sage_order_no` AS 'SageOrderNumber',
+a.`f_status` AS 'Status',
+a.`f_refunded` AS 'IsRefunded',
+a.`Buyer_Fullname` AS 'BuyerName',
+a.`Buyer_Country` AS 'BuyerCountry',
+a.`Custom_Label` AS 'CustomLabel',
+a.`Quantity` AS 'Quantity',
+a.`Sale_Price` AS 'SalePrice',
+a.`Postage_and_Packing` AS 'PostageAndPacking',
+a.`Total_Price` AS 'TotalPrice',
+a.`Paid_on_Date` AS 'PaidDate',
+a.`Dispatch_Date` AS 'DispatchDate',
+a.`Transaction_ID` AS 'TransactionID',
+a.`f_eTransaction_ID` AS 'SageCompany',
+#a.`f_ebay_site` as 'Marketplace',
+(SELECT f_site_name FROM t_marketplaces WHERE f_site_id = f_ebay_site) AS 'Marketplace',
+b.`PickerPH` AS 'POLocation',
+b.`DateTimeCreated` AS 'PODate'
+FROM order_tracker_xls a 
+LEFT JOIN POBySRN b ON a.`Sales_Record_Number` = b.`SalesRecordNumber`
+WHERE a.`Buyer_Country` IN ('United States', 'United States Of America', 'USA', 'US')
+AND STR_TO_DATE(a.`Paid_on_Date`, '%d-%b-%y') BETWEEN '2022-03-01' AND '2022-03-31'

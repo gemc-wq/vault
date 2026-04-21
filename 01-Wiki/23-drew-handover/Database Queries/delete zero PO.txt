@@ -1,0 +1,5 @@
+SELECT * FROM t_purchase_order_return_line WHERE f_return_id BETWEEN '39860' AND '39532'
+
+SELECT * FROM t_purchase_order_return WHERE f_document_no BETWEEN '1000012953' AND '1000013002'
+SELECT * FROM t_purchase_order_return_line WHERE f_return_id BETWEEN '39532' AND '39860'
+

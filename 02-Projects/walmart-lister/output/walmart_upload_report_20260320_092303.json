@@ -1,0 +1,11 @@
+[
+  {
+    "design": "DRGBSUSC-GOK",
+    "product_type": "HTPCR",
+    "variant_group_id": "HTPCR-IPH-DRGBSUSC-GOK",
+    "feed_json_path": "/Users/openclaw/.openclaw/workspace/projects/walmart-lister/output/walmart_feed_DRGBSUSC-GOK_HTPCR_20260320_092303.json",
+    "item_count": 30,
+    "skipped": [],
+    "status": "dry_run"
+  }
+]

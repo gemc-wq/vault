@@ -1,0 +1,9 @@
+SELECT 
+    Sales_Record_Number AS 'SalesRecordNumber',
+    f_status AS 'Status',
+    Custom_Label AS 'CustomLabel',
+    Buyer_Country AS 'BuyerCountry'
+FROM order_tracker_xls
+WHERE Buyer_Country IN ('United States', 'United States Of America', 'United States of America', 'US', 'USA')
+AND LEFT(SUBSTRING_INDEX(Custom_Label, '-', -2), 4) IN ('HALO', 'XBOX')
+AND STR_TO_DATE(Paid_on_Date, '%d-%b-%y') >= DATE_SUB(NOW(), INTERVAL 15 DAY)

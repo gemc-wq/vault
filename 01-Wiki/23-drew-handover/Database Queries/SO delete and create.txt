@@ -1,0 +1,8 @@
+change SO customer document
+
+update Ecell_US.dbo.SOPOrderReturn set CustomerDocumentNo = '111-0790133-4505828x' where CustomerDocumentNo = '111-0790133-4505828';
+
+
+create new SO
+
+update order_tracker_xls set f_sage_order_no = NULL, f_sage_insert_date = NULL where Sales_Record_Number = '111-0790133-4505828';

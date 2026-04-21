@@ -1,0 +1,417 @@
+{
+  "version": 1,
+  "jobs": [
+    {
+      "id": "a07c1606-3e53-4371-8991-a5e38da20469",
+      "agentId": "main",
+      "name": "Morning audio brief (Cem)",
+      "enabled": false,
+      "createdAtMs": 1770608424733,
+      "updatedAtMs": 1771802352303,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 6 * * *",
+        "tz": "America/New_York"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "next-heartbeat",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Create a concise morning brief for Cem: (1) today’s top priorities + why, (2) blockers / asks, (3) next 2–3 concrete actions. Keep it under ~60 seconds spoken. Then convert it to speech using the tts tool. Then send the audio file to Cem on Telegram (user id 5587457906) via the message tool with a short caption (1 line). If anything is missing to produce the brief, ask in text instead (no audio).",
+        "model": "openai-codex/gpt-5.2"
+      },
+      "state": {
+        "lastRunAtMs": 1771758000001,
+        "lastStatus": "ok",
+        "lastDurationMs": 27360
+      },
+      "delivery": {
+        "mode": "none"
+      }
+    },
+    {
+      "id": "6603bbbe-4e54-4f00-9ef3-05252cf01e96",
+      "agentId": "main",
+      "name": "Daily trends (US+UK) → CSV + Gamma slides (3am ET)",
+      "enabled": false,
+      "createdAtMs": 1771043199518,
+      "updatedAtMs": 1771802353325,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 3 * * *",
+        "tz": "America/New_York"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "next-heartbeat",
+      "payload": {
+        "kind": "agentTurn",
+        "model": "openai-codex/gpt-5.2",
+        "message": "Run the daily trend pipeline (US+UK focus) and deliver to Cem (Telegram user id 5587457906).\n\nGoal: Identify the most engaging posts on X/Instagram/TikTok relevant to phone cases/accessories, iPad cases, gaming cases/skins/accessories, and relevant sports/trending merchandise. Produce an exec-ready summary with images.\n\nOutputs:\n1) CSV (Excel/Google Sheets-ready) sorted by popularity_score desc. popularity_score = views*1 + likes*5 + comments*10 + shares*20 + saves*25 (missing metrics=0). Include clickable post links and image thumbnail links.\n2) Gamma slides deck (exec-ready, high-level actionable) with Top 5 trends + 10 content assignments, each with 1–2 reference images and clickable links. Export to PDF.\n\nProcedure:\n- Collect candidates: X via X API (bearer token), IG+TikTok via Apify actors. Prefer US+UK creators/brands/hashtags. Prioritize posts with high engagement.\n- Extract and normalize post metadata + any landing-page URLs.\n- For top posts, capture a representative screenshot/thumbnail (store under collaboration/trends/assets/YYYY-MM-DD/ and use those links/paths in the CSV).\n- Write CSV to clawd/collaboration/trends/targets/YYYY-MM-DD.csv.\n- Generate Gamma slides via Gamma API and export PDF.\n- Send Cem the CSV + PDF on Telegram with a short 2–3 line caption.\n\nIf any required credentials/tools are missing at runtime, send Cem a message listing exactly what’s missing and what partial outputs were created."
+      },
+      "state": {
+        "lastRunAtMs": 1771747200002,
+        "lastStatus": "ok",
+        "lastDurationMs": 301409
+      },
+      "delivery": {
+        "mode": "none"
+      }
+    },
+    {
+      "id": "5e16917b-e71b-4392-914f-efebb9db5e5f",
+      "agentId": "main",
+      "name": "Reminder (one-time-ish): save images to image library",
+      "enabled": false,
+      "createdAtMs": 1771707301755,
+      "updatedAtMs": 1771802354353,
+      "schedule": {
+        "kind": "cron",
+        "expr": "54 16 * * *",
+        "tz": "America/New_York"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "next-heartbeat",
+      "payload": {
+        "kind": "agentTurn",
+        "model": "openai-codex/gpt-5.2",
+        "message": "Send Cem (telegram user id 5587457906) a reminder: save the images to the image library so we can choose placeholders for the GoHeadCase test-site clone and lock homepage/PDP visuals for the weekend push. After sending, disable this cron job."
+      },
+      "state": {
+        "lastRunAtMs": 1771797240013,
+        "lastStatus": "ok",
+        "lastDurationMs": 14972,
+        "consecutiveErrors": 0
+      },
+      "delivery": {
+        "mode": "none"
+      }
+    },
+    {
+      "id": "c2921f82-880e-4649-8093-81f672564bbb",
+      "agentId": "main",
+      "name": "Weekly Momentum Brief",
+      "enabled": true,
+      "createdAtMs": 1772562549306,
+      "updatedAtMs": 1776676200036,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 5 * * 1",
+        "tz": "America/New_York"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Run the Weekly Momentum Brief: Query BigQuery table `instant-contact-479316-i4.zero_dataset.orders` for last 7d vs 90d sales rates by Brand, Design Group (OFFSET 2 code), and SKU. Use WHERE DATE(Paid_Date) >= DATE_SUB(CURRENT_DATE(), INTERVAL 97 DAY) to limit scan. Compute momentum scores (short÷long ratio). Flag: 🔥 Surging (>1.5x), ❄️ Cooling (<0.5x), 🆕 New Entrant (zero baseline), 💀 Dead on Arrival. Generate AI reasoning for top 10 movers. Format as executive brief. Send to Telegram and save to gdrive:Clawdbot Shared Folder/Brain/Daily/momentum/",
+        "timeoutSeconds": 600,
+        "model": "moonshot/kimi-k2-0905-preview"
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "telegram",
+        "to": "telegram:5587457906"
+      },
+      "state": {
+        "nextRunAtMs": 1777280400000,
+        "lastRunAtMs": 1776675600014,
+        "lastRunStatus": "error",
+        "lastStatus": "error",
+        "lastDurationMs": 600022,
+        "lastDeliveryStatus": "unknown",
+        "consecutiveErrors": 1,
+        "lastError": "cron: job execution timed out",
+        "lastErrorReason": "timeout"
+      }
+    },
+    {
+      "id": "8ad00cac-eb91-4390-bd54-9bbe9df1b6e9",
+      "agentId": "main",
+      "name": "Cron Health Check",
+      "enabled": true,
+      "createdAtMs": 1772562556934,
+      "updatedAtMs": 1776610357195,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 9 * * *",
+        "tz": "America/New_York"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Check CRON_CALENDAR.md in workspace. Verify all cron jobs listed are enabled and ran recently. Report any errors or drift. Do NOT try to send messages yourself — just write your findings as your final response. The system will deliver it automatically.",
+        "timeoutSeconds": 120,
+        "model": "moonshot/kimi-k2.5"
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "telegram",
+        "to": "telegram:5587457906"
+      },
+      "state": {
+        "nextRunAtMs": 1776690000000,
+        "lastRunAtMs": 1776603600015,
+        "lastRunStatus": "ok",
+        "lastStatus": "ok",
+        "lastDurationMs": 65868,
+        "lastDeliveryStatus": "delivered",
+        "consecutiveErrors": 0,
+        "lastDelivered": true
+      }
+    },
+    {
+      "id": "2aa35f09-4d6a-4876-a25c-fdf156067539",
+      "name": "Morning Brief",
+      "enabled": true,
+      "createdAtMs": 1772686666910,
+      "updatedAtMs": 1776686439146,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 8 * * *",
+        "tz": "America/New_York"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Morning brief for Cem. Read today's and yesterday's memory files from memory/ folder and MEMORY.md for context.\n\nGenerate a concise morning briefing covering:\n1. Summary of what Harry worked on yesterday (your own tasks and progress only)\n2. Any blockers Harry has right now\n3. Any important business context Cem should know about today\n\nDo NOT reference Orbit, PROJECT_STATUS.md, or Ava's tasks. This is Harry's own daily status only.\nKeep it under 800 characters. Write it as your final response — the system will deliver it automatically.",
+        "timeoutSeconds": 300,
+        "model": "moonshot/kimi-k2.5"
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "telegram",
+        "to": "telegram:5587457906"
+      },
+      "state": {
+        "nextRunAtMs": 1776772800000,
+        "lastRunAtMs": 1776686400014,
+        "lastRunStatus": "ok",
+        "lastStatus": "ok",
+        "lastDurationMs": 39132,
+        "lastDeliveryStatus": "delivered",
+        "consecutiveErrors": 0,
+        "lastDelivered": true
+      }
+    },
+    {
+      "id": "d1c8d25e-ba55-4963-ba1c-73a0ea66e7e3",
+      "agentId": "main",
+      "sessionKey": "agent:main:telegram:direct:5587457906",
+      "name": "FX rates daily sync (P2)",
+      "enabled": true,
+      "createdAtMs": 1772917337007,
+      "updatedAtMs": 1776663022180,
+      "schedule": {
+        "kind": "cron",
+        "expr": "30 1 * * *",
+        "tz": "America/New_York"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Run FX daily sync for Supabase Project 2. This is a scheduled reminder/task: refresh fx_rates_daily from frankfurter.app (daily reference rates) for the last 10 days. Then report success/failure count.\n\nCommands:\n- node ~/.openclaw/workspace/scripts/fx_rates_sync.mjs\n\nIf it fails, report the error output.",
+        "timeoutSeconds": 600,
+        "model": "moonshot/kimi-k2.5"
+      },
+      "delivery": {
+        "mode": "announce",
+        "to": "5587457906",
+        "channel": "telegram"
+      },
+      "state": {
+        "nextRunAtMs": 1776749400000,
+        "lastRunAtMs": 1776663000015,
+        "lastRunStatus": "ok",
+        "lastStatus": "ok",
+        "lastDurationMs": 22165,
+        "lastDeliveryStatus": "delivered",
+        "consecutiveErrors": 0,
+        "lastDelivered": true
+      }
+    },
+    {
+      "id": "748dabb9-cc48-409d-b492-a86533a4f78d",
+      "agentId": "main",
+      "sessionKey": "agent:main:telegram:direct:5587457906",
+      "name": "BQ→Supabase orders incremental sync (P2)",
+      "enabled": true,
+      "createdAtMs": 1772917342410,
+      "updatedAtMs": 1776664919277,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 2 * * *",
+        "tz": "America/New_York"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Run BigQuery→Supabase incremental orders sync for Project 2. This is a scheduled task: pull last 21 days from `instant-contact-479316-i4.zero_dataset.orders`, compute net_sale_usd using fx_rates_daily, and upsert into public.orders.\n\nCommands:\n- node ~/.openclaw/workspace/scripts/bq_to_supabase_orders_sync.mjs\n\nReport how many orders were upserted and any errors.",
+        "timeoutSeconds": 1800,
+        "model": "moonshot/kimi-k2-0905-preview"
+      },
+      "delivery": {
+        "mode": "announce",
+        "to": "5587457906",
+        "channel": "telegram"
+      },
+      "state": {
+        "nextRunAtMs": 1776751200000,
+        "lastRunAtMs": 1776664800014,
+        "lastRunStatus": "ok",
+        "lastStatus": "ok",
+        "lastDurationMs": 119263,
+        "lastDeliveryStatus": "delivered",
+        "consecutiveErrors": 0,
+        "lastDelivered": true
+      }
+    },
+    {
+      "id": "dc6a066b-932a-4ae0-83d6-8f53252d03d7",
+      "agentId": "main",
+      "sessionKey": "agent:main:telegram:direct:5587457906",
+      "name": "housekeeping:weekly-workspace-backup-to-gdrive",
+      "enabled": true,
+      "createdAtMs": 1772924200410,
+      "updatedAtMs": 1776610357201,
+      "schedule": {
+        "kind": "cron",
+        "expr": "30 9 * * 6",
+        "tz": "America/New_York"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Weekly workspace backup (Saturday):\n- Create a tar.gz of ~/.openclaw/workspace excluding .git, node_modules, .venv, canvas, and common image files.\n- Upload to Google Drive: gdrive:Clawdbot Shared Folder/Brain/Backups/OpenClaw/iMac/<timestamp>/\n- Do NOT include ~/.openclaw/.env or ~/.openclaw/openclaw.json.\n- Report the remote path + filename.\nImplementation notes:\n- Use /tmp for the archive to avoid tar self-inclusion.\n- Use rclone to copy.",
+        "timeoutSeconds": 1200,
+        "model": "moonshot/kimi-k2.5"
+      },
+      "delivery": {
+        "mode": "announce",
+        "to": "5587457906",
+        "channel": "telegram"
+      },
+      "state": {
+        "nextRunAtMs": 1777123800000,
+        "lastRunAtMs": 1776519000013,
+        "lastRunStatus": "ok",
+        "lastStatus": "ok",
+        "lastDurationMs": 52685,
+        "lastDeliveryStatus": "delivered",
+        "consecutiveErrors": 0,
+        "lastDelivered": true
+      }
+    },
+    {
+      "id": "800a06bf-b435-424e-89d3-d6194b3db3f3",
+      "agentId": "main",
+      "sessionKey": "agent:main:telegram:direct:5587457906",
+      "name": "Xero API scopes reminder — April unlock",
+      "enabled": false,
+      "deleteAfterRun": true,
+      "createdAtMs": 1773865075982,
+      "updatedAtMs": 1775048463807,
+      "schedule": {
+        "kind": "at",
+        "at": "2026-04-01T13:00:00.000Z"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "REMINDER for Cem: Xero API granular scopes should now be available for apps created after March 2, 2026. Time to resume the Xero finance app — wire up invoice creation, NBCU PO→Xero pipeline, and the email-invoice flow. App is at /Users/clawdbot/.openclaw/workspace/Finance/xero-query-app. US app client ID is 82493B8C27004D9D92CF47A73B517A18. Let Cem know it's time to pick this back up and ask if he wants to proceed."
+      },
+      "delivery": {
+        "mode": "announce",
+        "to": "5587457906",
+        "channel": "telegram"
+      },
+      "state": {
+        "lastRunAtMs": 1775048447890,
+        "lastRunStatus": "error",
+        "lastStatus": "error",
+        "lastDurationMs": 15917,
+        "lastError": "Unsupported channel: telegram",
+        "lastDeliveryStatus": "unknown",
+        "consecutiveErrors": 1
+      }
+    },
+    {
+      "id": "c6b62e59-61d8-4e30-86d2-b878bb42f458",
+      "agentId": "main",
+      "sessionKey": "agent:main:telegram:direct:5587457906",
+      "name": "BQ→Supabase inventory sync (UK+FL)",
+      "enabled": true,
+      "createdAtMs": 1775080570759,
+      "updatedAtMs": 1776668503451,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 3 * * *",
+        "tz": "America/New_York"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Run BigQuery→Supabase inventory sync for UK, Florida, and PH warehouses. This syncs from the canonical source `zero_dataset.inventory` (live Sage data) to the blank_inventory table with calculated velocity and alert levels.\n\nCommands:\n- node ~/.openclaw/workspace/scripts/bq_to_supabase_inventory_sync.mjs\n\nReport how many items were synced per warehouse and any errors.",
+        "model": "moonshot/kimi-k2.5",
+        "timeoutSeconds": 600
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "telegram",
+        "to": "5587457906"
+      },
+      "state": {
+        "nextRunAtMs": 1776754800000,
+        "lastRunAtMs": 1776668400015,
+        "lastRunStatus": "ok",
+        "lastStatus": "ok",
+        "lastDurationMs": 103436,
+        "lastDeliveryStatus": "delivered",
+        "consecutiveErrors": 0,
+        "lastDelivered": true
+      }
+    },
+    {
+      "id": "8763d0ac-774e-4a14-90a3-58b10d8c496f",
+      "agentId": "main",
+      "sessionKey": "agent:main:telegram:direct:5587457906",
+      "name": "evri-eu-fulfillment-nightly",
+      "enabled": true,
+      "createdAtMs": 1775567552133,
+      "updatedAtMs": 1776639642770,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 0 * * *",
+        "tz": "Europe/London"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "model": "moonshot/kimi-k2.5",
+        "timeoutSeconds": 300,
+        "message": "Run the Evri EU fulfillment export script. Steps:\n1. Run: python3 /Users/clawdbot/.openclaw/workspace/scripts/evri_eu_fulfillment.py\n   (Script uses gcloud auth + BigQuery — no env loading needed for BQ. TELEGRAM_BOT_TOKEN may be needed for delivery.)\n2. The script queries BigQuery elcell_co_uk_barcode.order_tracker_xls for today's EU Pending orders, builds Evri-format CSV, uploads to GDrive Brain/Fulfillment/Evri/, sends file via Telegram.\n3. If 0 EU orders: reply 'Evri EU nightly: 0 EU orders today.'\n4. If error: report it clearly.\nDo NOT use message tool — script handles Telegram delivery. Just report the outcome as your final response."
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "telegram",
+        "to": "telegram:5587457906"
+      },
+      "state": {
+        "nextRunAtMs": 1776726000000,
+        "lastRunAtMs": 1776639600015,
+        "lastRunStatus": "ok",
+        "lastStatus": "ok",
+        "lastDurationMs": 42755,
+        "lastDelivered": true,
+        "lastDeliveryStatus": "delivered",
+        "consecutiveErrors": 0
+      }
+    }
+  ]
+}

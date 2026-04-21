@@ -1,0 +1,5618 @@
+[
+  {
+    "design": "DRGBSUSC-GOK",
+    "revenue": 13282.85,
+    "orders": 604,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NARUICO-AKA",
+    "revenue": 10401.94,
+    "orders": 450,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PNUTBOA-XOX",
+    "revenue": 10329.09,
+    "orders": 453,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "FCBCKT8-AWY",
+    "revenue": 9300.08,
+    "orders": 387,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "HPOTDH37-HOP",
+    "revenue": 9157.58,
+    "orders": 378,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PNUTCHA-SNO",
+    "revenue": 9137.64,
+    "orders": 390,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "GMORGRA-ICO",
+    "revenue": 5660.57,
+    "orders": 244,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "FCBKIT25-HOM",
+    "revenue": 5439.6,
+    "orders": 259,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PNUTHAL-CSW",
+    "revenue": 5233.44,
+    "orders": 230,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NARUCHA-ITA",
+    "revenue": 5157.47,
+    "orders": 222,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PNUTBBU-SUR",
+    "revenue": 4231.48,
+    "orders": 185,
+    "types": [
+      "HB401",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PNUTHAL-SWB",
+    "revenue": 4200.65,
+    "orders": 175,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NARUCHA-ITM",
+    "revenue": 3621.76,
+    "orders": 166,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "WWE2JEY-POR",
+    "revenue": 3545.08,
+    "orders": 167,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "DRGBSUSC-VEG",
+    "revenue": 3285.82,
+    "orders": 153,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "FCBCPA-BLK",
+    "revenue": 3216.44,
+    "orders": 145,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "HPOTPRI2-MAR",
+    "revenue": 3167.72,
+    "orders": 131,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCUAAR-COL",
+    "revenue": 2817.76,
+    "orders": 128,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "ADVEGRA-BMO",
+    "revenue": 2774.62,
+    "orders": 127,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PNUTORI-CBL",
+    "revenue": 2749.63,
+    "orders": 126,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PNUTSCO-NBA",
+    "revenue": 2566.9,
+    "orders": 118,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "RMCFRET-BLA",
+    "revenue": 2513.37,
+    "orders": 109,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PNUTDDR-HOU",
+    "revenue": 2502.13,
+    "orders": 117,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "RMCFKIT25-AWY",
+    "revenue": 2305.76,
+    "orders": 98,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "BVBEKYA-BLO",
+    "revenue": 2241.24,
+    "orders": 114,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "RMCFKIT25-HOM",
+    "revenue": 2210.88,
+    "orders": 97,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "WMGRATTRE-BEA",
+    "revenue": 2207.18,
+    "orders": 104,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "OHIOLOGO-OBU",
+    "revenue": 2197.62,
+    "orders": 100,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "FCBPHKT25-YAM",
+    "revenue": 2161.0,
+    "orders": 100,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "BTMCHUS-LCD",
+    "revenue": 1995.79,
+    "orders": 92,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "WWE2W41-KPO",
+    "revenue": 1905.76,
+    "orders": 95,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "SCDO50T-MYS",
+    "revenue": 1883.72,
+    "orders": 81,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "HPOTSOR2-CAS",
+    "revenue": 1850.76,
+    "orders": 86,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCUOK-BSO",
+    "revenue": 1845.35,
+    "orders": 76,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "DRGBSUSA-GRP",
+    "revenue": 1812.6,
+    "orders": 88,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "DRGBCHA-GOK",
+    "revenue": 1755.7,
+    "orders": 88,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "OHIOLOGO-STR",
+    "revenue": 1755.15,
+    "orders": 81,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "HATSGRA-NIG",
+    "revenue": 1753.45,
+    "orders": 81,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "FCBFTM2G1-MES",
+    "revenue": 1716.7,
+    "orders": 79,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PNUTWOD-SWO",
+    "revenue": 1685.51,
+    "orders": 75,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "BTMCHUS-LOG",
+    "revenue": 1628.63,
+    "orders": 71,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "HPOTDH13-HOP",
+    "revenue": 1595.19,
+    "orders": 69,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "FCBCKT7-HOM",
+    "revenue": 1488.1,
+    "orders": 61,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NARUICO-KAK",
+    "revenue": 1470.6,
+    "orders": 68,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NARUICO-TOB",
+    "revenue": 1446.63,
+    "orders": 67,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NARUCHA-NUZ",
+    "revenue": 1426.92,
+    "orders": 65,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "WMGRATTRE-BER",
+    "revenue": 1396.32,
+    "orders": 68,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "HPOTDH13-HUP",
+    "revenue": 1354.12,
+    "orders": 63,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "WWE2RHE-BRU",
+    "revenue": 1348.29,
+    "orders": 65,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "HATSGRA-NEB",
+    "revenue": 1342.9,
+    "orders": 62,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "WWE2CMP-RET",
+    "revenue": 1330.92,
+    "orders": 74,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "OHIOLOGO-BLK",
+    "revenue": 1285.02,
+    "orders": 64,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NARUICO-IMA",
+    "revenue": 1266.79,
+    "orders": 58,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCUAL-BWM",
+    "revenue": 1243.22,
+    "orders": 57,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NARUCHA-KAK",
+    "revenue": 1230.61,
+    "orders": 59,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCUAL-CAM",
+    "revenue": 1230.56,
+    "orders": 54,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PPUFGRA-BUT",
+    "revenue": 1223.55,
+    "orders": 59,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "SPRCCOM-OVE",
+    "revenue": 1170.49,
+    "orders": 53,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PNUTT21-SSP",
+    "revenue": 1142.27,
+    "orders": 52,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "WWE2RHE-POR",
+    "revenue": 1125.65,
+    "orders": 58,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NARUICO-KUR",
+    "revenue": 1119.95,
+    "orders": 51,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PNUTROC-SWL",
+    "revenue": 1074.83,
+    "orders": 50,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PNUTADI-TRO",
+    "revenue": 1064.42,
+    "orders": 48,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "HPOTDH13-RPA",
+    "revenue": 1049.82,
+    "orders": 52,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "BVBEKYA-BBL",
+    "revenue": 1044.35,
+    "orders": 53,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NARUICO-UCH",
+    "revenue": 1028.6,
+    "orders": 49,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "OHIOFLOG-MAS",
+    "revenue": 1025.28,
+    "orders": 49,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NBA2WAR-STI",
+    "revenue": 1001.65,
+    "orders": 49,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "RMCFURB-GRE",
+    "revenue": 994.39,
+    "orders": 47,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PNUTCHA-CBR",
+    "revenue": 983.6,
+    "orders": 50,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NARUICO-IHE",
+    "revenue": 967.44,
+    "orders": 44,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "SUPNKEY-SD2",
+    "revenue": 963.87,
+    "orders": 46,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "BTMCLOG-CLA",
+    "revenue": 960.58,
+    "orders": 41,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NARUKEY-SAS",
+    "revenue": 950.75,
+    "orders": 46,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "HPOTDH13-GPA",
+    "revenue": 939.6,
+    "orders": 43,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NHLBOSB-PUC",
+    "revenue": 923.42,
+    "orders": 44,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "AFA24G1-MES",
+    "revenue": 921.86,
+    "orders": 49,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "WWE2ROM-LIG",
+    "revenue": 917.55,
+    "orders": 47,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PNUTAPO-TOP",
+    "revenue": 916.4,
+    "orders": 42,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "SPRCLOG-CLA",
+    "revenue": 901.54,
+    "orders": 40,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "RMCFKIT25-THI",
+    "revenue": 898.32,
+    "orders": 44,
+    "types": [
+      "HB401",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCLSU-OVE",
+    "revenue": 893.71,
+    "orders": 39,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PNUTCHA-WOO",
+    "revenue": 872.75,
+    "orders": 40,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCUAL-PLA",
+    "revenue": 872.33,
+    "orders": 40,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "MCBDKIT25-HOM",
+    "revenue": 834.1,
+    "orders": 38,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "HPOTDH13-SPA",
+    "revenue": 824.76,
+    "orders": 37,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "BVBEHTE-AIM",
+    "revenue": 817.95,
+    "orders": 41,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "ADVEGRA-PAT",
+    "revenue": 798.1,
+    "orders": 39,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "RMCFURB-HAL",
+    "revenue": 790.4,
+    "orders": 37,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "SUPNKEY-SDC",
+    "revenue": 760.19,
+    "orders": 37,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "HPOTLTYP-LOG",
+    "revenue": 759.5,
+    "orders": 35,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "BTMCRHO-LGR",
+    "revenue": 750.5,
+    "orders": 37,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "FRNDICO-PEE",
+    "revenue": 750.47,
+    "orders": 35,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PPUFGRA-BUB",
+    "revenue": 744.2,
+    "orders": 38,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "HPOTDH14-SLY",
+    "revenue": 736.02,
+    "orders": 37,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NARUICO-GAA",
+    "revenue": 733.25,
+    "orders": 36,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "BTMCVFA-GRA",
+    "revenue": 731.53,
+    "orders": 32,
+    "types": [
+      "HB401",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "FCBCKT8-HOM",
+    "revenue": 730.95,
+    "orders": 33,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "RMCFORI-PLB",
+    "revenue": 730.25,
+    "orders": 35,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "WWE2TBE-CHA",
+    "revenue": 726.2,
+    "orders": 36,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "BALL-GOLF",
+    "revenue": 706.75,
+    "orders": 35,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IT17GRA-PN2",
+    "revenue": 699.83,
+    "orders": 32,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NHLBOSB-JER",
+    "revenue": 692.97,
+    "orders": 33,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "RMCFURB-WHI",
+    "revenue": 686.3,
+    "orders": 34,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "WWESUP-JOH",
+    "revenue": 681.24,
+    "orders": 33,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "HATSGRA-SAK",
+    "revenue": 677.4,
+    "orders": 32,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "RMCFRET-WHI",
+    "revenue": 668.45,
+    "orders": 33,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "LFCDCA-HRC",
+    "revenue": 666.54,
+    "orders": 29,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "HATSGRA-SRA",
+    "revenue": 657.44,
+    "orders": 31,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "WWE2LIV-POR",
+    "revenue": 656.44,
+    "orders": 33,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "SPRCLOG-BRD",
+    "revenue": 656.42,
+    "orders": 29,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "SPRCCOM-COL",
+    "revenue": 652.33,
+    "orders": 30,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PNUTCHA-GRP",
+    "revenue": 650.03,
+    "orders": 30,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCPSA-WE3",
+    "revenue": 648.6,
+    "orders": 29,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PNUTBOA-JOE",
+    "revenue": 648.29,
+    "orders": 30,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCUOKA-COL",
+    "revenue": 643.72,
+    "orders": 30,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NHLBOSB-OVE",
+    "revenue": 636.98,
+    "orders": 31,
+    "types": [
+      "HB401",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PPUFGRA-BLO",
+    "revenue": 628.45,
+    "orders": 33,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "WWE2JCEN-POR",
+    "revenue": 624.5,
+    "orders": 30,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NARUICO-KNT",
+    "revenue": 610.6,
+    "orders": 28,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "WWE2CRH-SGR",
+    "revenue": 610.4,
+    "orders": 32,
+    "types": [
+      "HB401",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "WWE2RHE-SHE",
+    "revenue": 606.55,
+    "orders": 30,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NBA2CEL-STI",
+    "revenue": 604.6,
+    "orders": 29,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "AFCLOGOS-COL",
+    "revenue": 600.55,
+    "orders": 29,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCLSUA-TG1",
+    "revenue": 598.5,
+    "orders": 30,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PNUTHAL-SGE",
+    "revenue": 596.6,
+    "orders": 28,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PNUTBOA-CKA",
+    "revenue": 596.6,
+    "orders": 29,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "BTMCTHR-CLO",
+    "revenue": 596.55,
+    "orders": 29,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NHLNYKR-JER",
+    "revenue": 596.26,
+    "orders": 27,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "BTMCNWI-LGR",
+    "revenue": 595.42,
+    "orders": 30,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "AFCCGLO-BLK",
+    "revenue": 594.6,
+    "orders": 28,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NARUKEY-KON",
+    "revenue": 584.5,
+    "orders": 31,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PNUTHAL-SWO",
+    "revenue": 578.65,
+    "orders": 27,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "LFCLVBRD-BLK1",
+    "revenue": 578.39,
+    "orders": 25,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "BTMCLOG-HUS",
+    "revenue": 572.72,
+    "orders": 25,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NARUICO-NCO",
+    "revenue": 564.7,
+    "orders": 26,
+    "types": [
+      "HB401",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "AFCCRE-BLO",
+    "revenue": 557.63,
+    "orders": 27,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PNUTBBU-SUN",
+    "revenue": 556.7,
+    "orders": 26,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "HATSGRA-STA",
+    "revenue": 551.7,
+    "orders": 26,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "TLRIFRG-ONE",
+    "revenue": 550.7,
+    "orders": 26,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "WWE2BRY-LET",
+    "revenue": 549.95,
+    "orders": 33,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "AFCKIT25-HOM",
+    "revenue": 546.57,
+    "orders": 25,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCUAL-CTI",
+    "revenue": 542.78,
+    "orders": 27,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "TDKNKEY-JPO",
+    "revenue": 533.75,
+    "orders": 25,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "HATSGRA-WIN",
+    "revenue": 529.7,
+    "orders": 26,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PNUTHAL-SCH",
+    "revenue": 526.75,
+    "orders": 25,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "AFCCKT7-AWY",
+    "revenue": 520.28,
+    "orders": 25,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IRONART-BOB",
+    "revenue": 519.92,
+    "orders": 25,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NARUCHA-PAI",
+    "revenue": 517.24,
+    "orders": 23,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "AFCKIT25-THI",
+    "revenue": 512.8,
+    "orders": 24,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NBA2LOS-STI",
+    "revenue": 512.8,
+    "orders": 24,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PNUTORI-CBR",
+    "revenue": 510.75,
+    "orders": 25,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NARUCHA-MIN",
+    "revenue": 509.8,
+    "orders": 25,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PNUTORI-SLE",
+    "revenue": 506.8,
+    "orders": 24,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCLSU-CAM",
+    "revenue": 506.36,
+    "orders": 24,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "DRGBSUSA-UNI",
+    "revenue": 504.75,
+    "orders": 25,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "RMORS3GR-PIC",
+    "revenue": 501.35,
+    "orders": 25,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "SCDOSCO-SCO",
+    "revenue": 498.68,
+    "orders": 23,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "SUPNKEY-SC2",
+    "revenue": 494.85,
+    "orders": 23,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PNUTSCO-NRA",
+    "revenue": 489.85,
+    "orders": 23,
+    "types": [
+      "HB401",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "HPOTDH37-HEP",
+    "revenue": 486.89,
+    "orders": 23,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PNUTORI-FLO",
+    "revenue": 486.85,
+    "orders": 23,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "LFCKIT25-HOM",
+    "revenue": 483.85,
+    "orders": 23,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "HPOTDH37-LPA",
+    "revenue": 481.67,
+    "orders": 24,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "HATSGRA-RAI",
+    "revenue": 478.85,
+    "orders": 23,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PNUTBOA-ILO",
+    "revenue": 474.9,
+    "orders": 22,
+    "types": [
+      "HB401",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "HPOTDH9-HOG",
+    "revenue": 473.68,
+    "orders": 21,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NBA2NKN-STI",
+    "revenue": 466.9,
+    "orders": 22,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "FCBCKT6-HOM",
+    "revenue": 463.16,
+    "orders": 22,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PNUTMAN-FLY",
+    "revenue": 458.89,
+    "orders": 22,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "OHIOFLOG-GOB",
+    "revenue": 458.85,
+    "orders": 23,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "FCBCKT4-HOM",
+    "revenue": 456.9,
+    "orders": 22,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NHLCOLA-JER",
+    "revenue": 445.58,
+    "orders": 22,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NBA2WAR-BLA",
+    "revenue": 444.95,
+    "orders": 21,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NARUCHA-SAS",
+    "revenue": 442.9,
+    "orders": 22,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "LFCKIT25-AWY",
+    "revenue": 439.98,
+    "orders": 20,
+    "types": [
+      "HB401",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "RMCFORI-GOL",
+    "revenue": 436.95,
+    "orders": 21,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "WWE2CRH-AME",
+    "revenue": 436.52,
+    "orders": 23,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "BTMCICB-HUS",
+    "revenue": 435.33,
+    "orders": 20,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "UFCLOGO-BGJ",
+    "revenue": 433.61,
+    "orders": 24,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCUAL-DIS",
+    "revenue": 430.95,
+    "orders": 21,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NHLPITP-JER",
+    "revenue": 428.87,
+    "orders": 21,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IRONTOU-LAD",
+    "revenue": 427.55,
+    "orders": 22,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "AFCCKT9-AWY",
+    "revenue": 425.52,
+    "orders": 21,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NARUKEY-NAR",
+    "revenue": 425.0,
+    "orders": 20,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PPUFGRA-GRP",
+    "revenue": 423.38,
+    "orders": 21,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PNUTMAN-JOE",
+    "revenue": 421.0,
+    "orders": 20,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NHLDALS-PUC",
+    "revenue": 420.95,
+    "orders": 24,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NARUICO-KHE",
+    "revenue": 415.05,
+    "orders": 19,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "SPRCCOM-RED",
+    "revenue": 411.0,
+    "orders": 20,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCUOK-BWM",
+    "revenue": 410.41,
+    "orders": 19,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCUAAR-CAM",
+    "revenue": 410.35,
+    "orders": 18,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "AFCKIT25-AWY",
+    "revenue": 405.05,
+    "orders": 19,
+    "types": [
+      "HB401",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "OHIOLOGO-PLA",
+    "revenue": 404.37,
+    "orders": 19,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "RMORS1N2-SCR",
+    "revenue": 399.0,
+    "orders": 20,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "WMGDAYGRA-AME",
+    "revenue": 399.0,
+    "orders": 20,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "BTMCFCB-NUM",
+    "revenue": 397.05,
+    "orders": 19,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PNUTCBR-GOO",
+    "revenue": 397.05,
+    "orders": 19,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NHLFLOP-JER",
+    "revenue": 392.87,
+    "orders": 19,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "RMORS1N2-RIC",
+    "revenue": 379.05,
+    "orders": 19,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCUTK-PLA",
+    "revenue": 379.05,
+    "orders": 19,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "BVGUNSKY-APP",
+    "revenue": 379.05,
+    "orders": 19,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NBA2LOS-OVE",
+    "revenue": 373.15,
+    "orders": 17,
+    "types": [
+      "HB401",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "FCBPHKT25-PED",
+    "revenue": 373.15,
+    "orders": 17,
+    "types": [
+      "HB401",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NARUKEY-AKA",
+    "revenue": 373.1,
+    "orders": 18,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "WWE2LIV-WAT",
+    "revenue": 372.61,
+    "orders": 22,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "WMGRATTRE-ROS",
+    "revenue": 370.26,
+    "orders": 17,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCUAL-OVE",
+    "revenue": 370.1,
+    "orders": 18,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "FCBKIT25-THI",
+    "revenue": 369.1,
+    "orders": 18,
+    "types": [
+      "HB401",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NBA2NKN-OVE",
+    "revenue": 363.15,
+    "orders": 17,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PNUTCHA-LUC",
+    "revenue": 363.15,
+    "orders": 17,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "DRGBSUSC-GOH",
+    "revenue": 363.1,
+    "orders": 19,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NHLDALS-OVE",
+    "revenue": 361.1,
+    "orders": 18,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NHLCHIB-JER",
+    "revenue": 359.1,
+    "orders": 19,
+    "types": [
+      "HB401"
+    ]
+  },
+  {
+    "design": "OHIOLOGO-DCA",
+    "revenue": 359.1,
+    "orders": 18,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NHLDETR-PUC",
+    "revenue": 357.7,
+    "orders": 18,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PNUTDDR-ORA",
+    "revenue": 357.15,
+    "orders": 17,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NHLPITP-PLA",
+    "revenue": 353.9,
+    "orders": 17,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NHLMINW-MAR",
+    "revenue": 353.15,
+    "orders": 17,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCUAAR-LEG",
+    "revenue": 353.15,
+    "orders": 17,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "SCDOSCO-WHE",
+    "revenue": 353.15,
+    "orders": 17,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "CFCCRE-BMA",
+    "revenue": 351.97,
+    "orders": 17,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "DRGBSFTR-MER",
+    "revenue": 351.2,
+    "orders": 16,
+    "types": [
+      "HB401",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "DRGBZCAS-GOK",
+    "revenue": 343.1,
+    "orders": 18,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "MCBDKIT25-AWY",
+    "revenue": 341.2,
+    "orders": 17,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "CFCKIT25-HOM",
+    "revenue": 338.92,
+    "orders": 16,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "BTMCHUS-NCO",
+    "revenue": 338.13,
+    "orders": 15,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "HPOTCSE2-DOB",
+    "revenue": 334.76,
+    "orders": 15,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "WWE2JEY-MAI",
+    "revenue": 333.61,
+    "orders": 16,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NBA2WAR-WHI",
+    "revenue": 331.2,
+    "orders": 16,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NHLNYKR-PUC",
+    "revenue": 330.98,
+    "orders": 15,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "HPOTDH18-HOG",
+    "revenue": 330.97,
+    "orders": 17,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "AFCCPA-RMA",
+    "revenue": 329.2,
+    "orders": 16,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PNUTBOA-CSU",
+    "revenue": 324.2,
+    "orders": 16,
+    "types": [
+      "HB401",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCUAAR-BAM",
+    "revenue": 319.25,
+    "orders": 15,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "DRGBZCAS-PRI",
+    "revenue": 319.2,
+    "orders": 16,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PNUTBBU-SSW",
+    "revenue": 317.25,
+    "orders": 17,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCPSU-PLA",
+    "revenue": 315.84,
+    "orders": 14,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCPSU-CAM",
+    "revenue": 315.07,
+    "orders": 15,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NHLDETR-OVE",
+    "revenue": 313.25,
+    "orders": 15,
+    "types": [
+      "HB401",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NARUKEY-TEA",
+    "revenue": 313.2,
+    "orders": 16,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IRONART-TRO",
+    "revenue": 312.63,
+    "orders": 16,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "FCBPHKT25-RAP",
+    "revenue": 311.25,
+    "orders": 16,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "HPOTDH9-RAV",
+    "revenue": 309.28,
+    "orders": 15,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "LTOOSEA-TWE",
+    "revenue": 309.2,
+    "orders": 17,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IT17GRA-LOS",
+    "revenue": 307.25,
+    "orders": 16,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NHLFLOP-OVE",
+    "revenue": 307.25,
+    "orders": 15,
+    "types": [
+      "HB401",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "ADVEGRA-JAK",
+    "revenue": 305.25,
+    "orders": 15,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "WMGRATTRE-BTD",
+    "revenue": 305.25,
+    "orders": 15,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IT17GRA-PNN",
+    "revenue": 305.25,
+    "orders": 15,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "TDKNKEY-BPO",
+    "revenue": 303.85,
+    "orders": 15,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "CFCKIT25-THI",
+    "revenue": 302.3,
+    "orders": 14,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NHL25SCC-OVE",
+    "revenue": 299.3,
+    "orders": 14,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "OHIOFLOG-VIN",
+    "revenue": 299.25,
+    "orders": 15,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "BVBEHTE-ASG",
+    "revenue": 299.25,
+    "orders": 15,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "WWE2CRH-DFL",
+    "revenue": 298.8,
+    "orders": 16,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "WWE2CRH-DNA",
+    "revenue": 298.75,
+    "orders": 16,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PNUTBOA-BEA",
+    "revenue": 295.3,
+    "orders": 14,
+    "types": [
+      "HB401",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCLSU-DIS",
+    "revenue": 292.71,
+    "orders": 13,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "HPOTLTYP-PLA",
+    "revenue": 292.3,
+    "orders": 14,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "HATSGRA-PAS",
+    "revenue": 292.23,
+    "orders": 13,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "TDKNKEY-JCA",
+    "revenue": 291.3,
+    "orders": 15,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PNUTSCO-NHO",
+    "revenue": 291.3,
+    "orders": 14,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCPSA-SGR",
+    "revenue": 288.1,
+    "orders": 14,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCUAL-FJE",
+    "revenue": 287.3,
+    "orders": 14,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "HPOTDH31-HC1",
+    "revenue": 287.18,
+    "orders": 14,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "DRGBSFTR-GRP",
+    "revenue": 285.35,
+    "orders": 13,
+    "types": [
+      "HB401",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IRONGRA-NOB",
+    "revenue": 285.3,
+    "orders": 14,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NHLNEWJ-JER",
+    "revenue": 283.69,
+    "orders": 14,
+    "types": [
+      "HB401",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCUAL-DIG",
+    "revenue": 282.83,
+    "orders": 13,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "COBRGRA-LOG",
+    "revenue": 281.59,
+    "orders": 13,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PNUTHAL-LUC",
+    "revenue": 281.57,
+    "orders": 13,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "B10AFGRA-CHA",
+    "revenue": 279.3,
+    "orders": 14,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCUTAR-GRA",
+    "revenue": 278.32,
+    "orders": 11,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "WWE2UND-POR",
+    "revenue": 278.1,
+    "orders": 14,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "WWE2BLO-WET",
+    "revenue": 277.95,
+    "orders": 17,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "DRGBSFTR-VEG",
+    "revenue": 277.35,
+    "orders": 13,
+    "types": [
+      "HB401",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "SCDOMYS-TIE",
+    "revenue": 275.35,
+    "orders": 13,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCPSA-185",
+    "revenue": 275.35,
+    "orders": 13,
+    "types": [
+      "HB401",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "AFCLOGOS-BBN",
+    "revenue": 275.32,
+    "orders": 13,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PNUTBOA-COW",
+    "revenue": 274.35,
+    "orders": 13,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NBA2NKN-BLA",
+    "revenue": 273.35,
+    "orders": 13,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PNUTCHA-PIG",
+    "revenue": 272.35,
+    "orders": 13,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PNUTHAL-WHO",
+    "revenue": 271.35,
+    "orders": 13,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCFSU-PLA",
+    "revenue": 268.52,
+    "orders": 14,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PNUTCUSTA-SAW",
+    "revenue": 268.5,
+    "orders": 11,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "ACMCKT7-HOM",
+    "revenue": 268.21,
+    "orders": 13,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCUTK-TVO",
+    "revenue": 267.6,
+    "orders": 11,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "DRGBCHA-ROS",
+    "revenue": 267.35,
+    "orders": 13,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "AFCCPA-MAR",
+    "revenue": 263.35,
+    "orders": 13,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NHLTAML-OVE",
+    "revenue": 263.35,
+    "orders": 13,
+    "types": [
+      "HB401",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NHLPHIF-PUC",
+    "revenue": 260.78,
+    "orders": 12,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NBA2CEL-MAR",
+    "revenue": 257.4,
+    "orders": 12,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "LTOOGCH-BUG",
+    "revenue": 257.25,
+    "orders": 12,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PNUTAPO-FLA",
+    "revenue": 253.4,
+    "orders": 12,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NARUCHA-SAK",
+    "revenue": 253.4,
+    "orders": 12,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "HPOTDH14-TRI",
+    "revenue": 253.4,
+    "orders": 12,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "BTMCHUS-CAT",
+    "revenue": 253.4,
+    "orders": 12,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "RMCFORI-PLW",
+    "revenue": 253.4,
+    "orders": 12,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "LTOOGCH-STI",
+    "revenue": 253.4,
+    "orders": 12,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "BTAOKEY-BAT",
+    "revenue": 251.8,
+    "orders": 11,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "WWECRHO-COD",
+    "revenue": 251.48,
+    "orders": 12,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PNUTCPA-SNO",
+    "revenue": 250.49,
+    "orders": 13,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PNUTCBR-PAT",
+    "revenue": 249.39,
+    "orders": 12,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "HPOTDH37-HPA",
+    "revenue": 246.82,
+    "orders": 13,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "DRGBICO-KSY",
+    "revenue": 245.4,
+    "orders": 12,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "MCBDKIT8-THI",
+    "revenue": 245.01,
+    "orders": 11,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "CORPKEY-FLO",
+    "revenue": 244.27,
+    "orders": 13,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "HPOTDH37-HP2",
+    "revenue": 241.45,
+    "orders": 11,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "SHSDOG-SHI",
+    "revenue": 241.35,
+    "orders": 13,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "WWE2LIV-LIV",
+    "revenue": 239.75,
+    "orders": 13,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "HPOTDH9-HUF",
+    "revenue": 239.59,
+    "orders": 11,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NBA2LOS-PAT",
+    "revenue": 239.45,
+    "orders": 11,
+    "types": [
+      "HB401",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "BATMKEY-LOG",
+    "revenue": 239.4,
+    "orders": 12,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NHLWASC-OVE",
+    "revenue": 239.4,
+    "orders": 13,
+    "types": [
+      "HB401",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "BVRSKAR-CLA",
+    "revenue": 239.4,
+    "orders": 12,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCTAMU-BWH",
+    "revenue": 239.4,
+    "orders": 12,
+    "types": [
+      "HB401",
+      "HC"
+    ]
+  },
+  {
+    "design": "WWE2CMP-POR",
+    "revenue": 238.2,
+    "orders": 12,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "BTMCCBCO-DET",
+    "revenue": 237.45,
+    "orders": 11,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "DRGBZCAS-SHE",
+    "revenue": 235.3,
+    "orders": 14,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "SCDOSEA-SCO",
+    "revenue": 233.45,
+    "orders": 11,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "CFCCRE-CAM",
+    "revenue": 232.45,
+    "orders": 10,
+    "types": [
+      "HB401",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "DRGBSUSA-FRI",
+    "revenue": 231.4,
+    "orders": 12,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "AFCCRE-FCR",
+    "revenue": 230.58,
+    "orders": 11,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCUIART-FI2",
+    "revenue": 230.15,
+    "orders": 12,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "CFCRETKS-LOG",
+    "revenue": 230.15,
+    "orders": 12,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NHLCARH-JER",
+    "revenue": 227.67,
+    "orders": 11,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NHLBOSB-MAR",
+    "revenue": 227.45,
+    "orders": 11,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "HPOTDH9-SLY",
+    "revenue": 226.45,
+    "orders": 11,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "FCBFTM4-PED",
+    "revenue": 225.45,
+    "orders": 11,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "FCBCKT6-AWY",
+    "revenue": 224.45,
+    "orders": 11,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "FCBCKT5-THI",
+    "revenue": 223.5,
+    "orders": 10,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "LTOOGCH-MAR",
+    "revenue": 223.45,
+    "orders": 11,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "DRGBSUSC-FRI",
+    "revenue": 223.45,
+    "orders": 11,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IRONALB-KIL",
+    "revenue": 221.45,
+    "orders": 11,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCUAL-BAN",
+    "revenue": 221.45,
+    "orders": 11,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NHLPITP-PUC",
+    "revenue": 221.45,
+    "orders": 11,
+    "types": [
+      "HB401",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "HPOTHLE-ACC",
+    "revenue": 220.19,
+    "orders": 10,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "DRGBICO-KHO",
+    "revenue": 219.45,
+    "orders": 11,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "BVBEKYA-BGR",
+    "revenue": 219.45,
+    "orders": 11,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NBA2CEL-OVE",
+    "revenue": 218.5,
+    "orders": 10,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "MCFTEAM4-FOD",
+    "revenue": 218.3,
+    "orders": 12,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PNUTBBU-SCA",
+    "revenue": 215.5,
+    "orders": 12,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "FCBCRE-OVE",
+    "revenue": 215.5,
+    "orders": 10,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "BTMCICB-NEW",
+    "revenue": 213.5,
+    "orders": 10,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "UFCOLI-FKT",
+    "revenue": 213.3,
+    "orders": 14,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "DRGBSUSC-AND",
+    "revenue": 212.5,
+    "orders": 10,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "WWE2ROM-TPA",
+    "revenue": 211.71,
+    "orders": 11,
+    "types": [
+      "HB401",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NBA2LOS-BLA",
+    "revenue": 211.45,
+    "orders": 11,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "CFCCRE-SUP",
+    "revenue": 210.5,
+    "orders": 10,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCLSU-DIG",
+    "revenue": 209.5,
+    "orders": 10,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "HPOTDH8-CAS",
+    "revenue": 209.5,
+    "orders": 10,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NBA2CEL-DIS",
+    "revenue": 209.5,
+    "orders": 10,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCPSU-BWM",
+    "revenue": 209.06,
+    "orders": 11,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NHLPHIF-OVE",
+    "revenue": 207.49,
+    "orders": 10,
+    "types": [
+      "HB401",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "CELTI-KNO",
+    "revenue": 207.45,
+    "orders": 11,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NHLBOSB-PLA",
+    "revenue": 205.5,
+    "orders": 10,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "SUPNKEY-SCA",
+    "revenue": 205.5,
+    "orders": 10,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NHLVEGG-JER",
+    "revenue": 205.5,
+    "orders": 10,
+    "types": [
+      "HB401",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NBA2NKN-VER",
+    "revenue": 205.5,
+    "orders": 10,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "AFCCKT7-HOM",
+    "revenue": 205.5,
+    "orders": 10,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "MCBADGE-BLF",
+    "revenue": 204.63,
+    "orders": 9,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "AFCCRE-FCB",
+    "revenue": 203.5,
+    "orders": 10,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NHLBUFS-JER",
+    "revenue": 203.5,
+    "orders": 10,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "FCBHK8-YAM",
+    "revenue": 203.22,
+    "orders": 8,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "SPRCCOM-FLI",
+    "revenue": 201.5,
+    "orders": 10,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NHLTAML-PUC",
+    "revenue": 201.5,
+    "orders": 10,
+    "types": [
+      "HB401",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "CFCKIT-HOM",
+    "revenue": 200.07,
+    "orders": 9,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PNUTCHA-MAR",
+    "revenue": 199.5,
+    "orders": 10,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NHLCOLA-PUC",
+    "revenue": 199.5,
+    "orders": 10,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NHLBUFS-PLA",
+    "revenue": 199.5,
+    "orders": 10,
+    "types": [
+      "HB401"
+    ]
+  },
+  {
+    "design": "TWDDOEX-DAR",
+    "revenue": 199.5,
+    "orders": 10,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCTAMU-CLO",
+    "revenue": 199.5,
+    "orders": 10,
+    "types": [
+      "HB401",
+      "HC"
+    ]
+  },
+  {
+    "design": "IMGCFSU-DIG",
+    "revenue": 199.5,
+    "orders": 10,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "WWE2BRY-POR",
+    "revenue": 198.6,
+    "orders": 12,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "BTMCROB-LGR",
+    "revenue": 198.3,
+    "orders": 10,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "MCBDKIT25-THI",
+    "revenue": 197.55,
+    "orders": 9,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "THUNGRA-LOG",
+    "revenue": 196.23,
+    "orders": 10,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "BTMCLOG-COM",
+    "revenue": 195.55,
+    "orders": 9,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "LFCKIT25-THI",
+    "revenue": 193.55,
+    "orders": 9,
+    "types": [
+      "HB401",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "CORPKEY-HOL",
+    "revenue": 190.26,
+    "orders": 10,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NHLSEAK-PUC",
+    "revenue": 189.77,
+    "orders": 9,
+    "types": [
+      "HB401",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NBA2LOS-MAR",
+    "revenue": 189.55,
+    "orders": 9,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "HPOTDH10-SLY",
+    "revenue": 189.55,
+    "orders": 9,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "DRGBZCAS-PIC",
+    "revenue": 188.55,
+    "orders": 9,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "SHAM-DIT",
+    "revenue": 188.45,
+    "orders": 11,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCLSUJ-BA1",
+    "revenue": 187.69,
+    "orders": 9,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "CFCRETKS-STA",
+    "revenue": 187.69,
+    "orders": 11,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "HPOTDH10-GRY",
+    "revenue": 187.55,
+    "orders": 9,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "DRGBZCAS-VEG",
+    "revenue": 187.55,
+    "orders": 9,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "BTMCCBCO-DAN",
+    "revenue": 185.55,
+    "orders": 9,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NBA2WAR-HAL",
+    "revenue": 185.55,
+    "orders": 9,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "WWE2JCEN-NEV",
+    "revenue": 185.55,
+    "orders": 9,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "FCBCRE-HAL",
+    "revenue": 185.55,
+    "orders": 9,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "THFCKIT25-HOM",
+    "revenue": 185.55,
+    "orders": 9,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCAUAR-GRA",
+    "revenue": 183.71,
+    "orders": 8,
+    "types": [
+      "HC"
+    ]
+  },
+  {
+    "design": "LFCCRE1-BLK3",
+    "revenue": 183.55,
+    "orders": 9,
+    "types": [
+      "HB401",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "HPOTDH14-RAV",
+    "revenue": 183.55,
+    "orders": 9,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCUAL-STR",
+    "revenue": 182.35,
+    "orders": 9,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "WWEUSO-LED",
+    "revenue": 181.55,
+    "orders": 9,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NHLNYKI-JER",
+    "revenue": 181.55,
+    "orders": 9,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PNUTMAN-JPR",
+    "revenue": 181.55,
+    "orders": 9,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PBREWIL-SPR",
+    "revenue": 180.2,
+    "orders": 10,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "WWENIK-LED",
+    "revenue": 179.55,
+    "orders": 9,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "TWDS6DD-ARC",
+    "revenue": 179.55,
+    "orders": 9,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NHLCOLB-PUC",
+    "revenue": 179.55,
+    "orders": 9,
+    "types": [
+      "HB401",
+      "HC"
+    ]
+  },
+  {
+    "design": "IMGCFSU-STR",
+    "revenue": 179.55,
+    "orders": 9,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCFSU-BWM",
+    "revenue": 179.55,
+    "orders": 9,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "OHIOLOGO-LCA",
+    "revenue": 179.55,
+    "orders": 9,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCFSU-BAN",
+    "revenue": 179.55,
+    "orders": 9,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "MCBDKIT9-HOM",
+    "revenue": 175.95,
+    "orders": 7,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "BTMCTHR-CRI",
+    "revenue": 175.32,
+    "orders": 9,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PNUTWOD-GUI",
+    "revenue": 171.6,
+    "orders": 9,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCLSU-BAN",
+    "revenue": 171.6,
+    "orders": 8,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCAUB-BAN",
+    "revenue": 170.35,
+    "orders": 9,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NBA2BUL-HAL",
+    "revenue": 169.6,
+    "orders": 8,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NARUKEY-HOK",
+    "revenue": 169.6,
+    "orders": 8,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NHLBOSB-HAL",
+    "revenue": 169.6,
+    "orders": 8,
+    "types": [
+      "HB401",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "SHELCAR-BLU",
+    "revenue": 169.6,
+    "orders": 8,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "HPOTDH13-HPA",
+    "revenue": 169.6,
+    "orders": 8,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "BTMCFCB-DAR",
+    "revenue": 169.6,
+    "orders": 8,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NBA2NKN-DIS",
+    "revenue": 169.6,
+    "orders": 9,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCPSU-DIS",
+    "revenue": 169.6,
+    "orders": 8,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "BVSKKEY-CRE",
+    "revenue": 169.55,
+    "orders": 9,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NHLDALS-MAR",
+    "revenue": 169.55,
+    "orders": 9,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "CFCKIT6-HOM",
+    "revenue": 168.72,
+    "orders": 8,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PNUTDDR-BLU",
+    "revenue": 167.6,
+    "orders": 8,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "SCDOMYS-WHE",
+    "revenue": 167.6,
+    "orders": 8,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCUAAR-TAR",
+    "revenue": 167.6,
+    "orders": 8,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "MASS1GR-NLD",
+    "revenue": 167.59,
+    "orders": 8,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "FLAG-JAMAICA",
+    "revenue": 167.55,
+    "orders": 9,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "AFCCRE-FAD",
+    "revenue": 166.6,
+    "orders": 8,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "MCPHKT25-HAA",
+    "revenue": 166.6,
+    "orders": 9,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "CFCCRE-PBL",
+    "revenue": 165.6,
+    "orders": 8,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PNUTORI-SUR",
+    "revenue": 165.6,
+    "orders": 8,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "WMGRATTRE-SLO",
+    "revenue": 165.6,
+    "orders": 8,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NHLSTLB-JER",
+    "revenue": 165.6,
+    "orders": 9,
+    "types": [
+      "HB401",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NHLVEGG-OVE",
+    "revenue": 163.6,
+    "orders": 8,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NHLNYKR-OVE",
+    "revenue": 163.6,
+    "orders": 8,
+    "types": [
+      "HB401",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCLSUA-CAM",
+    "revenue": 161.6,
+    "orders": 8,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "AFCFT6-SAK",
+    "revenue": 161.6,
+    "orders": 8,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "CORPKEY-VIC",
+    "revenue": 161.6,
+    "orders": 8,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IRONALB-SOM",
+    "revenue": 161.6,
+    "orders": 8,
+    "types": [
+      "HB401",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "THFCBAD-BGO",
+    "revenue": 161.6,
+    "orders": 8,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "LTOOFUL-MAR",
+    "revenue": 161.6,
+    "orders": 8,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "VFLA4-PUER",
+    "revenue": 160.55,
+    "orders": 9,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "LFCCREST3-FCO",
+    "revenue": 159.75,
+    "orders": 7,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NHLMINW-JER",
+    "revenue": 159.6,
+    "orders": 8,
+    "types": [
+      "HB401",
+      "HC"
+    ]
+  },
+  {
+    "design": "IMGCUIL-CAM",
+    "revenue": 159.6,
+    "orders": 9,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "B10OMGRA-OMN",
+    "revenue": 159.6,
+    "orders": 8,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "LFCDCA-HRE",
+    "revenue": 159.6,
+    "orders": 8,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "BVSKKEY-LOG",
+    "revenue": 159.6,
+    "orders": 8,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCTAMU-PLN",
+    "revenue": 159.6,
+    "orders": 8,
+    "types": [
+      "HB401",
+      "HC"
+    ]
+  },
+  {
+    "design": "IMGCUIART-FI1",
+    "revenue": 159.55,
+    "orders": 9,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCLSU-PLA",
+    "revenue": 158.58,
+    "orders": 7,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NBA2NKN-CAM",
+    "revenue": 155.6,
+    "orders": 8,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCLSUA-GEA",
+    "revenue": 154.3,
+    "orders": 8,
+    "types": [
+      "HB401",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "UFCLOGO-CFI",
+    "revenue": 154.05,
+    "orders": 15,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "BTMCHUS-CBC",
+    "revenue": 153.65,
+    "orders": 7,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "BTMCLOG-CL2",
+    "revenue": 151.65,
+    "orders": 7,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NBA2NKN-MAR",
+    "revenue": 151.65,
+    "orders": 7,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "FCBGRA-NEO",
+    "revenue": 151.01,
+    "orders": 7,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "WWE2CRH-SUP",
+    "revenue": 149.8,
+    "orders": 12,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PNUTHAL-CGO",
+    "revenue": 149.65,
+    "orders": 7,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCUOK-DOU",
+    "revenue": 149.65,
+    "orders": 7,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "RMORS3GR-PPA",
+    "revenue": 149.65,
+    "orders": 7,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "FCBPHKT25-LEW",
+    "revenue": 149.65,
+    "orders": 7,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "B10AFGRA-OMN",
+    "revenue": 149.6,
+    "orders": 8,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "BVSKWEA-LOG",
+    "revenue": 149.6,
+    "orders": 8,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "RMORS5GR-POR",
+    "revenue": 149.6,
+    "orders": 8,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "CFCKIT5-HOM",
+    "revenue": 148.28,
+    "orders": 6,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "RMCFURB-YEL",
+    "revenue": 147.65,
+    "orders": 7,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "RMCFORI-PBL",
+    "revenue": 147.65,
+    "orders": 8,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "WWE2DOM-DIR",
+    "revenue": 147.65,
+    "orders": 7,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PNUTCHA-SCH",
+    "revenue": 147.65,
+    "orders": 8,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "CUSTOM-PHOTO",
+    "revenue": 147.6,
+    "orders": 8,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "WWE2ROM-GRU",
+    "revenue": 145.95,
+    "orders": 9,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NHLCOLA-MAR",
+    "revenue": 145.65,
+    "orders": 7,
+    "types": [
+      "HB401",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PNUTCBR-HAP",
+    "revenue": 145.65,
+    "orders": 7,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "MASS1GR-NLS",
+    "revenue": 145.65,
+    "orders": 7,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NHLSTLB-PUC",
+    "revenue": 145.51,
+    "orders": 9,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NHLDETR-MAR",
+    "revenue": 143.65,
+    "orders": 7,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NARUKEY-OBI",
+    "revenue": 143.65,
+    "orders": 7,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "SHELCAR-SCW",
+    "revenue": 143.65,
+    "orders": 7,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCPSA-WE2",
+    "revenue": 143.65,
+    "orders": 7,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NHLMINW-PUC",
+    "revenue": 143.65,
+    "orders": 8,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "RCALPAT-QUI",
+    "revenue": 143.6,
+    "orders": 8,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "FCBCPA-GLI",
+    "revenue": 141.83,
+    "orders": 6,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "BTMCTHR-BTM",
+    "revenue": 141.65,
+    "orders": 7,
+    "types": [
+      "HB401",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NHLPHIF-PLA",
+    "revenue": 141.65,
+    "orders": 7,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "GMORGRA-FAT",
+    "revenue": 141.65,
+    "orders": 7,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NHLANAD-JER",
+    "revenue": 141.65,
+    "orders": 7,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NHLPITP-OVE",
+    "revenue": 141.65,
+    "orders": 7,
+    "types": [
+      "HB401",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "LTOOGCH-TSY",
+    "revenue": 141.65,
+    "orders": 7,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "WWESUP-ROM",
+    "revenue": 141.65,
+    "orders": 7,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IRONART-FIR",
+    "revenue": 141.65,
+    "orders": 7,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "AIRCOC-AIR",
+    "revenue": 141.6,
+    "orders": 8,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "ASSALTY-HAL",
+    "revenue": 139.65,
+    "orders": 7,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCTAMU-COL",
+    "revenue": 139.65,
+    "orders": 7,
+    "types": [
+      "HC"
+    ]
+  },
+  {
+    "design": "JLGECPO-WWO",
+    "revenue": 139.65,
+    "orders": 7,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCASUA-SUN",
+    "revenue": 139.65,
+    "orders": 7,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCTAMU-AGS",
+    "revenue": 139.65,
+    "orders": 8,
+    "types": [
+      "HB401",
+      "HC"
+    ]
+  },
+  {
+    "design": "JLGELAR-MAN",
+    "revenue": 139.65,
+    "orders": 7,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "DEANDOG3-POO",
+    "revenue": 139.65,
+    "orders": 7,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "BVGUNSKY-BUL",
+    "revenue": 139.65,
+    "orders": 7,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCASU-STR",
+    "revenue": 139.65,
+    "orders": 7,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "SCDOSEA-RUV",
+    "revenue": 139.65,
+    "orders": 7,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "AFCFT7-SAK",
+    "revenue": 139.65,
+    "orders": 7,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCFSU-OVE",
+    "revenue": 139.65,
+    "orders": 7,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "WWCOVIN-COM",
+    "revenue": 139.65,
+    "orders": 7,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCUAL-DOU",
+    "revenue": 137.65,
+    "orders": 7,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "RMCFURB-PIN",
+    "revenue": 135.65,
+    "orders": 7,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "OHIOLOGO-PLD",
+    "revenue": 135.6,
+    "orders": 6,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "SUPNVEC-SAV",
+    "revenue": 134.96,
+    "orders": 6,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "WWE2ROM-DIS",
+    "revenue": 134.75,
+    "orders": 9,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "RMCFORI-LOG",
+    "revenue": 133.65,
+    "orders": 7,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCLSUA-WMA",
+    "revenue": 131.91,
+    "orders": 6,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "SLBCKT-HOM",
+    "revenue": 131.83,
+    "orders": 6,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "BASHCWI3-IRI",
+    "revenue": 131.72,
+    "orders": 8,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "BTMCLOG-CCO",
+    "revenue": 131.7,
+    "orders": 6,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "HPOTDH37-HER",
+    "revenue": 131.7,
+    "orders": 6,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IRONALB-BNW",
+    "revenue": 131.65,
+    "orders": 7,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "LFCKIT9-HOM",
+    "revenue": 131.17,
+    "orders": 6,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "F1309GRA-JVM",
+    "revenue": 129.7,
+    "orders": 6,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NBA2CEL-WHI",
+    "revenue": 129.7,
+    "orders": 6,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NBA2CEL-HAL",
+    "revenue": 129.7,
+    "orders": 6,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "HPOTDH8-SEV",
+    "revenue": 129.7,
+    "orders": 6,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NHLBOSB-CAM",
+    "revenue": 129.7,
+    "orders": 6,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IRONALB-SSO",
+    "revenue": 129.7,
+    "orders": 6,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCUOK-BAN",
+    "revenue": 129.7,
+    "orders": 6,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCUFL-PLA",
+    "revenue": 129.33,
+    "orders": 6,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "WWEBWY-TFI",
+    "revenue": 128.7,
+    "orders": 6,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NBA2LOS-WHI",
+    "revenue": 127.7,
+    "orders": 6,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCLSU-FJE",
+    "revenue": 127.7,
+    "orders": 6,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "HPOTDH14-HUF",
+    "revenue": 127.7,
+    "orders": 6,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IRONALB-NOT",
+    "revenue": 127.7,
+    "orders": 6,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PNUTSNO-WAR",
+    "revenue": 127.7,
+    "orders": 6,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCUOK-CAM",
+    "revenue": 127.7,
+    "orders": 6,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NBA2LOS-STR",
+    "revenue": 127.7,
+    "orders": 6,
+    "types": [
+      "HB401",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "SHSDOG-YOR",
+    "revenue": 127.65,
+    "orders": 7,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "VFLA2-NICA",
+    "revenue": 127.65,
+    "orders": 7,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMILCKT5-HOM",
+    "revenue": 127.21,
+    "orders": 6,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "WWE2HUL-POR",
+    "revenue": 125.7,
+    "orders": 7,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PNUTADI-COW",
+    "revenue": 125.7,
+    "orders": 6,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PNUTADI-SPA",
+    "revenue": 125.7,
+    "orders": 6,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PNUTSCO-NTR",
+    "revenue": 125.7,
+    "orders": 6,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "RMCFLEG-WLP",
+    "revenue": 125.7,
+    "orders": 6,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NHLSANJ-PLA",
+    "revenue": 125.7,
+    "orders": 6,
+    "types": [
+      "HB401",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NHLSTLB-OVE",
+    "revenue": 125.7,
+    "orders": 6,
+    "types": [
+      "HB401",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCAUB-ATI",
+    "revenue": 124.12,
+    "orders": 5,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NHLCOLB-OVE",
+    "revenue": 123.7,
+    "orders": 6,
+    "types": [
+      "HB401",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PNUTT21-SCA",
+    "revenue": 123.7,
+    "orders": 6,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "DRGBCHA-SHE",
+    "revenue": 123.7,
+    "orders": 6,
+    "types": [
+      "HB401",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "SSQUGRA-HAR",
+    "revenue": 123.7,
+    "orders": 6,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "FRNDICO-LOB",
+    "revenue": 123.7,
+    "orders": 6,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PNUTNSW-SNO",
+    "revenue": 123.7,
+    "orders": 6,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IRONALB-FOT",
+    "revenue": 123.7,
+    "orders": 6,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PNUTCHA-LIN",
+    "revenue": 123.7,
+    "orders": 6,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NHLBUFS-OVE",
+    "revenue": 123.7,
+    "orders": 6,
+    "types": [
+      "HB401",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCUOK-DIS",
+    "revenue": 123.7,
+    "orders": 6,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NHLNYKR-HAL",
+    "revenue": 123.7,
+    "orders": 6,
+    "types": [
+      "HB401",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "ELFGRA2-BPA",
+    "revenue": 122.16,
+    "orders": 9,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "UFCLOGO-GLO",
+    "revenue": 122.0,
+    "orders": 8,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCTAMU-CMF",
+    "revenue": 121.7,
+    "orders": 6,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCPSU-OVE",
+    "revenue": 121.7,
+    "orders": 6,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NHLTAML-JER",
+    "revenue": 121.7,
+    "orders": 7,
+    "types": [
+      "HB401",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NHLMONC-JER",
+    "revenue": 121.7,
+    "orders": 6,
+    "types": [
+      "HB401",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NBA2BUC-BLA",
+    "revenue": 121.7,
+    "orders": 6,
+    "types": [
+      "HB401",
+      "HC"
+    ]
+  },
+  {
+    "design": "MCPHKT25-FOD",
+    "revenue": 121.7,
+    "orders": 6,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NHLPHIF-MAR",
+    "revenue": 121.7,
+    "orders": 6,
+    "types": [
+      "HB401",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "AFCCPA-DIG",
+    "revenue": 121.7,
+    "orders": 6,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCPSU-BAN",
+    "revenue": 121.7,
+    "orders": 6,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "HPOTDH8-DRA",
+    "revenue": 121.7,
+    "orders": 6,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PNUTSEA-WTR",
+    "revenue": 121.7,
+    "orders": 6,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NHLEDMO-PUC",
+    "revenue": 121.7,
+    "orders": 6,
+    "types": [
+      "HB401",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NHLANAD-OVE",
+    "revenue": 121.7,
+    "orders": 6,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "AFCCKT8-HGO",
+    "revenue": 121.7,
+    "orders": 6,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "FLAME-BLU",
+    "revenue": 121.65,
+    "orders": 7,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "TLRIFRC-RIN",
+    "revenue": 119.7,
+    "orders": 6,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PNUTCBR-DUM",
+    "revenue": 119.7,
+    "orders": 6,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NHLDETR-PLA",
+    "revenue": 119.7,
+    "orders": 6,
+    "types": [
+      "HB401",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCAUAR-AT1",
+    "revenue": 119.7,
+    "orders": 6,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "WIWOGRA-CBA",
+    "revenue": 119.7,
+    "orders": 6,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "BATMKEY-POS",
+    "revenue": 119.7,
+    "orders": 6,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "SLBCKT4-HOM",
+    "revenue": 119.7,
+    "orders": 6,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "LFCCAMO-HCC",
+    "revenue": 119.7,
+    "orders": 6,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "FCBCKT8-THI",
+    "revenue": 119.7,
+    "orders": 6,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "LFCPLC25-BMA",
+    "revenue": 119.7,
+    "orders": 6,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGCUIART-GR3",
+    "revenue": 119.7,
+    "orders": 6,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "FRNDICO-COU",
+    "revenue": 119.7,
+    "orders": 6,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IT17GRA-YOU",
+    "revenue": 119.7,
+    "orders": 6,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NHLPITP-MAR",
+    "revenue": 119.7,
+    "orders": 6,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "F13P8GRA-JAS",
+    "revenue": 119.7,
+    "orders": 6,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "LFCCRE1-RGEO1",
+    "revenue": 119.7,
+    "orders": 6,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "SHELLOG-AME",
+    "revenue": 119.7,
+    "orders": 6,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "AFCCRE-RBL",
+    "revenue": 119.01,
+    "orders": 5,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "WWE2DOM-POR",
+    "revenue": 118.45,
+    "orders": 7,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "FCBCKT5-HOM",
+    "revenue": 116.16,
+    "orders": 5,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "FKREFLO-PPA",
+    "revenue": 115.95,
+    "orders": 7,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NARUKEY-NMI",
+    "revenue": 115.7,
+    "orders": 6,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "NHLNEWJ-PUC",
+    "revenue": 115.7,
+    "orders": 6,
+    "types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "ANEL2FRGR-KEY",
+    "revenue": 115.61,
+    "orders": 5,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "IMGUFAR-LOU",
+    "revenue": 115.52,
+    "orders": 5,
+    "types": [
+      "HC"
+    ]
+  },
+  {
+    "design": "TWDS10CPO-NEG",
+    "revenue": 114.7,
+    "orders": 6,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "BTMCICB-REB",
+    "revenue": 114.64,
+    "orders": 5,
+    "types": [
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "PNUTAPO-JOU",
+    "revenue": 113.7,
+    "orders": 6,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "FLAG-CANADA",
+    "revenue": 113.7,
+    "orders": 6,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "FKREFLO-POR",
+    "revenue": 113.7,
+    "orders": 6,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "AVLAKIT25-HOM",
+    "revenue": 111.74,
+    "orders": 5,
+    "types": [
+      "HB401",
+      "HTPCR"
+    ]
+  },
+  {
+    "design": "SCDOSCO-FUL",
+    "revenue": 111.7,
+    "orders": 6,
+    "types": [
+      "HC",
+      "HTPCR"
+    ]
+  }
+]

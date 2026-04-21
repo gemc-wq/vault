@@ -1,0 +1,14 @@
+SELECT 
+                b.f_so_document_no AS 'Document Number',
+                b.f_document_date AS 'Document Date',
+                b.f_so_customer_document_no AS 'Reference',
+                a.f_item_code AS 'Item Code',
+               (SELECT f_name FROM t_stock_item WHERE f_code = a.f_item_code LIMIT 1) AS 'Item Description',
+		b.f_so_warehouse AS 'Warehouse',
+                a.f_price AS 'Price',
+                a.f_quantity AS 'Quantity'
+            FROM t_sales_order_return_line a
+            INNER JOIN t_sales_order_return b ON a.f_so_return_id = b.f_so_return_id
+            WHERE b.f_so_warehouse = 'PH'
+            AND b.f_document_date BETWEEN '2025-05-01' AND '2025-05-31'
+            ORDER BY b.f_so_document_no, a.f_item_code

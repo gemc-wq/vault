@@ -1,0 +1,5 @@
+SELECT a.f_id,a.f_srn,a.f_contact_by,a.f_amount,a.f_transaction_id,b.f_category,a.f_description,a.f_date_added,c.f_username,a.f_photo_url,a.f_flag_by,a.f_flag_date,a.f_flag_status, a.f_flag_notes
+                    FROM t_srn_log a
+                    INNER JOIN t_srn_log_category b ON b.f_category_id=a.f_category_id
+                    INNER JOIN t_user_profile c ON c.f_user_profile_id=a.f_user_profile_id
+                    WHERE a.f_srn='4824785'

@@ -1,0 +1,12 @@
+<claude-code-hint v="1" type="plugin" value="vercel@claude-plugins-official" />
+Fetching projects in ecells-projects-3c3b03d7
+> Projects found under ecells-projects-3c3b03d7  [1s]
+
+  Project Name         Latest Production URL                         Updated   Node Version   
+  storefront           https://storefront-phi-eosin.vercel.app       53d       24.x           
+  nba-deploy           https://nba-deploy.vercel.app                 53d       24.x           
+  esale-api            https://esale-api.vercel.app                  53d       24.x           
+  mission-control-v2   https://mission-control-v2-three.vercel.app   53d       24.x           
+  orbit-team-build     https://orbit-team-build.vercel.app           53d       24.x           
+  ecell-website        https://ecell-website-blond.vercel.app        53d       24.x           
+

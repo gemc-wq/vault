@@ -1,0 +1,1402 @@
+[
+  {
+    "design_code": "NARUICO",
+    "device_count": "72",
+    "order_count": "1068",
+    "product_type": "HTPCR",
+    "revenue": "57834.68"
+  },
+  {
+    "design_code": "LFCLVBRD",
+    "device_count": "55",
+    "order_count": "226",
+    "product_type": "HTPCR",
+    "revenue": "54091.39"
+  },
+  {
+    "design_code": "AFCLOGOS",
+    "device_count": "40",
+    "order_count": "113",
+    "product_type": "HTPCR",
+    "revenue": "42601.23"
+  },
+  {
+    "design_code": "PNUTCHA",
+    "device_count": "74",
+    "order_count": "720",
+    "product_type": "HTPCR",
+    "revenue": "39894.68"
+  },
+  {
+    "design_code": "PNUTBOA",
+    "device_count": "64",
+    "order_count": "751",
+    "product_type": "HTPCR",
+    "revenue": "27138.66"
+  },
+  {
+    "design_code": "FCBCRE",
+    "device_count": "29",
+    "order_count": "52",
+    "product_type": "HTPCR",
+    "revenue": "25080.95"
+  },
+  {
+    "design_code": "ADVEGRA",
+    "device_count": "40",
+    "order_count": "201",
+    "product_type": "HTPCR",
+    "revenue": "22970.06"
+  },
+  {
+    "design_code": "PNUTCBR",
+    "device_count": "24",
+    "order_count": "64",
+    "product_type": "HTPCR",
+    "revenue": "22745.86"
+  },
+  {
+    "design_code": "NARUCHA",
+    "device_count": "66",
+    "order_count": "631",
+    "product_type": "HTPCR",
+    "revenue": "21712.98"
+  },
+  {
+    "design_code": "MCBDKIT25",
+    "device_count": "57",
+    "order_count": "368",
+    "product_type": "HTPCR",
+    "revenue": "21100.03"
+  },
+  {
+    "design_code": "HPOTDH37",
+    "device_count": "70",
+    "order_count": "768",
+    "product_type": "HTPCR",
+    "revenue": "19715.92"
+  },
+  {
+    "design_code": "CFCCRE",
+    "device_count": "42",
+    "order_count": "160",
+    "product_type": "HTPCR",
+    "revenue": "19388.93"
+  },
+  {
+    "design_code": "AFCCKT7",
+    "device_count": "37",
+    "order_count": "156",
+    "product_type": "HTPCR",
+    "revenue": "19325.11"
+  },
+  {
+    "design_code": "MCBADGE",
+    "device_count": "20",
+    "order_count": "73",
+    "product_type": "HTPCR",
+    "revenue": "17674.68"
+  },
+  {
+    "design_code": "PNUTHAL",
+    "device_count": "58",
+    "order_count": "620",
+    "product_type": "HTPCR",
+    "revenue": "16567.29"
+  },
+  {
+    "design_code": "LFCCRYN",
+    "device_count": "11",
+    "order_count": "18",
+    "product_type": "HTPCR",
+    "revenue": "16420.68"
+  },
+  {
+    "design_code": "DRGBSUSC",
+    "device_count": "60",
+    "order_count": "707",
+    "product_type": "HTPCR",
+    "revenue": "15335.93"
+  },
+  {
+    "design_code": "LFCMAR",
+    "device_count": "17",
+    "order_count": "43",
+    "product_type": "HTPCR",
+    "revenue": "14241.91"
+  },
+  {
+    "design_code": "BVBEKYA",
+    "device_count": "47",
+    "order_count": "297",
+    "product_type": "HTPCR",
+    "revenue": "13983.35"
+  },
+  {
+    "design_code": "BVRSLCOL",
+    "device_count": "19",
+    "order_count": "30",
+    "product_type": "HTPCR",
+    "revenue": "13951.99"
+  },
+  {
+    "design_code": "FCBHK8",
+    "device_count": "13",
+    "order_count": "20",
+    "product_type": "HTPCR",
+    "revenue": "13759.58"
+  },
+  {
+    "design_code": "LFCYNWA",
+    "device_count": "11",
+    "order_count": "16",
+    "product_type": "HTPCR",
+    "revenue": "13716.26"
+  },
+  {
+    "design_code": "PNUTORI",
+    "device_count": "55",
+    "order_count": "245",
+    "product_type": "HTPCR",
+    "revenue": "13258.62"
+  },
+  {
+    "design_code": "IRONALB",
+    "device_count": "41",
+    "order_count": "106",
+    "product_type": "HTPCR",
+    "revenue": "12893.72"
+  },
+  {
+    "design_code": "NARUKEY",
+    "device_count": "55",
+    "order_count": "250",
+    "product_type": "HTPCR",
+    "revenue": "12869.41"
+  },
+  {
+    "design_code": "THFCBAD",
+    "device_count": "48",
+    "order_count": "235",
+    "product_type": "HTPCR",
+    "revenue": "12652.61"
+  },
+  {
+    "design_code": "FCBCKT8",
+    "device_count": "50",
+    "order_count": "320",
+    "product_type": "HTPCR",
+    "revenue": "12468.58"
+  },
+  {
+    "design_code": "LFCKIT25",
+    "device_count": "52",
+    "order_count": "597",
+    "product_type": "HTPCR",
+    "revenue": "11941.16"
+  },
+  {
+    "design_code": "AFCFT8",
+    "device_count": "25",
+    "order_count": "62",
+    "product_type": "HTPCR",
+    "revenue": "11912.19"
+  },
+  {
+    "design_code": "LTOOGCH",
+    "device_count": "23",
+    "order_count": "57",
+    "product_type": "HTPCR",
+    "revenue": "11858.71"
+  },
+  {
+    "design_code": "THFCKIT25",
+    "device_count": "42",
+    "order_count": "171",
+    "product_type": "HTPCR",
+    "revenue": "11440.65"
+  },
+  {
+    "design_code": "BVRSGRA",
+    "device_count": "5",
+    "order_count": "8",
+    "product_type": "HTPCR",
+    "revenue": "10864.74"
+  },
+  {
+    "design_code": "PNUTBBU",
+    "device_count": "47",
+    "order_count": "249",
+    "product_type": "HTPCR",
+    "revenue": "10844.89"
+  },
+  {
+    "design_code": "BVQUEEKY",
+    "device_count": "3",
+    "order_count": "4",
+    "product_type": "HTPCR",
+    "revenue": "10792.0"
+  },
+  {
+    "design_code": "CFCRETKS",
+    "device_count": "30",
+    "order_count": "121",
+    "product_type": "HTPCR",
+    "revenue": "10454.64"
+  },
+  {
+    "design_code": "AFCCRE",
+    "device_count": "37",
+    "order_count": "111",
+    "product_type": "HTPCR",
+    "revenue": "10251.5"
+  },
+  {
+    "design_code": "FCBCPA",
+    "device_count": "49",
+    "order_count": "237",
+    "product_type": "HTPCR",
+    "revenue": "10016.88"
+  },
+  {
+    "design_code": "LFCDCA",
+    "device_count": "66",
+    "order_count": "485",
+    "product_type": "HTPCR",
+    "revenue": "9889.55"
+  },
+  {
+    "design_code": "AFCCKT8",
+    "device_count": "42",
+    "order_count": "95",
+    "product_type": "HTPCR",
+    "revenue": "9824.78"
+  },
+  {
+    "design_code": "PNUTMAN",
+    "device_count": "32",
+    "order_count": "73",
+    "product_type": "HTPCR",
+    "revenue": "9507.42"
+  },
+  {
+    "design_code": "MCFTEAM4",
+    "device_count": "21",
+    "order_count": "42",
+    "product_type": "HTPCR",
+    "revenue": "8855.6"
+  },
+  {
+    "design_code": "NFLLOSSE",
+    "device_count": "26",
+    "order_count": "47",
+    "product_type": "HTPCR",
+    "revenue": "8854.12"
+  },
+  {
+    "design_code": "WMGDAYGRA",
+    "device_count": "16",
+    "order_count": "37",
+    "product_type": "HTPCR",
+    "revenue": "8763.18"
+  },
+  {
+    "design_code": "PPUFGRA",
+    "device_count": "35",
+    "order_count": "151",
+    "product_type": "HTPCR",
+    "revenue": "8333.72"
+  },
+  {
+    "design_code": "AFCCPA",
+    "device_count": "46",
+    "order_count": "283",
+    "product_type": "HTPCR",
+    "revenue": "8277.4"
+  },
+  {
+    "design_code": "HPOTSOR2",
+    "device_count": "53",
+    "order_count": "272",
+    "product_type": "HTPCR",
+    "revenue": "8220.92"
+  },
+  {
+    "design_code": "GMORGRA",
+    "device_count": "47",
+    "order_count": "365",
+    "product_type": "HTPCR",
+    "revenue": "8203.22"
+  },
+  {
+    "design_code": "PNUTWOD",
+    "device_count": "32",
+    "order_count": "132",
+    "product_type": "HTPCR",
+    "revenue": "8195.29"
+  },
+  {
+    "design_code": "WWEJOH",
+    "device_count": "4",
+    "order_count": "4",
+    "product_type": "HTPCR",
+    "revenue": "8113.95"
+  },
+  {
+    "design_code": "WWILBGRA",
+    "device_count": "4",
+    "order_count": "4",
+    "product_type": "HTPCR",
+    "revenue": "8113.95"
+  },
+  {
+    "design_code": "TDKRLOG",
+    "device_count": "3",
+    "order_count": "4",
+    "product_type": "HTPCR",
+    "revenue": "8110.76"
+  },
+  {
+    "design_code": "BV1975KY",
+    "device_count": "2",
+    "order_count": "3",
+    "product_type": "HTPCR",
+    "revenue": "8094.0"
+  },
+  {
+    "design_code": "ROMACREG",
+    "device_count": "3",
+    "order_count": "3",
+    "product_type": "HTPCR",
+    "revenue": "8094.0"
+  },
+  {
+    "design_code": "BVBLUALB2",
+    "device_count": "3",
+    "order_count": "3",
+    "product_type": "HTPCR",
+    "revenue": "8094.0"
+  },
+  {
+    "design_code": "HPOTDH13",
+    "device_count": "59",
+    "order_count": "385",
+    "product_type": "HTPCR",
+    "revenue": "8039.12"
+  },
+  {
+    "design_code": "RMCFKIT25",
+    "device_count": "49",
+    "order_count": "384",
+    "product_type": "HTPCR",
+    "revenue": "7992.5"
+  },
+  {
+    "design_code": "OHIOLOGO",
+    "device_count": "42",
+    "order_count": "368",
+    "product_type": "HTPCR",
+    "revenue": "7707.88"
+  },
+  {
+    "design_code": "HATSGRA",
+    "device_count": "62",
+    "order_count": "351",
+    "product_type": "HTPCR",
+    "revenue": "7379.29"
+  },
+  {
+    "design_code": "PNUTADI",
+    "device_count": "34",
+    "order_count": "92",
+    "product_type": "HTPCR",
+    "revenue": "7253.98"
+  },
+  {
+    "design_code": "FCBFTM2G1",
+    "device_count": "24",
+    "order_count": "80",
+    "product_type": "HTPCR",
+    "revenue": "7130.72"
+  },
+  {
+    "design_code": "PNUTDDR",
+    "device_count": "50",
+    "order_count": "205",
+    "product_type": "HTPCR",
+    "revenue": "7064.79"
+  },
+  {
+    "design_code": "AFCCGLO",
+    "device_count": "30",
+    "order_count": "78",
+    "product_type": "HTPCR",
+    "revenue": "6979.0"
+  },
+  {
+    "design_code": "CFCKIT5",
+    "device_count": "34",
+    "order_count": "73",
+    "product_type": "HTPCR",
+    "revenue": "6787.13"
+  },
+  {
+    "design_code": "AFCKIT25",
+    "device_count": "41",
+    "order_count": "338",
+    "product_type": "HTPCR",
+    "revenue": "6764.73"
+  },
+  {
+    "design_code": "PNUTROC",
+    "device_count": "33",
+    "order_count": "63",
+    "product_type": "HTPCR",
+    "revenue": "6650.37"
+  },
+  {
+    "design_code": "FCBKIT25",
+    "device_count": "54",
+    "order_count": "332",
+    "product_type": "HTPCR",
+    "revenue": "6515.98"
+  },
+  {
+    "design_code": "LFCKIT4",
+    "device_count": "28",
+    "order_count": "56",
+    "product_type": "HTPCR",
+    "revenue": "6452.46"
+  },
+  {
+    "design_code": "UFCLOGO",
+    "device_count": "21",
+    "order_count": "49",
+    "product_type": "HTPCR",
+    "revenue": "6358.7"
+  },
+  {
+    "design_code": "BTMCLOG",
+    "device_count": "41",
+    "order_count": "159",
+    "product_type": "HTPCR",
+    "revenue": "6056.37"
+  },
+  {
+    "design_code": "LTOOFUL",
+    "device_count": "17",
+    "order_count": "33",
+    "product_type": "HTPCR",
+    "revenue": "6028.89"
+  },
+  {
+    "design_code": "IMGCUAL",
+    "device_count": "46",
+    "order_count": "285",
+    "product_type": "HTPCR",
+    "revenue": "6004.89"
+  },
+  {
+    "design_code": "NCFCCKT",
+    "device_count": "52",
+    "order_count": "295",
+    "product_type": "HTPCR",
+    "revenue": "5857.2"
+  },
+  {
+    "design_code": "BVGUNVIN",
+    "device_count": "16",
+    "order_count": "25",
+    "product_type": "HTPCR",
+    "revenue": "5811.05"
+  },
+  {
+    "design_code": "FRNDICO2",
+    "device_count": "14",
+    "order_count": "18",
+    "product_type": "HTPCR",
+    "revenue": "5692.3"
+  },
+  {
+    "design_code": "FCBCKT5",
+    "device_count": "10",
+    "order_count": "15",
+    "product_type": "HTPCR",
+    "revenue": "5690.57"
+  },
+  {
+    "design_code": "PNUTSNO",
+    "device_count": "11",
+    "order_count": "16",
+    "product_type": "HTPCR",
+    "revenue": "5679.11"
+  },
+  {
+    "design_code": "ERUKIT5",
+    "device_count": "11",
+    "order_count": "13",
+    "product_type": "HTPCR",
+    "revenue": "5606.12"
+  },
+  {
+    "design_code": "IMILHKT",
+    "device_count": "8",
+    "order_count": "9",
+    "product_type": "HTPCR",
+    "revenue": "5510.45"
+  },
+  {
+    "design_code": "GLCOLOG",
+    "device_count": "6",
+    "order_count": "7",
+    "product_type": "HTPCR",
+    "revenue": "5505.75"
+  },
+  {
+    "design_code": "NFLLOOAK",
+    "device_count": "6",
+    "order_count": "6",
+    "product_type": "HTPCR",
+    "revenue": "5495.8"
+  },
+  {
+    "design_code": "TFTSPOS",
+    "device_count": "3",
+    "order_count": "6",
+    "product_type": "HTPCR",
+    "revenue": "5475.8"
+  },
+  {
+    "design_code": "HPOTPRI2",
+    "device_count": "53",
+    "order_count": "255",
+    "product_type": "HTPCR",
+    "revenue": "5441.51"
+  },
+  {
+    "design_code": "MOHDLOG",
+    "device_count": "4",
+    "order_count": "4",
+    "product_type": "HTPCR",
+    "revenue": "5435.9"
+  },
+  {
+    "design_code": "LFCTIA",
+    "device_count": "3",
+    "order_count": "4",
+    "product_type": "HTPCR",
+    "revenue": "5429.52"
+  },
+  {
+    "design_code": "WEBBCHA",
+    "device_count": "3",
+    "order_count": "3",
+    "product_type": "HTPCR",
+    "revenue": "5415.95"
+  },
+  {
+    "design_code": "MCGRAPH",
+    "device_count": "3",
+    "order_count": "3",
+    "product_type": "HTPCR",
+    "revenue": "5415.95"
+  },
+  {
+    "design_code": "LFCCHMP2",
+    "device_count": "2",
+    "order_count": "3",
+    "product_type": "HTPCR",
+    "revenue": "5415.95"
+  },
+  {
+    "design_code": "BVBLUALB",
+    "device_count": "2",
+    "order_count": "3",
+    "product_type": "HTPCR",
+    "revenue": "5410.59"
+  },
+  {
+    "design_code": "WWESZA",
+    "device_count": "2",
+    "order_count": "2",
+    "product_type": "HTPCR",
+    "revenue": "5396.0"
+  },
+  {
+    "design_code": "BVQUEEBR",
+    "device_count": "2",
+    "order_count": "2",
+    "product_type": "HTPCR",
+    "revenue": "5396.0"
+  },
+  {
+    "design_code": "COWCGRA",
+    "device_count": "2",
+    "order_count": "2",
+    "product_type": "HTPCR",
+    "revenue": "5396.0"
+  },
+  {
+    "design_code": "HPOTDH9",
+    "device_count": "50",
+    "order_count": "135",
+    "product_type": "HTPCR",
+    "revenue": "5220.13"
+  },
+  {
+    "design_code": "WFCKT8",
+    "device_count": "41",
+    "order_count": "125",
+    "product_type": "HTPCR",
+    "revenue": "5106.41"
+  },
+  {
+    "design_code": "HPOTDH14",
+    "device_count": "45",
+    "order_count": "125",
+    "product_type": "HTPCR",
+    "revenue": "5092.2"
+  },
+  {
+    "design_code": "JFCMAR",
+    "device_count": "47",
+    "order_count": "141",
+    "product_type": "HTPCR",
+    "revenue": "5061.74"
+  },
+  {
+    "design_code": "SPRCLOG",
+    "device_count": "31",
+    "order_count": "107",
+    "product_type": "HTPCR",
+    "revenue": "4960.91"
+  },
+  {
+    "design_code": "BTMCHUS",
+    "device_count": "42",
+    "order_count": "216",
+    "product_type": "HTPCR",
+    "revenue": "4761.21"
+  },
+  {
+    "design_code": "AVLACKIT",
+    "device_count": "41",
+    "order_count": "106",
+    "product_type": "HTPCR",
+    "revenue": "4752.85"
+  },
+  {
+    "design_code": "PNUTAPO",
+    "device_count": "33",
+    "order_count": "90",
+    "product_type": "HTPCR",
+    "revenue": "4677.61"
+  },
+  {
+    "design_code": "MCBAGEO",
+    "device_count": "38",
+    "order_count": "102",
+    "product_type": "HTPCR",
+    "revenue": "4647.9"
+  },
+  {
+    "design_code": "WWE2CRH",
+    "device_count": "38",
+    "order_count": "110",
+    "product_type": "HTPCR",
+    "revenue": "4634.8"
+  },
+  {
+    "design_code": "TDKNKEY",
+    "device_count": "35",
+    "order_count": "99",
+    "product_type": "HTPCR",
+    "revenue": "4566.05"
+  },
+  {
+    "design_code": "FRNDICO",
+    "device_count": "32",
+    "order_count": "86",
+    "product_type": "HTPCR",
+    "revenue": "4392.94"
+  },
+  {
+    "design_code": "BVBEHTE",
+    "device_count": "32",
+    "order_count": "85",
+    "product_type": "HTPCR",
+    "revenue": "4324.43"
+  },
+  {
+    "design_code": "AVLAKIT25",
+    "device_count": "47",
+    "order_count": "209",
+    "product_type": "HTPCR",
+    "revenue": "4128.77"
+  },
+  {
+    "design_code": "PNUTSCO",
+    "device_count": "41",
+    "order_count": "189",
+    "product_type": "HTPCR",
+    "revenue": "4083.46"
+  },
+  {
+    "design_code": "FCBCKT7",
+    "device_count": "24",
+    "order_count": "64",
+    "product_type": "HTPCR",
+    "revenue": "4055.73"
+  },
+  {
+    "design_code": "HPOTDH8",
+    "device_count": "33",
+    "order_count": "71",
+    "product_type": "HTPCR",
+    "revenue": "4027.89"
+  },
+  {
+    "design_code": "WMGRATTRE",
+    "device_count": "41",
+    "order_count": "188",
+    "product_type": "HTPCR",
+    "revenue": "4007.27"
+  },
+  {
+    "design_code": "CFCKIT25",
+    "device_count": "46",
+    "order_count": "195",
+    "product_type": "HTPCR",
+    "revenue": "3923.06"
+  },
+  {
+    "design_code": "IMILIM2S",
+    "device_count": "31",
+    "order_count": "74",
+    "product_type": "HTPCR",
+    "revenue": "3874.29"
+  },
+  {
+    "design_code": "HPOTCSE2",
+    "device_count": "28",
+    "order_count": "61",
+    "product_type": "HTPCR",
+    "revenue": "3834.0"
+  },
+  {
+    "design_code": "FCBPHKT25",
+    "device_count": "42",
+    "order_count": "180",
+    "product_type": "HTPCR",
+    "revenue": "3808.8"
+  },
+  {
+    "design_code": "IMGCUAAR",
+    "device_count": "37",
+    "order_count": "175",
+    "product_type": "HTPCR",
+    "revenue": "3775.3"
+  },
+  {
+    "design_code": "ACMCRE",
+    "device_count": "29",
+    "order_count": "48",
+    "product_type": "HTPCR",
+    "revenue": "3769.71"
+  },
+  {
+    "design_code": "WWE2RHE",
+    "device_count": "51",
+    "order_count": "185",
+    "product_type": "HTPCR",
+    "revenue": "3694.83"
+  },
+  {
+    "design_code": "HPOTSOR",
+    "device_count": "32",
+    "order_count": "55",
+    "product_type": "HTPCR",
+    "revenue": "3663.44"
+  },
+  {
+    "design_code": "HPOTDH31",
+    "device_count": "24",
+    "order_count": "55",
+    "product_type": "HTPCR",
+    "revenue": "3654.97"
+  },
+  {
+    "design_code": "IMGCUOK",
+    "device_count": "40",
+    "order_count": "154",
+    "product_type": "HTPCR",
+    "revenue": "3545.54"
+  },
+  {
+    "design_code": "BVRSKAR",
+    "device_count": "30",
+    "order_count": "45",
+    "product_type": "HTPCR",
+    "revenue": "3473.12"
+  },
+  {
+    "design_code": "FCBCKT4",
+    "device_count": "27",
+    "order_count": "42",
+    "product_type": "HTPCR",
+    "revenue": "3448.58"
+  },
+  {
+    "design_code": "BVGUNSKY",
+    "device_count": "18",
+    "order_count": "38",
+    "product_type": "HTPCR",
+    "revenue": "3415.14"
+  },
+  {
+    "design_code": "IRONTOU",
+    "device_count": "25",
+    "order_count": "39",
+    "product_type": "HTPCR",
+    "revenue": "3413.68"
+  },
+  {
+    "design_code": "FCBFTM4",
+    "device_count": "25",
+    "order_count": "41",
+    "product_type": "HTPCR",
+    "revenue": "3398.73"
+  },
+  {
+    "design_code": "WWE2JEY",
+    "device_count": "41",
+    "order_count": "165",
+    "product_type": "HTPCR",
+    "revenue": "3352.08"
+  },
+  {
+    "design_code": "SCDOMYS",
+    "device_count": "20",
+    "order_count": "32",
+    "product_type": "HTPCR",
+    "revenue": "3338.45"
+  },
+  {
+    "design_code": "ERUKIT3",
+    "device_count": "18",
+    "order_count": "33",
+    "product_type": "HTPCR",
+    "revenue": "3328.94"
+  },
+  {
+    "design_code": "CRFCCRE",
+    "device_count": "12",
+    "order_count": "22",
+    "product_type": "HTPCR",
+    "revenue": "3103.94"
+  },
+  {
+    "design_code": "FCBCKT3",
+    "device_count": "15",
+    "order_count": "22",
+    "product_type": "HTPCR",
+    "revenue": "3103.78"
+  },
+  {
+    "design_code": "THFCBKT",
+    "device_count": "12",
+    "order_count": "21",
+    "product_type": "HTPCR",
+    "revenue": "3099.0"
+  },
+  {
+    "design_code": "JFCRKT7",
+    "device_count": "15",
+    "order_count": "20",
+    "product_type": "HTPCR",
+    "revenue": "3016.91"
+  },
+  {
+    "design_code": "NFLLOKAN",
+    "device_count": "12",
+    "order_count": "19",
+    "product_type": "HTPCR",
+    "revenue": "3016.43"
+  },
+  {
+    "design_code": "CFCKIT3",
+    "device_count": "12",
+    "order_count": "16",
+    "product_type": "HTPCR",
+    "revenue": "2997.65"
+  },
+  {
+    "design_code": "MCMARBA",
+    "device_count": "12",
+    "order_count": "17",
+    "product_type": "HTPCR",
+    "revenue": "2994.08"
+  },
+  {
+    "design_code": "BVSPBAN",
+    "device_count": "7",
+    "order_count": "9",
+    "product_type": "HTPCR",
+    "revenue": "2980.82"
+  },
+  {
+    "design_code": "NFLLODEN",
+    "device_count": "12",
+    "order_count": "17",
+    "product_type": "HTPCR",
+    "revenue": "2972.4"
+  },
+  {
+    "design_code": "BVARIDW",
+    "device_count": "13",
+    "order_count": "15",
+    "product_type": "HTPCR",
+    "revenue": "2960.52"
+  },
+  {
+    "design_code": "AFCFT7",
+    "device_count": "7",
+    "order_count": "14",
+    "product_type": "HTPCR",
+    "revenue": "2957.35"
+  },
+  {
+    "design_code": "CBEA40A",
+    "device_count": "12",
+    "order_count": "14",
+    "product_type": "HTPCR",
+    "revenue": "2946.38"
+  },
+  {
+    "design_code": "SRULOG",
+    "device_count": "12",
+    "order_count": "13",
+    "product_type": "HTPCR",
+    "revenue": "2937.4"
+  },
+  {
+    "design_code": "NHLEDMO",
+    "device_count": "8",
+    "order_count": "14",
+    "product_type": "HTPCR",
+    "revenue": "2934.47"
+  },
+  {
+    "design_code": "MCPATT",
+    "device_count": "6",
+    "order_count": "7",
+    "product_type": "HTPCR",
+    "revenue": "2909.56"
+  },
+  {
+    "design_code": "TDKNGRA",
+    "device_count": "9",
+    "order_count": "11",
+    "product_type": "HTPCR",
+    "revenue": "2888.65"
+  },
+  {
+    "design_code": "MCBPIXE",
+    "device_count": "8",
+    "order_count": "11",
+    "product_type": "HTPCR",
+    "revenue": "2882.64"
+  },
+  {
+    "design_code": "NFLLOBAL",
+    "device_count": "10",
+    "order_count": "11",
+    "product_type": "HTPCR",
+    "revenue": "2882.27"
+  },
+  {
+    "design_code": "HPOTCSE",
+    "device_count": "10",
+    "order_count": "10",
+    "product_type": "HTPCR",
+    "revenue": "2872.22"
+  },
+  {
+    "design_code": "ASMYTCR",
+    "device_count": "8",
+    "order_count": "10",
+    "product_type": "HTPCR",
+    "revenue": "2869.17"
+  },
+  {
+    "design_code": "NCFCCRE",
+    "device_count": "41",
+    "order_count": "146",
+    "product_type": "HTPCR",
+    "revenue": "2858.36"
+  },
+  {
+    "design_code": "RMCFURB",
+    "device_count": "47",
+    "order_count": "144",
+    "product_type": "HTPCR",
+    "revenue": "2853.27"
+  },
+  {
+    "design_code": "WACKCLA",
+    "device_count": "5",
+    "order_count": "8",
+    "product_type": "HTPCR",
+    "revenue": "2836.38"
+  },
+  {
+    "design_code": "GRMLPHO",
+    "device_count": "6",
+    "order_count": "8",
+    "product_type": "HTPCR",
+    "revenue": "2835.32"
+  },
+  {
+    "design_code": "SPRCCOM",
+    "device_count": "38",
+    "order_count": "135",
+    "product_type": "HTPCR",
+    "revenue": "2833.83"
+  },
+  {
+    "design_code": "SUPNKEY",
+    "device_count": "44",
+    "order_count": "143",
+    "product_type": "HTPCR",
+    "revenue": "2831.82"
+  },
+  {
+    "design_code": "TFTSLOG",
+    "device_count": "5",
+    "order_count": "5",
+    "product_type": "HTPCR",
+    "revenue": "2826.92"
+  },
+  {
+    "design_code": "WWE2DGE",
+    "device_count": "7",
+    "order_count": "8",
+    "product_type": "HTPCR",
+    "revenue": "2825.13"
+  },
+  {
+    "design_code": "NFLLOPIT",
+    "device_count": "7",
+    "order_count": "7",
+    "product_type": "HTPCR",
+    "revenue": "2822.12"
+  },
+  {
+    "design_code": "HPOTMEM",
+    "device_count": "5",
+    "order_count": "8",
+    "product_type": "HTPCR",
+    "revenue": "2821.43"
+  },
+  {
+    "design_code": "WIWOGRA",
+    "device_count": "6",
+    "order_count": "7",
+    "product_type": "HTPCR",
+    "revenue": "2817.7"
+  },
+  {
+    "design_code": "BVMONPKY",
+    "device_count": "5",
+    "order_count": "7",
+    "product_type": "HTPCR",
+    "revenue": "2816.7"
+  },
+  {
+    "design_code": "BVBSABKEY",
+    "device_count": "4",
+    "order_count": "7",
+    "product_type": "HTPCR",
+    "revenue": "2814.7"
+  },
+  {
+    "design_code": "NFL4LOENG",
+    "device_count": "5",
+    "order_count": "7",
+    "product_type": "HTPCR",
+    "revenue": "2801.75"
+  },
+  {
+    "design_code": "TGOOGRA",
+    "device_count": "5",
+    "order_count": "6",
+    "product_type": "HTPCR",
+    "revenue": "2797.75"
+  },
+  {
+    "design_code": "ERUKIT6",
+    "device_count": "4",
+    "order_count": "6",
+    "product_type": "HTPCR",
+    "revenue": "2796.26"
+  },
+  {
+    "design_code": "TLRIRKP",
+    "device_count": "5",
+    "order_count": "6",
+    "product_type": "HTPCR",
+    "revenue": "2794.56"
+  },
+  {
+    "design_code": "BVJBKEY",
+    "device_count": "5",
+    "order_count": "6",
+    "product_type": "HTPCR",
+    "revenue": "2792.43"
+  },
+  {
+    "design_code": "AFCTYP",
+    "device_count": "4",
+    "order_count": "6",
+    "product_type": "HTPCR",
+    "revenue": "2792.08"
+  },
+  {
+    "design_code": "GTGRAPH",
+    "device_count": "5",
+    "order_count": "6",
+    "product_type": "HTPCR",
+    "revenue": "2784.56"
+  },
+  {
+    "design_code": "COURGRA",
+    "device_count": "4",
+    "order_count": "5",
+    "product_type": "HTPCR",
+    "revenue": "2777.8"
+  },
+  {
+    "design_code": "SUPNGRA",
+    "device_count": "4",
+    "order_count": "5",
+    "product_type": "HTPCR",
+    "revenue": "2777.8"
+  },
+  {
+    "design_code": "MC24PLCH",
+    "device_count": "5",
+    "order_count": "5",
+    "product_type": "HTPCR",
+    "revenue": "2777.8"
+  },
+  {
+    "design_code": "TBBTBAZ",
+    "device_count": "4",
+    "order_count": "5",
+    "product_type": "HTPCR",
+    "revenue": "2774.47"
+  },
+  {
+    "design_code": "HPOTDH22",
+    "device_count": "5",
+    "order_count": "6",
+    "product_type": "HTPCR",
+    "revenue": "2771.01"
+  },
+  {
+    "design_code": "HPOTDH36",
+    "device_count": "5",
+    "order_count": "5",
+    "product_type": "HTPCR",
+    "revenue": "2768.09"
+  },
+  {
+    "design_code": "TBATPOS",
+    "device_count": "5",
+    "order_count": "5",
+    "product_type": "HTPCR",
+    "revenue": "2767.08"
+  },
+  {
+    "design_code": "NFL4LOCHI",
+    "device_count": "4",
+    "order_count": "4",
+    "product_type": "HTPCR",
+    "revenue": "2765.85"
+  },
+  {
+    "design_code": "HPOTDH17",
+    "device_count": "5",
+    "order_count": "5",
+    "product_type": "HTPCR",
+    "revenue": "2763.42"
+  },
+  {
+    "design_code": "WMJOYDGRA",
+    "device_count": "3",
+    "order_count": "4",
+    "product_type": "HTPCR",
+    "revenue": "2758.85"
+  },
+  {
+    "design_code": "WWEUGRA",
+    "device_count": "3",
+    "order_count": "4",
+    "product_type": "HTPCR",
+    "revenue": "2757.85"
+  },
+  {
+    "design_code": "PNUTEAS",
+    "device_count": "4",
+    "order_count": "4",
+    "product_type": "HTPCR",
+    "revenue": "2757.85"
+  },
+  {
+    "design_code": "UFCHOL",
+    "device_count": "4",
+    "order_count": "4",
+    "product_type": "HTPCR",
+    "revenue": "2757.85"
+  },
+  {
+    "design_code": "IMGCLSU",
+    "device_count": "30",
+    "order_count": "127",
+    "product_type": "HTPCR",
+    "revenue": "2756.38"
+  },
+  {
+    "design_code": "NFL4LOSSE",
+    "device_count": "4",
+    "order_count": "4",
+    "product_type": "HTPCR",
+    "revenue": "2751.47"
+  },
+  {
+    "design_code": "TOMJTYP",
+    "device_count": "4",
+    "order_count": "4",
+    "product_type": "HTPCR",
+    "revenue": "2751.47"
+  },
+  {
+    "design_code": "FCBCAM",
+    "device_count": "3",
+    "order_count": "4",
+    "product_type": "HTPCR",
+    "revenue": "2751.19"
+  },
+  {
+    "design_code": "TOMJILL",
+    "device_count": "4",
+    "order_count": "4",
+    "product_type": "HTPCR",
+    "revenue": "2750.79"
+  },
+  {
+    "design_code": "IMILHKT4",
+    "device_count": "4",
+    "order_count": "4",
+    "product_type": "HTPCR",
+    "revenue": "2749.16"
+  },
+  {
+    "design_code": "NFL4LOBUF",
+    "device_count": "4",
+    "order_count": "4",
+    "product_type": "HTPCR",
+    "revenue": "2748.3"
+  },
+  {
+    "design_code": "AFCGOO",
+    "device_count": "3",
+    "order_count": "3",
+    "product_type": "HTPCR",
+    "revenue": "2744.57"
+  },
+  {
+    "design_code": "TOMCD2L",
+    "device_count": "3",
+    "order_count": "3",
+    "product_type": "HTPCR",
+    "revenue": "2738.9"
+  },
+  {
+    "design_code": "TOMJFUL",
+    "device_count": "3",
+    "order_count": "3",
+    "product_type": "HTPCR",
+    "revenue": "2736.35"
+  },
+  {
+    "design_code": "ALGODRA",
+    "device_count": "3",
+    "order_count": "3",
+    "product_type": "HTPCR",
+    "revenue": "2734.71"
+  },
+  {
+    "design_code": "NFLLOARI2",
+    "device_count": "3",
+    "order_count": "3",
+    "product_type": "HTPCR",
+    "revenue": "2734.71"
+  },
+  {
+    "design_code": "TOMJCHA",
+    "device_count": "2",
+    "order_count": "3",
+    "product_type": "HTPCR",
+    "revenue": "2734.44"
+  },
+  {
+    "design_code": "MOTLTOU",
+    "device_count": "3",
+    "order_count": "3",
+    "product_type": "HTPCR",
+    "revenue": "2734.44"
+  },
+  {
+    "design_code": "BVSGREV",
+    "device_count": "3",
+    "order_count": "3",
+    "product_type": "HTPCR",
+    "revenue": "2731.38"
+  },
+  {
+    "design_code": "BVIDRKEY",
+    "device_count": "3",
+    "order_count": "3",
+    "product_type": "HTPCR",
+    "revenue": "2731.24"
+  },
+  {
+    "design_code": "FCBCUL",
+    "device_count": "3",
+    "order_count": "3",
+    "product_type": "HTPCR",
+    "revenue": "2731.24"
+  },
+  {
+    "design_code": "FBSDGBAD",
+    "device_count": "2",
+    "order_count": "2",
+    "product_type": "HTPCR",
+    "revenue": "2727.95"
+  },
+  {
+    "design_code": "NFLLOLOS2",
+    "device_count": "2",
+    "order_count": "2",
+    "product_type": "HTPCR",
+    "revenue": "2719.95"
+  },
+  {
+    "design_code": "RMCFRET",
+    "device_count": "35",
+    "order_count": "117",
+    "product_type": "HTPCR",
+    "revenue": "2718.59"
+  }
+]

@@ -1,0 +1,79 @@
+{
+  "template": {
+    "code": "PS5SCS",
+    "name": "PS5 Standard Console Skin",
+    "version": "1.2.0"
+  },
+  "smartObjects": {
+    "panels": ["PANEL1", "PANEL2", "PANEL3", "PANEL4", "PANEL5", "PANEL6"],
+    "panelCopies": ["PANEL1 copy", "PANEL2 copy", "PANEL3 copy", "PANEL4 copy", "PANEL5 copy", "PANEL6 2 copy"],
+    "controllers": ["controller", "controller2"],
+    "notes": "PANEL6 has variant 'PANEL6 2' for alternate view"
+  },
+  "files": {
+    "designPsd": "PS5SCS.psd",
+    "displayPsd": "PS5SCS_display.psd",
+    "epsTemplate": "89-39-PS5SCS.eps"
+  },
+  "actionSets": {
+    "primary": "NEWSKIN",
+    "secondary": ["SERIESX", "SERIESS"]
+  },
+  "actions": {
+    "preProcess": ["ungroup"],
+    "preview": ["prev"],
+    "panels": ["P1", "P2", "P3", "P4", "P5", "P6"],
+    "controllers": {
+      "copy": "copycontroller",
+      "paste": "pastecontroller",
+      "paste2": "pastecontroller2",
+      "hide": "hidecontroller",
+      "hide2": "hidecontroller2",
+      "show2": "showcont2"
+    },
+    "visibility": {
+      "hide1": "hide1",
+      "hide2": "hide2"
+    }
+  },
+  "workflow": {
+    "steps": [
+      {"action": "ungroup", "set": "NEWSKIN"},
+      {"action": "hideGroups", "description": "Hide all design groups"},
+      {"loop": "designs", "steps": [
+        {"action": "showGroup", "index": "current"},
+        {"action": "prev", "set": "NEWSKIN"},
+        {"action": "P1", "set": "NEWSKIN"},
+        {"action": "prev", "set": "NEWSKIN"},
+        {"action": "P2", "set": "NEWSKIN"},
+        {"action": "prev", "set": "NEWSKIN"},
+        {"action": "P3", "set": "NEWSKIN"},
+        {"action": "prev", "set": "NEWSKIN"},
+        {"action": "P4", "set": "NEWSKIN"},
+        {"action": "prev", "set": "NEWSKIN"},
+        {"action": "P5", "set": "NEWSKIN"},
+        {"action": "prev", "set": "NEWSKIN"},
+        {"action": "P6", "set": "NEWSKIN"},
+        {"action": "export", "pattern": "89-39-PS5SCS-{index}.jpg"}
+      ]}
+    ]
+  },
+  "export": {
+    "format": "JPEG",
+    "quality": 80,
+    "optimized": true,
+    "includeProfile": false,
+    "naming": {
+      "prefix": "89-39",
+      "pattern": "{prefix}-{productCode}-{index}.jpg"
+    }
+  },
+  "outputs": {
+    "mockups": ["89-39-PS5SCS-1.jpg", "89-39-PS5SCS-2.jpg", "89-39-PS5SCS-3.jpg"],
+    "bundle": ["89-39-PS5BD-1.jpg", "89-39-PS5SBD-1.jpg", "89-39-PS5SBDE-1.jpg"]
+  },
+  "validation": {
+    "requiredActions": ["ungroup", "prev", "P1", "P2", "P3", "P4", "P5", "P6"],
+    "actionSet": "NEWSKIN"
+  }
+}

@@ -1,0 +1,1 @@
+SELECT * FROM t_amalgamated_po_line a WHERE a.`f_HptId`  = 1782791

@@ -1,0 +1,923 @@
+{
+  "date": "2026-03-21",
+  "us_7d": {
+    "sessions": 101217,
+    "units": 1486,
+    "sales": 33163.53,
+    "conversion": 1.47,
+    "by_type": {
+      "HDMWH": {
+        "sessions": 4937,
+        "units": 118,
+        "sales": 3142.1,
+        "conv": 2.39
+      },
+      "HC": {
+        "sessions": 10472,
+        "units": 201,
+        "sales": 4065.95,
+        "conv": 1.92
+      },
+      "HTPCR": {
+        "sessions": 52230,
+        "units": 759,
+        "sales": 16592.2,
+        "conv": 1.45
+      },
+      "HGCRD": {
+        "sessions": 38,
+        "units": 5,
+        "sales": 129.75,
+        "conv": 13.16
+      },
+      "H8939": {
+        "sessions": 8920,
+        "units": 110,
+        "sales": 2518.5,
+        "conv": 1.23
+      },
+      "HSTWH": {
+        "sessions": 246,
+        "units": 13,
+        "sales": 169.88,
+        "conv": 5.28
+      },
+      "HB6CR": {
+        "sessions": 3517,
+        "units": 42,
+        "sales": 1039.9,
+        "conv": 1.19
+      },
+      "HB7BK": {
+        "sessions": 1855,
+        "units": 19,
+        "sales": 457.05,
+        "conv": 1.02
+      },
+      "HLBWH": {
+        "sessions": 12980,
+        "units": 109,
+        "sales": 2744.6,
+        "conv": 0.84
+      },
+      "HB401": {
+        "sessions": 4430,
+        "units": 86,
+        "sales": 1750.8,
+        "conv": 1.94
+      },
+      "CH8939": {
+        "sessions": 35,
+        "units": 1,
+        "sales": 21.95,
+        "conv": 2.86
+      },
+      "H7805": {
+        "sessions": 236,
+        "units": 3,
+        "sales": 50.85,
+        "conv": 1.27
+      },
+      "Amazon.Found.B0BC19GFX6": {
+        "sessions": 13,
+        "units": 1,
+        "sales": 19.95,
+        "conv": 7.69
+      },
+      "HHYBK": {
+        "sessions": 35,
+        "units": 2,
+        "sales": 34.9,
+        "conv": 5.71
+      },
+      "HA605": {
+        "sessions": 13,
+        "units": 1,
+        "sales": 17.95,
+        "conv": 7.69
+      },
+      "HA921": {
+        "sessions": 97,
+        "units": 1,
+        "sales": 39.95,
+        "conv": 1.03
+      },
+      "HA805": {
+        "sessions": 155,
+        "units": 1,
+        "sales": 24.95,
+        "conv": 0.65
+      },
+      "HGCBK": {
+        "sessions": 101,
+        "units": 2,
+        "sales": 51.9,
+        "conv": 1.98
+      },
+      "HB1BK": {
+        "sessions": 362,
+        "units": 9,
+        "sales": 215.55,
+        "conv": 2.49
+      },
+      "HCC01": {
+        "sessions": 5,
+        "units": 1,
+        "sales": 24.95,
+        "conv": 20.0
+      },
+      "HLCBT": {
+        "sessions": 25,
+        "units": 2,
+        "sales": 49.9,
+        "conv": 8.0
+      },
+      "H9039": {
+        "sessions": 20,
+        "units": 0,
+        "sales": 0.0,
+        "conv": 0.0
+      },
+      "H8940": {
+        "sessions": 1,
+        "units": 0,
+        "sales": 0.0,
+        "conv": 0.0
+      },
+      "CH8940": {
+        "sessions": 24,
+        "units": 0,
+        "sales": 0.0,
+        "conv": 0.0
+      },
+      "HA721": {
+        "sessions": 17,
+        "units": 0,
+        "sales": 0.0,
+        "conv": 0.0
+      },
+      "H4621": {
+        "sessions": 51,
+        "units": 0,
+        "sales": 0.0,
+        "conv": 0.0
+      },
+      "HA501": {
+        "sessions": 30,
+        "units": 0,
+        "sales": 0.0,
+        "conv": 0.0
+      },
+      "HA101": {
+        "sessions": 22,
+        "units": 0,
+        "sales": 0.0,
+        "conv": 0.0
+      },
+      "HB605": {
+        "sessions": 3,
+        "units": 0,
+        "sales": 0.0,
+        "conv": 0.0
+      },
+      "HCC21": {
+        "sessions": 3,
+        "units": 0,
+        "sales": 0.0,
+        "conv": 0.0
+      },
+      "HB701": {
+        "sessions": 3,
+        "units": 0,
+        "sales": 0.0,
+        "conv": 0.0
+      },
+      "HGC01": {
+        "sessions": 8,
+        "units": 0,
+        "sales": 0.0,
+        "conv": 0.0
+      },
+      "HCCBK": {
+        "sessions": 6,
+        "units": 0,
+        "sales": 0.0,
+        "conv": 0.0
+      },
+      "HLCCR": {
+        "sessions": 87,
+        "units": 0,
+        "sales": 0.0,
+        "conv": 0.0
+      },
+      "HLCCG": {
+        "sessions": 155,
+        "units": 0,
+        "sales": 0.0,
+        "conv": 0.0
+      },
+      "HGCWH": {
+        "sessions": 4,
+        "units": 0,
+        "sales": 0.0,
+        "conv": 0.0
+      },
+      "HGSRD": {
+        "sessions": 1,
+        "units": 0,
+        "sales": 0.0,
+        "conv": 0.0
+      },
+      "HGSDB": {
+        "sessions": 2,
+        "units": 0,
+        "sales": 0.0,
+        "conv": 0.0
+      },
+      "HGSBK": {
+        "sessions": 1,
+        "units": 0,
+        "sales": 0.0,
+        "conv": 0.0
+      },
+      "HGSBL": {
+        "sessions": 1,
+        "units": 0,
+        "sales": 0.0,
+        "conv": 0.0
+      }
+    }
+  },
+  "us_30d": {
+    "sessions": 275920,
+    "units": 7980,
+    "sales": 178553.25,
+    "conversion": 2.89,
+    "by_type": {
+      "H8939": {
+        "sessions": 29442,
+        "units": 582,
+        "sales": 12921.95,
+        "conv": 1.98
+      },
+      "HDMWH": {
+        "sessions": 22295,
+        "units": 704,
+        "sales": 18177.85,
+        "conv": 3.16
+      },
+      "HTPCR": {
+        "sessions": 138522,
+        "units": 4097,
+        "sales": 89732.75,
+        "conv": 2.96
+      },
+      "HGCRD": {
+        "sessions": 177,
+        "units": 13,
+        "sales": 337.35,
+        "conv": 7.34
+      },
+      "HC": {
+        "sessions": 29049,
+        "units": 916,
+        "sales": 18404.35,
+        "conv": 3.15
+      },
+      "HSTWH": {
+        "sessions": 893,
+        "units": 46,
+        "sales": 626.55,
+        "conv": 5.15
+      },
+      "HB6CR": {
+        "sessions": 6746,
+        "units": 200,
+        "sales": 4880.0,
+        "conv": 2.96
+      },
+      "HB7BK": {
+        "sessions": 4384,
+        "units": 105,
+        "sales": 2478.85,
+        "conv": 2.4
+      },
+      "HLBWH": {
+        "sessions": 36829,
+        "units": 694,
+        "sales": 17843.45,
+        "conv": 1.88
+      },
+      "HGCBK": {
+        "sessions": 185,
+        "units": 11,
+        "sales": 285.45,
+        "conv": 5.95
+      },
+      "HB401": {
+        "sessions": 3186,
+        "units": 397,
+        "sales": 8103.45,
+        "conv": 12.46
+      },
+      "H4621": {
+        "sessions": 628,
+        "units": 22,
+        "sales": 555.9,
+        "conv": 3.5
+      },
+      "HLCCG": {
+        "sessions": 450,
+        "units": 7,
+        "sales": 174.65,
+        "conv": 1.56
+      },
+      "H7805": {
+        "sessions": 1064,
+        "units": 22,
+        "sales": 372.9,
+        "conv": 2.07
+      },
+      "Amazon.Found.B0BC19GFX6": {
+        "sessions": 39,
+        "units": 2,
+        "sales": 48.9,
+        "conv": 5.13
+      },
+      "HA805": {
+        "sessions": 78,
+        "units": 11,
+        "sales": 275.45,
+        "conv": 14.1
+      },
+      "HA501": {
+        "sessions": 16,
+        "units": 4,
+        "sales": 99.8,
+        "conv": 25.0
+      },
+      "HCC01": {
+        "sessions": 24,
+        "units": 2,
+        "sales": 49.9,
+        "conv": 8.33
+      },
+      "HLCBT": {
+        "sessions": 22,
+        "units": 3,
+        "sales": 74.85,
+        "conv": 13.64
+      },
+      "HGC01": {
+        "sessions": 13,
+        "units": 2,
+        "sales": 39.9,
+        "conv": 15.38
+      },
+      "CH8939": {
+        "sessions": 187,
+        "units": 2,
+        "sales": 51.9,
+        "conv": 1.07
+      },
+      "HHYBK": {
+        "sessions": 51,
+        "units": 3,
+        "sales": 66.85,
+        "conv": 5.88
+      },
+      "HA605": {
+        "sessions": 14,
+        "units": 2,
+        "sales": 35.9,
+        "conv": 14.29
+      },
+      "HA921": {
+        "sessions": 13,
+        "units": 3,
+        "sales": 119.85,
+        "conv": 23.08
+      },
+      "HB1BK": {
+        "sessions": 74,
+        "units": 20,
+        "sales": 479.0,
+        "conv": 27.03
+      },
+      "HCC21": {
+        "sessions": 27,
+        "units": 1,
+        "sales": 24.95,
+        "conv": 3.7
+      },
+      "HCCBK": {
+        "sessions": 10,
+        "units": 1,
+        "sales": 25.95,
+        "conv": 10.0
+      },
+      "HLCCR": {
+        "sessions": 101,
+        "units": 1,
+        "sales": 24.95,
+        "conv": 0.99
+      },
+      "HGSRD": {
+        "sessions": 8,
+        "units": 1,
+        "sales": 19.95,
+        "conv": 12.5
+      },
+      "H9039": {
+        "sessions": 75,
+        "units": 0,
+        "sales": 0.0,
+        "conv": 0.0
+      },
+      "H8940": {
+        "sessions": 3,
+        "units": 0,
+        "sales": 0.0,
+        "conv": 0.0
+      },
+      "CH8940": {
+        "sessions": 125,
+        "units": 0,
+        "sales": 0.0,
+        "conv": 0.0
+      }
+    }
+  },
+  "uk_7d": {
+    "sessions": 0,
+    "units": 0,
+    "sales": 16747.03,
+    "conversion": 0,
+    "by_type": {
+      "H8939": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 1585.15,
+        "conv": 0
+      },
+      "HTPCR": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 6791.32,
+        "conv": 0
+      },
+      "HLBWH": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 3672.05,
+        "conv": 0
+      },
+      "HC": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 1988.35,
+        "conv": 0
+      },
+      "HSTWH": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 67.94,
+        "conv": 0
+      },
+      "HDMWH": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 1000.78,
+        "conv": 0
+      },
+      "HB401": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 813.44,
+        "conv": 0
+      },
+      "HB6CR": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 470.9,
+        "conv": 0
+      },
+      "HB7BK": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 131.7,
+        "conv": 0
+      },
+      "HHYBK": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 9.95,
+        "conv": 0
+      },
+      "H7805": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 38.85,
+        "conv": 0
+      },
+      "HA721": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 27.95,
+        "conv": 0
+      },
+      "HB1BK": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 63.85,
+        "conv": 0
+      },
+      "HGCBK": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 24.95,
+        "conv": 0
+      },
+      "HGSRD": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 39.9,
+        "conv": 0
+      },
+      "HGSBL": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 19.95,
+        "conv": 0
+      },
+      "H6201": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 0.0,
+        "conv": 0
+      },
+      "H9040": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 0.0,
+        "conv": 0
+      },
+      "H9039": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 0.0,
+        "conv": 0
+      },
+      "HA101": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 0.0,
+        "conv": 0
+      },
+      "HA605": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 0.0,
+        "conv": 0
+      },
+      "HA921": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 0.0,
+        "conv": 0
+      },
+      "HA805": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 0.0,
+        "conv": 0
+      },
+      "HGTCR": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 0.0,
+        "conv": 0
+      },
+      "HA501": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 0.0,
+        "conv": 0
+      },
+      "HCCBK": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 0.0,
+        "conv": 0
+      },
+      "HCCWH": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 0.0,
+        "conv": 0
+      },
+      "HLCCG": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 0.0,
+        "conv": 0
+      },
+      "HLCBT": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 0.0,
+        "conv": 0
+      },
+      "HGCBL": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 0.0,
+        "conv": 0
+      },
+      "HGCWH": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 0.0,
+        "conv": 0
+      },
+      "HGC01": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 0.0,
+        "conv": 0
+      },
+      "HGSDB": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 0.0,
+        "conv": 0
+      },
+      "HGSBK": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 0.0,
+        "conv": 0
+      }
+    }
+  },
+  "uk_30d": {
+    "sessions": 0,
+    "units": 0,
+    "sales": 81224.92,
+    "conversion": 0,
+    "by_type": {
+      "HGSRD": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 418.94,
+        "conv": 0
+      },
+      "H8939": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 7329.2,
+        "conv": 0
+      },
+      "HSTWH": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 535.54,
+        "conv": 0
+      },
+      "HDMWH": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 4852.38,
+        "conv": 0
+      },
+      "HTPCR": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 31247.4,
+        "conv": 0
+      },
+      "HB6CR": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 2623.9,
+        "conv": 0
+      },
+      "HB401": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 3486.74,
+        "conv": 0
+      },
+      "HGSBL": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 99.75,
+        "conv": 0
+      },
+      "HC": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 9431.82,
+        "conv": 0
+      },
+      "HLBWH": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 19090.35,
+        "conv": 0
+      },
+      "HHYBK": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 59.7,
+        "conv": 0
+      },
+      "HGSBK": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 79.8,
+        "conv": 0
+      },
+      "HGSDB": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 79.8,
+        "conv": 0
+      },
+      "HB7BK": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 588.65,
+        "conv": 0
+      },
+      "H7805": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 118.55,
+        "conv": 0
+      },
+      "HA721": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 273.55,
+        "conv": 0
+      },
+      "HGCBL": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 74.85,
+        "conv": 0
+      },
+      "HGCRD": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 72.85,
+        "conv": 0
+      },
+      "H6201": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 34.75,
+        "conv": 0
+      },
+      "HA921": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 73.9,
+        "conv": 0
+      },
+      "HA805": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 47.9,
+        "conv": 0
+      },
+      "H4621": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 99.75,
+        "conv": 0
+      },
+      "HGTCR": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 19.95,
+        "conv": 0
+      },
+      "HGCBK": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 143.7,
+        "conv": 0
+      },
+      "HB1BK": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 317.25,
+        "conv": 0
+      },
+      "HCCBK": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 23.95,
+        "conv": 0
+      },
+      "H9040": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 0.0,
+        "conv": 0
+      },
+      "H9039": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 0.0,
+        "conv": 0
+      },
+      "H7100": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 0.0,
+        "conv": 0
+      },
+      "HA101": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 0.0,
+        "conv": 0
+      },
+      "HA605": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 0.0,
+        "conv": 0
+      },
+      "HA501": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 0.0,
+        "conv": 0
+      },
+      "HCC01": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 0.0,
+        "conv": 0
+      },
+      "HCC21": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 0.0,
+        "conv": 0
+      },
+      "HGC02": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 0.0,
+        "conv": 0
+      },
+      "HCCWH": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 0.0,
+        "conv": 0
+      },
+      "HLCCR": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 0.0,
+        "conv": 0
+      },
+      "HLCCG": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 0.0,
+        "conv": 0
+      },
+      "HLCBT": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 0.0,
+        "conv": 0
+      },
+      "HGCWH": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 0.0,
+        "conv": 0
+      },
+      "HGC01": {
+        "sessions": 0,
+        "units": 0,
+        "sales": 0.0,
+        "conv": 0
+      }
+    }
+  },
+  "velocity": {
+    "us": -20.4,
+    "uk": -11.6
+  },
+  "category_benchmark": 1.5,
+  "category_trend": -0.85
+}

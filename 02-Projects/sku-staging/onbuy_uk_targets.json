@@ -1,0 +1,8900 @@
+[
+  {
+    "design_code": "LFCKIT25",
+    "orders_90d": 979,
+    "revenue_90d": 20115.71,
+    "device_count": 60,
+    "product_types": [
+      "HB1BK",
+      "HB401",
+      "HC",
+      "HDMWH",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291030922"
+  },
+  {
+    "design_code": "NCFCCKT",
+    "orders_90d": 524,
+    "revenue_90d": 10345.8,
+    "device_count": 52,
+    "product_types": [
+      "H8939",
+      "HB401",
+      "HC",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-bfa-30970-00"
+  },
+  {
+    "design_code": "AFCKIT25",
+    "orders_90d": 478,
+    "revenue_90d": 9822.73,
+    "device_count": 36,
+    "product_types": [
+      "HB401",
+      "HDMWH",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5057546929130"
+  },
+  {
+    "design_code": "LFCDCA",
+    "orders_90d": 483,
+    "revenue_90d": 9616.83,
+    "device_count": 60,
+    "product_types": [
+      "H6201",
+      "HB1BK",
+      "HB401",
+      "HC",
+      "HHYBK",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291030878"
+  },
+  {
+    "design_code": "LFCART",
+    "orders_90d": 368,
+    "revenue_90d": 8420.6,
+    "device_count": 48,
+    "product_types": [
+      "H8939"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-9e5-2bace-00"
+  },
+  {
+    "design_code": "AVLAKIT25",
+    "orders_90d": 363,
+    "revenue_90d": 7452.84,
+    "device_count": 43,
+    "product_types": [
+      "HB401",
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "542-bea-311ba-00"
+  },
+  {
+    "design_code": "THFCBAD",
+    "orders_90d": 335,
+    "revenue_90d": 6660.69,
+    "device_count": 45,
+    "product_types": [
+      "HB401",
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291034418"
+  },
+  {
+    "design_code": "AFCCKT8",
+    "orders_90d": 305,
+    "revenue_90d": 6544.42,
+    "device_count": 35,
+    "product_types": [
+      "H8939",
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-9e5-2ecac-00"
+  },
+  {
+    "design_code": "NCFCCRE",
+    "orders_90d": 310,
+    "revenue_90d": 6531.48,
+    "device_count": 40,
+    "product_types": [
+      "HB401",
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-30758-00"
+  },
+  {
+    "design_code": "LFCLVBRD",
+    "orders_90d": 323,
+    "revenue_90d": 6500.84,
+    "device_count": 38,
+    "product_types": [
+      "HB401",
+      "HC",
+      "HHYBK",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291030977"
+  },
+  {
+    "design_code": "AFCCPA",
+    "orders_90d": 290,
+    "revenue_90d": 5734.5,
+    "device_count": 41,
+    "product_types": [
+      "HB1BK",
+      "HB401",
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-1fa4a-00"
+  },
+  {
+    "design_code": "PNUTSNF",
+    "orders_90d": 256,
+    "revenue_90d": 5461.2,
+    "device_count": 17,
+    "product_types": [
+      "HB6CR",
+      "HB7BK"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "B0G26XZL74"
+  },
+  {
+    "design_code": "HPOTDH37",
+    "orders_90d": 256,
+    "revenue_90d": 5378.54,
+    "device_count": 45,
+    "product_types": [
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5057089966104"
+  },
+  {
+    "design_code": "MCBDKIT25",
+    "orders_90d": 270,
+    "revenue_90d": 5366.49,
+    "device_count": 49,
+    "product_types": [
+      "HB1BK",
+      "HB401",
+      "HC",
+      "HDMWH",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5057546905776"
+  },
+  {
+    "design_code": "LFCCRE1",
+    "orders_90d": 200,
+    "revenue_90d": 4547.99,
+    "device_count": 53,
+    "product_types": [
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "49b-4b9-178cc-00"
+  },
+  {
+    "design_code": "AFCLOGOS",
+    "orders_90d": 230,
+    "revenue_90d": 4531.19,
+    "device_count": 27,
+    "product_types": [
+      "H8939",
+      "HB401",
+      "HC",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-9e5-2ce9d-00"
+  },
+  {
+    "design_code": "CFCKIT25",
+    "orders_90d": 211,
+    "revenue_90d": 4254.12,
+    "device_count": 41,
+    "product_types": [
+      "HB401",
+      "HC",
+      "HDMWH",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5057546905837"
+  },
+  {
+    "design_code": "WFCKT8",
+    "orders_90d": 203,
+    "revenue_90d": 4135.84,
+    "device_count": 41,
+    "product_types": [
+      "H8939",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "d-ae9-2eb6f-0000"
+  },
+  {
+    "design_code": "RFCKIT2",
+    "orders_90d": 169,
+    "revenue_90d": 3977.55,
+    "device_count": 23,
+    "product_types": [
+      "H8939",
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-cdc-30460-00"
+  },
+  {
+    "design_code": "AFCCRE",
+    "orders_90d": 195,
+    "revenue_90d": 3976.59,
+    "device_count": 31,
+    "product_types": [
+      "HB1BK",
+      "HB401",
+      "HC",
+      "HHYBK",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291005838"
+  },
+  {
+    "design_code": "AFCCKT7",
+    "orders_90d": 194,
+    "revenue_90d": 3904.97,
+    "device_count": 30,
+    "product_types": [
+      "HB401",
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291009515"
+  },
+  {
+    "design_code": "MCGFMUR",
+    "orders_90d": 182,
+    "revenue_90d": 3686.07,
+    "device_count": 31,
+    "product_types": [
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-3078a-00"
+  },
+  {
+    "design_code": "LFCCAMO",
+    "orders_90d": 184,
+    "revenue_90d": 3609.8,
+    "device_count": 27,
+    "product_types": [
+      "H6201",
+      "H9901",
+      "HB1BK",
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "49b-4b9-18f8c-00"
+  },
+  {
+    "design_code": "PNUTHAL",
+    "orders_90d": 163,
+    "revenue_90d": 3517.85,
+    "device_count": 41,
+    "product_types": [
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291032926"
+  },
+  {
+    "design_code": "MCBDKIT8",
+    "orders_90d": 166,
+    "revenue_90d": 3424.69,
+    "device_count": 33,
+    "product_types": [
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291031462"
+  },
+  {
+    "design_code": "THFCBKT3",
+    "orders_90d": 162,
+    "revenue_90d": 3351.9,
+    "device_count": 23,
+    "product_types": [
+      "H8939",
+      "HB401",
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-bfa-2ef4a-00"
+  },
+  {
+    "design_code": "LFCGRPH",
+    "orders_90d": 158,
+    "revenue_90d": 3272.1,
+    "device_count": 3,
+    "product_types": [
+      "HDMWH"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291408110"
+  },
+  {
+    "design_code": "THFCKIT25",
+    "orders_90d": 165,
+    "revenue_90d": 3238.73,
+    "device_count": 36,
+    "product_types": [
+      "HB401",
+      "HC",
+      "HDMWH",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291409117"
+  },
+  {
+    "design_code": "CFCRETKS",
+    "orders_90d": 170,
+    "revenue_90d": 3185.47,
+    "device_count": 23,
+    "product_types": [
+      "HB401",
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291026987"
+  },
+  {
+    "design_code": "RFCCRE",
+    "orders_90d": 152,
+    "revenue_90d": 3142.4,
+    "device_count": 31,
+    "product_types": [
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "527-94b-2ca03-00"
+  },
+  {
+    "design_code": "PNUTCHA",
+    "orders_90d": 152,
+    "revenue_90d": 3131.73,
+    "device_count": 37,
+    "product_types": [
+      "HB401",
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291031790"
+  },
+  {
+    "design_code": "CFCCRE",
+    "orders_90d": 150,
+    "revenue_90d": 2964.56,
+    "device_count": 31,
+    "product_types": [
+      "HB401",
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5057546013679"
+  },
+  {
+    "design_code": "THFCLGAR",
+    "orders_90d": 139,
+    "revenue_90d": 2948.05,
+    "device_count": 22,
+    "product_types": [
+      "H8939",
+      "HDMWH"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291409186"
+  },
+  {
+    "design_code": "HPOTPRI2",
+    "orders_90d": 134,
+    "revenue_90d": 2901.98,
+    "device_count": 37,
+    "product_types": [
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5057089970040"
+  },
+  {
+    "design_code": "PNUTBOA",
+    "orders_90d": 139,
+    "revenue_90d": 2810.73,
+    "device_count": 37,
+    "product_types": [
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291032605"
+  },
+  {
+    "design_code": "RFCKIT25",
+    "orders_90d": 137,
+    "revenue_90d": 2750.81,
+    "device_count": 26,
+    "product_types": [
+      "HB401",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "540-be8-31230-00"
+  },
+  {
+    "design_code": "AFCCGLO",
+    "orders_90d": 125,
+    "revenue_90d": 2694.75,
+    "device_count": 24,
+    "product_types": [
+      "HB401",
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291035170"
+  },
+  {
+    "design_code": "LFCCLP2",
+    "orders_90d": 137,
+    "revenue_90d": 2684.83,
+    "device_count": 27,
+    "product_types": [
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-21d1a-00"
+  },
+  {
+    "design_code": "AFCCKT9",
+    "orders_90d": 117,
+    "revenue_90d": 2593.32,
+    "device_count": 19,
+    "product_types": [
+      "H8939",
+      "HB1BK",
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291008297"
+  },
+  {
+    "design_code": "SCFAKTS3",
+    "orders_90d": 115,
+    "revenue_90d": 2290.24,
+    "device_count": 12,
+    "product_types": [
+      "H8939",
+      "HB401",
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-bfa-2f8e0-00"
+  },
+  {
+    "design_code": "HPOTDH13",
+    "orders_90d": 116,
+    "revenue_90d": 2288.2,
+    "device_count": 26,
+    "product_types": [
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291030175"
+  },
+  {
+    "design_code": "MCBADGE",
+    "orders_90d": 100,
+    "revenue_90d": 2235.69,
+    "device_count": 18,
+    "product_types": [
+      "H8939",
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "B07BNG42ZQ"
+  },
+  {
+    "design_code": "HPOTGRA",
+    "orders_90d": 108,
+    "revenue_90d": 2211.72,
+    "device_count": 28,
+    "product_types": [
+      "H8939",
+      "HDMWH",
+      "HGTCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5057546224389"
+  },
+  {
+    "design_code": "MCBAGEO",
+    "orders_90d": 112,
+    "revenue_90d": 2193.4,
+    "device_count": 30,
+    "product_types": [
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "49b-4b9-1bee2-00"
+  },
+  {
+    "design_code": "BVBEKYA",
+    "orders_90d": 108,
+    "revenue_90d": 2184.6,
+    "device_count": 30,
+    "product_types": [
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5057546591221"
+  },
+  {
+    "design_code": "LFCCRE2",
+    "orders_90d": 101,
+    "revenue_90d": 2178.28,
+    "device_count": 32,
+    "product_types": [
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "49b-4b9-178aa-00"
+  },
+  {
+    "design_code": "AFCFT8",
+    "orders_90d": 102,
+    "revenue_90d": 2081.9,
+    "device_count": 17,
+    "product_types": [
+      "HB401",
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-30746-00"
+  },
+  {
+    "design_code": "HATSGRA",
+    "orders_90d": 100,
+    "revenue_90d": 2067.0,
+    "device_count": 23,
+    "product_types": [
+      "H8939",
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291027861"
+  },
+  {
+    "design_code": "AVLACKIT",
+    "orders_90d": 100,
+    "revenue_90d": 1944.0,
+    "device_count": 36,
+    "product_types": [
+      "HC",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-30f2e-00"
+  },
+  {
+    "design_code": "AVLACRE",
+    "orders_90d": 92,
+    "revenue_90d": 1890.38,
+    "device_count": 22,
+    "product_types": [
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "542-746-30f7e-00"
+  },
+  {
+    "design_code": "NCFCKIT25",
+    "orders_90d": 93,
+    "revenue_90d": 1876.34,
+    "device_count": 25,
+    "product_types": [
+      "HB401",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "540-be8-31353-00"
+  },
+  {
+    "design_code": "DRGBSUSC",
+    "orders_90d": 87,
+    "revenue_90d": 1793.65,
+    "device_count": 24,
+    "product_types": [
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291027250"
+  },
+  {
+    "design_code": "WWE2CRH",
+    "orders_90d": 103,
+    "revenue_90d": 1734.58,
+    "device_count": 11,
+    "product_types": [
+      "H8939",
+      "HC",
+      "HDMWH",
+      "HLBWH",
+      "HSTWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291035323"
+  },
+  {
+    "design_code": "ERUMAR",
+    "orders_90d": 86,
+    "revenue_90d": 1707.07,
+    "device_count": 19,
+    "product_types": [
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "49b-4b9-20987-00"
+  },
+  {
+    "design_code": "LFCLLOGO",
+    "orders_90d": 79,
+    "revenue_90d": 1540.04,
+    "device_count": 2,
+    "product_types": [
+      "HGSBK",
+      "HGSRD"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "560-92f-31843-00"
+  },
+  {
+    "design_code": "AFCCLPA",
+    "orders_90d": 77,
+    "revenue_90d": 1516.15,
+    "device_count": 3,
+    "product_types": [
+      "HDMWH"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291405584"
+  },
+  {
+    "design_code": "WFCHAM",
+    "orders_90d": 72,
+    "revenue_90d": 1459.04,
+    "device_count": 14,
+    "product_types": [
+      "HB401",
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-1fa5f-00"
+  },
+  {
+    "design_code": "ERUKIT3",
+    "orders_90d": 71,
+    "revenue_90d": 1434.45,
+    "device_count": 15,
+    "product_types": [
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2a603-00"
+  },
+  {
+    "design_code": "RMORGRA",
+    "orders_90d": 66,
+    "revenue_90d": 1408.7,
+    "device_count": 24,
+    "product_types": [
+      "H7805",
+      "H8939",
+      "HDMWH"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5057546224419"
+  },
+  {
+    "design_code": "CFCART",
+    "orders_90d": 68,
+    "revenue_90d": 1400.6,
+    "device_count": 18,
+    "product_types": [
+      "H8939"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-9e5-2cea3-00"
+  },
+  {
+    "design_code": "IRONALB",
+    "orders_90d": 70,
+    "revenue_90d": 1399.5,
+    "device_count": 25,
+    "product_types": [
+      "HB1BK",
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291030588"
+  },
+  {
+    "design_code": "NCFCFTM",
+    "orders_90d": 71,
+    "revenue_90d": 1375.45,
+    "device_count": 17,
+    "product_types": [
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-3106a-00"
+  },
+  {
+    "design_code": "LFCCLI2",
+    "orders_90d": 61,
+    "revenue_90d": 1372.62,
+    "device_count": 18,
+    "product_types": [
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-21d17-00"
+  },
+  {
+    "design_code": "NARUICO",
+    "orders_90d": 69,
+    "revenue_90d": 1364.21,
+    "device_count": 19,
+    "product_types": [
+      "H8939",
+      "HB401",
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291029315"
+  },
+  {
+    "design_code": "MCFTEAM5",
+    "orders_90d": 67,
+    "revenue_90d": 1363.65,
+    "device_count": 25,
+    "product_types": [
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2eb7f-00"
+  },
+  {
+    "design_code": "METYCLA",
+    "orders_90d": 67,
+    "revenue_90d": 1363.64,
+    "device_count": 27,
+    "product_types": [
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "4f8-730-28600-00"
+  },
+  {
+    "design_code": "NCFCCWI",
+    "orders_90d": 61,
+    "revenue_90d": 1343.95,
+    "device_count": 28,
+    "product_types": [
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-bf4-3102c-00"
+  },
+  {
+    "design_code": "CFCKIT5",
+    "orders_90d": 68,
+    "revenue_90d": 1321.6,
+    "device_count": 25,
+    "product_types": [
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-cdc-2eed4-00"
+  },
+  {
+    "design_code": "CAMFLA",
+    "orders_90d": 90,
+    "revenue_90d": 1320.5,
+    "device_count": 16,
+    "product_types": [
+      "H8939",
+      "HA721"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-9e5-2f030-00"
+  },
+  {
+    "design_code": "WFCCRE",
+    "orders_90d": 57,
+    "revenue_90d": 1273.15,
+    "device_count": 13,
+    "product_types": [
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-1fa53-00"
+  },
+  {
+    "design_code": "PNUTDDR",
+    "orders_90d": 61,
+    "revenue_90d": 1272.94,
+    "device_count": 19,
+    "product_types": [
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291032872"
+  },
+  {
+    "design_code": "ADVEGRA",
+    "orders_90d": 56,
+    "revenue_90d": 1268.07,
+    "device_count": 9,
+    "product_types": [
+      "H8939",
+      "HC",
+      "HDMWH",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291029285"
+  },
+  {
+    "design_code": "PNUTORI",
+    "orders_90d": 63,
+    "revenue_90d": 1263.85,
+    "device_count": 18,
+    "product_types": [
+      "HB401",
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291033077"
+  },
+  {
+    "design_code": "WWE2RHE",
+    "orders_90d": 70,
+    "revenue_90d": 1243.71,
+    "device_count": 20,
+    "product_types": [
+      "HC",
+      "HDMWH",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291030656"
+  },
+  {
+    "design_code": "GMORGRA",
+    "orders_90d": 60,
+    "revenue_90d": 1229.0,
+    "device_count": 25,
+    "product_types": [
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291027823"
+  },
+  {
+    "design_code": "LFCKIT4",
+    "orders_90d": 63,
+    "revenue_90d": 1226.85,
+    "device_count": 23,
+    "product_types": [
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291030946"
+  },
+  {
+    "design_code": "SCFALOG",
+    "orders_90d": 59,
+    "revenue_90d": 1205.05,
+    "device_count": 18,
+    "product_types": [
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-24b00-00"
+  },
+  {
+    "design_code": "AVLALOI",
+    "orders_90d": 57,
+    "revenue_90d": 1200.15,
+    "device_count": 3,
+    "product_types": [
+      "HDMWH"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291406765"
+  },
+  {
+    "design_code": "THFCEUW",
+    "orders_90d": 58,
+    "revenue_90d": 1196.09,
+    "device_count": 17,
+    "product_types": [
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-31079-00"
+  },
+  {
+    "design_code": "MCGLO",
+    "orders_90d": 49,
+    "revenue_90d": 1130.55,
+    "device_count": 1,
+    "product_types": [
+      "HGCBK",
+      "HGCBL"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "53e-c80-3056c-00"
+  },
+  {
+    "design_code": "HPOTSOR2",
+    "orders_90d": 59,
+    "revenue_90d": 1120.05,
+    "device_count": 17,
+    "product_types": [
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5057546007821"
+  },
+  {
+    "design_code": "LFCMAR",
+    "orders_90d": 55,
+    "revenue_90d": 1090.25,
+    "device_count": 13,
+    "product_types": [
+      "H6201",
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "49b-4b9-1fec2-00"
+  },
+  {
+    "design_code": "RMCFKIT25",
+    "orders_90d": 55,
+    "revenue_90d": 1079.25,
+    "device_count": 18,
+    "product_types": [
+      "H8939",
+      "HC",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5057546980483"
+  },
+  {
+    "design_code": "IRONART",
+    "orders_90d": 52,
+    "revenue_90d": 1074.39,
+    "device_count": 19,
+    "product_types": [
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291030694"
+  },
+  {
+    "design_code": "BTMCLCO",
+    "orders_90d": 51,
+    "revenue_90d": 1068.45,
+    "device_count": 15,
+    "product_types": [
+      "H8939",
+      "HDMWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-9e5-2ee6c-00"
+  },
+  {
+    "design_code": "MRBL",
+    "orders_90d": 58,
+    "revenue_90d": 1060.1,
+    "device_count": 19,
+    "product_types": [
+      "H8939",
+      "HA721"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-9e5-2f04a-00"
+  },
+  {
+    "design_code": "MCLGART",
+    "orders_90d": 49,
+    "revenue_90d": 1038.55,
+    "device_count": 12,
+    "product_types": [
+      "H8939"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-864-2cef5-00"
+  },
+  {
+    "design_code": "HPOTDH9",
+    "orders_90d": 52,
+    "revenue_90d": 1029.39,
+    "device_count": 19,
+    "product_types": [
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5057089968399"
+  },
+  {
+    "design_code": "CFCKIT",
+    "orders_90d": 48,
+    "revenue_90d": 1026.6,
+    "device_count": 13,
+    "product_types": [
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5057546905837"
+  },
+  {
+    "design_code": "SUPNKEY",
+    "orders_90d": 48,
+    "revenue_90d": 1024.6,
+    "device_count": 20,
+    "product_types": [
+      "HA921",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291034517"
+  },
+  {
+    "design_code": "CRFCCKT3",
+    "orders_90d": 49,
+    "revenue_90d": 1020.55,
+    "device_count": 17,
+    "product_types": [
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-cdc-30856-00"
+  },
+  {
+    "design_code": "THFCBKT",
+    "orders_90d": 47,
+    "revenue_90d": 1009.65,
+    "device_count": 11,
+    "product_types": [
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-bfa-2ef4a-00"
+  },
+  {
+    "design_code": "SRUGRA",
+    "orders_90d": 48,
+    "revenue_90d": 1008.6,
+    "device_count": 16,
+    "product_types": [
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2d581-00"
+  },
+  {
+    "design_code": "WWE2JEY",
+    "orders_90d": 54,
+    "revenue_90d": 990.82,
+    "device_count": 13,
+    "product_types": [
+      "HB1BK",
+      "HB401",
+      "HC",
+      "HDMWH",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291034890"
+  },
+  {
+    "design_code": "PNUTGRA",
+    "orders_90d": 51,
+    "revenue_90d": 963.29,
+    "device_count": 3,
+    "product_types": [
+      "H7805",
+      "HDMWH",
+      "HGCRD"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291408813"
+  },
+  {
+    "design_code": "LFCPHK1T25",
+    "orders_90d": 49,
+    "revenue_90d": 951.55,
+    "device_count": 17,
+    "product_types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "540-be8-313e9-00"
+  },
+  {
+    "design_code": "CRFCCRE",
+    "orders_90d": 47,
+    "revenue_90d": 950.65,
+    "device_count": 13,
+    "product_types": [
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "527-94b-2ca03-00"
+  },
+  {
+    "design_code": "AFCFT6",
+    "orders_90d": 46,
+    "revenue_90d": 915.7,
+    "device_count": 13,
+    "product_types": [
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "c-50b-2d355-0000"
+  },
+  {
+    "design_code": "WWE2CMP",
+    "orders_90d": 63,
+    "revenue_90d": 902.4,
+    "device_count": 13,
+    "product_types": [
+      "HB401",
+      "HC",
+      "HLBWH",
+      "HSTWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291034869"
+  },
+  {
+    "design_code": "LFCGLO",
+    "orders_90d": 38,
+    "revenue_90d": 890.09,
+    "device_count": 1,
+    "product_types": [
+      "HGCBK",
+      "HGCRD",
+      "HGCWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "53e-c80-301e4-00"
+  },
+  {
+    "design_code": "RFCKIT",
+    "orders_90d": 45,
+    "revenue_90d": 889.75,
+    "device_count": 19,
+    "product_types": [
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-cdc-30460-00"
+  },
+  {
+    "design_code": "FCBPHKT25",
+    "orders_90d": 42,
+    "revenue_90d": 857.9,
+    "device_count": 18,
+    "product_types": [
+      "HB401",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5057546971627"
+  },
+  {
+    "design_code": "MCCLOGO",
+    "orders_90d": 45,
+    "revenue_90d": 856.75,
+    "device_count": 3,
+    "product_types": [
+      "HDMWH",
+      "HGSDB"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291408349"
+  },
+  {
+    "design_code": "WFCART",
+    "orders_90d": 37,
+    "revenue_90d": 852.15,
+    "device_count": 12,
+    "product_types": [
+      "H8939"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-9e5-2b4c6-00"
+  },
+  {
+    "design_code": "DFUHTRA",
+    "orders_90d": 46,
+    "revenue_90d": 851.69,
+    "device_count": 18,
+    "product_types": [
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "B07S61MBRX"
+  },
+  {
+    "design_code": "MCMUR",
+    "orders_90d": 46,
+    "revenue_90d": 845.7,
+    "device_count": 5,
+    "product_types": [
+      "H8939",
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-9e5-2fcb4-00"
+  },
+  {
+    "design_code": "MC24CHA",
+    "orders_90d": 38,
+    "revenue_90d": 831.1,
+    "device_count": 15,
+    "product_types": [
+      "H8939"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-9e5-2fe52-00"
+  },
+  {
+    "design_code": "CFCMLOG",
+    "orders_90d": 40,
+    "revenue_90d": 820.0,
+    "device_count": 13,
+    "product_types": [
+      "H8939"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-bfa-29ee3-00"
+  },
+  {
+    "design_code": "LFCLOI",
+    "orders_90d": 38,
+    "revenue_90d": 804.1,
+    "device_count": 11,
+    "product_types": [
+      "HB6CR",
+      "HB7BK"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "B0G275THZ4"
+  },
+  {
+    "design_code": "WFCKIT25",
+    "orders_90d": 40,
+    "revenue_90d": 798.12,
+    "device_count": 8,
+    "product_types": [
+      "HDMWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291409438"
+  },
+  {
+    "design_code": "CBEACLA",
+    "orders_90d": 39,
+    "revenue_90d": 791.05,
+    "device_count": 12,
+    "product_types": [
+      "H8939",
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291026826"
+  },
+  {
+    "design_code": "NARUGRAT",
+    "orders_90d": 30,
+    "revenue_90d": 749.5,
+    "device_count": 3,
+    "product_types": [
+      "HDMWH"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291408479"
+  },
+  {
+    "design_code": "BTMCHUS",
+    "orders_90d": 38,
+    "revenue_90d": 746.1,
+    "device_count": 7,
+    "product_types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291037365"
+  },
+  {
+    "design_code": "HPOTMAG",
+    "orders_90d": 35,
+    "revenue_90d": 742.25,
+    "device_count": 13,
+    "product_types": [
+      "HB6CR",
+      "HB7BK"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "B0FTG9SKD6"
+  },
+  {
+    "design_code": "BTMCLOG",
+    "orders_90d": 37,
+    "revenue_90d": 740.15,
+    "device_count": 10,
+    "product_types": [
+      "HB401",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5057089987246"
+  },
+  {
+    "design_code": "CFCFTEAM4",
+    "orders_90d": 36,
+    "revenue_90d": 735.2,
+    "device_count": 14,
+    "product_types": [
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-30e76-00"
+  },
+  {
+    "design_code": "IRONTOU",
+    "orders_90d": 35,
+    "revenue_90d": 732.25,
+    "device_count": 15,
+    "product_types": [
+      "HB401",
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291030748"
+  },
+  {
+    "design_code": "FCBKIT25",
+    "orders_90d": 37,
+    "revenue_90d": 729.14,
+    "device_count": 13,
+    "product_types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5057546966210"
+  },
+  {
+    "design_code": "WWE2W41",
+    "orders_90d": 32,
+    "revenue_90d": 726.4,
+    "device_count": 8,
+    "product_types": [
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291030335"
+  },
+  {
+    "design_code": "SRULOG",
+    "orders_90d": 34,
+    "revenue_90d": 724.64,
+    "device_count": 13,
+    "product_types": [
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "4f8-730-29213-00"
+  },
+  {
+    "design_code": "SRUKIT25",
+    "orders_90d": 38,
+    "revenue_90d": 720.1,
+    "device_count": 10,
+    "product_types": [
+      "HB401",
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "540-be8-3135a-00"
+  },
+  {
+    "design_code": "MCFTEAM4",
+    "orders_90d": 36,
+    "revenue_90d": 719.2,
+    "device_count": 11,
+    "product_types": [
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2cf19-00"
+  },
+  {
+    "design_code": "WFCKT9",
+    "orders_90d": 35,
+    "revenue_90d": 716.25,
+    "device_count": 15,
+    "product_types": [
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-d11-3035c-00"
+  },
+  {
+    "design_code": "TDKNKEY",
+    "orders_90d": 33,
+    "revenue_90d": 715.35,
+    "device_count": 10,
+    "product_types": [
+      "H8939",
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5057546897231"
+  },
+  {
+    "design_code": "LFCLBYN",
+    "orders_90d": 33,
+    "revenue_90d": 713.35,
+    "device_count": 19,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "d-afd-18270-0000"
+  },
+  {
+    "design_code": "DRGBSUSA",
+    "orders_90d": 34,
+    "revenue_90d": 697.3,
+    "device_count": 13,
+    "product_types": [
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291027229"
+  },
+  {
+    "design_code": "CFCCRST",
+    "orders_90d": 34,
+    "revenue_90d": 690.3,
+    "device_count": 3,
+    "product_types": [
+      "HDMWH"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291406819"
+  },
+  {
+    "design_code": "HPOTCSE2",
+    "orders_90d": 33,
+    "revenue_90d": 688.35,
+    "device_count": 14,
+    "product_types": [
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-78e-25b31-00"
+  },
+  {
+    "design_code": "AFCFT7",
+    "orders_90d": 32,
+    "revenue_90d": 658.4,
+    "device_count": 6,
+    "product_types": [
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2e92b-00"
+  },
+  {
+    "design_code": "AFCCPL",
+    "orders_90d": 27,
+    "revenue_90d": 649.65,
+    "device_count": 3,
+    "product_types": [
+      "HDMWH"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291405645"
+  },
+  {
+    "design_code": "BTMCTHR",
+    "orders_90d": 30,
+    "revenue_90d": 644.5,
+    "device_count": 13,
+    "product_types": [
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291026642"
+  },
+  {
+    "design_code": "TLRIFRG",
+    "orders_90d": 31,
+    "revenue_90d": 631.45,
+    "device_count": 15,
+    "product_types": [
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291034623"
+  },
+  {
+    "design_code": "HPOTCSE3",
+    "orders_90d": 29,
+    "revenue_90d": 625.55,
+    "device_count": 19,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "c-bea-25988-0000"
+  },
+  {
+    "design_code": "BTAOKEY",
+    "orders_90d": 30,
+    "revenue_90d": 612.58,
+    "device_count": 8,
+    "product_types": [
+      "H8939",
+      "HB401",
+      "HDMWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5057546224518"
+  },
+  {
+    "design_code": "PPUFGRA",
+    "orders_90d": 29,
+    "revenue_90d": 595.55,
+    "device_count": 9,
+    "product_types": [
+      "H8939",
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291035552"
+  },
+  {
+    "design_code": "CRFCLAR",
+    "orders_90d": 31,
+    "revenue_90d": 579.45,
+    "device_count": 9,
+    "product_types": [
+      "H8939"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-9e5-2e347-00"
+  },
+  {
+    "design_code": "NARUCHA",
+    "orders_90d": 29,
+    "revenue_90d": 576.55,
+    "device_count": 11,
+    "product_types": [
+      "HC",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291030182"
+  },
+  {
+    "design_code": "WWESUP",
+    "orders_90d": 29,
+    "revenue_90d": 574.22,
+    "device_count": 9,
+    "product_types": [
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-1e26c-00"
+  },
+  {
+    "design_code": "MCLOI",
+    "orders_90d": 27,
+    "revenue_90d": 572.65,
+    "device_count": 12,
+    "product_types": [
+      "HB6CR",
+      "HB7BK"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "B0G2722MFQ"
+  },
+  {
+    "design_code": "HPOTSOR",
+    "orders_90d": 27,
+    "revenue_90d": 568.65,
+    "device_count": 13,
+    "product_types": [
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291028158"
+  },
+  {
+    "design_code": "MCFTEAM6",
+    "orders_90d": 23,
+    "revenue_90d": 561.84,
+    "device_count": 6,
+    "product_types": [
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-30702-00"
+  },
+  {
+    "design_code": "GTGART",
+    "orders_90d": 23,
+    "revenue_90d": 540.05,
+    "device_count": 3,
+    "product_types": [
+      "HDMWH"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291407274"
+  },
+  {
+    "design_code": "WWE2JCEN",
+    "orders_90d": 37,
+    "revenue_90d": 539.62,
+    "device_count": 6,
+    "product_types": [
+      "H8939",
+      "HC",
+      "HSTWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291409728"
+  },
+  {
+    "design_code": "ARTPFLA",
+    "orders_90d": 24,
+    "revenue_90d": 531.8,
+    "device_count": 13,
+    "product_types": [
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-1a225-00"
+  },
+  {
+    "design_code": "LFCSHANK",
+    "orders_90d": 29,
+    "revenue_90d": 526.55,
+    "device_count": 6,
+    "product_types": [
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "49b-4b9-18a6d-00"
+  },
+  {
+    "design_code": "SCDOMYS",
+    "orders_90d": 26,
+    "revenue_90d": 524.7,
+    "device_count": 12,
+    "product_types": [
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5057089992967"
+  },
+  {
+    "design_code": "MCPATT",
+    "orders_90d": 25,
+    "revenue_90d": 522.74,
+    "device_count": 15,
+    "product_types": [
+      "HC",
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-29798-00"
+  },
+  {
+    "design_code": "SPRCLOG",
+    "orders_90d": 24,
+    "revenue_90d": 517.8,
+    "device_count": 12,
+    "product_types": [
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5057546006091"
+  },
+  {
+    "design_code": "UFCLOGO",
+    "orders_90d": 28,
+    "revenue_90d": 515.67,
+    "device_count": 12,
+    "product_types": [
+      "HC",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "9-746-2e889-0000"
+  },
+  {
+    "design_code": "IRONGAR",
+    "orders_90d": 24,
+    "revenue_90d": 512.8,
+    "device_count": 5,
+    "product_types": [
+      "H8939",
+      "HDMWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-bfa-2d6b9-00"
+  },
+  {
+    "design_code": "NARUKEY",
+    "orders_90d": 24,
+    "revenue_90d": 511.8,
+    "device_count": 11,
+    "product_types": [
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291035514"
+  },
+  {
+    "design_code": "NCFCLOI",
+    "orders_90d": 24,
+    "revenue_90d": 508.8,
+    "device_count": 12,
+    "product_types": [
+      "HB6CR",
+      "HB7BK"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "B0G2746QW5"
+  },
+  {
+    "design_code": "HPOTDH14",
+    "orders_90d": 26,
+    "revenue_90d": 500.7,
+    "device_count": 15,
+    "product_types": [
+      "HC",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5057089997399"
+  },
+  {
+    "design_code": "CBEA40A",
+    "orders_90d": 22,
+    "revenue_90d": 491.9,
+    "device_count": 7,
+    "product_types": [
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2c38f-00"
+  },
+  {
+    "design_code": "NCFCPHKT25",
+    "orders_90d": 23,
+    "revenue_90d": 483.85,
+    "device_count": 8,
+    "product_types": [
+      "HB401",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "B0FSY53BFD"
+  },
+  {
+    "design_code": "BVBEHTE",
+    "orders_90d": 24,
+    "revenue_90d": 477.8,
+    "device_count": 6,
+    "product_types": [
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5057546590255"
+  },
+  {
+    "design_code": "HBUSPPA",
+    "orders_90d": 22,
+    "revenue_90d": 474.9,
+    "device_count": 13,
+    "product_types": [
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2a6a7-00"
+  },
+  {
+    "design_code": "HPOTHOU",
+    "orders_90d": 22,
+    "revenue_90d": 470.9,
+    "device_count": 11,
+    "product_types": [
+      "HB6CR",
+      "HB7BK"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "B0FRSPTF1V"
+  },
+  {
+    "design_code": "LFCPLC25",
+    "orders_90d": 22,
+    "revenue_90d": 468.9,
+    "device_count": 12,
+    "product_types": [
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-30f13-00"
+  },
+  {
+    "design_code": "PNUTSCO",
+    "orders_90d": 22,
+    "revenue_90d": 462.9,
+    "device_count": 9,
+    "product_types": [
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291029483"
+  },
+  {
+    "design_code": "NFLLOSSE",
+    "orders_90d": 27,
+    "revenue_90d": 462.1,
+    "device_count": 10,
+    "product_types": [
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "527-a5f-21e5a-00"
+  },
+  {
+    "design_code": "LFCKIT9",
+    "orders_90d": 21,
+    "revenue_90d": 460.95,
+    "device_count": 11,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "542-c8c-2fad0-00"
+  },
+  {
+    "design_code": "CFCKIT3",
+    "orders_90d": 22,
+    "revenue_90d": 458.9,
+    "device_count": 8,
+    "product_types": [
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2bae8-00"
+  },
+  {
+    "design_code": "TJOKCHA",
+    "orders_90d": 19,
+    "revenue_90d": 455.05,
+    "device_count": 7,
+    "product_types": [
+      "H8939",
+      "HA721"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "4f8-730-26dbb-00"
+  },
+  {
+    "design_code": "WFC125",
+    "orders_90d": 22,
+    "revenue_90d": 451.9,
+    "device_count": 8,
+    "product_types": [
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-28a61-00"
+  },
+  {
+    "design_code": "PNUTICHA",
+    "orders_90d": 41,
+    "revenue_90d": 450.59,
+    "device_count": 1,
+    "product_types": [
+      "HSTWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "554-b8b-30f28-00"
+  },
+  {
+    "design_code": "ASFAIRI",
+    "orders_90d": 21,
+    "revenue_90d": 443.95,
+    "device_count": 14,
+    "product_types": [
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-18fb6-00"
+  },
+  {
+    "design_code": "WWE2ROM",
+    "orders_90d": 26,
+    "revenue_90d": 436.53,
+    "device_count": 8,
+    "product_types": [
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291034944"
+  },
+  {
+    "design_code": "THFCLOI",
+    "orders_90d": 20,
+    "revenue_90d": 427.0,
+    "device_count": 7,
+    "product_types": [
+      "HB6CR",
+      "HB7BK"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "B0G272D3W3"
+  },
+  {
+    "design_code": "BVSKWEA",
+    "orders_90d": 21,
+    "revenue_90d": 417.95,
+    "device_count": 7,
+    "product_types": [
+      "H8939",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-9e5-26601-00"
+  },
+  {
+    "design_code": "MCMARBA",
+    "orders_90d": 22,
+    "revenue_90d": 408.58,
+    "device_count": 9,
+    "product_types": [
+      "HC",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "49b-4b9-1fd69-00"
+  },
+  {
+    "design_code": "FRNDICO",
+    "orders_90d": 19,
+    "revenue_90d": 408.05,
+    "device_count": 7,
+    "product_types": [
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5057546763949"
+  },
+  {
+    "design_code": "BHAKIT25",
+    "orders_90d": 21,
+    "revenue_90d": 407.95,
+    "device_count": 18,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-31309-00"
+  },
+  {
+    "design_code": "PNUTWOD",
+    "orders_90d": 19,
+    "revenue_90d": 407.05,
+    "device_count": 10,
+    "product_types": [
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291033497"
+  },
+  {
+    "design_code": "BVDBALB",
+    "orders_90d": 19,
+    "revenue_90d": 404.05,
+    "device_count": 13,
+    "product_types": [
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "4f8-730-207dc-00"
+  },
+  {
+    "design_code": "BHACLOG",
+    "orders_90d": 20,
+    "revenue_90d": 399.0,
+    "device_count": 8,
+    "product_types": [
+      "HC",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "542-746-31058-00"
+  },
+  {
+    "design_code": "PNUTCBR",
+    "orders_90d": 20,
+    "revenue_90d": 399.0,
+    "device_count": 10,
+    "product_types": [
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291032735"
+  },
+  {
+    "design_code": "MOHDGRA",
+    "orders_90d": 19,
+    "revenue_90d": 396.05,
+    "device_count": 13,
+    "product_types": [
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-28650-00"
+  },
+  {
+    "design_code": "WFCCRE2",
+    "orders_90d": 21,
+    "revenue_90d": 390.95,
+    "device_count": 10,
+    "product_types": [
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-21bab-00"
+  },
+  {
+    "design_code": "RFCICON",
+    "orders_90d": 35,
+    "revenue_90d": 384.65,
+    "device_count": 1,
+    "product_types": [
+      "HSTWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "554-b8b-30f2b-00"
+  },
+  {
+    "design_code": "BVSPBAN",
+    "orders_90d": 17,
+    "revenue_90d": 383.15,
+    "device_count": 9,
+    "product_types": [
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-21bb8-00"
+  },
+  {
+    "design_code": "HPOTLTYP",
+    "orders_90d": 17,
+    "revenue_90d": 382.15,
+    "device_count": 3,
+    "product_types": [
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291028073"
+  },
+  {
+    "design_code": "FLAG",
+    "orders_90d": 20,
+    "revenue_90d": 381.0,
+    "device_count": 11,
+    "product_types": [
+      "HC",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-9b2-0000"
+  },
+  {
+    "design_code": "WMGDAYGRA",
+    "orders_90d": 19,
+    "revenue_90d": 378.05,
+    "device_count": 9,
+    "product_types": [
+      "HC",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2c741-00"
+  },
+  {
+    "design_code": "RMORS3GR",
+    "orders_90d": 19,
+    "revenue_90d": 376.05,
+    "device_count": 8,
+    "product_types": [
+      "HB401",
+      "HC",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5057546706137"
+  },
+  {
+    "design_code": "LFCCREST3",
+    "orders_90d": 21,
+    "revenue_90d": 375.95,
+    "device_count": 9,
+    "product_types": [
+      "HC",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-17f8d-00"
+  },
+  {
+    "design_code": "MCPHKT9",
+    "orders_90d": 16,
+    "revenue_90d": 372.2,
+    "device_count": 4,
+    "product_types": [
+      "H8939",
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-bfa-30116-00"
+  },
+  {
+    "design_code": "SCDOGRA",
+    "orders_90d": 13,
+    "revenue_90d": 367.35,
+    "device_count": 6,
+    "product_types": [
+      "H8939"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-9e5-2e3a3-00"
+  },
+  {
+    "design_code": "ASWOLVS",
+    "orders_90d": 17,
+    "revenue_90d": 365.15,
+    "device_count": 12,
+    "product_types": [
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-18fe6-00"
+  },
+  {
+    "design_code": "ASDRAGO",
+    "orders_90d": 17,
+    "revenue_90d": 361.15,
+    "device_count": 10,
+    "product_types": [
+      "HC",
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-190e0-00"
+  },
+  {
+    "design_code": "BTACGRA",
+    "orders_90d": 16,
+    "revenue_90d": 354.2,
+    "device_count": 6,
+    "product_types": [
+      "H8939",
+      "HDMWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291406796"
+  },
+  {
+    "design_code": "MCCKPLYR",
+    "orders_90d": 14,
+    "revenue_90d": 351.3,
+    "device_count": 3,
+    "product_types": [
+      "HDMWH"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291408264"
+  },
+  {
+    "design_code": "HPOTDH10",
+    "orders_90d": 17,
+    "revenue_90d": 351.15,
+    "device_count": 7,
+    "product_types": [
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5057089976158"
+  },
+  {
+    "design_code": "SSQUGRA",
+    "orders_90d": 17,
+    "revenue_90d": 350.15,
+    "device_count": 5,
+    "product_types": [
+      "H8939",
+      "HC",
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "4f8-730-2cb0f-00"
+  },
+  {
+    "design_code": "BTAKGRA",
+    "orders_90d": 16,
+    "revenue_90d": 348.28,
+    "device_count": 7,
+    "product_types": [
+      "H8939",
+      "HDMWH"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5057546224471"
+  },
+  {
+    "design_code": "HPOTDH8",
+    "orders_90d": 17,
+    "revenue_90d": 347.15,
+    "device_count": 5,
+    "product_types": [
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5057089983040"
+  },
+  {
+    "design_code": "PNUTMAN",
+    "orders_90d": 16,
+    "revenue_90d": 346.2,
+    "device_count": 7,
+    "product_types": [
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291030960"
+  },
+  {
+    "design_code": "GLWKIT25",
+    "orders_90d": 16,
+    "revenue_90d": 345.2,
+    "device_count": 8,
+    "product_types": [
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "B0G3671BKM"
+  },
+  {
+    "design_code": "WWE2LIV",
+    "orders_90d": 19,
+    "revenue_90d": 344.12,
+    "device_count": 9,
+    "product_types": [
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291034906"
+  },
+  {
+    "design_code": "MCPHKT25",
+    "orders_90d": 15,
+    "revenue_90d": 342.25,
+    "device_count": 7,
+    "product_types": [
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "540-be8-31125-00"
+  },
+  {
+    "design_code": "PNUTADI",
+    "orders_90d": 16,
+    "revenue_90d": 342.2,
+    "device_count": 7,
+    "product_types": [
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291032469"
+  },
+  {
+    "design_code": "CFCKIT6",
+    "orders_90d": 18,
+    "revenue_90d": 341.14,
+    "device_count": 4,
+    "product_types": [
+      "HB1BK",
+      "HC",
+      "HDMWH",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291026970"
+  },
+  {
+    "design_code": "PNUTSNO",
+    "orders_90d": 14,
+    "revenue_90d": 339.3,
+    "device_count": 9,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291033350"
+  },
+  {
+    "design_code": "ASDRAGO4",
+    "orders_90d": 16,
+    "revenue_90d": 337.2,
+    "device_count": 6,
+    "product_types": [
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-24e8d-00"
+  },
+  {
+    "design_code": "PDMOANL2",
+    "orders_90d": 16,
+    "revenue_90d": 333.2,
+    "device_count": 14,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-9e5-29f97-00"
+  },
+  {
+    "design_code": "ASDRAFR",
+    "orders_90d": 18,
+    "revenue_90d": 332.1,
+    "device_count": 9,
+    "product_types": [
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-18fac-00"
+  },
+  {
+    "design_code": "LTOOGCH",
+    "orders_90d": 16,
+    "revenue_90d": 327.2,
+    "device_count": 6,
+    "product_types": [
+      "H8939",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291031394"
+  },
+  {
+    "design_code": "COBRGRA",
+    "orders_90d": 16,
+    "revenue_90d": 324.2,
+    "device_count": 7,
+    "product_types": [
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "9-746-28997-0000"
+  },
+  {
+    "design_code": "ASMYTCR",
+    "orders_90d": 15,
+    "revenue_90d": 319.25,
+    "device_count": 8,
+    "product_types": [
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-18fc9-00"
+  },
+  {
+    "design_code": "RMCFURB",
+    "orders_90d": 16,
+    "revenue_90d": 316.2,
+    "device_count": 6,
+    "product_types": [
+      "HC",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291033817"
+  },
+  {
+    "design_code": "HPOTPRI4",
+    "orders_90d": 14,
+    "revenue_90d": 315.3,
+    "device_count": 8,
+    "product_types": [
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "c-bea-25b44-0000"
+  },
+  {
+    "design_code": "AFCCLOGO",
+    "orders_90d": 16,
+    "revenue_90d": 315.2,
+    "device_count": 2,
+    "product_types": [
+      "HGSRD"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "563-92f-31846-00"
+  },
+  {
+    "design_code": "FCBCKT8",
+    "orders_90d": 18,
+    "revenue_90d": 308.1,
+    "device_count": 8,
+    "product_types": [
+      "HC",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291029025"
+  },
+  {
+    "design_code": "HPOTPRI",
+    "orders_90d": 13,
+    "revenue_90d": 304.35,
+    "device_count": 5,
+    "product_types": [
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5057089970040"
+  },
+  {
+    "design_code": "WFCRET",
+    "orders_90d": 15,
+    "revenue_90d": 304.25,
+    "device_count": 7,
+    "product_types": [
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-1fd75-00"
+  },
+  {
+    "design_code": "TWDS6DD",
+    "orders_90d": 15,
+    "revenue_90d": 296.25,
+    "device_count": 6,
+    "product_types": [
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "49b-4b9-19b16-00"
+  },
+  {
+    "design_code": "ERUKIT5",
+    "orders_90d": 15,
+    "revenue_90d": 293.25,
+    "device_count": 8,
+    "product_types": [
+      "HC",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2ed9e-00"
+  },
+  {
+    "design_code": "DRGBZCAS",
+    "orders_90d": 13,
+    "revenue_90d": 292.35,
+    "device_count": 8,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5057546727200"
+  },
+  {
+    "design_code": "CFCWCHA",
+    "orders_90d": 13,
+    "revenue_90d": 291.35,
+    "device_count": 9,
+    "product_types": [
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291406970"
+  },
+  {
+    "design_code": "ASGOTHC",
+    "orders_90d": 14,
+    "revenue_90d": 290.3,
+    "device_count": 10,
+    "product_types": [
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-18fc4-00"
+  },
+  {
+    "design_code": "MCBDKIT9",
+    "orders_90d": 15,
+    "revenue_90d": 290.25,
+    "device_count": 10,
+    "product_types": [
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-3055e-00"
+  },
+  {
+    "design_code": "SUFCCICO",
+    "orders_90d": 51,
+    "revenue_90d": 287.64,
+    "device_count": 14,
+    "product_types": [
+      "HC"
+    ],
+    "has_ean": false,
+    "ean_source": null,
+    "sample_ean": ""
+  },
+  {
+    "design_code": "WFCCHI",
+    "orders_90d": 14,
+    "revenue_90d": 286.3,
+    "device_count": 7,
+    "product_types": [
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-29e00-00"
+  },
+  {
+    "design_code": "WATINS",
+    "orders_90d": 17,
+    "revenue_90d": 286.15,
+    "device_count": 9,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "B099N5GN1Z"
+  },
+  {
+    "design_code": "MCBDCAM",
+    "orders_90d": 14,
+    "revenue_90d": 283.3,
+    "device_count": 8,
+    "product_types": [
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "49b-4b9-1bed8-00"
+  },
+  {
+    "design_code": "MSTRAMI",
+    "orders_90d": 14,
+    "revenue_90d": 281.3,
+    "device_count": 8,
+    "product_types": [
+      "H8939"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-bfa-29d15-00"
+  },
+  {
+    "design_code": "BTMCHQG",
+    "orders_90d": 13,
+    "revenue_90d": 280.35,
+    "device_count": 8,
+    "product_types": [
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "542-746-2b12e-00"
+  },
+  {
+    "design_code": "HPOTSOR3",
+    "orders_90d": 14,
+    "revenue_90d": 279.3,
+    "device_count": 2,
+    "product_types": [
+      "H4621"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "52e-18b-2a380-00"
+  },
+  {
+    "design_code": "SCFAWBC26",
+    "orders_90d": 15,
+    "revenue_90d": 279.25,
+    "device_count": 9,
+    "product_types": [
+      "HB401",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "540-be8-31837-00"
+  },
+  {
+    "design_code": "NHLTORM",
+    "orders_90d": 16,
+    "revenue_90d": 278.65,
+    "device_count": 6,
+    "product_types": [
+      "H8939",
+      "HC",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-9e5-2b54b-00"
+  },
+  {
+    "design_code": "SCFAKIT26",
+    "orders_90d": 15,
+    "revenue_90d": 278.25,
+    "device_count": 10,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-9e5-31733-00"
+  },
+  {
+    "design_code": "MCBDKIT5",
+    "orders_90d": 12,
+    "revenue_90d": 276.4,
+    "device_count": 6,
+    "product_types": [
+      "HC",
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-29641-00"
+  },
+  {
+    "design_code": "CFCLLOGO",
+    "orders_90d": 14,
+    "revenue_90d": 275.3,
+    "device_count": 2,
+    "product_types": [
+      "HGSBL"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "562-92f-31847-00"
+  },
+  {
+    "design_code": "HPOTDH18",
+    "orders_90d": 13,
+    "revenue_90d": 259.35,
+    "device_count": 5,
+    "product_types": [
+      "HC",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291027908"
+  },
+  {
+    "design_code": "AVLAHK1T25",
+    "orders_90d": 13,
+    "revenue_90d": 258.35,
+    "device_count": 8,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "B0G4SKP32F"
+  },
+  {
+    "design_code": "DOGBPA",
+    "orders_90d": 12,
+    "revenue_90d": 257.4,
+    "device_count": 10,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "B09M8G36FY"
+  },
+  {
+    "design_code": "THFCCLOG",
+    "orders_90d": 13,
+    "revenue_90d": 257.35,
+    "device_count": 1,
+    "product_types": [
+      "HGSDB"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "564-92f-31848-00"
+  },
+  {
+    "design_code": "LISACRE",
+    "orders_90d": 13,
+    "revenue_90d": 257.35,
+    "device_count": 10,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2bc6e-00"
+  },
+  {
+    "design_code": "TNGAART",
+    "orders_90d": 12,
+    "revenue_90d": 256.4,
+    "device_count": 10,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "4f8-730-2922a-00"
+  },
+  {
+    "design_code": "MCBDKIT7",
+    "orders_90d": 14,
+    "revenue_90d": 256.3,
+    "device_count": 3,
+    "product_types": [
+      "HC",
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2c74d-00"
+  },
+  {
+    "design_code": "ANICLUFAC",
+    "orders_90d": 12,
+    "revenue_90d": 255.4,
+    "device_count": 6,
+    "product_types": [
+      "H8939",
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291405942"
+  },
+  {
+    "design_code": "MCBPIXE",
+    "orders_90d": 14,
+    "revenue_90d": 255.3,
+    "device_count": 4,
+    "product_types": [
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-1bee9-00"
+  },
+  {
+    "design_code": "AFCWCH25",
+    "orders_90d": 10,
+    "revenue_90d": 253.5,
+    "device_count": 4,
+    "product_types": [
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "9-bea-31188-0000"
+  },
+  {
+    "design_code": "AVLACUST25",
+    "orders_90d": 11,
+    "revenue_90d": 253.45,
+    "device_count": 7,
+    "product_types": [
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "9-bea-311f6-0000"
+  },
+  {
+    "design_code": "ALGOSKU",
+    "orders_90d": 12,
+    "revenue_90d": 253.4,
+    "device_count": 5,
+    "product_types": [
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2a17c-00"
+  },
+  {
+    "design_code": "SPRCCOM",
+    "orders_90d": 13,
+    "revenue_90d": 251.35,
+    "device_count": 11,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5057546614487"
+  },
+  {
+    "design_code": "NFLLOGRE",
+    "orders_90d": 14,
+    "revenue_90d": 250.68,
+    "device_count": 5,
+    "product_types": [
+      "HC",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "527-a5f-21e39-00"
+  },
+  {
+    "design_code": "BAILKIT25",
+    "orders_90d": 12,
+    "revenue_90d": 247.4,
+    "device_count": 6,
+    "product_types": [
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "B0FLXH4VF6"
+  },
+  {
+    "design_code": "LFCGMUR",
+    "orders_90d": 13,
+    "revenue_90d": 247.35,
+    "device_count": 9,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-30f73-00"
+  },
+  {
+    "design_code": "NCFCHK1T25",
+    "orders_90d": 12,
+    "revenue_90d": 239.4,
+    "device_count": 5,
+    "product_types": [
+      "HB401",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "B0FXN6G9D5"
+  },
+  {
+    "design_code": "GTDDSIG",
+    "orders_90d": 12,
+    "revenue_90d": 233.42,
+    "device_count": 6,
+    "product_types": [
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "d-b93-19ec9-0000"
+  },
+  {
+    "design_code": "WFCHKIT",
+    "orders_90d": 13,
+    "revenue_90d": 233.35,
+    "device_count": 4,
+    "product_types": [
+      "H8939"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-bfa-29f20-00"
+  },
+  {
+    "design_code": "CFLAGS1",
+    "orders_90d": 12,
+    "revenue_90d": 227.4,
+    "device_count": 7,
+    "product_types": [
+      "HC",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2b20a-00"
+  },
+  {
+    "design_code": "TOMCRSG",
+    "orders_90d": 10,
+    "revenue_90d": 226.5,
+    "device_count": 3,
+    "product_types": [
+      "HDMWH"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291409384"
+  },
+  {
+    "design_code": "TWDS10CPO",
+    "orders_90d": 11,
+    "revenue_90d": 225.45,
+    "device_count": 4,
+    "product_types": [
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-292e1-00"
+  },
+  {
+    "design_code": "PNUTAPO",
+    "orders_90d": 12,
+    "revenue_90d": 223.4,
+    "device_count": 4,
+    "product_types": [
+      "HC",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291032520"
+  },
+  {
+    "design_code": "ASMFAN",
+    "orders_90d": 10,
+    "revenue_90d": 222.5,
+    "device_count": 7,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-30094-00"
+  },
+  {
+    "design_code": "GLWLOGO",
+    "orders_90d": 11,
+    "revenue_90d": 221.45,
+    "device_count": 6,
+    "product_types": [
+      "HC",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-25e57-00"
+  },
+  {
+    "design_code": "MASSLGR",
+    "orders_90d": 10,
+    "revenue_90d": 220.5,
+    "device_count": 10,
+    "product_types": [
+      "H8939"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "B0BS3GG9WH"
+  },
+  {
+    "design_code": "LTOOFUL",
+    "orders_90d": 11,
+    "revenue_90d": 220.45,
+    "device_count": 5,
+    "product_types": [
+      "HC",
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291031257"
+  },
+  {
+    "design_code": "THFCGRAPH",
+    "orders_90d": 20,
+    "revenue_90d": 219.8,
+    "device_count": 1,
+    "product_types": [
+      "HSTWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "554-b8b-30ea2-00"
+  },
+  {
+    "design_code": "THFCHK2T25",
+    "orders_90d": 11,
+    "revenue_90d": 219.45,
+    "device_count": 6,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "B0FSSJZS7W"
+  },
+  {
+    "design_code": "RMORS1N2",
+    "orders_90d": 11,
+    "revenue_90d": 219.45,
+    "device_count": 5,
+    "product_types": [
+      "HC",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291033879"
+  },
+  {
+    "design_code": "NFLLOJAC",
+    "orders_90d": 11,
+    "revenue_90d": 217.45,
+    "device_count": 5,
+    "product_types": [
+      "HC",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "527-a5f-21e3f-00"
+  },
+  {
+    "design_code": "SUPNVEC",
+    "orders_90d": 11,
+    "revenue_90d": 217.45,
+    "device_count": 5,
+    "product_types": [
+      "HB401",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-261b7-00"
+  },
+  {
+    "design_code": "ALGOGOT",
+    "orders_90d": 8,
+    "revenue_90d": 215.6,
+    "device_count": 5,
+    "product_types": [
+      "H8939",
+      "HA721"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "4f8-730-2c733-00"
+  },
+  {
+    "design_code": "PNUTBBU",
+    "orders_90d": 10,
+    "revenue_90d": 214.5,
+    "device_count": 3,
+    "product_types": [
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291032568"
+  },
+  {
+    "design_code": "ANDRANI",
+    "orders_90d": 11,
+    "revenue_90d": 214.45,
+    "device_count": 5,
+    "product_types": [
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-24a01-00"
+  },
+  {
+    "design_code": "AFCLOI",
+    "orders_90d": 10,
+    "revenue_90d": 213.5,
+    "device_count": 3,
+    "product_types": [
+      "HB6CR",
+      "HB7BK"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "B0GCBTBB9L"
+  },
+  {
+    "design_code": "THFCBKT2",
+    "orders_90d": 10,
+    "revenue_90d": 212.5,
+    "device_count": 6,
+    "product_types": [
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2d193-00"
+  },
+  {
+    "design_code": "JJODAMI",
+    "orders_90d": 9,
+    "revenue_90d": 211.55,
+    "device_count": 8,
+    "product_types": [
+      "H8939"
+    ],
+    "has_ean": false,
+    "ean_source": null,
+    "sample_ean": ""
+  },
+  {
+    "design_code": "METYSOF",
+    "orders_90d": 10,
+    "revenue_90d": 211.5,
+    "device_count": 7,
+    "product_types": [
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-29512-00"
+  },
+  {
+    "design_code": "BVRSKAR",
+    "orders_90d": 12,
+    "revenue_90d": 209.4,
+    "device_count": 7,
+    "product_types": [
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "c-c32-1a4d8-0000"
+  },
+  {
+    "design_code": "MCDICAM",
+    "orders_90d": 8,
+    "revenue_90d": 206.6,
+    "device_count": 5,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "B07BN9MN5W"
+  },
+  {
+    "design_code": "F1309GRA",
+    "orders_90d": 9,
+    "revenue_90d": 206.55,
+    "device_count": 6,
+    "product_types": [
+      "H8939",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291027427"
+  },
+  {
+    "design_code": "MCHCEV",
+    "orders_90d": 10,
+    "revenue_90d": 206.19,
+    "device_count": 5,
+    "product_types": [
+      "HC",
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-288db-00"
+  },
+  {
+    "design_code": "RFCCUST25",
+    "orders_90d": 8,
+    "revenue_90d": 205.6,
+    "device_count": 4,
+    "product_types": [
+      "HC",
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "542-746-3122b-00"
+  },
+  {
+    "design_code": "NCFCPHKT",
+    "orders_90d": 8,
+    "revenue_90d": 204.6,
+    "device_count": 1,
+    "product_types": [
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "B0FSY53BFD"
+  },
+  {
+    "design_code": "NFLLOSFF",
+    "orders_90d": 14,
+    "revenue_90d": 203.75,
+    "device_count": 7,
+    "product_types": [
+      "HC",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "527-a5f-21e58-00"
+  },
+  {
+    "design_code": "TWDSILH",
+    "orders_90d": 9,
+    "revenue_90d": 202.55,
+    "device_count": 6,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "B079TM5CHN"
+  },
+  {
+    "design_code": "BTMCFCB",
+    "orders_90d": 11,
+    "revenue_90d": 202.44,
+    "device_count": 6,
+    "product_types": [
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291026338"
+  },
+  {
+    "design_code": "CUSTOM",
+    "orders_90d": 12,
+    "revenue_90d": 202.4,
+    "device_count": 6,
+    "product_types": [
+      "HC",
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "9-89f-18a5f-0000"
+  },
+  {
+    "design_code": "CAMOU",
+    "orders_90d": 10,
+    "revenue_90d": 201.5,
+    "device_count": 3,
+    "product_types": [
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-4-000000"
+  },
+  {
+    "design_code": "HPOTCSE",
+    "orders_90d": 8,
+    "revenue_90d": 199.6,
+    "device_count": 7,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "c-bea-25988-0000"
+  },
+  {
+    "design_code": "FNBLONDB",
+    "orders_90d": 10,
+    "revenue_90d": 199.5,
+    "device_count": 8,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "B099MC7YKX"
+  },
+  {
+    "design_code": "CORPKEY",
+    "orders_90d": 10,
+    "revenue_90d": 199.5,
+    "device_count": 10,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291027069"
+  },
+  {
+    "design_code": "SGATANI",
+    "orders_90d": 10,
+    "revenue_90d": 197.5,
+    "device_count": 6,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-9e5-244d4-00"
+  },
+  {
+    "design_code": "TBBTKYA",
+    "orders_90d": 10,
+    "revenue_90d": 197.5,
+    "device_count": 6,
+    "product_types": [
+      "HC",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-25e01-00"
+  },
+  {
+    "design_code": "CFCLOI",
+    "orders_90d": 9,
+    "revenue_90d": 195.55,
+    "device_count": 6,
+    "product_types": [
+      "HB6CR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "B0G2746QW5"
+  },
+  {
+    "design_code": "IRONGRA",
+    "orders_90d": 10,
+    "revenue_90d": 194.5,
+    "device_count": 5,
+    "product_types": [
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2bbfa-00"
+  },
+  {
+    "design_code": "CCOQTWI",
+    "orders_90d": 9,
+    "revenue_90d": 193.55,
+    "device_count": 3,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-300c8-00"
+  },
+  {
+    "design_code": "NCFCHK2T25",
+    "orders_90d": 10,
+    "revenue_90d": 193.5,
+    "device_count": 9,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "B0FXN6D6RB"
+  },
+  {
+    "design_code": "ALGOCAT",
+    "orders_90d": 10,
+    "revenue_90d": 193.5,
+    "device_count": 5,
+    "product_types": [
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2a15c-00"
+  },
+  {
+    "design_code": "WWE2RAN",
+    "orders_90d": 14,
+    "revenue_90d": 193.37,
+    "device_count": 4,
+    "product_types": [
+      "H8939",
+      "H8940",
+      "HC"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-864-2ebc3-00"
+  },
+  {
+    "design_code": "BVGUNVIN",
+    "orders_90d": 9,
+    "revenue_90d": 192.55,
+    "device_count": 5,
+    "product_types": [
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-1a5fc-00"
+  },
+  {
+    "design_code": "LFCYNWA",
+    "orders_90d": 10,
+    "revenue_90d": 191.5,
+    "device_count": 5,
+    "product_types": [
+      "HC",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-178ac-00"
+  },
+  {
+    "design_code": "SHSANI",
+    "orders_90d": 12,
+    "revenue_90d": 191.4,
+    "device_count": 10,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-1ba4-000"
+  },
+  {
+    "design_code": "ERUPAKT2",
+    "orders_90d": 9,
+    "revenue_90d": 188.55,
+    "device_count": 4,
+    "product_types": [
+      "HC",
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2a587-00"
+  },
+  {
+    "design_code": "NFLLOBUF",
+    "orders_90d": 9,
+    "revenue_90d": 187.55,
+    "device_count": 5,
+    "product_types": [
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "527-a5f-21e29-00"
+  },
+  {
+    "design_code": "ANILAMI",
+    "orders_90d": 10,
+    "revenue_90d": 187.5,
+    "device_count": 6,
+    "product_types": [
+      "H8939"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-bfa-29ce3-00"
+  },
+  {
+    "design_code": "METYONC",
+    "orders_90d": 10,
+    "revenue_90d": 185.5,
+    "device_count": 4,
+    "product_types": [
+      "HC",
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2800b-00"
+  },
+  {
+    "design_code": "PLOVAPO",
+    "orders_90d": 9,
+    "revenue_90d": 183.55,
+    "device_count": 8,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2a3dd-00"
+  },
+  {
+    "design_code": "GRACAPR",
+    "orders_90d": 9,
+    "revenue_90d": 182.55,
+    "device_count": 4,
+    "product_types": [
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-9e5-228f5-00"
+  },
+  {
+    "design_code": "SRUCKIT4",
+    "orders_90d": 9,
+    "revenue_90d": 181.55,
+    "device_count": 4,
+    "product_types": [
+      "HC",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-30380-00"
+  },
+  {
+    "design_code": "AIMEANI",
+    "orders_90d": 8,
+    "revenue_90d": 180.6,
+    "device_count": 7,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-24624-00"
+  },
+  {
+    "design_code": "CRFCCKT2",
+    "orders_90d": 7,
+    "revenue_90d": 179.65,
+    "device_count": 7,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2f326-00"
+  },
+  {
+    "design_code": "AVLAPHKT25",
+    "orders_90d": 9,
+    "revenue_90d": 179.55,
+    "device_count": 8,
+    "product_types": [
+      "HC"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "540-be8-3133c-00"
+  },
+  {
+    "design_code": "TMRXKEY",
+    "orders_90d": 7,
+    "revenue_90d": 178.65,
+    "device_count": 5,
+    "product_types": [
+      "H8939"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "4f8-730-2c7c4-00"
+  },
+  {
+    "design_code": "TWDDDG",
+    "orders_90d": 9,
+    "revenue_90d": 178.55,
+    "device_count": 5,
+    "product_types": [
+      "H8939"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-bfa-29f28-00"
+  },
+  {
+    "design_code": "SCDOSCO",
+    "orders_90d": 9,
+    "revenue_90d": 178.55,
+    "device_count": 6,
+    "product_types": [
+      "HC",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291034036"
+  },
+  {
+    "design_code": "NFLLOPHI",
+    "orders_90d": 13,
+    "revenue_90d": 178.11,
+    "device_count": 6,
+    "product_types": [
+      "HC",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "527-a5f-21e54-00"
+  },
+  {
+    "design_code": "NBA2LOS",
+    "orders_90d": 9,
+    "revenue_90d": 176.55,
+    "device_count": 8,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-9e5-317a8-00"
+  },
+  {
+    "design_code": "LFCFTM8",
+    "orders_90d": 9,
+    "revenue_90d": 176.55,
+    "device_count": 6,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "d-746-30cc0-0000"
+  },
+  {
+    "design_code": "LFCCRYN",
+    "orders_90d": 9,
+    "revenue_90d": 176.55,
+    "device_count": 4,
+    "product_types": [
+      "HC",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-17f85-00"
+  },
+  {
+    "design_code": "NFL3LOSFF",
+    "orders_90d": 8,
+    "revenue_90d": 175.6,
+    "device_count": 5,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2264a-00"
+  },
+  {
+    "design_code": "FCBCPA",
+    "orders_90d": 11,
+    "revenue_90d": 175.45,
+    "device_count": 5,
+    "product_types": [
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291027519"
+  },
+  {
+    "design_code": "ASSA15A",
+    "orders_90d": 7,
+    "revenue_90d": 174.65,
+    "device_count": 3,
+    "product_types": [
+      "HDMWH"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291406284"
+  },
+  {
+    "design_code": "HOGWGRA",
+    "orders_90d": 9,
+    "revenue_90d": 174.55,
+    "device_count": 7,
+    "product_types": [
+      "H8939"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5057546224495"
+  },
+  {
+    "design_code": "IT17GRA",
+    "orders_90d": 9,
+    "revenue_90d": 173.55,
+    "device_count": 4,
+    "product_types": [
+      "HC",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291030830"
+  },
+  {
+    "design_code": "BASHCWI3",
+    "orders_90d": 8,
+    "revenue_90d": 172.6,
+    "device_count": 5,
+    "product_types": [
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-1fa1a-00"
+  },
+  {
+    "design_code": "ASHEANI",
+    "orders_90d": 9,
+    "revenue_90d": 171.55,
+    "device_count": 5,
+    "product_types": [
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-1fb84-00"
+  },
+  {
+    "design_code": "EDRUKIT25",
+    "orders_90d": 9,
+    "revenue_90d": 170.55,
+    "device_count": 7,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "B0FX3148J1"
+  },
+  {
+    "design_code": "TLRIFRGAR",
+    "orders_90d": 10,
+    "revenue_90d": 170.5,
+    "device_count": 4,
+    "product_types": [
+      "H8939"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-9e5-2ee8a-00"
+  },
+  {
+    "design_code": "SPRCFCB",
+    "orders_90d": 7,
+    "revenue_90d": 169.65,
+    "device_count": 5,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-25a76-00"
+  },
+  {
+    "design_code": "ASTRIBL",
+    "orders_90d": 8,
+    "revenue_90d": 168.6,
+    "device_count": 3,
+    "product_types": [
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-18fd8-00"
+  },
+  {
+    "design_code": "HPOTDH16",
+    "orders_90d": 10,
+    "revenue_90d": 168.5,
+    "device_count": 8,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-29682-00"
+  },
+  {
+    "design_code": "NFL3LOCHI",
+    "orders_90d": 11,
+    "revenue_90d": 168.21,
+    "device_count": 4,
+    "product_types": [
+      "HC",
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-225dc-00"
+  },
+  {
+    "design_code": "PXCOAMI",
+    "orders_90d": 10,
+    "revenue_90d": 165.5,
+    "device_count": 5,
+    "product_types": [
+      "H8939"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-bfa-29d24-00"
+  },
+  {
+    "design_code": "AFCGRAF",
+    "orders_90d": 8,
+    "revenue_90d": 163.6,
+    "device_count": 4,
+    "product_types": [
+      "HB1BK",
+      "HB401"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "540-be8-3131d-00"
+  },
+  {
+    "design_code": "CRFCCKT",
+    "orders_90d": 8,
+    "revenue_90d": 162.6,
+    "device_count": 5,
+    "product_types": [
+      "HC",
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-cdc-30856-00"
+  },
+  {
+    "design_code": "PNUTROC",
+    "orders_90d": 8,
+    "revenue_90d": 162.6,
+    "device_count": 5,
+    "product_types": [
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291033220"
+  },
+  {
+    "design_code": "WWE2DGE",
+    "orders_90d": 12,
+    "revenue_90d": 161.85,
+    "device_count": 6,
+    "product_types": [
+      "HC",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2eaf3-00"
+  },
+  {
+    "design_code": "X",
+    "orders_90d": 9,
+    "revenue_90d": 161.55,
+    "device_count": 1,
+    "product_types": [
+      "HGC01"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291029285"
+  },
+  {
+    "design_code": "WWE2UND",
+    "orders_90d": 9,
+    "revenue_90d": 161.55,
+    "device_count": 4,
+    "product_types": [
+      "H8939"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291410199"
+  },
+  {
+    "design_code": "SHSDOG",
+    "orders_90d": 9,
+    "revenue_90d": 161.55,
+    "device_count": 4,
+    "product_types": [
+      "HC",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291034180"
+  },
+  {
+    "design_code": "THFCPHKT25",
+    "orders_90d": 8,
+    "revenue_90d": 159.6,
+    "device_count": 5,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "d-a21-31261-0000"
+  },
+  {
+    "design_code": "NFLLODAL",
+    "orders_90d": 8,
+    "revenue_90d": 159.6,
+    "device_count": 8,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "527-a5f-21e33-00"
+  },
+  {
+    "design_code": "VHIEBFD",
+    "orders_90d": 8,
+    "revenue_90d": 159.6,
+    "device_count": 5,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-30664-00"
+  },
+  {
+    "design_code": "DRGBCHA",
+    "orders_90d": 8,
+    "revenue_90d": 159.6,
+    "device_count": 7,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291027182"
+  },
+  {
+    "design_code": "SPRCLCO",
+    "orders_90d": 8,
+    "revenue_90d": 159.6,
+    "device_count": 7,
+    "product_types": [
+      "H8939"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291409070"
+  },
+  {
+    "design_code": "LFCFTM5",
+    "orders_90d": 8,
+    "revenue_90d": 159.6,
+    "device_count": 3,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "B09YLVVL3P"
+  },
+  {
+    "design_code": "BVARIDW",
+    "orders_90d": 8,
+    "revenue_90d": 159.6,
+    "device_count": 5,
+    "product_types": [
+      "HC",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-1b01a-00"
+  },
+  {
+    "design_code": "RMCFORI",
+    "orders_90d": 8,
+    "revenue_90d": 159.6,
+    "device_count": 4,
+    "product_types": [
+      "HB401",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291033695"
+  },
+  {
+    "design_code": "ACMCPA",
+    "orders_90d": 10,
+    "revenue_90d": 159.5,
+    "device_count": 5,
+    "product_types": [
+      "HC",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "9-746-21715-0000"
+  },
+  {
+    "design_code": "MADPR",
+    "orders_90d": 11,
+    "revenue_90d": 159.45,
+    "device_count": 5,
+    "product_types": [
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-80a-0000"
+  },
+  {
+    "design_code": "BVBSABKEY",
+    "orders_90d": 7,
+    "revenue_90d": 158.65,
+    "device_count": 7,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2a02b-00"
+  },
+  {
+    "design_code": "MCGRAPH",
+    "orders_90d": 7,
+    "revenue_90d": 158.65,
+    "device_count": 7,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "B08G1DZG1S"
+  },
+  {
+    "design_code": "DOGBPA4",
+    "orders_90d": 9,
+    "revenue_90d": 157.55,
+    "device_count": 8,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "B099MRBV66"
+  },
+  {
+    "design_code": "TEDLS1G",
+    "orders_90d": 8,
+    "revenue_90d": 156.6,
+    "device_count": 5,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-9e5-2c871-00"
+  },
+  {
+    "design_code": "BVSKKEY",
+    "orders_90d": 8,
+    "revenue_90d": 156.6,
+    "device_count": 4,
+    "product_types": [
+      "HC",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "4f8-730-1bf46-00"
+  },
+  {
+    "design_code": "NFLLOBAL2",
+    "orders_90d": 9,
+    "revenue_90d": 154.24,
+    "device_count": 4,
+    "product_types": [
+      "HC",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-1f759-00"
+  },
+  {
+    "design_code": "ERULOGOTY",
+    "orders_90d": 7,
+    "revenue_90d": 153.65,
+    "device_count": 4,
+    "product_types": [
+      "H8939"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-9e5-2d5b7-00"
+  },
+  {
+    "design_code": "BVGUNSKY",
+    "orders_90d": 8,
+    "revenue_90d": 153.6,
+    "device_count": 7,
+    "product_types": [
+      "HC"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-1a4ff-00"
+  },
+  {
+    "design_code": "NFLLOSSE2",
+    "orders_90d": 12,
+    "revenue_90d": 153.54,
+    "device_count": 5,
+    "product_types": [
+      "HB401",
+      "HC"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-1f7c1-00"
+  },
+  {
+    "design_code": "SCDO50T",
+    "orders_90d": 8,
+    "revenue_90d": 152.94,
+    "device_count": 5,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291033978"
+  },
+  {
+    "design_code": "NARUCIC",
+    "orders_90d": 7,
+    "revenue_90d": 151.65,
+    "device_count": 4,
+    "product_types": [
+      "HB7BK"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "B0G5BCD37H"
+  },
+  {
+    "design_code": "DEANDOG3",
+    "orders_90d": 7,
+    "revenue_90d": 151.65,
+    "device_count": 5,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-1ebd7-00"
+  },
+  {
+    "design_code": "WWETVP",
+    "orders_90d": 9,
+    "revenue_90d": 150.55,
+    "device_count": 3,
+    "product_types": [
+      "H8939"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-d11-2c3f7-00"
+  },
+  {
+    "design_code": "BATMKEY",
+    "orders_90d": 7,
+    "revenue_90d": 149.65,
+    "device_count": 5,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2cb81-00"
+  },
+  {
+    "design_code": "WWE2BRY",
+    "orders_90d": 7,
+    "revenue_90d": 149.65,
+    "device_count": 4,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5057546759980"
+  },
+  {
+    "design_code": "LTOOPAT",
+    "orders_90d": 7,
+    "revenue_90d": 149.65,
+    "device_count": 4,
+    "product_types": [
+      "HC",
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-26fb8-00"
+  },
+  {
+    "design_code": "GTSIGGRA",
+    "orders_90d": 7,
+    "revenue_90d": 148.65,
+    "device_count": 6,
+    "product_types": [
+      "H8939"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-9e5-2e2af-00"
+  },
+  {
+    "design_code": "FNBILON",
+    "orders_90d": 7,
+    "revenue_90d": 147.65,
+    "device_count": 6,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "d-afd-17a49-0000"
+  },
+  {
+    "design_code": "NBA2WAR",
+    "orders_90d": 7,
+    "revenue_90d": 146.65,
+    "device_count": 4,
+    "product_types": [
+      "HC",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "540-be8-317d2-00"
+  },
+  {
+    "design_code": "WFCLOI",
+    "orders_90d": 7,
+    "revenue_90d": 145.65,
+    "device_count": 3,
+    "product_types": [
+      "HB6CR",
+      "HB7BK"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "B0G274ZFP6"
+  },
+  {
+    "design_code": "MCKIT23",
+    "orders_90d": 6,
+    "revenue_90d": 144.7,
+    "device_count": 5,
+    "product_types": [
+      "H8939"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-9e5-2f320-00"
+  },
+  {
+    "design_code": "BVYBLGRA",
+    "orders_90d": 8,
+    "revenue_90d": 144.6,
+    "device_count": 4,
+    "product_types": [
+      "HC",
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2a753-00"
+  },
+  {
+    "design_code": "SRUCKIT3",
+    "orders_90d": 7,
+    "revenue_90d": 143.65,
+    "device_count": 3,
+    "product_types": [
+      "HC",
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2ec9e-00"
+  },
+  {
+    "design_code": "GRACDOG",
+    "orders_90d": 6,
+    "revenue_90d": 142.7,
+    "device_count": 5,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "4f8-730-228fe-00"
+  },
+  {
+    "design_code": "MC22CHA",
+    "orders_90d": 8,
+    "revenue_90d": 141.6,
+    "device_count": 3,
+    "product_types": [
+      "H8939"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-9e5-2e609-00"
+  },
+  {
+    "design_code": "NFLPEA",
+    "orders_90d": 6,
+    "revenue_90d": 140.7,
+    "device_count": 3,
+    "product_types": [
+      "HDMWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-d11-2aac7-00"
+  },
+  {
+    "design_code": "CFCGLO",
+    "orders_90d": 6,
+    "revenue_90d": 139.7,
+    "device_count": 2,
+    "product_types": [
+      "HGCBK"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "53e-c80-3015a-00"
+  },
+  {
+    "design_code": "CRFCKIT25",
+    "orders_90d": 7,
+    "revenue_90d": 139.65,
+    "device_count": 6,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "542-746-312fa-00"
+  },
+  {
+    "design_code": "CRFCCCHA",
+    "orders_90d": 7,
+    "revenue_90d": 139.65,
+    "device_count": 5,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "9-bea-31031-0000"
+  },
+  {
+    "design_code": "SPIKANI",
+    "orders_90d": 7,
+    "revenue_90d": 139.65,
+    "device_count": 5,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2d9a1-00"
+  },
+  {
+    "design_code": "PDMOBWD",
+    "orders_90d": 6,
+    "revenue_90d": 138.7,
+    "device_count": 5,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "532-bf8-2603c-00"
+  },
+  {
+    "design_code": "VLTNDOG",
+    "orders_90d": 7,
+    "revenue_90d": 138.65,
+    "device_count": 6,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-24598-00"
+  },
+  {
+    "design_code": "CBEASSA",
+    "orders_90d": 6,
+    "revenue_90d": 137.69,
+    "device_count": 6,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-28d96-00"
+  },
+  {
+    "design_code": "MPRIN",
+    "orders_90d": 7,
+    "revenue_90d": 137.65,
+    "device_count": 3,
+    "product_types": [
+      "HC",
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-1144-000"
+  },
+  {
+    "design_code": "MCPHK1T25",
+    "orders_90d": 7,
+    "revenue_90d": 136.65,
+    "device_count": 7,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "B0G324SJZ2"
+  },
+  {
+    "design_code": "PNUTCPA",
+    "orders_90d": 8,
+    "revenue_90d": 135.6,
+    "device_count": 3,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291032728"
+  },
+  {
+    "design_code": "UFCOLI",
+    "orders_90d": 9,
+    "revenue_90d": 134.62,
+    "device_count": 4,
+    "product_types": [
+      "HC",
+      "HTPCR"
+    ],
+    "has_ean": false,
+    "ean_source": null,
+    "sample_ean": ""
+  },
+  {
+    "design_code": "ASSAKEY",
+    "orders_90d": 7,
+    "revenue_90d": 133.65,
+    "device_count": 2,
+    "product_types": [
+      "H8939",
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291406291"
+  },
+  {
+    "design_code": "CSMOAMI",
+    "orders_90d": 7,
+    "revenue_90d": 132.65,
+    "device_count": 2,
+    "product_types": [
+      "H8939"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-bfa-29cf4-00"
+  },
+  {
+    "design_code": "FKAQUO",
+    "orders_90d": 6,
+    "revenue_90d": 131.7,
+    "device_count": 4,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-22940-00"
+  },
+  {
+    "design_code": "WFCKT4",
+    "orders_90d": 6,
+    "revenue_90d": 129.7,
+    "device_count": 4,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-25444-00"
+  },
+  {
+    "design_code": "AFCLGO",
+    "orders_90d": 10,
+    "revenue_90d": 129.5,
+    "device_count": 3,
+    "product_types": [
+      "H7805"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "4f8-730-28368-00"
+  },
+  {
+    "design_code": "NHLANAD",
+    "orders_90d": 10,
+    "revenue_90d": 127.95,
+    "device_count": 5,
+    "product_types": [
+      "HC",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-d11-2b4dd-00"
+  },
+  {
+    "design_code": "WFCRKI",
+    "orders_90d": 6,
+    "revenue_90d": 125.7,
+    "device_count": 5,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-217b2-00"
+  },
+  {
+    "design_code": "DEANDOG",
+    "orders_90d": 6,
+    "revenue_90d": 125.7,
+    "device_count": 3,
+    "product_types": [
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-1a24c-00"
+  },
+  {
+    "design_code": "BTAKCHA",
+    "orders_90d": 7,
+    "revenue_90d": 125.65,
+    "device_count": 4,
+    "product_types": [
+      "HC",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-269b7-00"
+  },
+  {
+    "design_code": "BTMCICB",
+    "orders_90d": 7,
+    "revenue_90d": 125.65,
+    "device_count": 3,
+    "product_types": [
+      "HC",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291026468"
+  },
+  {
+    "design_code": "FKMIXART",
+    "orders_90d": 6,
+    "revenue_90d": 123.7,
+    "device_count": 3,
+    "product_types": [
+      "HDMWH"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291407168"
+  },
+  {
+    "design_code": "GLMWAANI",
+    "orders_90d": 6,
+    "revenue_90d": 123.7,
+    "device_count": 6,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-303b6-00"
+  },
+  {
+    "design_code": "NFLLOMIA",
+    "orders_90d": 7,
+    "revenue_90d": 123.34,
+    "device_count": 7,
+    "product_types": [
+      "HC"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "527-a5f-21e47-00"
+  },
+  {
+    "design_code": "MOHDLOG",
+    "orders_90d": 5,
+    "revenue_90d": 122.75,
+    "device_count": 4,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "B0D8PGZ43N"
+  },
+  {
+    "design_code": "WWE2ALE",
+    "orders_90d": 10,
+    "revenue_90d": 122.16,
+    "device_count": 3,
+    "product_types": [
+      "HC",
+      "HSTWH"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291409490"
+  },
+  {
+    "design_code": "MKECDG2",
+    "orders_90d": 6,
+    "revenue_90d": 121.7,
+    "device_count": 5,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-23c46-00"
+  },
+  {
+    "design_code": "SHSWLD",
+    "orders_90d": 7,
+    "revenue_90d": 121.65,
+    "device_count": 7,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-114e-000"
+  },
+  {
+    "design_code": "LTOOCHA",
+    "orders_90d": 6,
+    "revenue_90d": 119.7,
+    "device_count": 5,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291031127"
+  },
+  {
+    "design_code": "HPOTDH31",
+    "orders_90d": 6,
+    "revenue_90d": 119.7,
+    "device_count": 4,
+    "product_types": [
+      "HC"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "c-bea-298c8-0000"
+  },
+  {
+    "design_code": "LFCPHK2T25",
+    "orders_90d": 6,
+    "revenue_90d": 119.7,
+    "device_count": 5,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "540-bbc-313fe-00"
+  },
+  {
+    "design_code": "HATSCHA",
+    "orders_90d": 6,
+    "revenue_90d": 119.7,
+    "device_count": 4,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2b1bf-00"
+  },
+  {
+    "design_code": "AVLACPKT",
+    "orders_90d": 6,
+    "revenue_90d": 119.7,
+    "device_count": 3,
+    "product_types": [
+      "HC",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "542-746-30f82-00"
+  },
+  {
+    "design_code": "GTKYART",
+    "orders_90d": 6,
+    "revenue_90d": 119.69,
+    "device_count": 4,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-193ee-00"
+  },
+  {
+    "design_code": "BVMONPKY",
+    "orders_90d": 6,
+    "revenue_90d": 118.7,
+    "device_count": 4,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-bfa-2c44c-00"
+  },
+  {
+    "design_code": "NFLLOCHI",
+    "orders_90d": 7,
+    "revenue_90d": 117.03,
+    "device_count": 3,
+    "product_types": [
+      "HC",
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "527-a5f-21e2d-00"
+  },
+  {
+    "design_code": "WFCFTM2",
+    "orders_90d": 6,
+    "revenue_90d": 116.7,
+    "device_count": 3,
+    "product_types": [
+      "HB401",
+      "HC"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2f2ea-00"
+  },
+  {
+    "design_code": "MFEUMOR",
+    "orders_90d": 7,
+    "revenue_90d": 116.65,
+    "device_count": 3,
+    "product_types": [
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-1a9ce-00"
+  },
+  {
+    "design_code": "AFCPHKT25",
+    "orders_90d": 6,
+    "revenue_90d": 115.7,
+    "device_count": 3,
+    "product_types": [
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "9-bea-3120b-0000"
+  },
+  {
+    "design_code": "IRONSEN",
+    "orders_90d": 5,
+    "revenue_90d": 114.75,
+    "device_count": 5,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2bbfd-00"
+  },
+  {
+    "design_code": "WWE2HUL",
+    "orders_90d": 6,
+    "revenue_90d": 114.7,
+    "device_count": 3,
+    "product_types": [
+      "H8939"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-864-2f538-00"
+  },
+  {
+    "design_code": "CCOQANI",
+    "orders_90d": 6,
+    "revenue_90d": 113.7,
+    "device_count": 5,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-9e5-1c128-00"
+  },
+  {
+    "design_code": "TLOSCHA",
+    "orders_90d": 5,
+    "revenue_90d": 112.75,
+    "device_count": 5,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-28635-00"
+  },
+  {
+    "design_code": "GATHRET",
+    "orders_90d": 5,
+    "revenue_90d": 112.75,
+    "device_count": 4,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2f3c0-00"
+  },
+  {
+    "design_code": "WWCOCBO",
+    "orders_90d": 6,
+    "revenue_90d": 110.7,
+    "device_count": 3,
+    "product_types": [
+      "HDMWH"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291409469"
+  },
+  {
+    "design_code": "FCBHK8",
+    "orders_90d": 4,
+    "revenue_90d": 109.8,
+    "device_count": 2,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5057547397983"
+  },
+  {
+    "design_code": "FCBCUSTPK",
+    "orders_90d": 4,
+    "revenue_90d": 109.8,
+    "device_count": 2,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "9-bea-2a707-0000"
+  },
+  {
+    "design_code": "ASGUADRA",
+    "orders_90d": 5,
+    "revenue_90d": 109.75,
+    "device_count": 3,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2b82c-00"
+  },
+  {
+    "design_code": "SCFAKTS2",
+    "orders_90d": 5,
+    "revenue_90d": 109.75,
+    "device_count": 4,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2d0b7-00"
+  },
+  {
+    "design_code": "SRU150A",
+    "orders_90d": 4,
+    "revenue_90d": 107.8,
+    "device_count": 4,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2a3c6-00"
+  },
+  {
+    "design_code": "BVRSALB",
+    "orders_90d": 5,
+    "revenue_90d": 107.75,
+    "device_count": 5,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-28da0-00"
+  },
+  {
+    "design_code": "ASDRAGO3",
+    "orders_90d": 5,
+    "revenue_90d": 107.75,
+    "device_count": 4,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-1e9fe-00"
+  },
+  {
+    "design_code": "BVRSLCOL",
+    "orders_90d": 5,
+    "revenue_90d": 107.75,
+    "device_count": 5,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-1a4e2-00"
+  },
+  {
+    "design_code": "HPOTDH7",
+    "orders_90d": 5,
+    "revenue_90d": 107.75,
+    "device_count": 5,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-25fb2-00"
+  },
+  {
+    "design_code": "BARRAMI",
+    "orders_90d": 5,
+    "revenue_90d": 107.75,
+    "device_count": 4,
+    "product_types": [
+      "H8939"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-78e-29cf9-00"
+  },
+  {
+    "design_code": "SCDOCHA",
+    "orders_90d": 5,
+    "revenue_90d": 107.75,
+    "device_count": 5,
+    "product_types": [
+      "HB6CR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "B0GFFZMFL5"
+  },
+  {
+    "design_code": "PNUTCFU",
+    "orders_90d": 6,
+    "revenue_90d": 107.7,
+    "device_count": 3,
+    "product_types": [
+      "H8939"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-78e-29de9-00"
+  },
+  {
+    "design_code": "MADDDG2",
+    "orders_90d": 5,
+    "revenue_90d": 106.75,
+    "device_count": 5,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "B09RQFN8F3"
+  },
+  {
+    "design_code": "ASMIXFAN",
+    "orders_90d": 5,
+    "revenue_90d": 105.75,
+    "device_count": 4,
+    "product_types": [
+      "HB6CR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "B0G274Y43X"
+  },
+  {
+    "design_code": "METYEVE",
+    "orders_90d": 5,
+    "revenue_90d": 103.75,
+    "device_count": 4,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2801c-00"
+  },
+  {
+    "design_code": "NFLLOENG",
+    "orders_90d": 8,
+    "revenue_90d": 102.36,
+    "device_count": 4,
+    "product_types": [
+      "HC",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "527-a5f-21e4a-00"
+  },
+  {
+    "design_code": "BVRSGRA",
+    "orders_90d": 4,
+    "revenue_90d": 100.8,
+    "device_count": 4,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-28da5-00"
+  },
+  {
+    "design_code": "ASSKUL",
+    "orders_90d": 4,
+    "revenue_90d": 100.8,
+    "device_count": 4,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-1ea0a-00"
+  },
+  {
+    "design_code": "NHLPITP",
+    "orders_90d": 5,
+    "revenue_90d": 99.75,
+    "device_count": 5,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-9e5-2b519-00"
+  },
+  {
+    "design_code": "TF23GRA",
+    "orders_90d": 5,
+    "revenue_90d": 99.75,
+    "device_count": 3,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2e5b3-00"
+  },
+  {
+    "design_code": "NFLLOCHI2",
+    "orders_90d": 5,
+    "revenue_90d": 99.75,
+    "device_count": 4,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-1f765-00"
+  },
+  {
+    "design_code": "SRUOTH",
+    "orders_90d": 5,
+    "revenue_90d": 99.75,
+    "device_count": 3,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-21d3c-00"
+  },
+  {
+    "design_code": "TLRITTP",
+    "orders_90d": 5,
+    "revenue_90d": 99.75,
+    "device_count": 4,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-9e5-25f66-00"
+  },
+  {
+    "design_code": "HATSVSI",
+    "orders_90d": 5,
+    "revenue_90d": 99.75,
+    "device_count": 5,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2b1cb-00"
+  },
+  {
+    "design_code": "AFCCKT5",
+    "orders_90d": 5,
+    "revenue_90d": 99.75,
+    "device_count": 1,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-299ea-00"
+  },
+  {
+    "design_code": "HPOTDH35",
+    "orders_90d": 5,
+    "revenue_90d": 99.75,
+    "device_count": 4,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-29fe5-00"
+  },
+  {
+    "design_code": "NHLEDMO",
+    "orders_90d": 5,
+    "revenue_90d": 99.75,
+    "device_count": 4,
+    "product_types": [
+      "HB1BK"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-d11-2b3d8-00"
+  },
+  {
+    "design_code": "IMILCKT4",
+    "orders_90d": 8,
+    "revenue_90d": 99.6,
+    "device_count": 5,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "9-a25-2eadb-0000"
+  },
+  {
+    "design_code": "WWE2BLO",
+    "orders_90d": 8,
+    "revenue_90d": 99.36,
+    "device_count": 4,
+    "product_types": [
+      "HC",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2f4ea-00"
+  },
+  {
+    "design_code": "SHSFLO",
+    "orders_90d": 7,
+    "revenue_90d": 98.65,
+    "device_count": 4,
+    "product_types": [
+      "HLBWH",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-fcd-0000"
+  },
+  {
+    "design_code": "ANDRAMI",
+    "orders_90d": 7,
+    "revenue_90d": 98.65,
+    "device_count": 3,
+    "product_types": [
+      "H8939",
+      "H8940"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "4f8-730-29cec-00"
+  },
+  {
+    "design_code": "ANDRBIR",
+    "orders_90d": 3,
+    "revenue_90d": 97.85,
+    "device_count": 2,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-9e5-24a25-00"
+  },
+  {
+    "design_code": "AFCPHK1T25",
+    "orders_90d": 5,
+    "revenue_90d": 97.75,
+    "device_count": 5,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "B0G4XLDJPY"
+  },
+  {
+    "design_code": "ASFANT",
+    "orders_90d": 4,
+    "revenue_90d": 97.14,
+    "device_count": 3,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-1ea07-00"
+  },
+  {
+    "design_code": "NBA2NKN",
+    "orders_90d": 5,
+    "revenue_90d": 96.75,
+    "device_count": 4,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "540-be8-317ee-00"
+  },
+  {
+    "design_code": "SHSFUN",
+    "orders_90d": 5,
+    "revenue_90d": 96.75,
+    "device_count": 3,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-12aa-000"
+  },
+  {
+    "design_code": "ALYNAMI",
+    "orders_90d": 6,
+    "revenue_90d": 96.7,
+    "device_count": 6,
+    "product_types": [
+      "H8939"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-9e5-29ce1-00"
+  },
+  {
+    "design_code": "HPOTPRI3",
+    "orders_90d": 5,
+    "revenue_90d": 95.75,
+    "device_count": 4,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "c-b59-25b41-0000"
+  },
+  {
+    "design_code": "OUTLPOR",
+    "orders_90d": 4,
+    "revenue_90d": 94.8,
+    "device_count": 3,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2035e-00"
+  },
+  {
+    "design_code": "RMCFBAD",
+    "orders_90d": 4,
+    "revenue_90d": 93.8,
+    "device_count": 2,
+    "product_types": [
+      "HDMWH"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291408875"
+  },
+  {
+    "design_code": "BVTWBAN",
+    "orders_90d": 4,
+    "revenue_90d": 93.8,
+    "device_count": 4,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2791a-00"
+  },
+  {
+    "design_code": "GLWLGO",
+    "orders_90d": 4,
+    "revenue_90d": 92.8,
+    "device_count": 4,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-258e3-00"
+  },
+  {
+    "design_code": "BASHCWI",
+    "orders_90d": 8,
+    "revenue_90d": 92.6,
+    "device_count": 3,
+    "product_types": [
+      "HLBWH",
+      "HTPBK"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-1c9df-00"
+  },
+  {
+    "design_code": "PLDSAMI",
+    "orders_90d": 4,
+    "revenue_90d": 91.8,
+    "device_count": 3,
+    "product_types": [
+      "H8939"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-bfa-29d1e-00"
+  },
+  {
+    "design_code": "HPOTDEMK",
+    "orders_90d": 4,
+    "revenue_90d": 91.8,
+    "device_count": 2,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-301c6-00"
+  },
+  {
+    "design_code": "WFCGLO",
+    "orders_90d": 4,
+    "revenue_90d": 91.8,
+    "device_count": 2,
+    "product_types": [
+      "HGCBK"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "53e-c80-30158-00"
+  },
+  {
+    "design_code": "AFCCKT6",
+    "orders_90d": 5,
+    "revenue_90d": 91.75,
+    "device_count": 4,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-79a-2b874-00"
+  },
+  {
+    "design_code": "MCBLOGO",
+    "orders_90d": 7,
+    "revenue_90d": 90.65,
+    "device_count": 4,
+    "product_types": [
+      "H7805"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "4f8-730-291eb-00"
+  },
+  {
+    "design_code": "LFCLGO",
+    "orders_90d": 5,
+    "revenue_90d": 89.75,
+    "device_count": 5,
+    "product_types": [
+      "HA101"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "527-94b-28381-00"
+  },
+  {
+    "design_code": "FKREFLO",
+    "orders_90d": 5,
+    "revenue_90d": 88.75,
+    "device_count": 5,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291027694"
+  },
+  {
+    "design_code": "DRGBSFTR",
+    "orders_90d": 5,
+    "revenue_90d": 88.75,
+    "device_count": 5,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "B0FZX8QSHY"
+  },
+  {
+    "design_code": "BARRDOG",
+    "orders_90d": 5,
+    "revenue_90d": 88.75,
+    "device_count": 5,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-9e5-1e654-00"
+  },
+  {
+    "design_code": "WWE2GUN",
+    "orders_90d": 4,
+    "revenue_90d": 87.8,
+    "device_count": 2,
+    "product_types": [
+      "HDMWH"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291409698"
+  },
+  {
+    "design_code": "BVRWCAL",
+    "orders_90d": 4,
+    "revenue_90d": 87.8,
+    "device_count": 2,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-1e9d0-00"
+  },
+  {
+    "design_code": "KATKFPA",
+    "orders_90d": 4,
+    "revenue_90d": 87.8,
+    "device_count": 2,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2b041-00"
+  },
+  {
+    "design_code": "DURWANI",
+    "orders_90d": 4,
+    "revenue_90d": 87.8,
+    "device_count": 3,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2127b-00"
+  },
+  {
+    "design_code": "FKPUFLO",
+    "orders_90d": 4,
+    "revenue_90d": 87.8,
+    "device_count": 4,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-18e74-00"
+  },
+  {
+    "design_code": "NFL4LOOAK",
+    "orders_90d": 4,
+    "revenue_90d": 87.8,
+    "device_count": 3,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-261fe-00"
+  },
+  {
+    "design_code": "FCBFTM4",
+    "orders_90d": 5,
+    "revenue_90d": 87.75,
+    "device_count": 5,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "9-746-2ef5a-0000"
+  },
+  {
+    "design_code": "NHLPHIF",
+    "orders_90d": 3,
+    "revenue_90d": 86.85,
+    "device_count": 1,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-9e5-2b516-00"
+  },
+  {
+    "design_code": "RPEKANI",
+    "orders_90d": 5,
+    "revenue_90d": 86.75,
+    "device_count": 3,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-9e5-1c60a-00"
+  },
+  {
+    "design_code": "BWILPOI",
+    "orders_90d": 4,
+    "revenue_90d": 85.8,
+    "device_count": 3,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-28906-00"
+  },
+  {
+    "design_code": "BTMCDUA",
+    "orders_90d": 4,
+    "revenue_90d": 85.8,
+    "device_count": 3,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-25a5d-00"
+  },
+  {
+    "design_code": "MCPHK2T25",
+    "orders_90d": 4,
+    "revenue_90d": 84.8,
+    "device_count": 4,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "B0FTGJKL7N"
+  },
+  {
+    "design_code": "EDRUCKT5",
+    "orders_90d": 3,
+    "revenue_90d": 82.85,
+    "device_count": 2,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-30774-00"
+  },
+  {
+    "design_code": "TLRIRKP",
+    "orders_90d": 4,
+    "revenue_90d": 82.8,
+    "device_count": 3,
+    "product_types": [
+      "H8939"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-9e5-25f6b-00"
+  },
+  {
+    "design_code": "COBRICO",
+    "orders_90d": 5,
+    "revenue_90d": 82.75,
+    "device_count": 3,
+    "product_types": [
+      "H8939"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "4f8-730-2bd67-00"
+  },
+  {
+    "design_code": "WFCCUSTP4",
+    "orders_90d": 3,
+    "revenue_90d": 81.85,
+    "device_count": 3,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "9-bea-2f2ce-0000"
+  },
+  {
+    "design_code": "LFCCHMP2",
+    "orders_90d": 3,
+    "revenue_90d": 81.85,
+    "device_count": 3,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2962a-00"
+  },
+  {
+    "design_code": "FNBNORLI",
+    "orders_90d": 4,
+    "revenue_90d": 81.8,
+    "device_count": 3,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "d-afd-17a8c-0000"
+  },
+  {
+    "design_code": "CELTI",
+    "orders_90d": 4,
+    "revenue_90d": 81.8,
+    "device_count": 4,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2462-000"
+  },
+  {
+    "design_code": "MFEUANI",
+    "orders_90d": 7,
+    "revenue_90d": 81.65,
+    "device_count": 4,
+    "product_types": [
+      "HLBWH",
+      "HTPBK"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-1ac5a-00"
+  },
+  {
+    "design_code": "GRMLPHO",
+    "orders_90d": 4,
+    "revenue_90d": 80.8,
+    "device_count": 4,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-26c21-00"
+  },
+  {
+    "design_code": "PNUTVAR",
+    "orders_90d": 4,
+    "revenue_90d": 80.8,
+    "device_count": 3,
+    "product_types": [
+      "HC"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-22cd9-00"
+  },
+  {
+    "design_code": "EDRULOG",
+    "orders_90d": 4,
+    "revenue_90d": 80.8,
+    "device_count": 3,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2291c-00"
+  },
+  {
+    "design_code": "ASARTMX",
+    "orders_90d": 3,
+    "revenue_90d": 79.85,
+    "device_count": 3,
+    "product_types": [
+      "H8939"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-bfa-2a386-00"
+  },
+  {
+    "design_code": "ASSALLO",
+    "orders_90d": 3,
+    "revenue_90d": 79.85,
+    "device_count": 3,
+    "product_types": [
+      "H8939"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-864-23ceb-00"
+  },
+  {
+    "design_code": "MCPHKT7G1",
+    "orders_90d": 3,
+    "revenue_90d": 79.85,
+    "device_count": 3,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "d-9f9-2cc77-0000"
+  },
+  {
+    "design_code": "SFENFAI",
+    "orders_90d": 3,
+    "revenue_90d": 79.85,
+    "device_count": 2,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-1a1eb-00"
+  },
+  {
+    "design_code": "DLOZCOL",
+    "orders_90d": 4,
+    "revenue_90d": 79.8,
+    "device_count": 3,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2806a-00"
+  },
+  {
+    "design_code": "WWECRHO",
+    "orders_90d": 4,
+    "revenue_90d": 79.8,
+    "device_count": 3,
+    "product_types": [
+      "HC"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2c7b4-00"
+  },
+  {
+    "design_code": "NFL3LOENG",
+    "orders_90d": 4,
+    "revenue_90d": 79.8,
+    "device_count": 4,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-22627-00"
+  },
+  {
+    "design_code": "MKECDG3",
+    "orders_90d": 4,
+    "revenue_90d": 79.8,
+    "device_count": 4,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-9e5-23c53-00"
+  },
+  {
+    "design_code": "WFCFTM3",
+    "orders_90d": 4,
+    "revenue_90d": 79.8,
+    "device_count": 4,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "9-bea-30d32-0000"
+  },
+  {
+    "design_code": "MFEUPAT2",
+    "orders_90d": 4,
+    "revenue_90d": 79.8,
+    "device_count": 4,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-9e5-1cec6-00"
+  },
+  {
+    "design_code": "TWDDOEX",
+    "orders_90d": 4,
+    "revenue_90d": 79.8,
+    "device_count": 2,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "B079TNPX3K"
+  },
+  {
+    "design_code": "ALGODRK",
+    "orders_90d": 4,
+    "revenue_90d": 79.8,
+    "device_count": 3,
+    "product_types": [
+      "H8939"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-9e5-2bdb3-00"
+  },
+  {
+    "design_code": "BTMCVFA",
+    "orders_90d": 4,
+    "revenue_90d": 79.8,
+    "device_count": 3,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291026703"
+  },
+  {
+    "design_code": "THFCHK1T25",
+    "orders_90d": 4,
+    "revenue_90d": 79.8,
+    "device_count": 3,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "B0GPZ4MWSR"
+  },
+  {
+    "design_code": "AFA24G1",
+    "orders_90d": 4,
+    "revenue_90d": 79.8,
+    "device_count": 3,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291025843"
+  },
+  {
+    "design_code": "EPISART",
+    "orders_90d": 4,
+    "revenue_90d": 79.8,
+    "device_count": 2,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2e99f-00"
+  },
+  {
+    "design_code": "WWE2TBE",
+    "orders_90d": 4,
+    "revenue_90d": 79.8,
+    "device_count": 4,
+    "product_types": [
+      "HC"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291410120"
+  },
+  {
+    "design_code": "HPOTBUP",
+    "orders_90d": 4,
+    "revenue_90d": 79.8,
+    "device_count": 2,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2f596-00"
+  },
+  {
+    "design_code": "METYALL",
+    "orders_90d": 4,
+    "revenue_90d": 79.8,
+    "device_count": 4,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "4f8-730-285f9-00"
+  },
+  {
+    "design_code": "ERUKIT6",
+    "orders_90d": 4,
+    "revenue_90d": 79.8,
+    "device_count": 4,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-cdc-3028c-00"
+  },
+  {
+    "design_code": "JFCKIT25",
+    "orders_90d": 4,
+    "revenue_90d": 79.8,
+    "device_count": 4,
+    "product_types": [
+      "HC"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291407960"
+  },
+  {
+    "design_code": "MBEAGRA",
+    "orders_90d": 4,
+    "revenue_90d": 79.8,
+    "device_count": 4,
+    "product_types": [
+      "HC"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "9-bea-311e1-0000"
+  },
+  {
+    "design_code": "TFTSPOS",
+    "orders_90d": 4,
+    "revenue_90d": 79.8,
+    "device_count": 2,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-9e5-2622b-00"
+  },
+  {
+    "design_code": "WFCPHKT25",
+    "orders_90d": 4,
+    "revenue_90d": 79.8,
+    "device_count": 2,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "B0G27483YM"
+  },
+  {
+    "design_code": "METYRET",
+    "orders_90d": 4,
+    "revenue_90d": 79.8,
+    "device_count": 2,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2951a-00"
+  },
+  {
+    "design_code": "NBA2BUC",
+    "orders_90d": 4,
+    "revenue_90d": 79.8,
+    "device_count": 3,
+    "product_types": [
+      "HC"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "540-be8-317e0-00"
+  },
+  {
+    "design_code": "WWESUP3",
+    "orders_90d": 4,
+    "revenue_90d": 79.8,
+    "device_count": 2,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-214e6-00"
+  },
+  {
+    "design_code": "HPOTCSE4",
+    "orders_90d": 5,
+    "revenue_90d": 79.75,
+    "device_count": 4,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "c-1f9-2598c-0000"
+  },
+  {
+    "design_code": "IMILBADG",
+    "orders_90d": 6,
+    "revenue_90d": 79.7,
+    "device_count": 4,
+    "product_types": [
+      "HC"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "9-9f9-2b24b-0000"
+  },
+  {
+    "design_code": "SCFA150Y",
+    "orders_90d": 3,
+    "revenue_90d": 78.85,
+    "device_count": 3,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2ded1-00"
+  },
+  {
+    "design_code": "PNUTSPO",
+    "orders_90d": 3,
+    "revenue_90d": 78.85,
+    "device_count": 3,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291033398"
+  },
+  {
+    "design_code": "ERUCUSTP3",
+    "orders_90d": 3,
+    "revenue_90d": 78.85,
+    "device_count": 2,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "9-c86-30728-0000"
+  },
+  {
+    "design_code": "TOMJFUL",
+    "orders_90d": 4,
+    "revenue_90d": 78.8,
+    "device_count": 3,
+    "product_types": [
+      "HC"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2a2f5-00"
+  },
+  {
+    "design_code": "NFL3LOJAC",
+    "orders_90d": 4,
+    "revenue_90d": 77.8,
+    "device_count": 4,
+    "product_types": [
+      "HC"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-22609-00"
+  },
+  {
+    "design_code": "MOHD50A",
+    "orders_90d": 4,
+    "revenue_90d": 77.8,
+    "device_count": 3,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "9-bea-30eb9-0000"
+  },
+  {
+    "design_code": "ERUROS",
+    "orders_90d": 4,
+    "revenue_90d": 77.8,
+    "device_count": 3,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "B07BB85HGQ"
+  },
+  {
+    "design_code": "BASHAMI",
+    "orders_90d": 3,
+    "revenue_90d": 76.85,
+    "device_count": 3,
+    "product_types": [
+      "H8939"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "4f8-730-2d38b-00"
+  },
+  {
+    "design_code": "IDLON",
+    "orders_90d": 4,
+    "revenue_90d": 76.8,
+    "device_count": 4,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-247f-000"
+  },
+  {
+    "design_code": "JLCOCBO",
+    "orders_90d": 4,
+    "revenue_90d": 75.8,
+    "device_count": 2,
+    "product_types": [
+      "HDMWH"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291408028"
+  },
+  {
+    "design_code": "MFEUMAN",
+    "orders_90d": 4,
+    "revenue_90d": 75.8,
+    "device_count": 2,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-1a9c0-00"
+  },
+  {
+    "design_code": "UFCMAK",
+    "orders_90d": 4,
+    "revenue_90d": 75.49,
+    "device_count": 4,
+    "product_types": [
+      "HC"
+    ],
+    "has_ean": false,
+    "ean_source": null,
+    "sample_ean": ""
+  },
+  {
+    "design_code": "MAIAAMI",
+    "orders_90d": 3,
+    "revenue_90d": 73.85,
+    "device_count": 2,
+    "product_types": [
+      "H8939"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-bfa-2f794-00"
+  },
+  {
+    "design_code": "AVLAHK2T25",
+    "orders_90d": 4,
+    "revenue_90d": 73.8,
+    "device_count": 4,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "B0G4SM717C"
+  },
+  {
+    "design_code": "MASSARC",
+    "orders_90d": 3,
+    "revenue_90d": 72.85,
+    "device_count": 3,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2af7c-00"
+  },
+  {
+    "design_code": "FRNDICO2",
+    "orders_90d": 3,
+    "revenue_90d": 72.85,
+    "device_count": 2,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2a4a1-00"
+  },
+  {
+    "design_code": "WFCKT6",
+    "orders_90d": 3,
+    "revenue_90d": 71.85,
+    "device_count": 3,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-9e5-2b71f-00"
+  },
+  {
+    "design_code": "WFCFTM",
+    "orders_90d": 3,
+    "revenue_90d": 71.85,
+    "device_count": 3,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2d4a9-00"
+  },
+  {
+    "design_code": "CFLAGS2",
+    "orders_90d": 4,
+    "revenue_90d": 71.8,
+    "device_count": 4,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2b211-00"
+  },
+  {
+    "design_code": "FARC5KLO",
+    "orders_90d": 4,
+    "revenue_90d": 71.8,
+    "device_count": 3,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "d-848-24243-0000"
+  },
+  {
+    "design_code": "NBA2CEL",
+    "orders_90d": 4,
+    "revenue_90d": 71.8,
+    "device_count": 2,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "540-be8-317b6-00"
+  },
+  {
+    "design_code": "WFCKT7",
+    "orders_90d": 3,
+    "revenue_90d": 70.85,
+    "device_count": 3,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2c6b6-00"
+  },
+  {
+    "design_code": "NFL4LOENG",
+    "orders_90d": 3,
+    "revenue_90d": 70.85,
+    "device_count": 2,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-261f2-00"
+  },
+  {
+    "design_code": "CFCKIT4",
+    "orders_90d": 3,
+    "revenue_90d": 70.85,
+    "device_count": 3,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2d0e1-00"
+  },
+  {
+    "design_code": "SMORBAW",
+    "orders_90d": 4,
+    "revenue_90d": 70.8,
+    "device_count": 3,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-29b55-00"
+  },
+  {
+    "design_code": "NORLI",
+    "orders_90d": 5,
+    "revenue_90d": 70.75,
+    "device_count": 4,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-273d-000"
+  },
+  {
+    "design_code": "ASSASGRA",
+    "orders_90d": 3,
+    "revenue_90d": 69.85,
+    "device_count": 3,
+    "product_types": [
+      "H8939"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-864-2b742-00"
+  },
+  {
+    "design_code": "PLDSGPA",
+    "orders_90d": 3,
+    "revenue_90d": 69.85,
+    "device_count": 2,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2ff30-00"
+  },
+  {
+    "design_code": "PNUTCGR",
+    "orders_90d": 3,
+    "revenue_90d": 69.85,
+    "device_count": 3,
+    "product_types": [
+      "H8939"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-bfa-29ee1-00"
+  },
+  {
+    "design_code": "CBEAMUR",
+    "orders_90d": 3,
+    "revenue_90d": 69.85,
+    "device_count": 2,
+    "product_types": [
+      "H8939"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-cdc-30392-00"
+  },
+  {
+    "design_code": "GTGRAPH",
+    "orders_90d": 4,
+    "revenue_90d": 69.8,
+    "device_count": 3,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-207e0-00"
+  },
+  {
+    "design_code": "BLKCOL",
+    "orders_90d": 4,
+    "revenue_90d": 69.8,
+    "device_count": 3,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-307a0-00"
+  },
+  {
+    "design_code": "FCBCKT4",
+    "orders_90d": 6,
+    "revenue_90d": 69.7,
+    "device_count": 3,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5057546020998"
+  },
+  {
+    "design_code": "BTMCLCH",
+    "orders_90d": 3,
+    "revenue_90d": 68.85,
+    "device_count": 1,
+    "product_types": [
+      "HGCBK"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "53e-c80-3044c-00"
+  },
+  {
+    "design_code": "THFCGLO",
+    "orders_90d": 3,
+    "revenue_90d": 68.85,
+    "device_count": 2,
+    "product_types": [
+      "HGCBK"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "53e-c80-306d6-00"
+  },
+  {
+    "design_code": "NEOR",
+    "orders_90d": 9,
+    "revenue_90d": 68.55,
+    "device_count": 4,
+    "product_types": [
+      "HC",
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-1ea1-000"
+  },
+  {
+    "design_code": "PDMOANL",
+    "orders_90d": 3,
+    "revenue_90d": 67.85,
+    "device_count": 2,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "4f8-730-24132-00"
+  },
+  {
+    "design_code": "HPOTDH2",
+    "orders_90d": 3,
+    "revenue_90d": 66.85,
+    "device_count": 3,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "527-94b-259a9-00"
+  },
+  {
+    "design_code": "JKSTKEY",
+    "orders_90d": 4,
+    "revenue_90d": 66.8,
+    "device_count": 4,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2f6a0-00"
+  },
+  {
+    "design_code": "PDMOPAT",
+    "orders_90d": 4,
+    "revenue_90d": 66.8,
+    "device_count": 2,
+    "product_types": [
+      "HC"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-24173-00"
+  },
+  {
+    "design_code": "EPISPAT",
+    "orders_90d": 3,
+    "revenue_90d": 65.85,
+    "device_count": 3,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2e9e1-00"
+  },
+  {
+    "design_code": "TFLNCHA",
+    "orders_90d": 3,
+    "revenue_90d": 65.85,
+    "device_count": 3,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-26f1a-00"
+  },
+  {
+    "design_code": "B10AFGRA",
+    "orders_90d": 3,
+    "revenue_90d": 65.85,
+    "device_count": 3,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2cd27-00"
+  },
+  {
+    "design_code": "WYANNAT2",
+    "orders_90d": 3,
+    "revenue_90d": 65.85,
+    "device_count": 3,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-1b4d6-00"
+  },
+  {
+    "design_code": "FKICONS",
+    "orders_90d": 3,
+    "revenue_90d": 65.85,
+    "device_count": 2,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-18e4d-00"
+  },
+  {
+    "design_code": "NFLLOMIA2",
+    "orders_90d": 3,
+    "revenue_90d": 65.85,
+    "device_count": 1,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-1f799-00"
+  },
+  {
+    "design_code": "NFL4LODAL",
+    "orders_90d": 3,
+    "revenue_90d": 65.85,
+    "device_count": 3,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2601c-00"
+  },
+  {
+    "design_code": "TBATGRA",
+    "orders_90d": 3,
+    "revenue_90d": 65.85,
+    "device_count": 3,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "527-94b-2c6e6-00"
+  },
+  {
+    "design_code": "MOHDTOU",
+    "orders_90d": 3,
+    "revenue_90d": 65.85,
+    "device_count": 3,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-28657-00"
+  },
+  {
+    "design_code": "FKPOR2",
+    "orders_90d": 3,
+    "revenue_90d": 65.85,
+    "device_count": 2,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "d-afd-21c8b-0000"
+  },
+  {
+    "design_code": "SDEMFLR",
+    "orders_90d": 3,
+    "revenue_90d": 65.85,
+    "device_count": 2,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "B0BN5CV2LD"
+  },
+  {
+    "design_code": "ANICLUROY",
+    "orders_90d": 3,
+    "revenue_90d": 65.85,
+    "device_count": 3,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-28158-00"
+  },
+  {
+    "design_code": "ERUTHROS",
+    "orders_90d": 3,
+    "revenue_90d": 65.85,
+    "device_count": 1,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "542-746-2f860-00"
+  },
+  {
+    "design_code": "JKSTGRA",
+    "orders_90d": 3,
+    "revenue_90d": 65.85,
+    "device_count": 2,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2f670-00"
+  },
+  {
+    "design_code": "ASANGEL",
+    "orders_90d": 3,
+    "revenue_90d": 63.85,
+    "device_count": 3,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-190de-00"
+  },
+  {
+    "design_code": "KSENANI",
+    "orders_90d": 3,
+    "revenue_90d": 63.85,
+    "device_count": 3,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2faf8-00"
+  },
+  {
+    "design_code": "MKECDOG",
+    "orders_90d": 3,
+    "revenue_90d": 63.85,
+    "device_count": 2,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-9e5-23c32-00"
+  },
+  {
+    "design_code": "AMBRMYT",
+    "orders_90d": 3,
+    "revenue_90d": 63.85,
+    "device_count": 3,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-1f447-00"
+  },
+  {
+    "design_code": "ALGODRA",
+    "orders_90d": 3,
+    "revenue_90d": 63.85,
+    "device_count": 3,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2a164-00"
+  },
+  {
+    "design_code": "LFCCUSTOMT",
+    "orders_90d": 3,
+    "revenue_90d": 62.85,
+    "device_count": 2,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "9-89f-1814d-0000"
+  },
+  {
+    "design_code": "GRACAMI",
+    "orders_90d": 4,
+    "revenue_90d": 62.8,
+    "device_count": 3,
+    "product_types": [
+      "H8939"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-bfa-29cdc-00"
+  },
+  {
+    "design_code": "ANELFDGR",
+    "orders_90d": 3,
+    "revenue_90d": 61.85,
+    "device_count": 3,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2ce39-00"
+  },
+  {
+    "design_code": "WFCKT5",
+    "orders_90d": 3,
+    "revenue_90d": 61.85,
+    "device_count": 3,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2961a-00"
+  },
+  {
+    "design_code": "TDKNCHA",
+    "orders_90d": 3,
+    "revenue_90d": 61.85,
+    "device_count": 3,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "527-94b-2cdf5-00"
+  },
+  {
+    "design_code": "NFL3LOKAN",
+    "orders_90d": 3,
+    "revenue_90d": 61.85,
+    "device_count": 3,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2260e-00"
+  },
+  {
+    "design_code": "GRAEWIL",
+    "orders_90d": 3,
+    "revenue_90d": 61.85,
+    "device_count": 3,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "B07S829666"
+  },
+  {
+    "design_code": "BASHCRO",
+    "orders_90d": 3,
+    "revenue_90d": 61.85,
+    "device_count": 2,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-9e5-1fa24-00"
+  },
+  {
+    "design_code": "AFCGLO",
+    "orders_90d": 3,
+    "revenue_90d": 61.85,
+    "device_count": 1,
+    "product_types": [
+      "HA501"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "53e-c80-306c8-00"
+  },
+  {
+    "design_code": "WMJOYDGRA",
+    "orders_90d": 3,
+    "revenue_90d": 60.85,
+    "device_count": 2,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2c543-00"
+  },
+  {
+    "design_code": "NFLLODAL2",
+    "orders_90d": 3,
+    "revenue_90d": 59.85,
+    "device_count": 2,
+    "product_types": [
+      "HB401"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-1f771-00"
+  },
+  {
+    "design_code": "NFL3LONYG",
+    "orders_90d": 3,
+    "revenue_90d": 59.85,
+    "device_count": 3,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-22631-00"
+  },
+  {
+    "design_code": "MC24PLCH",
+    "orders_90d": 3,
+    "revenue_90d": 59.85,
+    "device_count": 3,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2fd88-00"
+  },
+  {
+    "design_code": "WMGRATTRE",
+    "orders_90d": 3,
+    "revenue_90d": 59.85,
+    "device_count": 2,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291034791"
+  },
+  {
+    "design_code": "HPOTDHA",
+    "orders_90d": 3,
+    "revenue_90d": 59.85,
+    "device_count": 3,
+    "product_types": [
+      "HC"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-78e-2599a-00"
+  },
+  {
+    "design_code": "HAROBFL",
+    "orders_90d": 3,
+    "revenue_90d": 59.85,
+    "device_count": 1,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-27b37-00"
+  },
+  {
+    "design_code": "MASS1GR",
+    "orders_90d": 3,
+    "revenue_90d": 59.85,
+    "device_count": 3,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "4f8-730-2a876-00"
+  },
+  {
+    "design_code": "HPOTHLE",
+    "orders_90d": 3,
+    "revenue_90d": 59.85,
+    "device_count": 1,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2bf41-00"
+  },
+  {
+    "design_code": "DSPC4GRA",
+    "orders_90d": 3,
+    "revenue_90d": 59.85,
+    "device_count": 3,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": false,
+    "ean_source": null,
+    "sample_ean": ""
+  },
+  {
+    "design_code": "MOHDALB",
+    "orders_90d": 3,
+    "revenue_90d": 59.85,
+    "device_count": 3,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2126c-00"
+  },
+  {
+    "design_code": "WWE2STO",
+    "orders_90d": 3,
+    "revenue_90d": 59.85,
+    "device_count": 3,
+    "product_types": [
+      "HC"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291410083"
+  },
+  {
+    "design_code": "NFL3LOMIA",
+    "orders_90d": 3,
+    "revenue_90d": 59.85,
+    "device_count": 3,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2261d-00"
+  },
+  {
+    "design_code": "GCFLAGS1",
+    "orders_90d": 3,
+    "revenue_90d": 59.85,
+    "device_count": 3,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2b220-00"
+  },
+  {
+    "design_code": "NHLDETR",
+    "orders_90d": 3,
+    "revenue_90d": 59.85,
+    "device_count": 2,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-9e5-2b3ce-00"
+  },
+  {
+    "design_code": "WWERREG",
+    "orders_90d": 3,
+    "revenue_90d": 59.85,
+    "device_count": 3,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2bc72-00"
+  },
+  {
+    "design_code": "WONDOG",
+    "orders_90d": 3,
+    "revenue_90d": 59.85,
+    "device_count": 3,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-30b-0000"
+  },
+  {
+    "design_code": "CFCPHK2T25",
+    "orders_90d": 3,
+    "revenue_90d": 59.85,
+    "device_count": 3,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "540-be8-313b5-00"
+  },
+  {
+    "design_code": "SRUCKIT2",
+    "orders_90d": 3,
+    "revenue_90d": 59.85,
+    "device_count": 2,
+    "product_types": [
+      "HC"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2d59f-00"
+  },
+  {
+    "design_code": "NHLMONC",
+    "orders_90d": 3,
+    "revenue_90d": 59.85,
+    "device_count": 3,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-cdc-2b400-00"
+  },
+  {
+    "design_code": "CFCKIT2",
+    "orders_90d": 3,
+    "revenue_90d": 59.85,
+    "device_count": 3,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5057546905837"
+  },
+  {
+    "design_code": "LFCKIT3",
+    "orders_90d": 3,
+    "revenue_90d": 59.85,
+    "device_count": 3,
+    "product_types": [
+      "HHYBK"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "c-d20-2199c-0000"
+  },
+  {
+    "design_code": "SIAP",
+    "orders_90d": 3,
+    "revenue_90d": 59.85,
+    "device_count": 2,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-1d9f-000"
+  },
+  {
+    "design_code": "WWE2DOM",
+    "orders_90d": 3,
+    "revenue_90d": 59.85,
+    "device_count": 3,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2f77e-00"
+  },
+  {
+    "design_code": "NFL3LOCIN",
+    "orders_90d": 3,
+    "revenue_90d": 59.85,
+    "device_count": 3,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-225e1-00"
+  },
+  {
+    "design_code": "IRONKEY",
+    "orders_90d": 3,
+    "revenue_90d": 59.85,
+    "device_count": 2,
+    "product_types": [
+      "HB401"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "B0G4XJRF6M"
+  },
+  {
+    "design_code": "HPOTDH25",
+    "orders_90d": 3,
+    "revenue_90d": 59.85,
+    "device_count": 2,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2a06d-00"
+  },
+  {
+    "design_code": "FRNDDOO",
+    "orders_90d": 3,
+    "revenue_90d": 59.85,
+    "device_count": 2,
+    "product_types": [
+      "HC"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-298d3-00"
+  },
+  {
+    "design_code": "GTHMOTT",
+    "orders_90d": 3,
+    "revenue_90d": 59.85,
+    "device_count": 3,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-193e2-00"
+  },
+  {
+    "design_code": "NFLLOKAN",
+    "orders_90d": 3,
+    "revenue_90d": 59.85,
+    "device_count": 3,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "527-a5f-21e41-00"
+  },
+  {
+    "design_code": "ACMCKT7",
+    "orders_90d": 4,
+    "revenue_90d": 59.8,
+    "device_count": 3,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291405331"
+  },
+  {
+    "design_code": "ACMCKT5",
+    "orders_90d": 5,
+    "revenue_90d": 59.75,
+    "device_count": 2,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "c-be8-2b75d-0000"
+  },
+  {
+    "design_code": "JFCMAR",
+    "orders_90d": 6,
+    "revenue_90d": 59.7,
+    "device_count": 3,
+    "product_types": [
+      "HC",
+      "HHYBK"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "9-746-209a4-0000"
+  },
+  {
+    "design_code": "NHLSANJ",
+    "orders_90d": 8,
+    "revenue_90d": 59.43,
+    "device_count": 7,
+    "product_types": [
+      "HC"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-9e5-2b523-00"
+  },
+  {
+    "design_code": "NFLLOBUF2",
+    "orders_90d": 8,
+    "revenue_90d": 59.43,
+    "device_count": 4,
+    "product_types": [
+      "HC"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-1f75d-00"
+  },
+  {
+    "design_code": "ASSAOAR",
+    "orders_90d": 3,
+    "revenue_90d": 58.85,
+    "device_count": 3,
+    "product_types": [
+      "H8939"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "B09F2R7ZCS"
+  },
+  {
+    "design_code": "NFLLOBAL",
+    "orders_90d": 3,
+    "revenue_90d": 58.85,
+    "device_count": 3,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "527-a5f-21e27-00"
+  },
+  {
+    "design_code": "NFLMDO",
+    "orders_90d": 3,
+    "revenue_90d": 58.85,
+    "device_count": 2,
+    "product_types": [
+      "H8939"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-bfa-2aa5e-00"
+  },
+  {
+    "design_code": "JLGELOG",
+    "orders_90d": 3,
+    "revenue_90d": 58.85,
+    "device_count": 3,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "4f8-730-25a3e-00"
+  },
+  {
+    "design_code": "PXCOANI",
+    "orders_90d": 3,
+    "revenue_90d": 57.85,
+    "device_count": 3,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-9e5-22ed9-00"
+  },
+  {
+    "design_code": "SCDOSEA",
+    "orders_90d": 3,
+    "revenue_90d": 57.85,
+    "device_count": 3,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-26f3e-00"
+  },
+  {
+    "design_code": "ASOWLS",
+    "orders_90d": 3,
+    "revenue_90d": 57.85,
+    "device_count": 3,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-19106-00"
+  },
+  {
+    "design_code": "NFLALLT1",
+    "orders_90d": 3,
+    "revenue_90d": 57.85,
+    "device_count": 2,
+    "product_types": [
+      "H8939"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-bfa-29427-00"
+  },
+  {
+    "design_code": "MKECDG4",
+    "orders_90d": 3,
+    "revenue_90d": 57.85,
+    "device_count": 3,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-23c64-00"
+  },
+  {
+    "design_code": "THFCBKT4",
+    "orders_90d": 3,
+    "revenue_90d": 57.85,
+    "device_count": 2,
+    "product_types": [
+      "H8939"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-d11-3052a-00"
+  },
+  {
+    "design_code": "UNION",
+    "orders_90d": 3,
+    "revenue_90d": 56.85,
+    "device_count": 2,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-e22-0000"
+  },
+  {
+    "design_code": "WWE2NWO",
+    "orders_90d": 3,
+    "revenue_90d": 56.85,
+    "device_count": 3,
+    "product_types": [
+      "H8939"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-bfa-2f76a-00"
+  },
+  {
+    "design_code": "MCNEON",
+    "orders_90d": 3,
+    "revenue_90d": 56.85,
+    "device_count": 3,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-30786-00"
+  },
+  {
+    "design_code": "NFLLOMIN",
+    "orders_90d": 5,
+    "revenue_90d": 56.82,
+    "device_count": 4,
+    "product_types": [
+      "HC"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "527-a5f-21e49-00"
+  },
+  {
+    "design_code": "MFEUFLO",
+    "orders_90d": 4,
+    "revenue_90d": 55.8,
+    "device_count": 4,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-1a9b3-00"
+  },
+  {
+    "design_code": "AIRCOC",
+    "orders_90d": 3,
+    "revenue_90d": 54.85,
+    "device_count": 3,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2201e-00"
+  },
+  {
+    "design_code": "BTMCROU",
+    "orders_90d": 3,
+    "revenue_90d": 54.85,
+    "device_count": 2,
+    "product_types": [
+      "H8939"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-864-30e5e-00"
+  },
+  {
+    "design_code": "WWE2LAK",
+    "orders_90d": 5,
+    "revenue_90d": 54.82,
+    "device_count": 5,
+    "product_types": [
+      "HC"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-bfa-2f5e0-00"
+  },
+  {
+    "design_code": "WFC23W",
+    "orders_90d": 3,
+    "revenue_90d": 53.85,
+    "device_count": 2,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2e94f-00"
+  },
+  {
+    "design_code": "FRNDIGR",
+    "orders_90d": 3,
+    "revenue_90d": 53.85,
+    "device_count": 2,
+    "product_types": [
+      "H8939"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-9e5-2e2c9-00"
+  },
+  {
+    "design_code": "MFEUFPA",
+    "orders_90d": 3,
+    "revenue_90d": 53.85,
+    "device_count": 3,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-1ac87-00"
+  },
+  {
+    "design_code": "JENAANI",
+    "orders_90d": 3,
+    "revenue_90d": 52.85,
+    "device_count": 3,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "9-1f9-2a764-0000"
+  },
+  {
+    "design_code": "PNUTT21",
+    "orders_90d": 3,
+    "revenue_90d": 52.85,
+    "device_count": 3,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291033459"
+  },
+  {
+    "design_code": "WWE2DMC",
+    "orders_90d": 4,
+    "revenue_90d": 51.96,
+    "device_count": 1,
+    "product_types": [
+      "HSTWH"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291409650"
+  },
+  {
+    "design_code": "BVJBKEY",
+    "orders_90d": 3,
+    "revenue_90d": 51.85,
+    "device_count": 3,
+    "product_types": [
+      "HC"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-19b44-00"
+  },
+  {
+    "design_code": "NFLSBL60S",
+    "orders_90d": 4,
+    "revenue_90d": 51.8,
+    "device_count": 1,
+    "product_types": [
+      "HHYBK"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "540-be8-318fe-00"
+  },
+  {
+    "design_code": "NFLLOMIN2",
+    "orders_90d": 4,
+    "revenue_90d": 51.18,
+    "device_count": 4,
+    "product_types": [
+      "HC"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-1f79d-00"
+  },
+  {
+    "design_code": "SRITANI",
+    "orders_90d": 3,
+    "revenue_90d": 50.85,
+    "device_count": 3,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2da67-00"
+  },
+  {
+    "design_code": "INSPRI",
+    "orders_90d": 3,
+    "revenue_90d": 50.85,
+    "device_count": 2,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-1c7d4-00"
+  },
+  {
+    "design_code": "CKARAMI",
+    "orders_90d": 3,
+    "revenue_90d": 50.85,
+    "device_count": 3,
+    "product_types": [
+      "H8939"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "4f8-730-2d7e1-00"
+  },
+  {
+    "design_code": "HFCCRE",
+    "orders_90d": 9,
+    "revenue_90d": 50.76,
+    "device_count": 6,
+    "product_types": [
+      "HC"
+    ],
+    "has_ean": false,
+    "ean_source": null,
+    "sample_ean": ""
+  },
+  {
+    "design_code": "WWE2SHA",
+    "orders_90d": 4,
+    "revenue_90d": 49.96,
+    "device_count": 1,
+    "product_types": [
+      "HSTWH"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291410038"
+  },
+  {
+    "design_code": "FADANIM",
+    "orders_90d": 3,
+    "revenue_90d": 49.85,
+    "device_count": 2,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-1a0c8-00"
+  },
+  {
+    "design_code": "TWDS6NEG",
+    "orders_90d": 3,
+    "revenue_90d": 49.85,
+    "device_count": 2,
+    "product_types": [
+      "HC"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "49b-4b9-1bd36-00"
+  },
+  {
+    "design_code": "FCBCKT7",
+    "orders_90d": 3,
+    "revenue_90d": 49.85,
+    "device_count": 2,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291027465"
+  },
+  {
+    "design_code": "FCBCRE",
+    "orders_90d": 3,
+    "revenue_90d": 49.85,
+    "device_count": 3,
+    "product_types": [
+      "HC"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291027557"
+  },
+  {
+    "design_code": "BALL2",
+    "orders_90d": 3,
+    "revenue_90d": 49.85,
+    "device_count": 3,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2a07-000"
+  },
+  {
+    "design_code": "IMILGRA",
+    "orders_90d": 3,
+    "revenue_90d": 49.85,
+    "device_count": 3,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "9-746-2952c-0000"
+  },
+  {
+    "design_code": "ACMCKT6",
+    "orders_90d": 3,
+    "revenue_90d": 47.85,
+    "device_count": 3,
+    "product_types": [
+      "HC"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "9-630-2e627-0000"
+  },
+  {
+    "design_code": "MOHDKEY",
+    "orders_90d": 3,
+    "revenue_90d": 46.85,
+    "device_count": 3,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-252ab-00"
+  },
+  {
+    "design_code": "UFCHOL",
+    "orders_90d": 3,
+    "revenue_90d": 45.54,
+    "device_count": 2,
+    "product_types": [
+      "HC"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "c-bea-2faf4-0000"
+  },
+  {
+    "design_code": "ERUHER",
+    "orders_90d": 8,
+    "revenue_90d": 45.12,
+    "device_count": 5,
+    "product_types": [
+      "HC"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "B07BB87KD6"
+  },
+  {
+    "design_code": "NFLLODEN",
+    "orders_90d": 5,
+    "revenue_90d": 42.51,
+    "device_count": 4,
+    "product_types": [
+      "HC"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "527-a5f-21e35-00"
+  },
+  {
+    "design_code": "FCBGRA",
+    "orders_90d": 3,
+    "revenue_90d": 39.85,
+    "device_count": 2,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291027625"
+  },
+  {
+    "design_code": "DEANCAT",
+    "orders_90d": 3,
+    "revenue_90d": 39.85,
+    "device_count": 2,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-1a23c-00"
+  },
+  {
+    "design_code": "IMILIM2S",
+    "orders_90d": 4,
+    "revenue_90d": 39.8,
+    "device_count": 2,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "9-746-2fc5c-0000"
+  },
+  {
+    "design_code": "WWE2BRE",
+    "orders_90d": 7,
+    "revenue_90d": 39.48,
+    "device_count": 5,
+    "product_types": [
+      "HC"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-864-2e89d-00"
+  },
+  {
+    "design_code": "EVFCKIT",
+    "orders_90d": 7,
+    "revenue_90d": 39.48,
+    "device_count": 1,
+    "product_types": [
+      "HC"
+    ],
+    "has_ean": false,
+    "ean_source": null,
+    "sample_ean": ""
+  },
+  {
+    "design_code": "ANILFLE",
+    "orders_90d": 3,
+    "revenue_90d": 37.85,
+    "device_count": 2,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2fb38-00"
+  },
+  {
+    "design_code": "UFCVOL",
+    "orders_90d": 4,
+    "revenue_90d": 36.87,
+    "device_count": 3,
+    "product_types": [
+      "HC"
+    ],
+    "has_ean": false,
+    "ean_source": null,
+    "sample_ean": ""
+  },
+  {
+    "design_code": "NINOSPR",
+    "orders_90d": 4,
+    "revenue_90d": 35.8,
+    "device_count": 1,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2f0f6-00"
+  },
+  {
+    "design_code": "CUTESY",
+    "orders_90d": 4,
+    "revenue_90d": 34.8,
+    "device_count": 3,
+    "product_types": [
+      "HC"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-19f9d-00"
+  },
+  {
+    "design_code": "NHLNEWJ",
+    "orders_90d": 6,
+    "revenue_90d": 33.84,
+    "device_count": 4,
+    "product_types": [
+      "HC"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-cdc-2b4e7-00"
+  },
+  {
+    "design_code": "CBEAICO",
+    "orders_90d": 3,
+    "revenue_90d": 32.97,
+    "device_count": 1,
+    "product_types": [
+      "HSTWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "554-b8b-30f2a-00"
+  },
+  {
+    "design_code": "WWE2CHA",
+    "orders_90d": 3,
+    "revenue_90d": 31.23,
+    "device_count": 2,
+    "product_types": [
+      "HC"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2e961-00"
+  },
+  {
+    "design_code": "NHLVANC",
+    "orders_90d": 3,
+    "revenue_90d": 31.23,
+    "device_count": 3,
+    "product_types": [
+      "HC"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-9e5-2b555-00"
+  },
+  {
+    "design_code": "NFL3LOMIN",
+    "orders_90d": 3,
+    "revenue_90d": 31.23,
+    "device_count": 2,
+    "product_types": [
+      "HC"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-22622-00"
+  },
+  {
+    "design_code": "NFLLOSDC",
+    "orders_90d": 3,
+    "revenue_90d": 31.23,
+    "device_count": 3,
+    "product_types": [
+      "HC"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "527-a5f-21e43-00"
+  },
+  {
+    "design_code": "UFCPIM",
+    "orders_90d": 3,
+    "revenue_90d": 30.23,
+    "device_count": 3,
+    "product_types": [
+      "HC"
+    ],
+    "has_ean": false,
+    "ean_source": null,
+    "sample_ean": ""
+  },
+  {
+    "design_code": "ROMACKT4",
+    "orders_90d": 3,
+    "revenue_90d": 29.85,
+    "device_count": 1,
+    "product_types": [
+      "HHYBK"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "a-1f9-299fa-0000"
+  },
+  {
+    "design_code": "IMILCKT5",
+    "orders_90d": 3,
+    "revenue_90d": 29.85,
+    "device_count": 2,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "c-b93-302a6-0000"
+  },
+  {
+    "design_code": "JFCKT24",
+    "orders_90d": 3,
+    "revenue_90d": 29.85,
+    "device_count": 1,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291407991"
+  },
+  {
+    "design_code": "DOODRE",
+    "orders_90d": 4,
+    "revenue_90d": 29.8,
+    "device_count": 2,
+    "product_types": [
+      "HC"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2352f-00"
+  },
+  {
+    "design_code": "NHLNYKI",
+    "orders_90d": 3,
+    "revenue_90d": 29.23,
+    "device_count": 3,
+    "product_types": [
+      "HC"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "51e-d11-2b4f1-00"
+  },
+  {
+    "design_code": "WWE2AJS",
+    "orders_90d": 5,
+    "revenue_90d": 28.2,
+    "device_count": 3,
+    "product_types": [
+      "HC"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-2eaa1-00"
+  },
+  {
+    "design_code": "NFLLOCIN2",
+    "orders_90d": 4,
+    "revenue_90d": 25.87,
+    "device_count": 4,
+    "product_types": [
+      "HC"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-1f769-00"
+  },
+  {
+    "design_code": "MERSPA",
+    "orders_90d": 5,
+    "revenue_90d": 24.75,
+    "device_count": 1,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": false,
+    "ean_source": null,
+    "sample_ean": ""
+  },
+  {
+    "design_code": "CBLOC",
+    "orders_90d": 4,
+    "revenue_90d": 19.8,
+    "device_count": 1,
+    "product_types": [
+      "HTPCR"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-67b-0000"
+  },
+  {
+    "design_code": "OMBRE",
+    "orders_90d": 3,
+    "revenue_90d": 18.85,
+    "device_count": 3,
+    "product_types": [
+      "HC"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-19f85-00"
+  },
+  {
+    "design_code": "PASGAL",
+    "orders_90d": 3,
+    "revenue_90d": 18.85,
+    "device_count": 2,
+    "product_types": [
+      "HC"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-234f6-00"
+  },
+  {
+    "design_code": "TFACHA25",
+    "orders_90d": 3,
+    "revenue_90d": 16.92,
+    "device_count": 3,
+    "product_types": [
+      "HC"
+    ],
+    "has_ean": false,
+    "ean_source": null,
+    "sample_ean": ""
+  },
+  {
+    "design_code": "WWE2KEV",
+    "orders_90d": 3,
+    "revenue_90d": 16.92,
+    "device_count": 3,
+    "product_types": [
+      "HC"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291409865"
+  },
+  {
+    "design_code": "NFL3LOGRE",
+    "orders_90d": 3,
+    "revenue_90d": 16.92,
+    "device_count": 2,
+    "product_types": [
+      "HC"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-225fa-00"
+  },
+  {
+    "design_code": "WWE2SET",
+    "orders_90d": 3,
+    "revenue_90d": 16.92,
+    "device_count": 3,
+    "product_types": [
+      "HC"
+    ],
+    "has_ean": true,
+    "ean_source": "target_list",
+    "sample_ean": "5063291409995"
+  },
+  {
+    "design_code": "MANDA",
+    "orders_90d": 3,
+    "revenue_90d": 14.85,
+    "device_count": 2,
+    "product_types": [
+      "HLBWH"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-add-0000"
+  },
+  {
+    "design_code": "HAPUPY",
+    "orders_90d": 3,
+    "revenue_90d": 14.85,
+    "device_count": 1,
+    "product_types": [
+      "HC"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-7b8-0000"
+  },
+  {
+    "design_code": "STRLGHT",
+    "orders_90d": 3,
+    "revenue_90d": 9.85,
+    "device_count": 2,
+    "product_types": [
+      "HC"
+    ],
+    "has_ean": true,
+    "ean_source": "uk_listings",
+    "sample_ean": "534-746-21029-00"
+  }
+]

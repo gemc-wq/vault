@@ -1,0 +1,85 @@
+{
+  "matched_count": 27,
+  "total_gaps": 80,
+  "gaps_found": [
+    "BVQUEEKY",
+    "BVQUEEBR",
+    "BVBEKYA",
+    "BVBEHTE",
+    "CFCKIT3",
+    "MCMARBA",
+    "AFCTYP",
+    "BVGUNSKY",
+    "BVGUNVIN",
+    "SRULOG",
+    "BVJBKEY",
+    "TOMCD2L",
+    "MC24PLCH",
+    "NCFCCKT",
+    "ERUKIT6",
+    "ROMACREG",
+    "WWE2DGE",
+    "UFCHOL",
+    "LFCCRYN",
+    "LFCTIA",
+    "LFCYNWA",
+    "HPOTMEM",
+    "GLCOLOG",
+    "IMILHKT",
+    "BVARIDW",
+    "BVSPBAN",
+    "AFCGOO"
+  ],
+  "sample": {
+    "BVQUEEKY": [
+      {
+        "sku": "HTPCR-MOTOE7P-BVQUEEKY-CRE",
+        "gtin": "5057089020981"
+      },
+      {
+        "sku": "HTPCR-IPH11PMAX-BVQUEEKY-CRE",
+        "gtin": "5057089019930"
+      }
+    ],
+    "BVQUEEBR": [
+      {
+        "sku": "HTPCR-IPH13MINI-BVQUEEBR-LOG",
+        "gtin": "5057089029526"
+      },
+      {
+        "sku": "HTPCR-GSTYLUS5G-BVQUEEBR-LOG",
+        "gtin": "5057089030812"
+      }
+    ],
+    "BVBEKYA": [
+      {
+        "sku": "HTPCR-DESRE21PR-BVBEKYA-BLO",
+        "gtin": "5057089331872"
+      },
+      {
+        "sku": "HTPCR-P50-BVBEKYA-BLO",
+        "gtin": "5057089332213"
+      }
+    ],
+    "BVBEHTE": [
+      {
+        "sku": "HTPCR-P50-BVBEHTE-AIM",
+        "gtin": "5057089341093"
+      },
+      {
+        "sku": "HTPCR-Y52019-BVBEHTE-AIM",
+        "gtin": "5057089341369"
+      }
+    ],
+    "CFCKIT3": [
+      {
+        "sku": "HTPCR-G985F-CFCKIT3-HOM",
+        "gtin": "5057548808488"
+      },
+      {
+        "sku": "HTPCR-S916X-CFCKIT3-HOM",
+        "gtin": "5057548808518"
+      }
+    ]
+  }
+}

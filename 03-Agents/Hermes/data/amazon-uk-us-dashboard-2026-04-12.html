@@ -1,0 +1,431 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Amazon UK vs US Dashboard | Ecell Global</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #0f172a; color: #e2e8f0; min-height: 100vh; }
+        .container { max-width: 1600px; margin: 0 auto; padding: 20px; }
+        
+        header { text-align: center; padding: 30px 0; border-bottom: 1px solid #334155; margin-bottom: 30px; }
+        h1 { font-size: 2.2rem; color: #f8fafc; }
+        .subtitle { color: #94a3b8; font-size: 1.1rem; margin-top: 5px; }
+        
+        .lanes { display: grid; grid-template-columns: 1fr 1fr; gap: 30px; }
+        .lane { background: #1e293b; border-radius: 12px; overflow: hidden; }
+        .lane-header { padding: 20px; text-align: center; }
+        .lane-header.uk { background: linear-gradient(135deg, #065f46 0%, #064e3b 100%); }
+        .lane-header.us { background: linear-gradient(135deg, #1e3a8a 0%, #1e40af 100%); }
+        .lane-title { font-size: 1.5rem; font-weight: 700; color: #fff; }
+        .lane-subtitle { color: rgba(255,255,255,0.8); font-size: 0.9rem; margin-top: 5px; }
+        
+        .kpi-row { display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px; padding: 20px; background: #0f172a; }
+        .kpi { text-align: center; padding: 15px; background: #1e293b; border-radius: 8px; }
+        .kpi-label { color: #94a3b8; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 1px; }
+        .kpi-value { font-size: 1.8rem; font-weight: 700; color: #f8fafc; margin-top: 5px; }
+        .kpi-value.highlight { color: #22c55e; }
+        .kpi-value.uk-highlight { color: #34d399; }
+        .kpi-value.us-highlight { color: #60a5fa; }
+        
+        .section { padding: 20px; border-top: 1px solid #334155; }
+        .section-title { font-size: 1rem; color: #f8fafc; margin-bottom: 15px; display: flex; align-items: center; gap: 8px; }
+        
+        table { width: 100%; border-collapse: collapse; }
+        th, td { padding: 10px 12px; text-align: left; font-size: 0.85rem; border-bottom: 1px solid #334155; }
+        th { color: #94a3b8; font-weight: 600; text-transform: uppercase; font-size: 0.7rem; letter-spacing: 0.5px; background: #0f172a; }
+        tr:hover { background: rgba(255,255,255,0.02); }
+        .metric { font-weight: 600; color: #f8fafc; }
+        .conv-good { color: #22c55e; font-weight: 600; }
+        .conv-bad { color: #ef4444; font-weight: 600; }
+        .conv-neutral { color: #f59e0b; font-weight: 600; }
+        
+        .bar-container { height: 8px; background: #334155; border-radius: 4px; overflow: hidden; margin-top: 5px; }
+        .bar { height: 100%; border-radius: 4px; }
+        .bar.uk { background: #22c55e; }
+        .bar.us { background: #3b82f6; }
+        
+        .insight-box { background: #0f172a; border-radius: 8px; padding: 15px; margin-top: 15px; border-left: 3px solid #3b82f6; }
+        .insight-box.success { border-left-color: #22c55e; }
+        .insight-box.warning { border-left-color: #f59e0b; }
+        .insight-title { font-weight: 600; color: #f8fafc; margin-bottom: 5px; font-size: 0.9rem; }
+        .insight-text { color: #cbd5e1; font-size: 0.85rem; line-height: 1.5; }
+        
+        .recommendations { padding: 20px; border-top: 1px solid #334155; background: #0f172a; }
+        .rec-list { display: flex; flex-direction: column; gap: 10px; }
+        .rec-item { display: flex; gap: 10px; align-items: flex-start; }
+        .rec-badge { padding: 2px 8px; border-radius: 4px; font-size: 0.7rem; font-weight: 600; text-transform: uppercase; }
+        .rec-badge.high { background: #7f1d1d; color: #fca5a5; }
+        .rec-badge.medium { background: #78350f; color: #fcd34d; }
+        .rec-text { color: #e2e8f0; font-size: 0.85rem; }
+        
+        footer { text-align: center; padding: 30px; color: #64748b; font-size: 0.85rem; border-top: 1px solid #334155; margin-top: 30px; }
+        
+        @media (max-width: 1024px) { .lanes { grid-template-columns: 1fr; } }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Amazon Performance Dashboard</h1>
+            <p class="subtitle">UK vs US - 90-Day Analysis | April 12, 2026</p>
+        </header>
+        
+        <div class="lanes">
+            <!-- UK LANE -->
+            <div class="lane">
+                <div class="lane-header uk">
+                    <div class="lane-title">UK LANE</div>
+                    <div class="lane-subtitle">Amazon UK Marketplace</div>
+                </div>
+                
+                <div class="kpi-row">
+                    <div class="kpi">
+                        <div class="kpi-label">Sessions (90d)</div>
+                        <div class="kpi-value">320K</div>
+                    </div>
+                    <div class="kpi">
+                        <div class="kpi-label">Units (90d)</div>
+                        <div class="kpi-value">13,133</div>
+                    </div>
+                    <div class="kpi">
+                        <div class="kpi-label">Conversion</div>
+                        <div class="kpi-value uk-highlight">4.10%</div>
+                    </div>
+                </div>
+                
+                <div class="section">
+                    <div class="section-title">📦 Shipping Templates</div>
+                    <table>
+                        <thead>
+                            <tr><th>Template</th><th>Sessions</th><th>Units</th><th>Conv</th></tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="metric">Reduced Shipping</td>
+                                <td>145,562</td>
+                                <td>6,405</td>
+                                <td class="conv-good">4.40%</td>
+                            </tr>
+                            <tr>
+                                <td class="metric">Default Amazon</td>
+                                <td>136,875</td>
+                                <td>5,707</td>
+                                <td class="conv-good">4.17%</td>
+                            </tr>
+                            <tr>
+                                <td class="metric">Nationwide Prime</td>
+                                <td>2,082</td>
+                                <td>26</td>
+                                <td class="conv-bad">1.25%</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                
+                <div class="section">
+                    <div class="section-title">🚚 FBA vs FBM</div>
+                    <table>
+                        <thead>
+                            <tr><th>Type</th><th>Sessions</th><th>Units</th><th>Conv</th><th>Share</th></tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="metric">FBM</td>
+                                <td>294,517</td>
+                                <td>12,238</td>
+                                <td class="conv-good">4.16%</td>
+                                <td>92%</td>
+                            </tr>
+                            <tr>
+                                <td class="metric">FBA</td>
+                                <td>25,518</td>
+                                <td>895</td>
+                                <td>3.51%</td>
+                                <td>8%</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <div class="insight-box success">
+                        <div class="insight-title">FBM Outperforms FBA</div>
+                        <div class="insight-text">FBM converts 18.5% better than FBA. Likely due to pricing flexibility and Reduced Shipping template access.</div>
+                    </div>
+                </div>
+                
+                <div class="section">
+                    <div class="section-title">📱 Top Products</div>
+                    <table>
+                        <thead>
+                            <tr><th>Product</th><th>Sessions</th><th>Units</th><th>Conv</th></tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="metric">HB401 (Hard Case)</td>
+                                <td>5,146</td>
+                                <td>500</td>
+                                <td class="conv-good">9.72%</td>
+                            </tr>
+                            <tr>
+                                <td class="metric">HTPCR (Soft Gel)</td>
+                                <td>75,541</td>
+                                <td>4,200</td>
+                                <td class="conv-good">5.56%</td>
+                            </tr>
+                            <tr>
+                                <td class="metric">HC (Hard Classic)</td>
+                                <td>26,247</td>
+                                <td>1,450</td>
+                                <td class="conv-good">5.52%</td>
+                            </tr>
+                            <tr>
+                                <td class="metric">HDMWH (Desk Mat)</td>
+                                <td>15,590</td>
+                                <td>639</td>
+                                <td class="conv-good">4.10%</td>
+                            </tr>
+                            <tr>
+                                <td class="metric">HLBWH (Leather Wallet)</td>
+                                <td>70,312</td>
+                                <td>2,705</td>
+                                <td class="conv-neutral">3.85%</td>
+                            </tr>
+                            <tr>
+                                <td class="metric">H8939 (Gaming Skins)</td>
+                                <td>43,225</td>
+                                <td>1,007</td>
+                                <td class="conv-bad">2.33%</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                
+                <div class="section">
+                    <div class="section-title">📈 Velocity</div>
+                    <table>
+                        <thead>
+                            <tr><th>Period</th><th>Sessions</th><th>Units</th><th>Conv</th></tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="metric">14-day</td>
+                                <td>76,361</td>
+                                <td>1,625</td>
+                                <td>2.13%</td>
+                            </tr>
+                            <tr>
+                                <td class="metric">30-day</td>
+                                <td>163,542</td>
+                                <td>3,663</td>
+                                <td>2.24%</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <div class="insight-box">
+                        <div class="insight-title">Velocity: 95.1% - Stable</div>
+                        <div class="insight-text">14-day pace slightly below 30-day average. Monitor for seasonal shifts.</div>
+                    </div>
+                </div>
+                
+                <div class="recommendations">
+                    <div class="section-title">🎯 UK Actions</div>
+                    <div class="rec-list">
+                        <div class="rec-item">
+                            <span class="rec-badge medium">MEDIUM</span>
+                            <span class="rec-text">Expand HB401 (Hard Case) - best converter at 9.72%</span>
+                        </div>
+                        <div class="rec-item">
+                            <span class="rec-badge medium">MEDIUM</span>
+                            <span class="rec-text">Review H8939 (Gaming Skins) listings - only 2.33% conversion</span>
+                        </div>
+                        <div class="rec-item">
+                            <span class="rec-badge low">LOW</span>
+                            <span class="rec-text">Reduce Nationwide Prime usage - 1.25% conversion vs 4.4% for Reduced</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- US LANE -->
+            <div class="lane">
+                <div class="lane-header us">
+                    <div class="lane-title">US LANE</div>
+                    <div class="lane-subtitle">Amazon US Marketplace</div>
+                </div>
+                
+                <div class="kpi-row">
+                    <div class="kpi">
+                        <div class="kpi-label">Sessions (90d)</div>
+                        <div class="kpi-value">721K</div>
+                    </div>
+                    <div class="kpi">
+                        <div class="kpi-label">Units (90d)</div>
+                        <div class="kpi-value">23,174</div>
+                    </div>
+                    <div class="kpi">
+                        <div class="kpi-label">Conversion</div>
+                        <div class="kpi-value us-highlight">3.22%</div>
+                    </div>
+                </div>
+                
+                <div class="section">
+                    <div class="section-title">📦 Shipping Templates</div>
+                    <table>
+                        <thead>
+                            <tr><th>Template</th><th>Sessions</th><th>Units</th><th>Conv</th></tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="metric">Reduced Shipping</td>
+                                <td>357,981</td>
+                                <td>12,680</td>
+                                <td class="conv-good">3.54%</td>
+                            </tr>
+                            <tr>
+                                <td class="metric">Default Amazon</td>
+                                <td>348,973</td>
+                                <td>9,873</td>
+                                <td class="conv-neutral">2.83%</td>
+                            </tr>
+                            <tr>
+                                <td class="metric">Nationwide Prime</td>
+                                <td>5,298</td>
+                                <td>87</td>
+                                <td class="conv-bad">1.64%</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <div class="insight-box success">
+                        <div class="insight-title">Reduced Shipping = +25% Conversion</div>
+                        <div class="insight-text">Reduced Shipping converts 25% better than Default Amazon Template. Quick win: migrate more SKUs.</div>
+                    </div>
+                </div>
+                
+                <div class="section">
+                    <div class="section-title">🚚 FBA vs FBM</div>
+                    <table>
+                        <thead>
+                            <tr><th>Type</th><th>Sessions</th><th>Units</th><th>Conv</th><th>Share</th></tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="metric">FBM</td>
+                                <td>571,255</td>
+                                <td>18,966</td>
+                                <td class="conv-good">3.32%</td>
+                                <td>79%</td>
+                            </tr>
+                            <tr>
+                                <td class="metric">FBA</td>
+                                <td>149,339</td>
+                                <td>4,208</td>
+                                <td>2.82%</td>
+                                <td>21%</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <div class="insight-box success">
+                        <div class="insight-title">FBM Outperforms FBA by 18%</div>
+                        <div class="insight-text">Counter-intuitive: FBM converts better. FBA items may be priced higher to cover fees.</div>
+                    </div>
+                </div>
+                
+                <div class="section">
+                    <div class="section-title">📱 Top Products</div>
+                    <table>
+                        <thead>
+                            <tr><th>Product</th><th>Sessions</th><th>Units</th><th>Conv</th></tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="metric">HC (Hard Classic)</td>
+                                <td>51,205</td>
+                                <td>2,315</td>
+                                <td class="conv-good">4.52%</td>
+                            </tr>
+                            <tr>
+                                <td class="metric">HTPCR (Soft Gel)</td>
+                                <td>269,744</td>
+                                <td>9,252</td>
+                                <td class="conv-neutral">3.43%</td>
+                            </tr>
+                            <tr>
+                                <td class="metric">HDMWH (Desk Mat)</td>
+                                <td>33,607</td>
+                                <td>942</td>
+                                <td class="conv-neutral">2.80%</td>
+                            </tr>
+                            <tr>
+                                <td class="metric">H8939 (Gaming Skins)</td>
+                                <td>50,427</td>
+                                <td>1,281</td>
+                                <td class="conv-bad">2.54%</td>
+                            </tr>
+                            <tr>
+                                <td class="metric">HLBWH (Leather Wallet)</td>
+                                <td>84,160</td>
+                                <td>2,094</td>
+                                <td class="conv-bad">2.49%</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                
+                <div class="section">
+                    <div class="section-title">📈 Velocity</div>
+                    <table>
+                        <thead>
+                            <tr><th>Period</th><th>Sessions</th><th>Units</th><th>Conv</th></tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="metric">14-day</td>
+                                <td>177,849</td>
+                                <td>3,504</td>
+                                <td>1.97%</td>
+                            </tr>
+                            <tr>
+                                <td class="metric">30-day</td>
+                                <td>269,023</td>
+                                <td>7,718</td>
+                                <td>2.87%</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <div class="insight-box warning">
+                        <div class="insight-title">Velocity: 97.3% - Stable but Conversion Dropping</div>
+                        <div class="insight-text">14-day conversion (1.97%) significantly below 30-day (2.87%). Investigate recent changes.</div>
+                    </div>
+                </div>
+                
+                <div class="recommendations">
+                    <div class="section-title">🎯 US Actions</div>
+                    <div class="rec-list">
+                        <div class="rec-item">
+                            <span class="rec-badge high">HIGH</span>
+                            <span class="rec-text">Migrate listings to Reduced Shipping Template - +25% conversion potential</span>
+                        </div>
+                        <div class="rec-item">
+                            <span class="rec-badge high">HIGH</span>
+                            <span class="rec-text">Investigate conversion drop (2.87% → 1.97%) - check pricing/competition</span>
+                        </div>
+                        <div class="rec-item">
+                            <span class="rec-badge medium">MEDIUM</span>
+                            <span class="rec-text">Review FBA pricing strategy - FBM outperforms by 18%</span>
+                        </div>
+                        <div class="rec-item">
+                            <span class="rec-badge medium">MEDIUM</span>
+                            <span class="rec-text">Fix HLBWH (Leather Wallet) - 2.49% conversion, underperforming vs UK's 3.85%</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <footer>
+            Generated by Hermes Agent | April 12, 2026<br>
+            Data: Business Reports (90d) | SKUs analyzed: ~80K per market
+        </footer>
+    </div>
+</body>
+</html>

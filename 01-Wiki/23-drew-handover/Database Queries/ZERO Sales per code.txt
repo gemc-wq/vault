@@ -1,0 +1,12 @@
+SELECT a.`Code`, a.`Quantity`, b.`PickerPH`, a.`Paid_on_Date`
+ FROM order_tracker_xls a
+INNER JOIN POBySRN b ON a.`Sales_Record_Number` = b.`SalesRecordNumber`
+WHERE a.`Code` LIKE '%IPAD%-CFC%'
+AND STR_TO_DATE(a.Paid_on_Date, '%d-%b-%y') BETWEEN '2020-05-15' AND '2020-06-15'
+AND  a.`Code` NOT LIKE '%IPADMINI%'
+
+SELECT a.`Code`, a.`Quantity`, b.`PickerPH`, a.`Paid_on_Date`
+ FROM order_tracker_xls a
+INNER JOIN POBySRN b ON a.`Sales_Record_Number` = b.`SalesRecordNumber`
+WHERE a.`Code` LIKE '%IPADMINI%-RIVD%'
+AND STR_TO_DATE(a.Paid_on_Date, '%d-%b-%y') BETWEEN '2020-05-15' AND '2020-06-15'

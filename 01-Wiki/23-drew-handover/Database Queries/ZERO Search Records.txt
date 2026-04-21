@@ -1,0 +1,12 @@
+SELECT
+a.`Sales_Record_Number`,
+a.`f_status`,
+a.`Dispatch_Date`,
+a.`Buyer_Fullname`,
+a.`Buyer_Address_1`,
+a.`Buyer_Address_2`,
+a.`Buyer_City`,
+a.`Buyer_State`,
+a.`Buyer_Zip` ,
+a.`Buyer_Country`
+ FROM order_tracker_xls a WHERE a.`Buyer_Fullname` LIKE '%%'

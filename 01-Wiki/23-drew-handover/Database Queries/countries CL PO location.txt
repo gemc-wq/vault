@@ -1,0 +1,21 @@
+SELECT b.`Buyer_Country` AS Country,
+	b. `Custom_Label` AS CL,
+                  SUM(b.`Quantity`)  AS Quantity
+                    FROM POBySRN a
+                    LEFT JOIN order_tracker_xls b ON a.`SalesRecordNumber` = b.`Sales_Record_Number`
+                    WHERE a.`PickerPH` = 'PH'
+                    AND b.`Custom_Label` LIKE '%H90%'
+                    AND a.`DateTimeCreated` BETWEEN '2023-10-01' AND '2023-12-31'
+                    GROUP BY b.`Buyer_Country`;
+
+
+per SRN
+
+SELECT b.`Buyer_Country` AS Country,
+	a.`SalesRecordNumber` AS SRN,
+	b. `Custom_Label` AS CL
+                    FROM POBySRN a
+                    LEFT JOIN order_tracker_xls b ON a.`SalesRecordNumber` = b.`Sales_Record_Number`
+                    WHERE a.`PickerPH` = 'Florida'
+                    AND b.`Custom_Label` LIKE '%HTPCR-A165G%'
+                    AND a.`DateTimeCreated` BETWEEN '2025-08-01' AND '2025-08-31';

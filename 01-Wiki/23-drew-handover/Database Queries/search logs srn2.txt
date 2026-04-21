@@ -1,0 +1,1 @@
+select * from t_srn_log where f_srn like '406-1982016-2795501%';

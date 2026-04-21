@@ -1,0 +1,1 @@
+Update t_marketplace_prime_orders Set f_ealiest_ship_date = '2023-06-19 07:00:00' Where f_order_sales_record_number in ('111-3301553-4221032', '111-3851386-0021823');

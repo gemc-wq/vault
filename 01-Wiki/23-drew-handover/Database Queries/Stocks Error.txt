@@ -1,0 +1,18 @@
+SELECT a.f_id,
+                       a.f_packing_list_no,
+                       a.f_code,
+                       a.f_qty,
+                       a.f_imei_sn,
+                       a.f_box_no,
+                       a.f_date_sent,
+                       a.f_from,
+                       a.f_to,
+                       a.f_tracking_no,
+                       a.f_eta_datetime,
+                       a.f_notes,
+                       b.f_username,
+                       c.f_gtin AS 'ean'
+                FROM t_stock_transfer a
+                INNER JOIN t_user_profile b ON b.f_user_profile_id=a.f_user_id
+                LEFT JOIN t_gtin c ON a.f_code=c.f_code
+                WHERE a.f_date_received IS NULL

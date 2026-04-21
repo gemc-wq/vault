@@ -1,0 +1,4 @@
+for future reference @vey dito siya i-edit: 
+/var/config/ebay.php, 
+/var/config/cj_lib/eBayConfig.php. 
+both sa Zero Cloud and 20.57

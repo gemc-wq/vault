@@ -1,0 +1,1 @@
+SELECT * FROM t_ebay_transaction WHERE f_sales_record_number LIKE "%HCUSA%" ORDER BY f_date_added DESC

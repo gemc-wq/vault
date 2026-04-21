@@ -1,0 +1,1 @@
+SELECT ProductCode, Description FROM cfxb2b_db.products

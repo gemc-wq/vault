@@ -1,0 +1,438 @@
+{
+  "targetDate": "2026-03-06",
+  "runTimestamp": "2026-03-08T18:05:58.364Z",
+  "window": {
+    "start": "2026-03-06T05:00:00.000Z",
+    "end": "2026-03-07T05:00:00.000Z"
+  },
+  "messageCount": 14,
+  "reports": [
+    {
+      "slackTs": "1772780414.560319",
+      "slackUserId": "U09TM9CULHG",
+      "channelId": "C0AHQJK60NP",
+      "channelName": "#eod-creative-graphics",
+      "staffName": "Jessie Morales",
+      "team": "Graphics",
+      "role": "Graphics Team (posts for others?)",
+      "date": "2026-03-06",
+      "brands": [
+        "NBA"
+      ],
+      "productTypes": [],
+      "skuCount": 276,
+      "activityType": "title_checking",
+      "summary": "Graphics Team EOD - Jessie Morales - 3.6.2026 Here is today’s production summary: Technical ● Created HLCCR - Clear Hard Crystal Armour Laptop Case NBA Asset Images for production and replication NBA2",
+      "rawMessage": "Graphics Team EOD - Jessie Morales - 3.6.2026\nHere is today’s production summary:\n\nTechnical\n\t● Created HLCCR - Clear Hard Crystal Armour Laptop Case NBA Asset Images for production and replication\n\t\tNBA276ELG\n\t\tNBA2WARLG\n\t\tNBA2WAR\n\t\tNBA2ROCLG\n\t\tNBA2RAPLG\n\t\tNBA2NUGLG\n\t\tNBA2NKNLG\n\t\tNBA2NKN\n\t\tNBA2NETLG\n\t\tNBA2MAGLG\n\t\tNBA2HEALG\n\t\tNBA2CAVLG\n\t\tNBA2BULLG\n\t\tNBA2BUL\n\t\tNBA2BUCLG\n\t\tNBA2BUC\n\t\tNBA2CEL\n\t\tNBA2CELLG\n\t\tNBA2LOSLG\n\t\tNBA2LOS\n\t\t\n\t\tTotal: 82 designs in 1 device(82 SKUs)\n\nReplication\n\t● Replicated and uploaded Deskmats NBA lineups (Semi-Automated Replication)\n\t\tNBA2KINLG\n\t\tNBA2PELLG\n\t\tNBA2HORLG\n\t\tNBA2HAWLG\n\t\tNBA2JAZLG\n\t\tNBA2MAGLG\n\t\tNBA2CAVLG\n\t\tNBA2PACLG\n\t\tNBA2SUNLG\n\t\tNBA2NUGLG\n\t\tNBA2SANLG\n\t\tNBA2PORLG\n\t\tNBA2MAVLG\n\t\tNBA2CLPLG\n\t\tNBA276ELG\n\t\tNBA2NETLG\n\t\tNBA2RAPLG\n\t\tNBA2ROCLG\n\t\t\n\t\tTotal: 75 designs in 3 devices(225 SKUs)"
+    },
+    {
+      "slackTs": "1772780590.256319",
+      "slackUserId": "U0AJ0K2F2VA",
+      "channelId": "C0AHUUGJK7G",
+      "channelName": "#eod-listings",
+      "staffName": "Patricia Shane Celeste",
+      "team": "Listings",
+      "role": "Listings Team",
+      "date": "2026-03-06",
+      "brands": [],
+      "productTypes": [
+        "HB4",
+        "HLBWH",
+        "HC"
+      ],
+      "skuCount": 25,
+      "activityType": "title_checking",
+      "summary": "Listing Team EOD - Patricia Shane Celeste - 3.6.2026 Please see the EOD report below with a quick rendered summary: Listing rules and brand exclusion controls were implemented in the Geon production e",
+      "rawMessage": "Listing Team EOD - Patricia Shane Celeste - 3.6.2026\n\nPlease see the EOD report below with a quick rendered summary:\n\nListing rules and brand exclusion controls were implemented in the Geon production environment, while database processes were completed for a discontinued unit. Several Amazon listing maintenance tasks were carried out, including relisting affected products, restoring a multi-variation listing format, and ensuring excluded units were fully removed across key EU and US marketplaces. Product listing quality was also improved through image updates and large-scale corrections addressing GPSR, SIPV, and product attribute issues affecting over 1,000 SKUs across North American and European Amazon sites.\n\n*TECHNICAL / TOOLS*\n• Deployment of new listing rules and brand exclusions for Amazon US, DE, FR, and IT to the Geon production environment\n*DATABASE*\n• Discontinued unit HLBWH-NOKIA1 and completed related database processes\n*AMAZON*\n• Relisting of HLBWH-FIRE on FR\n• Restoration of HC-SAM1 multi-variation listing format on US\n• Re-check and removal of remaining excluded units across US, DE, FR, and IT marketplaces\n• Fix for image update issues affecting NFLSBL60, NFLSBL60S, TP-NBA2LOS, and TP-NBA2NKNLG\n• Image updates for HB4-LFCKIT25\n• Bulk fixes for GPSR, SIPV, and product attribute misuse affecting 1000+ SKUs across US, UK, DE, FR, IT, ES, NL, SE, PL, and IE"
+    },
+    {
+      "slackTs": "1772783255.238549",
+      "slackUserId": "U09SWRKLM42",
+      "channelId": "C0AHQJK60NP",
+      "channelName": "#eod-creative-graphics",
+      "staffName": "Nesley Joy Lansangan",
+      "team": "Creative",
+      "role": "Creative Team",
+      "date": "2026-03-06",
+      "brands": [
+        "Arsenal",
+        "NBA",
+        "WWE"
+      ],
+      "productTypes": [],
+      "skuCount": 10,
+      "activityType": "title_checking",
+      "summary": "Creative Team EOD - Nina Ganaban - 3.6.2026 Technical Digital Post Editing of Printed or Fake Samples Arsenal fake sample Car Charger packaging 1 SKU WWE Collections phone case 1 SKU leather wallet 1 ",
+      "rawMessage": "Creative Team EOD - Nina Ganaban - 3.6.2026\n\nTechnical\nDigital Post Editing of Printed or Fake Samples\nArsenal fake sample\nCar Charger packaging   1 SKU\n\nWWE Collections\nphone case         1 SKU\nleather wallet       1 SKU\ncarry case         2 SKUs\ngaming mats         1 SKU\nfloor mats         1 SKU\ngaming console       1 SKU\ncontroller         1 SKU\nmagsafe case       2 SKUs\nmagsafe car charger     1 SKU\nmagsafe car holder     1 SKU\nlaptop skins       1 SKU\nlaptop case         1 SKU\ncontroller dock       1 SKU\nmagsafe desktop stand   1 SKU\n\nNBA Los Angeles Clippers\nlaptop case         5 SKUs\nlaptop skins       5 SKUs\ngaming mats         5 SKUs\ncontroller         5 SKUs\nfloor mats         5 SKUs\n\nNBA Portland Trail Blazers\nphone case         6 SKUs\nleather wallet       6 SKUs\ncarry case         10 SKUs\ngaming mats         6 SKUs\nfloor mats         6 SKUs\ngaming console       6 SKUs\ncontroller         6 SKUs\nmagsafe case       6 SKUs\nmagsafe car charger     6 SKUs\nlaptop skins       6 SKUs\nlaptop case         6 SKUs\n\nRevision canvas\nLos Angeles Clippers\nlaptop case         1 SKU\nmagsafe case       1 SKU"
+    },
+    {
+      "slackTs": "1772783532.929379",
+      "slackUserId": "U09SWRKLM42",
+      "channelId": "C0AHQJK60NP",
+      "channelName": "#eod-creative-graphics",
+      "staffName": "Nesley Joy Lansangan",
+      "team": "Creative",
+      "role": "Creative Team",
+      "date": "2026-03-06",
+      "brands": [
+        "England Rugby",
+        "NBA",
+        "NFL"
+      ],
+      "productTypes": [
+        "BC",
+        "HB1",
+        "HB4",
+        "HLBWH",
+        "HDMWH"
+      ],
+      "skuCount": 108,
+      "activityType": "title_checking",
+      "summary": "*Creative Team EOD – Nesley Joy Lansangan – 3.6.2026* *TECHNICAL (Title Checking)* *BC, HB1, HB4* • *England Rugby* – 1 SKU • *NBA* – 28 SKUs *HLBWH* • NBA – 62 SKUs *HDMWH* • NBA – 84 SKUs • NFL – 10",
+      "rawMessage": "*Creative Team EOD – Nesley Joy Lansangan – 3.6.2026*\n\n*TECHNICAL (Title Checking)*\n*BC, HB1, HB4*\n• *England Rugby* – 1 SKU\n• *NBA* – 28 SKUs\n*HLBWH*\n• NBA – 62 SKUs\n*HDMWH*\n• NBA – 84 SKUs\n• NFL – 108 SKUs\n*HGCBK-ASROGA*\n• NBA – 5 SKUs\n*HLC*\n• NBA – 3 SKUs\n*MARKETING*\n*HB4 – Soft Touch Silicone Protection Image*\n_Unit Replication_\n• IPH13PRO\n• IPH14\n• IPH14PRO\n• IPH14PMAX\n• IPH16\n• IPH16PRO\n• IPH17\n• IPH17PMAX\n• IPH16E\n• IPH17AIR\n• S25\n• S731B\n*Total Units Replicated:* 12\n\n*HB4 – Stronger Magnetic Protection Image*\n_Unit Replication_\n• IPH13PRO\n• IPH14\n• IPH14PRO\n• IPH14PMAX\n• IPH16PRO\n• IPH17AIR\n*Total Units Replicated:* 6"
+    },
+    {
+      "slackTs": "1772783775.437359",
+      "slackUserId": "U09TM9CULHG",
+      "channelId": "C0AHQJK60NP",
+      "channelName": "#eod-creative-graphics",
+      "staffName": "Jessie Morales",
+      "team": "Graphics",
+      "role": "Graphics Team (posts for others?)",
+      "date": "2026-03-06",
+      "brands": [
+        "NBA"
+      ],
+      "productTypes": [
+        "H89"
+      ],
+      "skuCount": 60,
+      "activityType": "title_checking",
+      "summary": "----------- Graphics Team EOD - Jay V. Callanta - 3.6.2026 Please see the below EOD production summary. Technical H89 Gaming Skins - Created NBA Asset Images for production and replication NBA2CELLG t",
+      "rawMessage": "-----------\n\nGraphics Team EOD - Jay V. Callanta - 3.6.2026\nPlease see the below EOD production summary.\n\nTechnical\n\nH89 Gaming Skins - Created NBA Asset Images for production and replication\n\tNBA2CELLG\n\n\ttotal: 5 designs in 6 devices (30 SKUs)\n\n\nReplication\n\nH89 Gaming Skins - Manual Replication\n\tNBA2LOSLG\n\tNBA2CELLG\n\n\ttotal: 12 designs in 5 devices (60 SKUs)\n\n-----------"
+    },
+    {
+      "slackTs": "1772783840.463059",
+      "slackUserId": "U09TM9CULHG",
+      "channelId": "C0AHQJK60NP",
+      "channelName": "#eod-creative-graphics",
+      "staffName": "Jessie Morales",
+      "team": "Graphics",
+      "role": "Graphics Team (posts for others?)",
+      "date": "2026-03-06",
+      "brands": [
+        "NBA",
+        "WWE"
+      ],
+      "productTypes": [
+        "BC",
+        "HB1",
+        "HB4"
+      ],
+      "skuCount": 351,
+      "activityType": "title_checking",
+      "summary": "Graphics Team EOD - Danica Matias - 3.6.2026 Please see the below EOD production summary. Technical • Phone Case Types BC, HB4, HB1 - Created NBA, WWE and AFC Asset Images for production and replicati",
+      "rawMessage": "Graphics Team EOD - Danica Matias - 3.6.2026\nPlease see the below EOD production summary.\n\nTechnical\n• Phone Case Types BC, HB4, HB1 - Created NBA, WWE and AFC Asset Images for production and replication \nNBA2SANLG\nNBA2THULG\nNBA2TIMLG\nNBA2GRILG\nNBA2PISLG\nNBA2WASLG\nWWE2W42\nAFCTRAIN25\n\nTotal: 27 designs (351 SKUs)\n\nReplication\n• Phone Case Types BC, HB4, HB1 – (Dreco1)\nWWE2W42\nAFCTRAIN25\n\nTotal: 8 designs in 2004 devices (16,032 SKUs)\n\n• HB6 Clear Magsafe Case – Manual replication\nNBA2BUC\n\nTotal: 1 design in 23 devices (23 SKUs)\n\n• HB7 Black Magsafe Case – Manual replication \nNBA2BUC\nNBA2BUCLG\n\nTotal: 8 designs in 24 devices (192 SKUs)"
+    },
+    {
+      "slackTs": "1772783879.070659",
+      "slackUserId": "U09U760HBL1",
+      "channelId": "C0AHUUGJK7G",
+      "channelName": "#eod-listings",
+      "staffName": "Mariela Razon",
+      "team": "Listings",
+      "role": "Listings Team",
+      "date": "2026-03-06",
+      "brands": [
+        "NBA"
+      ],
+      "productTypes": [
+        "BC",
+        "HTPCR",
+        "HLBWH",
+        "HC"
+      ],
+      "skuCount": 4,
+      "activityType": "database_update",
+      "summary": "*Listing Team EOD - Mariela Razon - 3.6.2026* Please see the EOD report below with a quick rendered summary: Today, I updated the *Rakuten* device database to include the newly released iPhone 17, ens",
+      "rawMessage": "*Listing Team EOD - Mariela Razon - 3.6.2026*  \nPlease see the EOD report below with a quick rendered summary:\nToday, I updated the *Rakuten* device database to include the newly released iPhone 17, ensuring that device compatibility information remains current and accurate within the system. *Quality assurance (QA)* was also conducted for Amazon and eBay product listings prior to upload, verifying that all listing details meet marketplace standards for accuracy. Additionally, *Premium A+* content duplication was carried out for the FR marketplace, covering 118,152 ASINs. Work also began on developing an *AI Tool / QA Amazon Checker tool*, utilizing Claude Code and Antigravity with initial guidance and direction provided by Sir Jay Mark during the development process and I'll add further updates and make it more accurate.\n\n*PREMIUM A+ DUPLICATION*\n• FR Brandstory - 118,152 ASINs\n*QA AMAZON*\nVerifying listings description, price, and titles across UK, US, DE, FR, IT\n• NBA #2 HY\n• NBA #2 HC\n• ERU #24 BC\n• ERU #24 B1\n• ERU #24 B4\n*QA EBAY*\nVerifying listings description, price, and titles across AU, UK, US, DE\n• NBA #1 LB\n• NBA #2 B6\n• NBA #2 B7\n• NBA #2 LB\n• NBA #3 B6\n• NBA #3 B7\n• NBA #4 B4\n• NBA #4 B1\n• NBA #4 B1\n• NBA #4 LB\n*RAKUTEN LICENSE (Updated with iPhone 17 device for HTPCR/HLBWH)*\n• Duirwaigh\n• Ed Beard Jr\n• Elisabeth Fredriksson\n• Haley Bush\n• Jena DellaGrottaglia\n• Klaudia Senator\n• LouiJoverArt\n• Mai Autumn\n• Random Galaxy\n• Matt Bailey\n• Zombie Makeout Club\n*QA CHECKER TOOL*\nWhat it does:\n*Upload* — you drop an Amazon flat file (.csv) into the UI\n*Auto-detect channel* — reads the filename to determine the marketplace (UK, US, DE, FR, IT, ES, etc.)\n*Local QA checks* — instantly flags issues in the CSV itself:\n• *Title*: ALL CAPS, missing \"Head Case Designs\", too long (&gt;200 chars), no recognized product type\n• *Encoding*: mojibake characters, broken ? between letters\n• *Material*: wrong material for the product type (e.g. TPU expected for gel cases)\nMissing price, colour, phone model fields\n• *DB validation (optional)* — hits your MySQL database to cross-check:\nPrice in the CSV vs. the expected price from the DB\nDescription in the CSV vs. the DB reference template\n• *Results table* — shows pass/fail per SKU with expandable issue details, a side-by-side description diff viewer, and summary stats (pass rate, error/warning counts)"
+    },
+    {
+      "slackTs": "1772783882.395939",
+      "slackUserId": "U0A58JVNF8Q",
+      "channelId": "C0AHUUGJK7G",
+      "channelName": "#eod-listings",
+      "staffName": "Chadle Rei Miclat",
+      "team": "Listings",
+      "role": "Listings Team",
+      "date": "2026-03-06",
+      "brands": [
+        "NBA"
+      ],
+      "productTypes": [
+        "HB4",
+        "HTPCR",
+        "HDMWH"
+      ],
+      "skuCount": 911,
+      "activityType": "creation",
+      "summary": "*Listing Team EOD - Chadle Rei Miclat- 3.6.2026* Please see the EOD report below with a quick rendered summary: The report highlights bigcommerce listings of more NBA teams for B6/B7/DM. Some no case ",
+      "rawMessage": "*Listing Team EOD - Chadle Rei Miclat- 3.6.2026*\n\nPlease see the EOD report below with a quick rendered summary:\n\tThe report highlights bigcommerce listings of more NBA teams for B6/B7/DM. Some no case available listings have been temporarily discontinued. 397 folders of discontinued brands from the S3 server have been deleted. The listing tool for BigCommerce has been tweaked for no case available models.\n*BIGCOMMERCE*\n*Listed*\n• HTP/HB4 - WFCPHKT25-CAS, WFCPHKT25-FEL\n• HDMWH-900X400X4-NFLCHB\n• HDMWH-(All Sizes)-NFLTET-FOO\n• NBA (HB6CR #2, HB7BK #2)\n• NBA (HB6CR #3, HB7BK #3)\n• NBA (HDM #2)\n• NBA (HDM #3)\n• NBA (HDM #4)\n• NBA (HDM #5)\n• NBA (HDM #6)\n• NBA (HDM #7)\n*Temporarily Discontinued*\n• Feedonomics is pushing these models to Amazon:\n• HB6CR-IPH15PLUS\n• HTPCR-IPHSE4\n• HTPCR-S911X\n*DEVELOPMENT*\n*S3 Lineup/Design/Model deletion tool progress update*\n• Deleted the folders for its discontinued lineups, brands include:\n• ALES, AMAN, ATM, BLAZ, CAGR, CLGAL, CMIX, CPOP, CWIN, DAWG, DBRO, DFUH, DKLE,\n• EFTY, EKUL, EMOJ, EXIL, FBOD, FNAF, FRAZ, GIRO, GRAH, ICC, INTM, JBAD, JBUL, JIMB, JJOD, JMAL,\n• KIJI, KITR, KKVI, LANT, LMIX, MAKL, MARC, MASH, MAST, MHRI, MMAN, MMIL, MROS,\n• MRTI, NATW, NMAR, NUFC, OIL, OJST, PAUL, PBAR, PFUE, RCAL, RFAR, RKAL, ROMA, RVIL,\n• SDEM, STFI, STREK, TFON, THOB, TNXT, TTAN, TUMM, TURN, VASR, WOCR\n• Total space deleted (today’s batch): *2,793.08 GB - potential savings of 64.24 USD per month*\n• Total space deleted (starting from 3-5-2026): *3,341.97 GB - potential savings of 76.86 USD per month*\n• See the attached text file for the full list of lineups deleted from the /atg/ folder, along with the number of folders/files and total size deleted.\n*Poli (BigCommerce)*\n• Listings with UnitStatusID = 6 (Suspended) are now automatically set to zero stock, based on the database. Future listings will follow this automatic zero-stock setting."
+    },
+    {
+      "slackTs": "1772811656.908669",
+      "slackUserId": "U09SYSQV9NG",
+      "channelId": "C09T8A2P2HX",
+      "channelName": "#eod",
+      "staffName": "Anthony",
+      "team": "Other",
+      "role": "UK",
+      "date": "2026-03-06",
+      "brands": [],
+      "productTypes": [],
+      "skuCount": null,
+      "activityType": "shipping",
+      "summary": "*Friday 6th March 2026 - UK Production* -Total PO Qty: *250* -Total PO Count: *164* -Total No Items not Printed: - *0* -Total No Items not Shipped: - *0*",
+      "rawMessage": "*Friday 6th March 2026 - UK Production*\n-Total PO Qty: *250*\n-Total PO Count: *164*\n-Total No Items not Printed: - *0*\n-Total No Items not Shipped: - *0*"
+    },
+    {
+      "slackTs": "1772822019.404099",
+      "slackUserId": "U09SNTQAB8T",
+      "channelId": "C09T8A2P2HX",
+      "channelName": "#eod",
+      "staffName": "Chris Rueda",
+      "team": "Other",
+      "role": "US",
+      "date": "2026-03-06",
+      "brands": [],
+      "productTypes": [
+        "HLBWH"
+      ],
+      "skuCount": 911,
+      "activityType": "shipping",
+      "summary": "*Mar6 (fri) - W1 - FL* *Total PO Count: 93* *Total PO Quantity: 182* -Total No Items not Printed: - 6 *(oos* 2319597-HLBWH-IPDPR129N-3, 2319603-HLBWH-S911X-3*)* -Total No Items not Shipped: - *0*",
+      "rawMessage": "*Mar6 (fri) - W1 - FL*\n\n*Total PO Count: 93*\n*Total PO Quantity: 182*\n-Total No Items not Printed: - 6 *(oos* 2319597-HLBWH-IPDPR129N-3, 2319603-HLBWH-S911X-3*)*\n-Total No Items not Shipped: - *0*"
+    },
+    {
+      "slackTs": "1772828250.908639",
+      "slackUserId": "U09SNTQAB8T",
+      "channelId": "C09T8A2P2HX",
+      "channelName": "#eod",
+      "staffName": "Chris Rueda",
+      "team": "Other",
+      "role": "US",
+      "date": "2026-03-06",
+      "brands": [],
+      "productTypes": [],
+      "skuCount": null,
+      "activityType": "shipping",
+      "summary": "*Mar6 (fri) - PRIME - FL* *-Total PO Qty: 29* *-Total PO Count: 29* *-Total No Items not Printed: - 0* *-Total No Items not Shipped: - 0*",
+      "rawMessage": "*Mar6 (fri) - PRIME - FL*\n\n*-Total PO Qty: 29*\n*-Total PO Count: 29*\n*-Total No Items not Printed: - 0*\n*-Total No Items not Shipped: - 0*"
+    },
+    {
+      "slackTs": "1772828319.568409",
+      "slackUserId": "U09SNTQAB8T",
+      "channelId": "C09T8A2P2HX",
+      "channelName": "#eod",
+      "staffName": "Chris Rueda",
+      "team": "Other",
+      "role": "US",
+      "date": "2026-03-06",
+      "brands": [],
+      "productTypes": [],
+      "skuCount": null,
+      "activityType": "creation",
+      "summary": "*Mar5 wave1,5 PRIME - FL*",
+      "rawMessage": "*Mar5 wave1,5 PRIME - FL*"
+    },
+    {
+      "slackTs": "1772828374.348589",
+      "slackUserId": "U09SNTQAB8T",
+      "channelId": "C09T8A2P2HX",
+      "channelName": "#eod",
+      "staffName": "Chris Rueda",
+      "team": "Other",
+      "role": "US",
+      "date": "2026-03-06",
+      "brands": [],
+      "productTypes": [],
+      "skuCount": null,
+      "activityType": "creation",
+      "summary": "*Mar5 wave2 PRIME - FL*",
+      "rawMessage": "*Mar5 wave2 PRIME - FL*"
+    },
+    {
+      "slackTs": "1772828641.591239",
+      "slackUserId": "U09SNTQAB8T",
+      "channelId": "C09T8A2P2HX",
+      "channelName": "#eod",
+      "staffName": "Chris Rueda",
+      "team": "Other",
+      "role": "US",
+      "date": "2026-03-06",
+      "brands": [],
+      "productTypes": [
+        "BC"
+      ],
+      "skuCount": null,
+      "activityType": "creation",
+      "summary": "*Mar6 (fri) - PRIME SCANS* *1* 1195269260940003331200399357247266 1195269260940002332000399357246693 1195268860940005460100399357246270 1195268860940005475700399357247185 *1,5* 10019087609400098382003",
+      "rawMessage": "*Mar6 (fri) - PRIME SCANS*\n*1*\n1195269260940003331200399357247266\n1195269260940002332000399357246693\n1195268860940005460100399357246270\n1195268860940005475700399357247185\n\n*1,5*\n1001908760940009838200399370503321\n1195268860940001180100399370503012\n1001908760940009453300399370500388\n1195268860940006604800399370502050\n1001908760940001255000399370501340\n1195268860940007295600399370501650\n1195268860940001805800399370503549\n1195268860940008330100399370501741\n1001908760940008808100399370501075\n1001908760940007307100399370502391\n1001908760940008113700399370504590\n1001908760940006606100399370501443\n1195268860940004675500399370502049\n1001908760940007704100399370501086\n1195268860940008013800399370504810\n1001908760940001178700399370502016\n1195269260940003293500399370502163\n1001908760940006890100399370502303\n1001908760940007814800399370503663\n1195268860940002120600399370500377\n1195269260940002964500399370503089\n\n_*BC*_\n_420114209300110990413256096138_\n_420432159300110990413256096145_\n\n*2*\n1001908760940001381500399379521339\n1195268860940005240400399379523916\n1195268860940004611300399379522769\n1001908760940001374300399379523066"
+    }
+  ],
+  "attendance": {
+    "reported": [
+      {
+        "team": "Listings",
+        "userId": "U0A58JVNF8Q",
+        "name": "Chadle Rei Miclat",
+        "reports": 1
+      },
+      {
+        "team": "Graphics",
+        "userId": "U09TM9CULHG",
+        "name": "Jessie Morales",
+        "reports": 3
+      },
+      {
+        "team": "Listings",
+        "userId": "U09U760HBL1",
+        "name": "Mariela Razon",
+        "reports": 1
+      },
+      {
+        "team": "Creative",
+        "userId": "U09SWRKLM42",
+        "name": "Nesley Joy Lansangan",
+        "reports": 2
+      },
+      {
+        "team": "Listings",
+        "userId": "U0AJ0K2F2VA",
+        "name": "Patricia Shane Celeste",
+        "reports": 1
+      }
+    ],
+    "missing": [
+      {
+        "team": "Customer Service",
+        "userId": "U09SZCH1XNK",
+        "name": "Analiza Peralta",
+        "reports": 0
+      },
+      {
+        "team": "Creative",
+        "userId": "U09SRSB5VMK",
+        "name": "Bettina Pineda",
+        "reports": 0
+      },
+      {
+        "team": "Production",
+        "userId": "U0A18GAH1U7",
+        "name": "Chris Yunun",
+        "reports": 0
+      },
+      {
+        "team": "Customer Service",
+        "userId": "U09SZCFT3AB",
+        "name": "Cris Guintu",
+        "reports": 0
+      },
+      {
+        "team": "Graphics",
+        "userId": "U09TM9C0VDG",
+        "name": "Danica Matias",
+        "reports": 0
+      },
+      {
+        "team": "Listings",
+        "userId": "U0AJR9CN680",
+        "name": "Evita Margaux Carlos",
+        "reports": 0
+      },
+      {
+        "team": "Production",
+        "userId": "U09SVA2CE2E",
+        "name": "Jae Vitug",
+        "reports": 0
+      },
+      {
+        "team": "Listings",
+        "userId": "U09TPK32CAC",
+        "name": "Jay Mark Catacutan",
+        "reports": 0
+      },
+      {
+        "team": "Graphics",
+        "userId": "U09T5RFR231",
+        "name": "Jay V. Callanta",
+        "reports": 0
+      },
+      {
+        "team": "Creative",
+        "userId": "U09T0CT5ERJ",
+        "name": "Nina Joy Ganaban",
+        "reports": 0
+      }
+    ]
+  },
+  "brandCoverage": [
+    {
+      "brand": "Arsenal",
+      "teams": [
+        "Creative"
+      ],
+      "people": [
+        "Nesley Joy Lansangan"
+      ],
+      "mentions": 1
+    },
+    {
+      "brand": "England Rugby",
+      "teams": [
+        "Creative"
+      ],
+      "people": [
+        "Nesley Joy Lansangan"
+      ],
+      "mentions": 1
+    },
+    {
+      "brand": "NBA",
+      "teams": [
+        "Creative",
+        "Graphics",
+        "Listings"
+      ],
+      "people": [
+        "Chadle Rei Miclat",
+        "Jessie Morales",
+        "Mariela Razon",
+        "Nesley Joy Lansangan"
+      ],
+      "mentions": 7
+    },
+    {
+      "brand": "NFL",
+      "teams": [
+        "Creative"
+      ],
+      "people": [
+        "Nesley Joy Lansangan"
+      ],
+      "mentions": 1
+    },
+    {
+      "brand": "WWE",
+      "teams": [
+        "Creative",
+        "Graphics"
+      ],
+      "people": [
+        "Jessie Morales",
+        "Nesley Joy Lansangan"
+      ],
+      "mentions": 2
+    }
+  ]
+}

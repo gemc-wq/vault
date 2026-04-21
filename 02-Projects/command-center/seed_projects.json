@@ -1,0 +1,22 @@
+[
+  {"name":"Anime Microsite","pillar":"microsites","status":"active","health":"green","owner":"ava","revenue_opportunity":555000,"notes":"65 products loaded, frontend live at anime-frontend-lilac.vercel.app"},
+  {"name":"Sports Microsite","pillar":"microsites","status":"active","health":"yellow","owner":"ava","revenue_opportunity":4600000,"notes":"50 products loaded (258 remaining), frontend prototype live. $4.6M addressable — biggest opportunity"},
+  {"name":"GoHeadCase Hub","pillar":"microsites","status":"blocked","health":"red","owner":"cem","revenue_opportunity":6000000,"notes":"Needs Shopify store creation by Cem. Umbrella DTC site for all categories","blockers":["Cem: create GoHeadCase Shopify store"]},
+  {"name":"Entertainment Microsite","pillar":"microsites","status":"not_started","health":"grey","owner":"ava","revenue_opportunity":757000,"notes":"$757K addressable. Needs product load + frontend build"},
+  {"name":"Fantasy Microsite","pillar":"microsites","status":"not_started","health":"grey","owner":"ava","revenue_opportunity":107000,"notes":"$107K addressable. Lowest priority microsite"},
+  {"name":"Walmart Optimization","pillar":"marketplace","status":"active","health":"yellow","owner":"ava","revenue_opportunity":780000,"notes":"Gap analysis in progress. 895 best sellers missing from Walmart. BigQuery auth blocked"},
+  {"name":"OnBuy UK Launch","pillar":"marketplace","status":"active","health":"green","owner":"cem","revenue_opportunity":200000,"notes":"Research complete. Needs seller account registration + CedCommerce app install"},
+  {"name":"Target+ Store","pillar":"marketplace","status":"blocked","health":"red","owner":"cem","revenue_opportunity":500000,"notes":"35,541 pre-approved SKUs ready. Needs separate Shopify store from Cem","blockers":["Cem: create Target+ Shopify store"]},
+  {"name":"Amazon ASIN Registry","pillar":"marketplace","status":"active","health":"yellow","owner":"ava","revenue_opportunity":0,"notes":"6.4GB listings file on Drive. Deferred to Mac Studio (too large for 8GB iMac)"},
+  {"name":"Brain Memory Layer","pillar":"infrastructure","status":"active","health":"yellow","owner":"ava","notes":"59/1286 docs indexed. Interrupted by kernel panic. Resume on Mac Studio with throttling"},
+  {"name":"Sales Dashboard V2","pillar":"infrastructure","status":"blocked","health":"red","owner":"ava","notes":"BigQuery backend built. Cloud Run deploy returns HTML not JSON. Needs routing fix","blockers":["Cloud Run routing fix needed"]},
+  {"name":"EAN/GTIN Registry","pillar":"infrastructure","status":"active","health":"yellow","owner":"ava","notes":"Walmart 95K GTINs available. Harry to import to Supabase"},
+  {"name":"Mac Studio Migration","pillar":"infrastructure","status":"active","health":"green","owner":"cem","notes":"M2 Max 32GB arriving today. Clean install planned"},
+  {"name":"Command Center","pillar":"infrastructure","status":"active","health":"green","owner":"ava","notes":"This project. Building now"},
+  {"name":"NBCU PO Processor","pillar":"operations","status":"completed","health":"green","owner":"ava","notes":"Live at app-zeta-sable.vercel.app/apps/nbcu-po. Parsing verified accurate"},
+  {"name":"Agent Architecture","pillar":"operations","status":"active","health":"yellow","owner":"ava","notes":"Harry parked. Ava absorbing COO role. Sven crashing. Restructuring in progress"},
+  {"name":"Naruto Assets","pillar":"creative","status":"active","health":"green","owner":"sven","notes":"20 PSDs sourced, 6 hero banners composed at 1920x1080"},
+  {"name":"Sven Creative Agent","pillar":"creative","status":"blocked","health":"red","owner":"ava","notes":"Sessions keep crashing/timing out. Needs debugging on Mac Studio","blockers":["Agent sessions crashing"]},
+  {"name":"Ecell Studio (Image Maker)","pillar":"creative","status":"not_started","health":"grey","owner":"ava","revenue_opportunity":0,"notes":"Product mockup pipeline. Specced but no code built"},
+  {"name":"ecellglobal.com Redesign","pillar":"creative","status":"active","health":"yellow","owner":"ava","notes":"B2B site on Vercel. Hero images still using placeholder renders"}
+]

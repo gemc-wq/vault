@@ -1,0 +1,4 @@
+SELECT * FROM t_temp_positive_scan_master ORDER BY f_date DESC LIMIT 20;
+
+
+SELECT * FROM t_temp_positive_scan_master WHERE f_packing_list_name = 'PL20240323FLUPS'

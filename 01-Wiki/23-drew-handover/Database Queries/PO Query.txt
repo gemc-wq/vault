@@ -1,0 +1,34 @@
+SELECT 
+                b.f_document_no AS 'Document Number',
+                b.f_document_date AS 'Document Date',
+                a.f_item_code AS 'Item Code',
+                (SELECT f_name FROM t_stock_item WHERE f_code = a.f_item_code LIMIT 1) AS 'Item Description',
+                b.f_supplier_code AS 'Supplier Name',
+                (SELECT f_description FROM  t_supplier WHERE f_supplier_name = b.f_supplier_code) AS 'Supplier Description',
+                b.f_warehouse AS 'Warehouse',
+                a.f_buying_price AS 'Price',
+                a.f_quantity AS 'Quantity'
+            FROM t_purchase_order_return_line a
+            INNER JOIN t_purchase_order_return b ON a.f_return_id = b.f_return_id
+            AND f_supplier_code = 'ECELLMFG'
+            AND b.f_document_date BETWEEN '2025-02-01' AND '2025-02-28'
+            ORDER BY b.f_document_no, a.f_item_code
+
+per PO
+
+SELECT 
+                b.f_document_no AS 'Document Number',
+                b.f_document_date AS 'Document Date',
+                a.f_item_code AS 'Item Code',
+                (SELECT f_name FROM t_stock_item WHERE f_code = a.f_item_code LIMIT 1) AS 'Item Description',
+                b.f_supplier_code AS 'Supplier Name',
+                (SELECT f_description FROM  t_supplier WHERE f_supplier_name = b.f_supplier_code) AS 'Supplier Description',
+                b.f_warehouse AS 'Warehouse',
+                a.f_buying_price AS 'Price',
+                a.f_quantity AS 'Quantity'
+            FROM t_purchase_order_return_line a
+            INNER JOIN t_purchase_order_return b ON a.f_return_id = b.f_return_id
+            AND f_supplier_code = 'ECELLMFG'
+            AND f_erp_id = '1'
+            AND b.f_document_date BETWEEN '2025-02-1' AND '2025-02-28'
+            ORDER BY b.f_document_no, a.f_item_code

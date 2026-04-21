@@ -1,0 +1,4990 @@
+{
+  "found_count": 227,
+  "missing_count": 28,
+  "found": {
+    "ACMCKT7": [
+      {
+        "sku": "HTPCR-IPH11-ACMCKT7-HOM",
+        "gtin": "5057089834885"
+      },
+      {
+        "sku": "HTPCR-IPH11PMAX-ACMCKT7-HOM",
+        "gtin": "5057089834953"
+      },
+      {
+        "sku": "HTPCR-IPH12-ACMCKT7-HOM",
+        "gtin": "5057089834984"
+      },
+      {
+        "sku": "HTPCR-IPH12MINI-ACMCKT7-HOM",
+        "gtin": "5057089835011"
+      },
+      {
+        "sku": "HTPCR-IPH12PMAX-ACMCKT7-HOM",
+        "gtin": "5057089835028"
+      }
+    ],
+    "ADVEGRA": [
+      {
+        "sku": "HC-IPH12-ADVEGRA-BMO",
+        "gtin": "5057546000358"
+      },
+      {
+        "sku": "HC-IPH12-ADVEGRA-PAT",
+        "gtin": "5057546001867"
+      },
+      {
+        "sku": "HTPCR-IPH15PLUS-ADVEGRA-BMO",
+        "gtin": "5057546005568"
+      },
+      {
+        "sku": "HTPCR-IPH15PLUS-ADVEGRA-PAT",
+        "gtin": "5057546006336"
+      },
+      {
+        "sku": "HTPCR-IPH14PLUS-ADVEGRA-BMO",
+        "gtin": "5057546009351"
+      }
+    ],
+    "AFA24G1": [
+      {
+        "sku": "HC-IPH12-AFA24G1-MES",
+        "gtin": "5057546000815"
+      },
+      {
+        "sku": "HTPCR-IPH15PLUS-AFA24G1-MES",
+        "gtin": "5057546005742"
+      },
+      {
+        "sku": "HTPCR-IPH14PLUS-AFA24G1-MES",
+        "gtin": "5057546009832"
+      },
+      {
+        "sku": "HTPCR-IPH15PRO-AFA24G1-MES",
+        "gtin": "5057546014492"
+      },
+      {
+        "sku": "HTPCR-S921U-AFA24G1-MES",
+        "gtin": "5057546018421"
+      }
+    ],
+    "AFCCGLO": [
+      {
+        "sku": "HLBWH-A10E-AFCCGLO-LBLK",
+        "gtin": "5057089002529"
+      },
+      {
+        "sku": "HLBWH-NOTE20-AFCCGLO-LIMP",
+        "gtin": "5057089007814"
+      },
+      {
+        "sku": "HLBWH-NOTE8-AFCCGLO-LGPK",
+        "gtin": "5057089010944"
+      },
+      {
+        "sku": "HLBWH-ONEPS8-AFCCGLO-LGBL",
+        "gtin": "5057089011392"
+      },
+      {
+        "sku": "HLBWH-LGK22-AFCCGLO-LGPK",
+        "gtin": "5057089021148"
+      }
+    ],
+    "AFCCKT7": [
+      {
+        "sku": "HTPCR-XPR10IV-AFCCKT7-HOM",
+        "gtin": "5057089053101"
+      },
+      {
+        "sku": "HTPCR-XPR10IV-AFCCKT7-AWY",
+        "gtin": "5057089053927"
+      },
+      {
+        "sku": "HLBWH-IPDPRO11N-AFCCKT7-LHOM",
+        "gtin": "5057089055693"
+      },
+      {
+        "sku": "HLBWH-RENO8-AFCCKT7-LHOM",
+        "gtin": "5057089055846"
+      },
+      {
+        "sku": "HLBWH-RENO8LT-AFCCKT7-LHOM",
+        "gtin": "5057089056096"
+      }
+    ],
+    "AFCCKT8": [
+      {
+        "sku": "HTPCR-IPH17PRO-AFCCKT8-THI",
+        "gtin": "5057546992691"
+      },
+      {
+        "sku": "HTPCR-IPH17PRO-AFCCKT8-HOM",
+        "gtin": "5057546992707"
+      },
+      {
+        "sku": "HTPCR-IPH17PRO-AFCCKT8-HGO",
+        "gtin": "5057546992714"
+      },
+      {
+        "sku": "HTPCR-IPH17PRO-AFCCKT8-AWY",
+        "gtin": "5057546992721"
+      },
+      {
+        "sku": "HTPCR-IPH17PMAX-AFCCKT8-THI",
+        "gtin": "5057546992738"
+      }
+    ],
+    "AFCCKT9": [
+      {
+        "sku": "HTPCR-IPH6-AFCCKT9-HOM",
+        "gtin": "5057089030515"
+      },
+      {
+        "sku": "HTPCR-IPH6P-AFCCKT9-HOM",
+        "gtin": "5057089030522"
+      },
+      {
+        "sku": "HTPCR-IPHXSMAX-AFCCKT9-HOM",
+        "gtin": "5057089030690"
+      },
+      {
+        "sku": "HTPCR-PIXEL7A-AFCCKT9-HOM",
+        "gtin": "5057089030706"
+      },
+      {
+        "sku": "HTPCR-PIXEL8-AFCCKT9-HOM",
+        "gtin": "5057089030744"
+      }
+    ],
+    "AFCCPA": [
+      {
+        "sku": "HTPCR-XPR10IV-AFCCPA-MAR",
+        "gtin": "5057089054719"
+      },
+      {
+        "sku": "HLBWH-IPDPRO11N-AFCCPA-LMAR",
+        "gtin": "5057089057567"
+      },
+      {
+        "sku": "HLBWH-RENO8-AFCCPA-LMAR",
+        "gtin": "5057089057642"
+      },
+      {
+        "sku": "HLBWH-A042022-AFCCPA-LMAR",
+        "gtin": "5057089058038"
+      },
+      {
+        "sku": "HTPCR-MOTOG14-AFCCPA-MAR",
+        "gtin": "5057089536390"
+      }
+    ],
+    "AFCCRE": [
+      {
+        "sku": "HC-IPH12-AFCCRE-BLO",
+        "gtin": "5057546001287"
+      },
+      {
+        "sku": "HTPCR-IPH14PLUS-AFCCRE-BLO",
+        "gtin": "5057546010319"
+      },
+      {
+        "sku": "HTPCR-S921U-AFCCRE-BLO",
+        "gtin": "5057546018889"
+      },
+      {
+        "sku": "HTPCR-S926U-AFCCRE-BLO",
+        "gtin": "5057546023760"
+      },
+      {
+        "sku": "HTPCR-IPH16PLUS-AFCCRE-BLO",
+        "gtin": "5057546028215"
+      }
+    ],
+    "AFCFT6": [
+      {
+        "sku": "HTPCR-XPR10IV-AFCFT6-SAK",
+        "gtin": "5057089055464"
+      },
+      {
+        "sku": "HLBWH-IPDPRO11N-AFCFT6-LSAK",
+        "gtin": "5057089058298"
+      },
+      {
+        "sku": "HLBWH-RENO8-AFCFT6-LSAK",
+        "gtin": "5057089058588"
+      },
+      {
+        "sku": "HLBWH-RENO8LT-AFCFT6-LSAK",
+        "gtin": "5057089058809"
+      },
+      {
+        "sku": "HLBWH-RENO8PRO-AFCFT6-LSAK",
+        "gtin": "5057089058915"
+      }
+    ],
+    "AFCKIT25": [
+      {
+        "sku": "HC-IPH12-AFCKIT25-HOM",
+        "gtin": "5057546002642"
+      },
+      {
+        "sku": "HTPCR-IPH15PLUS-AFCKIT25-HOM",
+        "gtin": "5057546006763"
+      },
+      {
+        "sku": "HTPCR-IPH14PLUS-AFCKIT25-HOM",
+        "gtin": "5057546011606"
+      },
+      {
+        "sku": "HTPCR-IPH15PRO-AFCKIT25-HOM",
+        "gtin": "5057546015437"
+      },
+      {
+        "sku": "HTPCR-S921U-AFCKIT25-HOM",
+        "gtin": "5057546020110"
+      }
+    ],
+    "AFCLOGOS": [
+      {
+        "sku": "HC-IPH12-AFCLOGOS-COL",
+        "gtin": "5057546001157"
+      },
+      {
+        "sku": "HTPCR-IPH15PLUS-AFCLOGOS-COL",
+        "gtin": "5057546005872"
+      },
+      {
+        "sku": "HTPCR-IPH14PLUS-AFCLOGOS-COL",
+        "gtin": "5057546010173"
+      },
+      {
+        "sku": "HTPCR-IPH15PRO-AFCLOGOS-COL",
+        "gtin": "5057546014621"
+      },
+      {
+        "sku": "HTPCR-S921U-AFCLOGOS-COL",
+        "gtin": "5057546018742"
+      }
+    ],
+    "AIRCOC": [
+      {
+        "sku": "HTPCR-IPH12-AIRCOC-JET",
+        "gtin": "5057089006909"
+      },
+      {
+        "sku": "HTPCR-LGK22-AIRCOC-JET",
+        "gtin": "5057089007791"
+      },
+      {
+        "sku": "HTPCR-A10S2019-AIRCOC-AIR",
+        "gtin": "5057089014201"
+      },
+      {
+        "sku": "HTPCR-IPH11-AIRCOC-AIR",
+        "gtin": "5057089026969"
+      },
+      {
+        "sku": "HTPCR-A21S2020-AIRCOC-HEL",
+        "gtin": "5057089038467"
+      }
+    ],
+    "ANEL2FRGR": [
+      {
+        "sku": "HC-IPH12-ANEL2FRGR-KEY",
+        "gtin": "5057546001706"
+      },
+      {
+        "sku": "HTPCR-IPH15PLUS-ANEL2FRGR-KEY",
+        "gtin": "5057546006237"
+      },
+      {
+        "sku": "HTPCR-IPH14PLUS-ANEL2FRGR-KEY",
+        "gtin": "5057546010722"
+      },
+      {
+        "sku": "HTPCR-IPH15PRO-ANEL2FRGR-KEY",
+        "gtin": "5057546014904"
+      },
+      {
+        "sku": "HTPCR-S921U-ANEL2FRGR-KEY",
+        "gtin": "5057546019275"
+      }
+    ],
+    "ASSALTY": [
+      {
+        "sku": "HTPCR-MOTOG14-ASSALTY-HAL",
+        "gtin": "5057089414582"
+      },
+      {
+        "sku": "HTPCR-NORD35-ASSALTY-HAL",
+        "gtin": "5057089414612"
+      },
+      {
+        "sku": "HTPCR-NORDCE3L5-ASSALTY-HAL",
+        "gtin": "5057089414643"
+      },
+      {
+        "sku": "HTPCR-NOTP2A-ASSALTY-HAL",
+        "gtin": "5057089414667"
+      },
+      {
+        "sku": "HTPCR-OP12R-ASSALTY-HAL",
+        "gtin": "5057089414674"
+      }
+    ],
+    "AVLAKIT25": [
+      {
+        "sku": "HTPCR-IPH11-AVLAKIT25-AWY",
+        "gtin": "5057546903383"
+      },
+      {
+        "sku": "HTPCR-IPH12-AVLAKIT25-AWY",
+        "gtin": "5057546903611"
+      },
+      {
+        "sku": "HTPCR-IPH13-AVLAKIT25-AWY",
+        "gtin": "5057546903840"
+      },
+      {
+        "sku": "HTPCR-IPH13PMAX-AVLAKIT25-AWY",
+        "gtin": "5057546904076"
+      },
+      {
+        "sku": "HTPCR-IPH14-AVLAKIT25-AWY",
+        "gtin": "5057546904304"
+      }
+    ],
+    "B10OMGRA": [
+      {
+        "sku": "HC-G980F-B10OMGRA-OMN",
+        "gtin": "5057089795483"
+      },
+      {
+        "sku": "HC-IPH15PMAX-B10OMGRA-OMN",
+        "gtin": "5057089795803"
+      }
+    ],
+    "BALL": [
+      {
+        "sku": "HTPCR-G8XTHINQ-BALL-SOCCER",
+        "gtin": "5057089001751"
+      },
+      {
+        "sku": "HTPCR-XCOVERPRO-BALL-VOLLEYB",
+        "gtin": "5057089002567"
+      },
+      {
+        "sku": "HTPCR-LGK22-BALL-BASKETB",
+        "gtin": "5057089005001"
+      },
+      {
+        "sku": "HTPCR-A212020-BALL-BASKETB",
+        "gtin": "5057089006190"
+      },
+      {
+        "sku": "HTPCR-A712019-BALL-FOOTB",
+        "gtin": "5057089017349"
+      }
+    ],
+    "BASHCWI3": [
+      {
+        "sku": "HLBWH-NOVA6SE-BASHCWI3-LIRI",
+        "gtin": "5057089000013"
+      },
+      {
+        "sku": "HLBWH-NOVA7SE-BASHCWI3-LIRI",
+        "gtin": "5057089000020"
+      },
+      {
+        "sku": "HLBWH-P40LTE-BASHCWI3-LIRI",
+        "gtin": "5057089000051"
+      },
+      {
+        "sku": "HLBWH-P50-BASHCWI3-LIRI",
+        "gtin": "5057089000105"
+      },
+      {
+        "sku": "HLBWH-P50PRO-BASHCWI3-LIRI",
+        "gtin": "5057089000129"
+      }
+    ],
+    "BTAOKEY": [
+      {
+        "sku": "HTPCR-G9780-BTAOKEY-DST",
+        "gtin": "5057089015055"
+      },
+      {
+        "sku": "HTPCR-PIXEL4A5G-BTAOKEY-BAT",
+        "gtin": "5057089017547"
+      },
+      {
+        "sku": "HTPCR-LGK22-BTAOKEY-DST",
+        "gtin": "5057089039594"
+      },
+      {
+        "sku": "HTPCR-A01CORE20-BTAOKEY-POS",
+        "gtin": "5057089041009"
+      },
+      {
+        "sku": "HTPCR-IPH12MINI-BTAOKEY-POS",
+        "gtin": "5057089042730"
+      }
+    ],
+    "BTMCCBCO": [
+      {
+        "sku": "HC-IPH14PLUS-BTMCCBCO-DAN",
+        "gtin": "5057089795025"
+      },
+      {
+        "sku": "HTPCR-IPH11-BTMCCBCO-DET",
+        "gtin": "5057547728688"
+      },
+      {
+        "sku": "HTPCR-IPH11PMAX-BTMCCBCO-DET",
+        "gtin": "5057547728695"
+      },
+      {
+        "sku": "HTPCR-IPH11PRO-BTMCCBCO-DET",
+        "gtin": "5057547728701"
+      },
+      {
+        "sku": "HTPCR-IPH12-BTMCCBCO-DET",
+        "gtin": "5057547728718"
+      }
+    ],
+    "BTMCFCB": [
+      {
+        "sku": "HLBWH-G8THINQ-BTMCFCB-LDET",
+        "gtin": "5057089080855"
+      },
+      {
+        "sku": "HLBWH-MOTOZ3PY-BTMCFCB-LDAR",
+        "gtin": "5057089089117"
+      },
+      {
+        "sku": "HTPCR-IPH5-BTMCFCB-DEA",
+        "gtin": "5057089116127"
+      },
+      {
+        "sku": "HLBWH-LGK40-BTMCFCB-LDET",
+        "gtin": "5057089130307"
+      },
+      {
+        "sku": "HTPCR-A01CORE20-BTMCFCB-HUS",
+        "gtin": "5057089166719"
+      }
+    ],
+    "BTMCHUS": [
+      {
+        "sku": "HTPCR-MOTOG14-BTMCHUS-LCD",
+        "gtin": "5057089385745"
+      },
+      {
+        "sku": "HTPCR-NORD35-BTMCHUS-LCD",
+        "gtin": "5057089385752"
+      },
+      {
+        "sku": "HTPCR-NORDCE3L5-BTMCHUS-LCD",
+        "gtin": "5057089385806"
+      },
+      {
+        "sku": "HTPCR-NOTP2A-BTMCHUS-LCD",
+        "gtin": "5057089385837"
+      },
+      {
+        "sku": "HTPCR-OP12R-BTMCHUS-LCD",
+        "gtin": "5057089385844"
+      }
+    ],
+    "BTMCICB": [
+      {
+        "sku": "HTPCR-MOTOG7PY-BTMCICB-DET",
+        "gtin": "5057089002093"
+      },
+      {
+        "sku": "HTPCR-PIXEL3A-BTMCICB-BEY",
+        "gtin": "5057089005568"
+      },
+      {
+        "sku": "HTPCR-LGK40-BTMCICB-WHT",
+        "gtin": "5057089018971"
+      },
+      {
+        "sku": "HTPCR-A01CORE20-BTMCICB-NEW",
+        "gtin": "5057089034810"
+      },
+      {
+        "sku": "HTPCR-A01CORE20-BTMCICB-HUS",
+        "gtin": "5057089038993"
+      }
+    ],
+    "BTMCLOG": [
+      {
+        "sku": "HTPCR-MOTOG14-BTMCLOG-HUS",
+        "gtin": "5057089385103"
+      },
+      {
+        "sku": "HTPCR-NORD35-BTMCLOG-HUS",
+        "gtin": "5057089385158"
+      },
+      {
+        "sku": "HTPCR-NORDCE3L5-BTMCLOG-HUS",
+        "gtin": "5057089385165"
+      },
+      {
+        "sku": "HTPCR-NOTP2A-BTMCLOG-HUS",
+        "gtin": "5057089385189"
+      },
+      {
+        "sku": "HTPCR-OP12R-BTMCLOG-HUS",
+        "gtin": "5057089385226"
+      }
+    ],
+    "BTMCNWI": [
+      {
+        "sku": "HC-IPH12-BTMCNWI-LGR",
+        "gtin": "5057546001089"
+      },
+      {
+        "sku": "HTPCR-IPH15PLUS-BTMCNWI-LGR",
+        "gtin": "5057546005858"
+      },
+      {
+        "sku": "HTPCR-IPH14PLUS-BTMCNWI-LGR",
+        "gtin": "5057546010111"
+      },
+      {
+        "sku": "HTPCR-IPH15PRO-BTMCNWI-LGR",
+        "gtin": "5057546014607"
+      },
+      {
+        "sku": "HTPCR-S921U-BTMCNWI-LGR",
+        "gtin": "5057546018681"
+      }
+    ],
+    "BTMCRHO": [
+      {
+        "sku": "HLBWH-FIRE722-BTMCRHO-LLGR",
+        "gtin": "5057089390763"
+      },
+      {
+        "sku": "HLBWH-FMAX1123-BTMCRHO-LLGR",
+        "gtin": "5057089390794"
+      },
+      {
+        "sku": "HLBWH-HD102021-BTMCRHO-LLGR",
+        "gtin": "5057089390831"
+      },
+      {
+        "sku": "HLBWH-HD82020-BTMCRHO-LLGR",
+        "gtin": "5057089390855"
+      },
+      {
+        "sku": "HLBWH-KDL1122-BTMCRHO-LLGR",
+        "gtin": "5057089390862"
+      }
+    ],
+    "BTMCROB": [
+      {
+        "sku": "HTPCR-IPH11-BTMCROB-LGR",
+        "gtin": "5057547725571"
+      },
+      {
+        "sku": "HTPCR-IPH11PMAX-BTMCROB-LGR",
+        "gtin": "5057547725588"
+      },
+      {
+        "sku": "HTPCR-IPH11PRO-BTMCROB-LGR",
+        "gtin": "5057547725595"
+      },
+      {
+        "sku": "HTPCR-IPH12-BTMCROB-LGR",
+        "gtin": "5057547725601"
+      },
+      {
+        "sku": "HTPCR-IPH12MINI-BTMCROB-LGR",
+        "gtin": "5057547725618"
+      }
+    ],
+    "BTMCTHR": [
+      {
+        "sku": "HLBWH-FIRE722-BTMCTHR-LBTM",
+        "gtin": "5057089389613"
+      },
+      {
+        "sku": "HLBWH-FMAX1123-BTMCTHR-LBTM",
+        "gtin": "5057089389699"
+      },
+      {
+        "sku": "HLBWH-HD102021-BTMCTHR-LBTM",
+        "gtin": "5057089389705"
+      },
+      {
+        "sku": "HLBWH-HD82020-BTMCTHR-LBTM",
+        "gtin": "5057089389736"
+      },
+      {
+        "sku": "HLBWH-KDL1122-BTMCTHR-LBTM",
+        "gtin": "5057089389750"
+      }
+    ],
+    "BTMCVFA": [
+      {
+        "sku": "HLBWH-MOTOZ3PY-BTMCVFA-LJAP",
+        "gtin": "5057089001492"
+      },
+      {
+        "sku": "HLBWH-TOUCH5G-BTMCVFA-LPOP",
+        "gtin": "5057089004349"
+      },
+      {
+        "sku": "HLBWH-LGK40-BTMCVFA-LPOP",
+        "gtin": "5057089009931"
+      },
+      {
+        "sku": "HLBWH-LGK40-BTMCVFA-LGRA",
+        "gtin": "5057089023418"
+      },
+      {
+        "sku": "HLBWH-MOTOG7PY-BTMCVFA-LJAP",
+        "gtin": "5057089039389"
+      }
+    ],
+    "BVBEHTE": [
+      {
+        "sku": "HTPCR-MOTOG14-BVBEHTE-AIM",
+        "gtin": "5057089219569"
+      },
+      {
+        "sku": "HTPCR-MOTOG735G-BVBEHTE-AIM",
+        "gtin": "5057089219576"
+      },
+      {
+        "sku": "HTPCR-MOTOG825G-BVBEHTE-AIM",
+        "gtin": "5057089219583"
+      },
+      {
+        "sku": "HTPCR-MOTOG84-BVBEHTE-AIM",
+        "gtin": "5057089219590"
+      },
+      {
+        "sku": "HTPCR-1PLUS11-BVBEHTE-AIM",
+        "gtin": "5057089219675"
+      }
+    ],
+    "BVBEKYA": [
+      {
+        "sku": "HTPCR-MOTOG14-BVBEKYA-BLO",
+        "gtin": "5057089218210"
+      },
+      {
+        "sku": "HTPCR-MOTOG735G-BVBEKYA-BLO",
+        "gtin": "5057089218258"
+      },
+      {
+        "sku": "HTPCR-MOTOG825G-BVBEKYA-BLO",
+        "gtin": "5057089218265"
+      },
+      {
+        "sku": "HTPCR-MOTOG84-BVBEKYA-BLO",
+        "gtin": "5057089218272"
+      },
+      {
+        "sku": "HTPCR-1PLUS11-BVBEKYA-BLO",
+        "gtin": "5057089218326"
+      }
+    ],
+    "BVGUNSKY": [
+      {
+        "sku": "HTPCR-MOTOG14-BVGUNSKY-APP",
+        "gtin": "5057089123644"
+      },
+      {
+        "sku": "HTPCR-MOTOG735G-BVGUNSKY-APP",
+        "gtin": "5057089123668"
+      },
+      {
+        "sku": "HTPCR-MOTOG825G-BVGUNSKY-APP",
+        "gtin": "5057089123675"
+      },
+      {
+        "sku": "HTPCR-MOTOG84-BVGUNSKY-APP",
+        "gtin": "5057089123682"
+      },
+      {
+        "sku": "HTPCR-1PLUS11-BVGUNSKY-APP",
+        "gtin": "5057089123705"
+      }
+    ],
+    "BVRSKAR": [
+      {
+        "sku": "HTPCR-X706-BVRSKAR-CLA",
+        "gtin": "5057089160304"
+      },
+      {
+        "sku": "HTPCR-X806-BVRSKAR-CLA",
+        "gtin": "5057089160311"
+      },
+      {
+        "sku": "HTPCR-X906-BVRSKAR-CLA",
+        "gtin": "5057089160335"
+      },
+      {
+        "sku": "HTPCR-NOKIA14-BVRSKAR-CLA",
+        "gtin": "5057089160397"
+      },
+      {
+        "sku": "HTPCR-NOKIAC21-BVRSKAR-CLA",
+        "gtin": "5057089160465"
+      }
+    ],
+    "BVSKKEY": [
+      {
+        "sku": "HTPCR-MOTOG14-BVSKKEY-CRE",
+        "gtin": "5057089527138"
+      },
+      {
+        "sku": "HTPCR-MOTOG735G-BVSKKEY-CRE",
+        "gtin": "5057089527145"
+      },
+      {
+        "sku": "HTPCR-MOTOG825G-BVSKKEY-CRE",
+        "gtin": "5057089527169"
+      },
+      {
+        "sku": "HTPCR-MOTOG84-BVSKKEY-CRE",
+        "gtin": "5057089527176"
+      },
+      {
+        "sku": "HTPCR-1PLUS11-BVSKKEY-CRE",
+        "gtin": "5057089527183"
+      }
+    ],
+    "BVSKWEA": [
+      {
+        "sku": "H8939-SWITCHLT-BVSKWEA-LOG",
+        "gtin": "5057546694922"
+      },
+      {
+        "sku": "H8939-SWTCHBD-BVSKWEA-LOG",
+        "gtin": "5057546694939"
+      },
+      {
+        "sku": "H8939-SWTCHCD-BVSKWEA-LOG",
+        "gtin": "5057546694946"
+      },
+      {
+        "sku": "H8939-SWTCHJCT-BVSKWEA-LOG",
+        "gtin": "5057546694953"
+      },
+      {
+        "sku": "H8939-SWTCHOLED-BVSKWEA-LOG",
+        "gtin": "5057546694960"
+      }
+    ],
+    "CFCCRE": [
+      {
+        "sku": "HTPCR-A502019-CFCCRE-BMA",
+        "gtin": "5057089001485"
+      },
+      {
+        "sku": "HLBWH-IPDPRO297-CFCCRE-LPBL",
+        "gtin": "5057089002635"
+      },
+      {
+        "sku": "HTPCR-A01CORE20-CFCCRE-HAL",
+        "gtin": "5057089005742"
+      },
+      {
+        "sku": "HLBWH-IPDPRO297-CFCCRE-LPAT",
+        "gtin": "5057089008415"
+      },
+      {
+        "sku": "HLBWH-IPH12-CFCCRE-LPWH",
+        "gtin": "5057089014348"
+      }
+    ],
+    "CFCKIT": [
+      {
+        "sku": "HLBWH-PPRWHT3-CFCKIT-LAWY",
+        "gtin": "5057089013419"
+      },
+      {
+        "sku": "HLBWH-SMP610-CFCKIT-LAWY",
+        "gtin": "5057089016090"
+      },
+      {
+        "sku": "HLBWH-IPH11PRO-CFCKIT-LAWY",
+        "gtin": "5057089017172"
+      },
+      {
+        "sku": "HLBWH-IPADAIR2-CFCKIT-LHOM",
+        "gtin": "5057089020004"
+      },
+      {
+        "sku": "HTPCR-PIXEL4A5G-CFCKIT-AWY",
+        "gtin": "5057089040217"
+      }
+    ],
+    "CFCKIT25": [
+      {
+        "sku": "HTPCR-IPH11-CFCKIT25-HOM",
+        "gtin": "5057546903277"
+      },
+      {
+        "sku": "HTPCR-IPH11-CFCKIT25-AWY",
+        "gtin": "5057546903284"
+      },
+      {
+        "sku": "HTPCR-IPH12-CFCKIT25-HOM",
+        "gtin": "5057546903505"
+      },
+      {
+        "sku": "HTPCR-IPH12-CFCKIT25-AWY",
+        "gtin": "5057546903512"
+      },
+      {
+        "sku": "HTPCR-IPH13-CFCKIT25-HOM",
+        "gtin": "5057546903734"
+      }
+    ],
+    "CFCKIT5": [
+      {
+        "sku": "HTPCR-IPH17PRO-CFCKIT5-THI",
+        "gtin": "5057546997252"
+      },
+      {
+        "sku": "HTPCR-IPH17PRO-CFCKIT5-HOM",
+        "gtin": "5057546997269"
+      },
+      {
+        "sku": "HTPCR-IPH17PRO-CFCKIT5-AWY",
+        "gtin": "5057546997276"
+      },
+      {
+        "sku": "HTPCR-IPH17PMAX-CFCKIT5-THI",
+        "gtin": "5057546997283"
+      },
+      {
+        "sku": "HTPCR-IPH17PMAX-CFCKIT5-HOM",
+        "gtin": "5057546997290"
+      }
+    ],
+    "CFCKIT6": [
+      {
+        "sku": "HC-IPH12-CFCKIT6-HOM",
+        "gtin": "5057546000716"
+      },
+      {
+        "sku": "HC-IPH12-CFCKIT6-THI",
+        "gtin": "5057546002253"
+      },
+      {
+        "sku": "HTPCR-IPH15PLUS-CFCKIT6-HOM",
+        "gtin": "5057546005711"
+      },
+      {
+        "sku": "HTPCR-IPH15PLUS-CFCKIT6-THI",
+        "gtin": "5057546006558"
+      },
+      {
+        "sku": "HTPCR-IPH14PLUS-CFCKIT6-HOM",
+        "gtin": "5057546009726"
+      }
+    ],
+    "CFCRETKS": [
+      {
+        "sku": "HC-IPH12-CFCRETKS-STA",
+        "gtin": "5057546001973"
+      },
+      {
+        "sku": "HTPCR-IPH15PLUS-CFCRETKS-STA",
+        "gtin": "5057546006404"
+      },
+      {
+        "sku": "HTPCR-IPH14PLUS-CFCRETKS-STA",
+        "gtin": "5057546010982"
+      },
+      {
+        "sku": "HTPCR-IPH15PRO-CFCRETKS-STA",
+        "gtin": "5057546015079"
+      },
+      {
+        "sku": "HTPCR-S921U-CFCRETKS-STA",
+        "gtin": "5057546019527"
+      }
+    ],
+    "COBRGRA": [
+      {
+        "sku": "HTPCR-MOTOG14-COBRGRA-LOG",
+        "gtin": "5057089347170"
+      },
+      {
+        "sku": "HTPCR-NORD35-COBRGRA-LOG",
+        "gtin": "5057089347194"
+      },
+      {
+        "sku": "HTPCR-NORDCE3L5-COBRGRA-LOG",
+        "gtin": "5057089347217"
+      },
+      {
+        "sku": "HTPCR-NOTP2A-COBRGRA-LOG",
+        "gtin": "5057089347248"
+      },
+      {
+        "sku": "HTPCR-OP12R-COBRGRA-LOG",
+        "gtin": "5057089347279"
+      }
+    ],
+    "CORPKEY": [
+      {
+        "sku": "HC-IPH12-CORPKEY-FLO",
+        "gtin": "5057546001980"
+      },
+      {
+        "sku": "HTPCR-IPH15PLUS-CORPKEY-FLO",
+        "gtin": "5057546006411"
+      },
+      {
+        "sku": "HTPCR-IPH14PLUS-CORPKEY-FLO",
+        "gtin": "5057546010999"
+      },
+      {
+        "sku": "HTPCR-IPH15PRO-CORPKEY-FLO",
+        "gtin": "5057546015086"
+      },
+      {
+        "sku": "HTPCR-S921U-CORPKEY-FLO",
+        "gtin": "5057546019534"
+      }
+    ],
+    "CUSTOM": [
+      {
+        "sku": "HLBWH-ONEPS8-CUSTOM-PHOTO",
+        "gtin": "5057089010517"
+      },
+      {
+        "sku": "HLBWH-PIXEL3A-CUSTOM-PHOTO",
+        "gtin": "5057089075752"
+      },
+      {
+        "sku": "HLBWH-IPH6-CUSTOM-PHOTO",
+        "gtin": "5057089115694"
+      },
+      {
+        "sku": "HTPCR-LGK40-CUSTOM-PHOTO",
+        "gtin": "5057089150473"
+      },
+      {
+        "sku": "HLBWH-IPH11PMAX-CUSTOM-PHOTO",
+        "gtin": "5057089166030"
+      }
+    ],
+    "DEANDOG3": [
+      {
+        "sku": "HTPCR-MOTOG14-DEANDOG3-PUG",
+        "gtin": "5057089369257"
+      },
+      {
+        "sku": "HTPCR-NORD35-DEANDOG3-PUG",
+        "gtin": "5057089369264"
+      },
+      {
+        "sku": "HTPCR-NORDCE3L5-DEANDOG3-PUG",
+        "gtin": "5057089369332"
+      },
+      {
+        "sku": "HTPCR-NOTP2A-DEANDOG3-PUG",
+        "gtin": "5057089369349"
+      },
+      {
+        "sku": "HTPCR-OP12R-DEANDOG3-PUG",
+        "gtin": "5057089369356"
+      }
+    ],
+    "DRGBCHA": [
+      {
+        "sku": "HLBWH-FIRE722-DRGBCHA-LGOK",
+        "gtin": "5057546618102"
+      },
+      {
+        "sku": "HLBWH-FMAX1123-DRGBCHA-LGOK",
+        "gtin": "5057546618119"
+      },
+      {
+        "sku": "HLBWH-HD82020-DRGBCHA-LGOK",
+        "gtin": "5057546618126"
+      },
+      {
+        "sku": "HLBWH-KDL1122-DRGBCHA-LGOK",
+        "gtin": "5057546618133"
+      },
+      {
+        "sku": "HLBWH-PPRWHT3-DRGBCHA-LGOK",
+        "gtin": "5057546618140"
+      }
+    ],
+    "DRGBICO": [
+      {
+        "sku": "HLBWH-FIRE722-DRGBICO-LKSY",
+        "gtin": "5057546616238"
+      },
+      {
+        "sku": "HLBWH-FMAX1123-DRGBICO-LKSY",
+        "gtin": "5057546616245"
+      },
+      {
+        "sku": "HLBWH-HD82020-DRGBICO-LKSY",
+        "gtin": "5057546616252"
+      },
+      {
+        "sku": "HLBWH-KDL1122-DRGBICO-LKSY",
+        "gtin": "5057546616269"
+      },
+      {
+        "sku": "HLBWH-PPRWHT3-DRGBICO-LKSY",
+        "gtin": "5057546616276"
+      }
+    ],
+    "DRGBSUSA": [
+      {
+        "sku": "HTPCR-IPH17PRO-DRGBSUSA-UNI",
+        "gtin": "5063291014458"
+      },
+      {
+        "sku": "HTPCR-IPH17PRO-DRGBSUSA-GRP",
+        "gtin": "5063291014465"
+      },
+      {
+        "sku": "HTPCR-IPH17PRO-DRGBSUSA-FRI",
+        "gtin": "5063291014472"
+      },
+      {
+        "sku": "HTPCR-IPH17PMAX-DRGBSUSA-UNI",
+        "gtin": "5063291014489"
+      },
+      {
+        "sku": "HTPCR-IPH17PMAX-DRGBSUSA-GRP",
+        "gtin": "5063291014496"
+      }
+    ],
+    "DRGBSUSC": [
+      {
+        "sku": "HTPCR-IPH17PRO-DRGBSUSC-VEG",
+        "gtin": "5057546999935"
+      },
+      {
+        "sku": "HTPCR-IPH17PRO-DRGBSUSC-GOK",
+        "gtin": "5057546999942"
+      },
+      {
+        "sku": "HTPCR-IPH17PRO-DRGBSUSC-GOH",
+        "gtin": "5057546999959"
+      },
+      {
+        "sku": "HTPCR-IPH17PRO-DRGBSUSC-FRI",
+        "gtin": "5057546999966"
+      },
+      {
+        "sku": "HTPCR-IPH17PRO-DRGBSUSC-AND",
+        "gtin": "5057546999973"
+      }
+    ],
+    "DRGBZCAS": [
+      {
+        "sku": "HTPCR-DESRE21PR-DRGBZCAS-GOK",
+        "gtin": "5057546726906"
+      },
+      {
+        "sku": "HTPCR-HP40-DRGBZCAS-GOK",
+        "gtin": "5057546726913"
+      },
+      {
+        "sku": "HTPCR-HP40PRO-DRGBZCAS-GOK",
+        "gtin": "5057546726920"
+      },
+      {
+        "sku": "HTPCR-MATE40PR-DRGBZCAS-GOK",
+        "gtin": "5057546726937"
+      },
+      {
+        "sku": "HTPCR-NOVA7SE-DRGBZCAS-GOK",
+        "gtin": "5057546726944"
+      }
+    ],
+    "ELFGRA2": [
+      {
+        "sku": "HTPCR-IPH16PMAX-ELFGRA2-ANG",
+        "gtin": "5063291027304"
+      },
+      {
+        "sku": "HTPCR-IPH16PMAX-ELFGRA2-BFA",
+        "gtin": "5063291027328"
+      },
+      {
+        "sku": "HTPCR-IPH16PMAX-ELFGRA2-BFO",
+        "gtin": "5063291027335"
+      },
+      {
+        "sku": "HTPCR-IPH16PMAX-ELFGRA2-BPA",
+        "gtin": "5063291027342"
+      },
+      {
+        "sku": "HTPCR-IPH16PMAX-ELFGRA2-DOO",
+        "gtin": "5063291027359"
+      }
+    ],
+    "F1309GRA": [
+      {
+        "sku": "HC-IPH12-F1309GRA-JVM",
+        "gtin": "5057546000990"
+      },
+      {
+        "sku": "HTPCR-IPH15PLUS-F1309GRA-JVM",
+        "gtin": "5057546005827"
+      },
+      {
+        "sku": "HTPCR-IPH14PLUS-F1309GRA-JVM",
+        "gtin": "5057546010029"
+      },
+      {
+        "sku": "HTPCR-IPH15PRO-F1309GRA-JVM",
+        "gtin": "5057546014577"
+      },
+      {
+        "sku": "HTPCR-S921U-F1309GRA-JVM",
+        "gtin": "5057546018599"
+      }
+    ],
+    "FCBCKT4": [
+      {
+        "sku": "HTPCR-MOTOG7PW-FCBCKT4-HOM",
+        "gtin": "5057089212508"
+      },
+      {
+        "sku": "HTPCR-IPH6-FCBCKT4-HOM",
+        "gtin": "5057089231240"
+      },
+      {
+        "sku": "HTPCR-MOTOG7PY-FCBCKT4-HOM",
+        "gtin": "5057089331742"
+      },
+      {
+        "sku": "HC-IPH6-FCBCKT4-HOM",
+        "gtin": "5057089361688"
+      },
+      {
+        "sku": "HC-IPH7P-FCBCKT4-HOM",
+        "gtin": "5057089361732"
+      }
+    ],
+    "FCBCKT5": [
+      {
+        "sku": "HC-IPH6-FCBCKT5-THI",
+        "gtin": "5057089363705"
+      },
+      {
+        "sku": "HC-IPH7P-FCBCKT5-THI",
+        "gtin": "5057089364429"
+      },
+      {
+        "sku": "HC-S10LTE-FCBCKT5-THI",
+        "gtin": "5057089364993"
+      },
+      {
+        "sku": "HTPCR-IPH5-FCBCKT5-THI",
+        "gtin": "5057089465577"
+      },
+      {
+        "sku": "HTPCR-GSTYLUS5G-FCBCKT5-THI",
+        "gtin": "5057089466277"
+      }
+    ],
+    "FCBCKT6": [
+      {
+        "sku": "HC-IPH11-FCBCKT6-THI",
+        "gtin": "5057089365068"
+      },
+      {
+        "sku": "HC-IPH11PMAX-FCBCKT6-THI",
+        "gtin": "5057089365242"
+      },
+      {
+        "sku": "HC-IPH11PRO-FCBCKT6-THI",
+        "gtin": "5057089365457"
+      },
+      {
+        "sku": "HC-IPH12-FCBCKT6-THI",
+        "gtin": "5057089365518"
+      },
+      {
+        "sku": "HC-IPH12MINI-FCBCKT6-THI",
+        "gtin": "5057089365587"
+      }
+    ],
+    "FCBCKT7": [
+      {
+        "sku": "HC-IPH12-FCBCKT7-HOM",
+        "gtin": "5057546000419"
+      },
+      {
+        "sku": "HTPCR-IPH15PLUS-FCBCKT7-HOM",
+        "gtin": "5057546005599"
+      },
+      {
+        "sku": "HTPCR-IPH14PLUS-FCBCKT7-HOM",
+        "gtin": "5057546009429"
+      },
+      {
+        "sku": "HTPCR-IPH15PRO-FCBCKT7-HOM",
+        "gtin": "5057546014348"
+      },
+      {
+        "sku": "HTPCR-S921U-FCBCKT7-HOM",
+        "gtin": "5057546018025"
+      }
+    ],
+    "FCBCKT8": [
+      {
+        "sku": "HC-IPH12-FCBCKT8-AWY",
+        "gtin": "5057546000273"
+      },
+      {
+        "sku": "HC-IPH12-FCBCKT8-HOM",
+        "gtin": "5057546000532"
+      },
+      {
+        "sku": "HTPCR-IPH15PLUS-FCBCKT8-AWY",
+        "gtin": "5057546005537"
+      },
+      {
+        "sku": "HTPCR-IPH15PLUS-FCBCKT8-HOM",
+        "gtin": "5057546005629"
+      },
+      {
+        "sku": "HTPCR-IPH14PLUS-FCBCKT8-AWY",
+        "gtin": "5057546009269"
+      }
+    ],
+    "FCBCPA": [
+      {
+        "sku": "HLBWH-MOTOG7PY-FCBCPA-LBLK",
+        "gtin": "5057089000273"
+      },
+      {
+        "sku": "HTPCR-PIXEL3A-FCBCPA-RED",
+        "gtin": "5057089016052"
+      },
+      {
+        "sku": "HLBWH-TOUCH5G-FCBCPA-LGLI",
+        "gtin": "5057089024460"
+      },
+      {
+        "sku": "HLBWH-IPH6-FCBCPA-LBLK",
+        "gtin": "5057089042723"
+      },
+      {
+        "sku": "HTPCR-IPH6-FCBCPA-BLK",
+        "gtin": "5057089081340"
+      }
+    ],
+    "FCBCRE": [
+      {
+        "sku": "HTPCR-IPH6-FCBCRE-STR",
+        "gtin": "5057089006466"
+      },
+      {
+        "sku": "HTPCR-G8XTHINQ-FCBCRE-OVE",
+        "gtin": "5057089041207"
+      },
+      {
+        "sku": "HTPCR-A10S2019-FCBCRE-BLK",
+        "gtin": "5057089051824"
+      },
+      {
+        "sku": "HLBWH-MOTOG7PY-FCBCRE-LRED",
+        "gtin": "5057089060208"
+      },
+      {
+        "sku": "HTPCR-IPH5-FCBCRE-HAL",
+        "gtin": "5057089112266"
+      }
+    ],
+    "FCBFTM2G1": [
+      {
+        "sku": "HC-IPH11-FCBFTM2G1-ROB",
+        "gtin": "5057089381792"
+      },
+      {
+        "sku": "HC-IPH11PMAX-FCBFTM2G1-ROB",
+        "gtin": "5057089381907"
+      },
+      {
+        "sku": "HC-IPH11PRO-FCBFTM2G1-ROB",
+        "gtin": "5057089382041"
+      },
+      {
+        "sku": "HC-IPH12-FCBFTM2G1-ROB",
+        "gtin": "5057089382089"
+      },
+      {
+        "sku": "HC-IPH12MINI-FCBFTM2G1-ROB",
+        "gtin": "5057089382119"
+      }
+    ],
+    "FCBFTM4": [
+      {
+        "sku": "HTPCR-IPH17PRO-FCBFTM4-PED",
+        "gtin": "5063291019552"
+      },
+      {
+        "sku": "HTPCR-IPH17PRO-FCBFTM4-LEW",
+        "gtin": "5063291019569"
+      },
+      {
+        "sku": "HTPCR-IPH17PRO-FCBFTM4-KOU",
+        "gtin": "5063291019576"
+      },
+      {
+        "sku": "HTPCR-IPH17PRO-FCBFTM4-GAV",
+        "gtin": "5063291019606"
+      },
+      {
+        "sku": "HTPCR-IPH17PRO-FCBFTM4-DEJ",
+        "gtin": "5063291019620"
+      }
+    ],
+    "FCBGRA": [
+      {
+        "sku": "HC-IPH11-FCBGRA-TEX",
+        "gtin": "5057089393139"
+      },
+      {
+        "sku": "HC-IPH11PMAX-FCBGRA-TEX",
+        "gtin": "5057089393313"
+      },
+      {
+        "sku": "HC-IPH11PRO-FCBGRA-TEX",
+        "gtin": "5057089393429"
+      },
+      {
+        "sku": "HC-IPH12-FCBGRA-TEX",
+        "gtin": "5057089393610"
+      },
+      {
+        "sku": "HC-IPH12MINI-FCBGRA-TEX",
+        "gtin": "5057089393696"
+      }
+    ],
+    "FCBHK8": [
+      {
+        "sku": "HC-IPH12-FCBHK8-YAM",
+        "gtin": "5057546000686"
+      },
+      {
+        "sku": "HTPCR-IPH15PLUS-FCBHK8-YAM",
+        "gtin": "5057546005681"
+      },
+      {
+        "sku": "HTPCR-IPH14PLUS-FCBHK8-YAM",
+        "gtin": "5057546009696"
+      },
+      {
+        "sku": "HTPCR-IPH15PRO-FCBHK8-YAM",
+        "gtin": "5057546014430"
+      },
+      {
+        "sku": "HTPCR-S921U-FCBHK8-YAM",
+        "gtin": "5057546018292"
+      }
+    ],
+    "FCBKIT25": [
+      {
+        "sku": "HTPCR-XCOVER7-FCBKIT25-HOM",
+        "gtin": "5057546965572"
+      },
+      {
+        "sku": "HTPCR-XCOVER6P-FCBKIT25-HOM",
+        "gtin": "5057546965589"
+      },
+      {
+        "sku": "HTPCR-S938U-FCBKIT25-HOM",
+        "gtin": "5057546965596"
+      },
+      {
+        "sku": "HTPCR-S936X-FCBKIT25-HOM",
+        "gtin": "5057546965602"
+      },
+      {
+        "sku": "HTPCR-S931X-FCBKIT25-HOM",
+        "gtin": "5057546965619"
+      }
+    ],
+    "FCBPHKT25": [
+      {
+        "sku": "HTPCR-IPH17PRO-FCBPHKT25-YAM",
+        "gtin": "5057546967354"
+      },
+      {
+        "sku": "HTPCR-IPH17PMAX-FCBPHKT25-YAM",
+        "gtin": "5057546967361"
+      },
+      {
+        "sku": "HTPCR-IPH17AIR-FCBPHKT25-YAM",
+        "gtin": "5057546967378"
+      },
+      {
+        "sku": "HTPCR-IPH17-FCBPHKT25-YAM",
+        "gtin": "5057546967385"
+      },
+      {
+        "sku": "HTPCR-XCOVER7-FCBPHKT25-YAM",
+        "gtin": "5057546967392"
+      }
+    ],
+    "FKREFLO": [
+      {
+        "sku": "HLBWH-NOTE20ULT-FKREFLO-LBUN",
+        "gtin": "5057089002215"
+      },
+      {
+        "sku": "HTPCR-G780F-FKREFLO-SHR",
+        "gtin": "5057089003533"
+      },
+      {
+        "sku": "HTPCR-MOTOG7PY-FKREFLO-PPA",
+        "gtin": "5057089004738"
+      },
+      {
+        "sku": "HTPCR-G996F-FKREFLO-POR",
+        "gtin": "5057089005278"
+      },
+      {
+        "sku": "HTPCR-A502019-FKREFLO-EFF",
+        "gtin": "5057089006312"
+      }
+    ],
+    "FLAG": [
+      {
+        "sku": "HTPCR-G780F-FLAG-MEXICO",
+        "gtin": "5057089008552"
+      },
+      {
+        "sku": "HTPCR-IPH12-FLAG-USA",
+        "gtin": "5057089011668"
+      },
+      {
+        "sku": "HTPCR-LGQ70-FLAG-STAFRICA",
+        "gtin": "5057089012696"
+      },
+      {
+        "sku": "HTPCR-IPAD102-FLAG-JAMAICA",
+        "gtin": "5057089013570"
+      },
+      {
+        "sku": "HTPCR-G780F-FLAG-GBSTGEOR",
+        "gtin": "5057089014188"
+      }
+    ],
+    "FRNDICO": [
+      {
+        "sku": "HTPCR-A502019-FRNDICO-LOB",
+        "gtin": "5057089017288"
+      },
+      {
+        "sku": "HTPCR-G998F-FRNDICO-LOB",
+        "gtin": "5057089027300"
+      },
+      {
+        "sku": "HTPCR-IPH12-FRNDICO-COU",
+        "gtin": "5057089028260"
+      },
+      {
+        "sku": "HTPCR-PPRWHT3-FRNDICO-PEE",
+        "gtin": "5057089028628"
+      },
+      {
+        "sku": "HTPCR-A21S2020-FRNDICO-CEN",
+        "gtin": "5057089042952"
+      }
+    ],
+    "GMORGRA": [
+      {
+        "sku": "HC-IPH12-GMORGRA-ICO",
+        "gtin": "5057546000310"
+      },
+      {
+        "sku": "HTPCR-IPH15PLUS-GMORGRA-ICO",
+        "gtin": "5057546005544"
+      },
+      {
+        "sku": "HTPCR-IPH14PLUS-GMORGRA-ICO",
+        "gtin": "5057546009306"
+      },
+      {
+        "sku": "HTPCR-IPH15PRO-GMORGRA-ICO",
+        "gtin": "5057546014294"
+      },
+      {
+        "sku": "HTPCR-S921U-GMORGRA-ICO",
+        "gtin": "5057546017905"
+      }
+    ],
+    "HATSGRA": [
+      {
+        "sku": "HTPCR-DESRE21PR-HATSGRA-NIG",
+        "gtin": "5057089559917"
+      },
+      {
+        "sku": "HTPCR-HP40-HATSGRA-NIG",
+        "gtin": "5057089559924"
+      },
+      {
+        "sku": "HTPCR-HP40PRO-HATSGRA-NIG",
+        "gtin": "5057089560074"
+      },
+      {
+        "sku": "HTPCR-MATE40PR-HATSGRA-NIG",
+        "gtin": "5057089560135"
+      },
+      {
+        "sku": "HTPCR-NOVA7SE-HATSGRA-NIG",
+        "gtin": "5057089560166"
+      }
+    ],
+    "HPOTCSE2": [
+      {
+        "sku": "HTPCR-MOTOG7PW-HPOTCSE2-COR",
+        "gtin": "5057089008644"
+      },
+      {
+        "sku": "HTPCR-PIXEL3A-HPOTCSE2-ARA",
+        "gtin": "5057089026433"
+      },
+      {
+        "sku": "HTPCR-A10S2019-HPOTCSE2-COR",
+        "gtin": "5057089109846"
+      },
+      {
+        "sku": "HTPCR-A10S2019-HPOTCSE2-FAW",
+        "gtin": "5057089124269"
+      },
+      {
+        "sku": "HTPCR-MOTOE6-HPOTCSE2-COR",
+        "gtin": "5057089137337"
+      }
+    ],
+    "HPOTDH10": [
+      {
+        "sku": "HTPCR-IPH16-HPOTDH10-GRY",
+        "gtin": "5057089975823"
+      },
+      {
+        "sku": "HTPCR-IPH16-HPOTDH10-HUF",
+        "gtin": "5057089975830"
+      },
+      {
+        "sku": "HTPCR-IPH16-HPOTDH10-RAV",
+        "gtin": "5057089975847"
+      },
+      {
+        "sku": "HTPCR-IPH16PLUS-HPOTDH10-GRY",
+        "gtin": "5057089975878"
+      },
+      {
+        "sku": "HTPCR-IPH16PLUS-HPOTDH10-HUF",
+        "gtin": "5057089975892"
+      }
+    ],
+    "HPOTDH13": [
+      {
+        "sku": "HTPCR-XPR10IV-HPOTDH13-HOP",
+        "gtin": "5057089034698"
+      },
+      {
+        "sku": "HLBWH-RENO8-HPOTDH13-LHOP",
+        "gtin": "5057089036487"
+      },
+      {
+        "sku": "HLBWH-RENO8LT-HPOTDH13-LHOP",
+        "gtin": "5057089036883"
+      },
+      {
+        "sku": "HLBWH-RENO8PRO-HPOTDH13-LHOP",
+        "gtin": "5057089036982"
+      },
+      {
+        "sku": "HLBWH-A042022-HPOTDH13-LHOP",
+        "gtin": "5057089037330"
+      }
+    ],
+    "HPOTDH14": [
+      {
+        "sku": "HTPCR-IPH16-HPOTDH14-GRY",
+        "gtin": "5057089996590"
+      },
+      {
+        "sku": "HTPCR-IPH16-HPOTDH14-HOR",
+        "gtin": "5057089996613"
+      },
+      {
+        "sku": "HTPCR-IPH16-HPOTDH14-HUF",
+        "gtin": "5057089996620"
+      },
+      {
+        "sku": "HTPCR-IPH16-HPOTDH14-JUS",
+        "gtin": "5057089996637"
+      },
+      {
+        "sku": "HTPCR-IPH16-HPOTDH14-LOV",
+        "gtin": "5057089996699"
+      }
+    ],
+    "HPOTDH18": [
+      {
+        "sku": "HTPCR-MOTOG7PY-HPOTDH18-BIG",
+        "gtin": "5057089007494"
+      },
+      {
+        "sku": "HTPCR-G8XTHINQ-HPOTDH18-GRY",
+        "gtin": "5057089028710"
+      },
+      {
+        "sku": "HTPCR-A01CORE20-HPOTDH18-RA2",
+        "gtin": "5057089038108"
+      },
+      {
+        "sku": "HTPCR-IPH6P-HPOTDH18-RAV",
+        "gtin": "5057089040934"
+      },
+      {
+        "sku": "HTPCR-IPH5-HPOTDH18-GRY",
+        "gtin": "5057089042105"
+      }
+    ],
+    "HPOTDH31": [
+      {
+        "sku": "HTPCR-MOTOE6-HPOTDH31-MAG",
+        "gtin": "5057089007654"
+      },
+      {
+        "sku": "HTPCR-XPR10IV-HPOTDH31-HC1",
+        "gtin": "5057089035442"
+      },
+      {
+        "sku": "HTPCR-MOTOE6-HPOTDH31-HC1",
+        "gtin": "5057089066828"
+      },
+      {
+        "sku": "HTPCR-IPH5-HPOTDH31-MAN",
+        "gtin": "5057089160137"
+      },
+      {
+        "sku": "HTPCR-MOTOE6-HPOTDH31-BOM",
+        "gtin": "5057089180593"
+      }
+    ],
+    "HPOTDH37": [
+      {
+        "sku": "HTPCR-XPR10IV-HPOTDH37-HOP",
+        "gtin": "5057089033448"
+      },
+      {
+        "sku": "HLBWH-RENO8-HPOTDH37-LHOP",
+        "gtin": "5057089035817"
+      },
+      {
+        "sku": "HLBWH-RENO8LT-HPOTDH37-LHOP",
+        "gtin": "5057089035909"
+      },
+      {
+        "sku": "HLBWH-RENO8PRO-HPOTDH37-LHOP",
+        "gtin": "5057089035947"
+      },
+      {
+        "sku": "HLBWH-A042022-HPOTDH37-LHOP",
+        "gtin": "5057089036067"
+      }
+    ],
+    "HPOTDH8": [
+      {
+        "sku": "HTPCR-IPH16-HPOTDH8-BEL",
+        "gtin": "5057089982531"
+      },
+      {
+        "sku": "HTPCR-IPH16-HPOTDH8-CAS",
+        "gtin": "5057089982548"
+      },
+      {
+        "sku": "HTPCR-IPH16-HPOTDH8-DRA",
+        "gtin": "5057089982562"
+      },
+      {
+        "sku": "HTPCR-IPH16-HPOTDH8-FRE",
+        "gtin": "5057089982586"
+      },
+      {
+        "sku": "HTPCR-IPH16-HPOTDH8-HER",
+        "gtin": "5057089982593"
+      }
+    ],
+    "HPOTDH9": [
+      {
+        "sku": "HLBWH-IPH12MINI-HPOTDH9-LSLY",
+        "gtin": "5057089026709"
+      },
+      {
+        "sku": "HLBWH-RENO8LT-HPOTDH9-LHOG",
+        "gtin": "5057089037606"
+      },
+      {
+        "sku": "HLBWH-RENO8PRO-HPOTDH9-LHOG",
+        "gtin": "5057089037668"
+      },
+      {
+        "sku": "HLBWH-A042022-HPOTDH9-LHOG",
+        "gtin": "5057089038047"
+      },
+      {
+        "sku": "HLBWH-RENO8-HPOTDH9-LGRY",
+        "gtin": "5057089038085"
+      }
+    ],
+    "HPOTHLE": [
+      {
+        "sku": "HC-IPHXSMAX-HPOTHLE-ACC",
+        "gtin": "5057089795612"
+      },
+      {
+        "sku": "HC-A525G2021-HPOTHLE-ACC",
+        "gtin": "5057089795872"
+      },
+      {
+        "sku": "HC-IPH12-HPOTHLE-ACC",
+        "gtin": "5057546001386"
+      },
+      {
+        "sku": "HTPCR-IPH14PLUS-HPOTHLE-ACC",
+        "gtin": "5057546010418"
+      },
+      {
+        "sku": "HTPCR-S921U-HPOTHLE-ACC",
+        "gtin": "5057546018971"
+      }
+    ],
+    "HPOTLTYP": [
+      {
+        "sku": "HC-IPH12-HPOTLTYP-PLA",
+        "gtin": "5057546001768"
+      },
+      {
+        "sku": "HTPCR-IPH15PLUS-HPOTLTYP-PLA",
+        "gtin": "5057546006268"
+      },
+      {
+        "sku": "HTPCR-IPH14PLUS-HPOTLTYP-PLA",
+        "gtin": "5057546010777"
+      },
+      {
+        "sku": "HTPCR-IPH15PRO-HPOTLTYP-PLA",
+        "gtin": "5057546014935"
+      },
+      {
+        "sku": "HTPCR-S921U-HPOTLTYP-PLA",
+        "gtin": "5057546019312"
+      }
+    ],
+    "HPOTPRI2": [
+      {
+        "sku": "HTPCR-XPR10IV-HPOTPRI2-MAR",
+        "gtin": "5057089034308"
+      },
+      {
+        "sku": "HLBWH-RENO8-HPOTPRI2-LMAR",
+        "gtin": "5057089036104"
+      },
+      {
+        "sku": "HLBWH-RENO8LT-HPOTPRI2-LMAR",
+        "gtin": "5057089036418"
+      },
+      {
+        "sku": "HLBWH-RENO8PRO-HPOTPRI2-LMAR",
+        "gtin": "5057089036449"
+      },
+      {
+        "sku": "HLBWH-A042022-HPOTPRI2-LMAR",
+        "gtin": "5057089036470"
+      }
+    ],
+    "HPOTSOR2": [
+      {
+        "sku": "HTPCR-IPH6-HPOTSOR2-PO1",
+        "gtin": "5057089025801"
+      },
+      {
+        "sku": "HLBWH-QSTYLUS-HPOTSOR2-LCAS",
+        "gtin": "5057089033318"
+      },
+      {
+        "sku": "HTPCR-A01CORE20-HPOTSOR2-CAS",
+        "gtin": "5057089033387"
+      },
+      {
+        "sku": "HTPCR-XPR10IV-HPOTSOR2-CAS",
+        "gtin": "5057089035756"
+      },
+      {
+        "sku": "HTPCR-MOTOG7PY-HPOTSOR2-SCA",
+        "gtin": "5057089083481"
+      }
+    ],
+    "IMGCASU": [
+      {
+        "sku": "HTPCR-IPH6P-IMGCASU-DIG",
+        "gtin": "5057089001225"
+      },
+      {
+        "sku": "HTPCR-IPH7-IMGCASU-BAN",
+        "gtin": "5057089004967"
+      },
+      {
+        "sku": "HTPCR-G780F-IMGCASU-BWM",
+        "gtin": "5057089007470"
+      },
+      {
+        "sku": "HTPCR-A512019-IMGCASU-STR",
+        "gtin": "5057089010913"
+      },
+      {
+        "sku": "HTPCR-A21S2020-IMGCASU-PLA",
+        "gtin": "5057089011811"
+      }
+    ],
+    "IMGCASUA": [
+      {
+        "sku": "HTPCR-IPH11-IMGCASUA-TAP",
+        "gtin": "5057547043101"
+      },
+      {
+        "sku": "HTPCR-IPH11PMAX-IMGCASUA-TAP",
+        "gtin": "5057547043392"
+      },
+      {
+        "sku": "HTPCR-IPH11PRO-IMGCASUA-TAP",
+        "gtin": "5057547043491"
+      },
+      {
+        "sku": "HTPCR-IPH12-IMGCASUA-TAP",
+        "gtin": "5057547043927"
+      },
+      {
+        "sku": "HTPCR-IPH12MINI-IMGCASUA-TAP",
+        "gtin": "5057547043934"
+      }
+    ],
+    "IMGCAUAR": [
+      {
+        "sku": "HC-IPH12-IMGCAUAR-STI",
+        "gtin": "5057546001621"
+      },
+      {
+        "sku": "HTPCR-IPH15PLUS-IMGCAUAR-STI",
+        "gtin": "5057546006176"
+      },
+      {
+        "sku": "HTPCR-IPH14PLUS-IMGCAUAR-STI",
+        "gtin": "5057546010647"
+      },
+      {
+        "sku": "HTPCR-IPH15PRO-IMGCAUAR-STI",
+        "gtin": "5057546014867"
+      },
+      {
+        "sku": "HTPCR-S921U-IMGCAUAR-STI",
+        "gtin": "5057546019190"
+      }
+    ],
+    "IMGCAUB": [
+      {
+        "sku": "HTPCR-MOTOG7PY-IMGCAUB-DIS",
+        "gtin": "5057089001072"
+      },
+      {
+        "sku": "HTPCR-G8XTHINQ-IMGCAUB-PLA",
+        "gtin": "5057089001461"
+      },
+      {
+        "sku": "HTPCR-IPH12-IMGCAUB-DIG",
+        "gtin": "5057089005766"
+      },
+      {
+        "sku": "HTPCR-PIXEL4-IMGCAUB-STR",
+        "gtin": "5057089006336"
+      },
+      {
+        "sku": "HTPCR-A122020-IMGCAUB-FJE",
+        "gtin": "5057089012344"
+      }
+    ],
+    "IMGCFSU": [
+      {
+        "sku": "HTPCR-XCOVERPRO-IMGCFSU-DOU",
+        "gtin": "5057089001218"
+      },
+      {
+        "sku": "HTPCR-IPH7P-IMGCFSU-BJE",
+        "gtin": "5057089002079"
+      },
+      {
+        "sku": "HTPCR-LGK40-IMGCFSU-SEM",
+        "gtin": "5057089004394"
+      },
+      {
+        "sku": "HTPCR-IPHXR-IMGCFSU-DIS",
+        "gtin": "5057089009955"
+      },
+      {
+        "sku": "HTPCR-A122020-IMGCFSU-DIG",
+        "gtin": "5057089010449"
+      }
+    ],
+    "IMGCLSU": [
+      {
+        "sku": "HTPCR-NORDN105-IMGCLSU-FJE",
+        "gtin": "5057089006619"
+      },
+      {
+        "sku": "HTPCR-LGQ70-IMGCLSU-BWM",
+        "gtin": "5057089009047"
+      },
+      {
+        "sku": "HTPCR-MOTOG7PY-IMGCLSU-DIS",
+        "gtin": "5057089009634"
+      },
+      {
+        "sku": "HTPCR-ONEPLUS8T-IMGCLSU-BJE",
+        "gtin": "5057089010258"
+      },
+      {
+        "sku": "HTPCR-G780F-IMGCLSU-BJE",
+        "gtin": "5057089013662"
+      }
+    ],
+    "IMGCLSUA": [
+      {
+        "sku": "HC-IPH12-IMGCLSUA-CAM",
+        "gtin": "5057546001652"
+      },
+      {
+        "sku": "HC-IPH12-IMGCLSUA-GEA",
+        "gtin": "5057546002420"
+      },
+      {
+        "sku": "HC-IPH12-IMGCLSUA-TG1",
+        "gtin": "5057546002437"
+      },
+      {
+        "sku": "HC-IPH12-IMGCLSUA-TG2",
+        "gtin": "5057546002444"
+      },
+      {
+        "sku": "HTPCR-IPH15PLUS-IMGCLSUA-CAM",
+        "gtin": "5057546006190"
+      }
+    ],
+    "IMGCLSUJ": [
+      {
+        "sku": "HTPCR-IPH11-IMGCLSUJ-VB2",
+        "gtin": "5057547125982"
+      },
+      {
+        "sku": "HTPCR-IPH11PMAX-IMGCLSUJ-VB2",
+        "gtin": "5057547126248"
+      },
+      {
+        "sku": "HTPCR-IPH11PRO-IMGCLSUJ-VB2",
+        "gtin": "5057547126255"
+      },
+      {
+        "sku": "HTPCR-IPH12-IMGCLSUJ-VB2",
+        "gtin": "5057547126316"
+      },
+      {
+        "sku": "HTPCR-IPH12MINI-IMGCLSUJ-VB2",
+        "gtin": "5057547126378"
+      }
+    ],
+    "IMGCPSA": [
+      {
+        "sku": "HC-IPH12-IMGCPSA-WE2",
+        "gtin": "5057546002017"
+      },
+      {
+        "sku": "HC-IPH12-IMGCPSA-SGR",
+        "gtin": "5057546002451"
+      },
+      {
+        "sku": "HTPCR-IPH15PLUS-IMGCPSA-WE2",
+        "gtin": "5057546006435"
+      },
+      {
+        "sku": "HTPCR-IPH15PLUS-IMGCPSA-SGR",
+        "gtin": "5057546006664"
+      },
+      {
+        "sku": "HTPCR-IPH14PLUS-IMGCPSA-WE3",
+        "gtin": "5057546009917"
+      }
+    ],
+    "IMGCPSU": [
+      {
+        "sku": "HTPCR-G996F-IMGCPSU-DIS",
+        "gtin": "5057089002512"
+      },
+      {
+        "sku": "HTPCR-IPH5-IMGCPSU-PLA",
+        "gtin": "5057089020745"
+      },
+      {
+        "sku": "HTPCR-IPH6P-IMGCPSU-DIS",
+        "gtin": "5057089022855"
+      },
+      {
+        "sku": "HTPCR-IPHXSMAX-IMGCPSU-CAM",
+        "gtin": "5057089036036"
+      },
+      {
+        "sku": "HTPCR-PIXEL3A-IMGCPSU-DOU",
+        "gtin": "5057089036777"
+      }
+    ],
+    "IMGCTAMU": [
+      {
+        "sku": "HTPCR-IPH16PMAX-IMGCTAMU-AGS",
+        "gtin": "5063291029407"
+      },
+      {
+        "sku": "HTPCR-IPH16PMAX-IMGCTAMU-BKJ",
+        "gtin": "5063291029414"
+      },
+      {
+        "sku": "HTPCR-IPH16PMAX-IMGCTAMU-BSJ",
+        "gtin": "5063291029421"
+      },
+      {
+        "sku": "HTPCR-IPH16PMAX-IMGCTAMU-BWH",
+        "gtin": "5063291029438"
+      },
+      {
+        "sku": "HTPCR-IPH16PMAX-IMGCTAMU-CLO",
+        "gtin": "5063291029445"
+      }
+    ],
+    "IMGCUAAR": [
+      {
+        "sku": "HC-IPH12-IMGCUAAR-COL",
+        "gtin": "5057546000389"
+      },
+      {
+        "sku": "HC-IPH12-IMGCUAAR-LEG",
+        "gtin": "5057546001256"
+      },
+      {
+        "sku": "HC-IPH12-IMGCUAAR-CAM",
+        "gtin": "5057546002468"
+      },
+      {
+        "sku": "HTPCR-IPH15PLUS-IMGCUAAR-LEG",
+        "gtin": "5057546005964"
+      },
+      {
+        "sku": "HTPCR-IPH15PLUS-IMGCUAAR-CAM",
+        "gtin": "5057546006671"
+      }
+    ],
+    "IMGCUAL": [
+      {
+        "sku": "HTPCR-IPH16-IMGCUAL-BAN",
+        "gtin": "5057089989806"
+      },
+      {
+        "sku": "HTPCR-IPH16-IMGCUAL-BJE",
+        "gtin": "5057089989813"
+      },
+      {
+        "sku": "HTPCR-IPH16-IMGCUAL-DIG",
+        "gtin": "5057089989950"
+      },
+      {
+        "sku": "HTPCR-IPH16-IMGCUAL-DOU",
+        "gtin": "5057089990055"
+      },
+      {
+        "sku": "HTPCR-IPH16-IMGCUAL-FJE",
+        "gtin": "5057089990086"
+      }
+    ],
+    "IMGCUFL": [
+      {
+        "sku": "HTPCR-IPH12-IMGCUFL-BJE",
+        "gtin": "5057089000662"
+      },
+      {
+        "sku": "HTPCR-MOTOE6-IMGCUFL-CAM2",
+        "gtin": "5057089000969"
+      },
+      {
+        "sku": "HTPCR-G980F-IMGCUFL-BWM",
+        "gtin": "5057089003052"
+      },
+      {
+        "sku": "HTPCR-G998F-IMGCUFL-BJE",
+        "gtin": "5057089004417"
+      },
+      {
+        "sku": "HTPCR-G8XTHINQ-IMGCUFL-BAN",
+        "gtin": "5057089010098"
+      }
+    ],
+    "IMGCUIART": [
+      {
+        "sku": "HTPCR-IPH11-IMGCUIART-WM2",
+        "gtin": "5057547171248"
+      },
+      {
+        "sku": "HTPCR-IPH11PMAX-IMGCUIART-WM2",
+        "gtin": "5057547171422"
+      },
+      {
+        "sku": "HTPCR-IPH11PRO-IMGCUIART-WM2",
+        "gtin": "5057547171453"
+      },
+      {
+        "sku": "HTPCR-IPH12-IMGCUIART-WM2",
+        "gtin": "5057547171460"
+      },
+      {
+        "sku": "HTPCR-IPH12MINI-IMGCUIART-WM2",
+        "gtin": "5057547171477"
+      }
+    ],
+    "IMGCUIL": [
+      {
+        "sku": "HTPCR-LGK40-IMGCUIL-STR",
+        "gtin": "5057089001683"
+      },
+      {
+        "sku": "HTPCR-NOTE20ULT-IMGCUIL-BJE",
+        "gtin": "5057089006039"
+      },
+      {
+        "sku": "HTPCR-A712019-IMGCUIL-FJE",
+        "gtin": "5057089010395"
+      },
+      {
+        "sku": "HTPCR-NOTE20ULT-IMGCUIL-DOU",
+        "gtin": "5057089016076"
+      },
+      {
+        "sku": "HTPCR-G9650-IMGCUIL-OVE",
+        "gtin": "5057089018537"
+      }
+    ],
+    "IMGCUOK": [
+      {
+        "sku": "HTPCR-PIXEL4-IMGCUOK-BSO",
+        "gtin": "5057089001201"
+      },
+      {
+        "sku": "HTPCR-PPRWHT3-IMGCUOK-OVE",
+        "gtin": "5057089003939"
+      },
+      {
+        "sku": "HTPCR-G9350-IMGCUOK-BSO",
+        "gtin": "5057089006817"
+      },
+      {
+        "sku": "HTPCR-SMP610-IMGCUOK-FJE",
+        "gtin": "5057089009696"
+      },
+      {
+        "sku": "HTPCR-PIXEL4A5G-IMGCUOK-OVE",
+        "gtin": "5057089012160"
+      }
+    ],
+    "IMGCUOKA": [
+      {
+        "sku": "HC-IPH12-IMGCUOKA-COL",
+        "gtin": "5057546002482"
+      },
+      {
+        "sku": "HTPCR-IPH15PLUS-IMGCUOKA-COL",
+        "gtin": "5057546006688"
+      },
+      {
+        "sku": "HTPCR-IPH14PLUS-IMGCUOKA-COL",
+        "gtin": "5057546011460"
+      },
+      {
+        "sku": "HTPCR-IPH15PRO-IMGCUOKA-COL",
+        "gtin": "5057546015352"
+      },
+      {
+        "sku": "HTPCR-S921U-IMGCUOKA-COL",
+        "gtin": "5057546019978"
+      }
+    ],
+    "IMGCUTAR": [
+      {
+        "sku": "HC-IPH11-IMGCUTAR-VER",
+        "gtin": "5057547015054"
+      },
+      {
+        "sku": "HC-IPH11PMAX-IMGCUTAR-VER",
+        "gtin": "5057547015153"
+      },
+      {
+        "sku": "HC-IPH11PRO-IMGCUTAR-VER",
+        "gtin": "5057547015221"
+      },
+      {
+        "sku": "HC-IPH12-IMGCUTAR-VER",
+        "gtin": "5057547015320"
+      },
+      {
+        "sku": "HC-IPH12MINI-IMGCUTAR-VER",
+        "gtin": "5057547015559"
+      }
+    ],
+    "IMGCUTK": [
+      {
+        "sku": "HTPCR-G996F-IMGCUTK-DOU",
+        "gtin": "5057089001386"
+      },
+      {
+        "sku": "HTPCR-A502019-IMGCUTK-BAN",
+        "gtin": "5057089002741"
+      },
+      {
+        "sku": "HTPCR-IPH11-IMGCUTK-BJE",
+        "gtin": "5057089008620"
+      },
+      {
+        "sku": "HTPCR-IPH11PRO-IMGCUTK-DIS",
+        "gtin": "5057089011309"
+      },
+      {
+        "sku": "HTPCR-IPH7-IMGCUTK-OVE",
+        "gtin": "5057089020189"
+      }
+    ],
+    "IMGUFAR": [
+      {
+        "sku": "HTPCR-IPH16PMAX-IMGUFAR-CAM",
+        "gtin": "5063291030458"
+      },
+      {
+        "sku": "HTPCR-IPH16PMAX-IMGUFAR-COL",
+        "gtin": "5063291030465"
+      },
+      {
+        "sku": "HTPCR-IPH16PMAX-IMGUFAR-DIG",
+        "gtin": "5063291030489"
+      },
+      {
+        "sku": "HTPCR-IPH16PMAX-IMGUFAR-FEA",
+        "gtin": "5063291030519"
+      },
+      {
+        "sku": "HTPCR-IPH16PMAX-IMGUFAR-JUS",
+        "gtin": "5063291030526"
+      }
+    ],
+    "IMILCKT5": [
+      {
+        "sku": "HTPCR-IPH11-IMILCKT5-HOM",
+        "gtin": "5057089837558"
+      },
+      {
+        "sku": "HTPCR-IPH11PMAX-IMILCKT5-HOM",
+        "gtin": "5057089837572"
+      },
+      {
+        "sku": "HTPCR-IPH12-IMILCKT5-HOM",
+        "gtin": "5057089837602"
+      },
+      {
+        "sku": "HTPCR-IPH12MINI-IMILCKT5-HOM",
+        "gtin": "5057089837619"
+      },
+      {
+        "sku": "HTPCR-IPH12PMAX-IMILCKT5-HOM",
+        "gtin": "5057089837626"
+      }
+    ],
+    "IRONALB": [
+      {
+        "sku": "HTPCR-G996F-IRONALB-BNW",
+        "gtin": "5057089000396"
+      },
+      {
+        "sku": "HTPCR-G991F-IRONALB-SOM",
+        "gtin": "5057089000457"
+      },
+      {
+        "sku": "HTPCR-IPH12PMAX-IRONALB-TBS",
+        "gtin": "5057089003304"
+      },
+      {
+        "sku": "HTPCR-A012020-IRONALB-POM",
+        "gtin": "5057089006510"
+      },
+      {
+        "sku": "HTPCR-MOTOG7PW-IRONALB-BNW",
+        "gtin": "5057089007425"
+      }
+    ],
+    "IRONART": [
+      {
+        "sku": "HTPCR-G8XTHINQ-IRONART-BOB",
+        "gtin": "5057089003762"
+      },
+      {
+        "sku": "HTPCR-IPH11-IRONART-EVO",
+        "gtin": "5057089012740"
+      },
+      {
+        "sku": "HTPCR-G9650-IRONART-CAN",
+        "gtin": "5057089023517"
+      },
+      {
+        "sku": "HTPCR-G8XTHINQ-IRONART-FIR",
+        "gtin": "5057089030782"
+      },
+      {
+        "sku": "HTPCR-TOUCH5G-IRONART-BBR",
+        "gtin": "5057089032823"
+      }
+    ],
+    "IRONTOU": [
+      {
+        "sku": "HTPCR-A712019-IRONTOU-TBO",
+        "gtin": "5057089004790"
+      },
+      {
+        "sku": "HTPCR-PIXEL3A-IRONTOU-LAD",
+        "gtin": "5057089005469"
+      },
+      {
+        "sku": "HTPCR-IPH11PMAX-IRONTOU-ENV",
+        "gtin": "5057089013020"
+      },
+      {
+        "sku": "HTPCR-S10LTE-IRONTOU-ENG",
+        "gtin": "5057089030997"
+      },
+      {
+        "sku": "HTPCR-A21S2020-IRONTOU-ENV",
+        "gtin": "5057089091554"
+      }
+    ],
+    "IT17GRA": [
+      {
+        "sku": "HTPCR-LGK40-IT17GRA-PNN",
+        "gtin": "5057089004752"
+      },
+      {
+        "sku": "HTPCR-IPH7-IT17GRA-YOU",
+        "gtin": "5057089011064"
+      },
+      {
+        "sku": "HTPCR-PIXEL3A-IT17GRA-YOU",
+        "gtin": "5057089059929"
+      },
+      {
+        "sku": "HTPCR-A512019-IT17GRA-PN2",
+        "gtin": "5057089063636"
+      },
+      {
+        "sku": "HTPCR-G9350-IT17GRA-PN2",
+        "gtin": "5057089064817"
+      }
+    ],
+    "JLGECPO": [
+      {
+        "sku": "HTPCR-G780F-JLGECPO-CYB",
+        "gtin": "5057089007302"
+      },
+      {
+        "sku": "HTPCR-IPH11-JLGECPO-BAT",
+        "gtin": "5057089012153"
+      },
+      {
+        "sku": "HTPCR-A212020-JLGECPO-GRP",
+        "gtin": "5057089015628"
+      },
+      {
+        "sku": "HTPCR-LGQ70-JLGECPO-CYB",
+        "gtin": "5057089018551"
+      },
+      {
+        "sku": "HTPCR-A212020-JLGECPO-TFL",
+        "gtin": "5057089033202"
+      }
+    ],
+    "JLGELAR": [
+      {
+        "sku": "HTPCR-LGK40-JLGELAR-RED",
+        "gtin": "5057089070252"
+      },
+      {
+        "sku": "HTPCR-G8THINQ-JLGELAR-RED",
+        "gtin": "5057089076872"
+      },
+      {
+        "sku": "HTPCR-A502019-JLGELAR-MAN",
+        "gtin": "5057089082576"
+      },
+      {
+        "sku": "HTPCR-NOTE20ULT-JLGELAR-MAN",
+        "gtin": "5057089084761"
+      },
+      {
+        "sku": "HTPCR-G980F-JLGELAR-RED",
+        "gtin": "5057089085683"
+      }
+    ],
+    "LFCCAMO": [
+      {
+        "sku": "HTPCR-IPH17PRO-LFCCAMO-TCL",
+        "gtin": "5057546990079"
+      },
+      {
+        "sku": "HTPCR-IPH17PRO-LFCCAMO-TCC",
+        "gtin": "5057546990086"
+      },
+      {
+        "sku": "HTPCR-IPH17PRO-LFCCAMO-RCL",
+        "gtin": "5057546990093"
+      },
+      {
+        "sku": "HTPCR-IPH17PRO-LFCCAMO-RCC",
+        "gtin": "5057546990109"
+      },
+      {
+        "sku": "HTPCR-IPH17PRO-LFCCAMO-HCL",
+        "gtin": "5057546990116"
+      }
+    ],
+    "LFCCRE1": [
+      {
+        "sku": "HLBWH-G998F-LFCCRE1-BLK3",
+        "gtin": "5057089000549"
+      },
+      {
+        "sku": "HLBWH-G998F-LFCCRE1-BGEO2",
+        "gtin": "5057089004837"
+      },
+      {
+        "sku": "HLBWH-IPH11-LFCCRE1-RED1",
+        "gtin": "5057089006428"
+      },
+      {
+        "sku": "HTPCR-IPH12PMAX-LFCCRE1-WHT2",
+        "gtin": "5057089009085"
+      },
+      {
+        "sku": "HTPCR-A212020-LFCCRE1-BLK1",
+        "gtin": "5057089010203"
+      }
+    ],
+    "LFCCREST3": [
+      {
+        "sku": "HTPCR-IPH11PMAX-LFCCREST3-WHT",
+        "gtin": "5057548047566"
+      },
+      {
+        "sku": "HTPCR-IPH11PRO-LFCCREST3-WHT",
+        "gtin": "5057548047573"
+      },
+      {
+        "sku": "HTPCR-IPH12-LFCCREST3-WHT",
+        "gtin": "5057548047580"
+      },
+      {
+        "sku": "HTPCR-IPH12MINI-LFCCREST3-WHT",
+        "gtin": "5057548047597"
+      },
+      {
+        "sku": "HTPCR-IPH12PMAX-LFCCREST3-WHT",
+        "gtin": "5057548047603"
+      }
+    ],
+    "LFCDCA": [
+      {
+        "sku": "HTPCR-MOTOG14-LFCDCA-HRC",
+        "gtin": "5057089494614"
+      },
+      {
+        "sku": "HTPCR-MOTOG735G-LFCDCA-HRC",
+        "gtin": "5057089494638"
+      },
+      {
+        "sku": "HTPCR-MOTOG825G-LFCDCA-HRC",
+        "gtin": "5057089494683"
+      },
+      {
+        "sku": "HTPCR-MOTOG84-LFCDCA-HRC",
+        "gtin": "5057089494690"
+      },
+      {
+        "sku": "HTPCR-1PLUS11-LFCDCA-HRC",
+        "gtin": "5057089494706"
+      }
+    ],
+    "LFCKIT25": [
+      {
+        "sku": "HTPCR-XCOVER7-LFCKIT25-HOM",
+        "gtin": "5057546971832"
+      },
+      {
+        "sku": "HTPCR-XCOVER6P-LFCKIT25-HOM",
+        "gtin": "5057546971849"
+      },
+      {
+        "sku": "HTPCR-S938U-LFCKIT25-HOM",
+        "gtin": "5057546971856"
+      },
+      {
+        "sku": "HTPCR-S936X-LFCKIT25-HOM",
+        "gtin": "5057546971863"
+      },
+      {
+        "sku": "HTPCR-S931X-LFCKIT25-HOM",
+        "gtin": "5057546971870"
+      }
+    ],
+    "LFCLVBRD": [
+      {
+        "sku": "HLBWH-G780F-LFCLVBRD-BKIT1",
+        "gtin": "5057089002963"
+      },
+      {
+        "sku": "HLBWH-G991F-LFCLVBRD-BLK1",
+        "gtin": "5057089004028"
+      },
+      {
+        "sku": "HTPCR-IPH7P-LFCLVBRD-RKIT2",
+        "gtin": "5057089005544"
+      },
+      {
+        "sku": "HTPCR-IPH7P-LFCLVBRD-BLK3",
+        "gtin": "5057089006114"
+      },
+      {
+        "sku": "HLBWH-IPAD102-LFCLVBRD-RKIT1",
+        "gtin": "5057089006459"
+      }
+    ],
+    "LFCPLC25": [
+      {
+        "sku": "HC-IPH12-LFCPLC25-DCA",
+        "gtin": "5057546002291"
+      },
+      {
+        "sku": "HTPCR-IPH15PLUS-LFCPLC25-DCA",
+        "gtin": "5057546006565"
+      },
+      {
+        "sku": "HTPCR-IPH14PLUS-LFCPLC25-DCA",
+        "gtin": "5057546011286"
+      },
+      {
+        "sku": "HTPCR-IPH15PRO-LFCPLC25-DCA",
+        "gtin": "5057546015239"
+      },
+      {
+        "sku": "HTPCR-S921U-LFCPLC25-DCA",
+        "gtin": "5057546019794"
+      }
+    ],
+    "LTOOFUL": [
+      {
+        "sku": "HTPCR-NORDN105-LTOOFUL-TWE",
+        "gtin": "5057089003274"
+      },
+      {
+        "sku": "HTPCR-ONEPLUS8T-LTOOFUL-ELM",
+        "gtin": "5057089008873"
+      },
+      {
+        "sku": "HTPCR-NORDN105-LTOOFUL-ROA",
+        "gtin": "5057089010005"
+      },
+      {
+        "sku": "HTPCR-LGQ70-LTOOFUL-BUG",
+        "gtin": "5057089020110"
+      },
+      {
+        "sku": "HTPCR-S10LTE-LTOOFUL-POR",
+        "gtin": "5057089021353"
+      }
+    ],
+    "LTOOGCH": [
+      {
+        "sku": "HTPCR-IPH17PRO-LTOOGCH-TSY",
+        "gtin": "5063291016285"
+      },
+      {
+        "sku": "HTPCR-IPH17PRO-LTOOGCH-STI",
+        "gtin": "5063291016292"
+      },
+      {
+        "sku": "HTPCR-IPH17PRO-LTOOGCH-MAR",
+        "gtin": "5063291016308"
+      },
+      {
+        "sku": "HTPCR-IPH17PRO-LTOOGCH-LOL",
+        "gtin": "5063291016315"
+      },
+      {
+        "sku": "HTPCR-IPH17PRO-LTOOGCH-DAF",
+        "gtin": "5063291016322"
+      }
+    ],
+    "LTOOSEA": [
+      {
+        "sku": "HTPCR-IPH7P-LTOOSEA-TWE",
+        "gtin": "5057089005490"
+      },
+      {
+        "sku": "HTPCR-IPH11PMAX-LTOOSEA-MER",
+        "gtin": "5057089010265"
+      },
+      {
+        "sku": "HTPCR-PPRWHT3-LTOOSEA-MER",
+        "gtin": "5057089016359"
+      },
+      {
+        "sku": "HTPCR-PIXEL4-LTOOSEA-BHU",
+        "gtin": "5057089020516"
+      },
+      {
+        "sku": "HTPCR-A502019-LTOOSEA-TWE",
+        "gtin": "5057089020783"
+      }
+    ],
+    "MASS1GR": [
+      {
+        "sku": "HTPCR-DESRE21PR-MASS1GR-NLD",
+        "gtin": "5057549466274"
+      },
+      {
+        "sku": "HTPCR-HP40-MASS1GR-NLD",
+        "gtin": "5057549466281"
+      },
+      {
+        "sku": "HTPCR-HP40PRO-MASS1GR-NLD",
+        "gtin": "5057549466298"
+      },
+      {
+        "sku": "HTPCR-MATE40PR-MASS1GR-NLD",
+        "gtin": "5057549466304"
+      },
+      {
+        "sku": "HTPCR-NOVA7SE-MASS1GR-NLD",
+        "gtin": "5057549466311"
+      }
+    ],
+    "MCBADGE": [
+      {
+        "sku": "HTPCR-IPHX-MCBADGE-OWM",
+        "gtin": "5057089000822"
+      },
+      {
+        "sku": "HLBWH-A512019-MCBADGE-LOWO",
+        "gtin": "5057089004981"
+      },
+      {
+        "sku": "HTPCR-LGK22-MCBADGE-PFC",
+        "gtin": "5057089010388"
+      },
+      {
+        "sku": "HTPCR-NORDN105-MCBADGE-OFC",
+        "gtin": "5057089015130"
+      },
+      {
+        "sku": "HLBWH-IPADMINI4-MCBADGE-LBWO",
+        "gtin": "5057089021469"
+      }
+    ],
+    "MCBDKIT25": [
+      {
+        "sku": "HC-IPH12-MCBDKIT25-HOM",
+        "gtin": "5057546001546"
+      },
+      {
+        "sku": "HTPCR-IPH15PLUS-MCBDKIT25-HOM",
+        "gtin": "5057546006145"
+      },
+      {
+        "sku": "HTPCR-IPH14PLUS-MCBDKIT25-HOM",
+        "gtin": "5057546010562"
+      },
+      {
+        "sku": "HTPCR-IPH15PRO-MCBDKIT25-HOM",
+        "gtin": "5057546014836"
+      },
+      {
+        "sku": "HTPCR-S921U-MCBDKIT25-HOM",
+        "gtin": "5057546019121"
+      }
+    ],
+    "MCBDKIT8": [
+      {
+        "sku": "HC-IPH12-MCBDKIT8-THI",
+        "gtin": "5057546001799"
+      },
+      {
+        "sku": "HTPCR-IPH15PLUS-MCBDKIT8-THI",
+        "gtin": "5057546006275"
+      },
+      {
+        "sku": "HTPCR-IPH14PLUS-MCBDKIT8-THI",
+        "gtin": "5057546010807"
+      },
+      {
+        "sku": "HTPCR-IPH15PRO-MCBDKIT8-THI",
+        "gtin": "5057546014942"
+      },
+      {
+        "sku": "HTPCR-S921U-MCBDKIT8-THI",
+        "gtin": "5057546019343"
+      }
+    ],
+    "MCBDKIT9": [
+      {
+        "sku": "HTPCR-IPH6-MCBDKIT9-HOM",
+        "gtin": "5057089027348"
+      },
+      {
+        "sku": "HTPCR-IPH6P-MCBDKIT9-HOM",
+        "gtin": "5057089027362"
+      },
+      {
+        "sku": "HTPCR-IPHXSMAX-MCBDKIT9-HOM",
+        "gtin": "5057089027492"
+      },
+      {
+        "sku": "HTPCR-PIXEL7A-MCBDKIT9-HOM",
+        "gtin": "5057089027508"
+      },
+      {
+        "sku": "HTPCR-PIXEL8-MCBDKIT9-HOM",
+        "gtin": "5057089027515"
+      }
+    ],
+    "MCFTEAM4": [
+      {
+        "sku": "HTPCR-XPR10IV-MCFTEAM4-HAA",
+        "gtin": "5057089028055"
+      },
+      {
+        "sku": "HLBWH-RENO8-MCFTEAM4-LHAA",
+        "gtin": "5057089031314"
+      },
+      {
+        "sku": "HLBWH-RENO8LT-MCFTEAM4-LHAA",
+        "gtin": "5057089031468"
+      },
+      {
+        "sku": "HLBWH-RENO8PRO-MCFTEAM4-LHAA",
+        "gtin": "5057089031567"
+      },
+      {
+        "sku": "HLBWH-A042022-MCFTEAM4-LHAA",
+        "gtin": "5057089031635"
+      }
+    ],
+    "MCPHKT25": [
+      {
+        "sku": "HTPCR-IPH17-MCPHKT25-FOD",
+        "gtin": "5057546902874"
+      },
+      {
+        "sku": "HTPCR-IPH17-MCPHKT25-GRE",
+        "gtin": "5057546902881"
+      },
+      {
+        "sku": "HTPCR-IPH17-MCPHKT25-HAA",
+        "gtin": "5057546902898"
+      },
+      {
+        "sku": "HTPCR-IPH17-MCPHKT25-MAR",
+        "gtin": "5057546902904"
+      },
+      {
+        "sku": "HTPCR-IPH17AIR-MCPHKT25-FOD",
+        "gtin": "5057546902973"
+      }
+    ],
+    "NARUCHA": [
+      {
+        "sku": "HC-IPH12-NARUCHA-ITA",
+        "gtin": "5057546000631"
+      },
+      {
+        "sku": "HC-IPH12-NARUCHA-ITM",
+        "gtin": "5057546000839"
+      },
+      {
+        "sku": "HC-IPH12-NARUCHA-MIN",
+        "gtin": "5057546001928"
+      },
+      {
+        "sku": "HC-IPH12-NARUCHA-NUZ",
+        "gtin": "5057546001935"
+      },
+      {
+        "sku": "HC-IPH12-NARUCHA-KAK",
+        "gtin": "5057546002055"
+      }
+    ],
+    "NARUICO": [
+      {
+        "sku": "HB401-IPH17PMAX-NARUICO-AKA",
+        "gtin": "5057089000679"
+      },
+      {
+        "sku": "HB401-IPH17PRO-NARUICO-AKA",
+        "gtin": "5057089003632"
+      },
+      {
+        "sku": "HB401-IPH17-NARUICO-AKA",
+        "gtin": "5057089004578"
+      },
+      {
+        "sku": "HB401-IPHSE4-NARUICO-AKA",
+        "gtin": "5057089007265"
+      },
+      {
+        "sku": "HB401-IPH16PLUS-NARUICO-AKA",
+        "gtin": "5057089011866"
+      }
+    ],
+    "NARUKEY": [
+      {
+        "sku": "HC-IPH12-NARUKEY-SAS",
+        "gtin": "5057546001218"
+      },
+      {
+        "sku": "HC-IPH12-NARUKEY-AKA",
+        "gtin": "5057546002079"
+      },
+      {
+        "sku": "HC-IPH12-NARUKEY-TEA",
+        "gtin": "5057546002321"
+      },
+      {
+        "sku": "HTPCR-IPH15PLUS-NARUKEY-SAS",
+        "gtin": "5057546005926"
+      },
+      {
+        "sku": "HTPCR-IPH15PLUS-NARUKEY-AKA",
+        "gtin": "5057546006466"
+      }
+    ],
+    "NHL25SCC": [
+      {
+        "sku": "HC-IPH12-NHL25SCC-JER",
+        "gtin": "5057546001683"
+      },
+      {
+        "sku": "HC-IPH12-NHL25SCC-OVE",
+        "gtin": "5057546001690"
+      },
+      {
+        "sku": "HTPCR-IPH15PLUS-NHL25SCC-JER",
+        "gtin": "5057546006206"
+      },
+      {
+        "sku": "HTPCR-IPH15PLUS-NHL25SCC-OVE",
+        "gtin": "5057546006220"
+      },
+      {
+        "sku": "HTPCR-IPH14PLUS-NHL25SCC-JER",
+        "gtin": "5057546010708"
+      }
+    ],
+    "NHLANAD": [
+      {
+        "sku": "H8939-SWITCHLT-NHLANAD-HAL",
+        "gtin": "5057089857792"
+      },
+      {
+        "sku": "H8939-SWITCHLT-NHLANAD-MAR",
+        "gtin": "5057089857808"
+      },
+      {
+        "sku": "H8939-SWITCHLT-NHLANAD-OVE",
+        "gtin": "5057089857853"
+      },
+      {
+        "sku": "H8939-SWITCHLT-NHLANAD-PLA",
+        "gtin": "5057089857877"
+      },
+      {
+        "sku": "H8939-SWTCHBD-NHLANAD-HAL",
+        "gtin": "5057089857884"
+      }
+    ],
+    "NHLBOSB": [
+      {
+        "sku": "HTPCR-MOTOG735G-NHLBOSB-JER",
+        "gtin": "5057089393887"
+      },
+      {
+        "sku": "HTPCR-MOTOG825G-NHLBOSB-JER",
+        "gtin": "5057089393917"
+      },
+      {
+        "sku": "HTPCR-MOTOG84-NHLBOSB-JER",
+        "gtin": "5057089393931"
+      },
+      {
+        "sku": "HTPCR-1PLUS11-NHLBOSB-JER",
+        "gtin": "5057089394006"
+      },
+      {
+        "sku": "HTPCR-RN10PRS-NHLBOSB-JER",
+        "gtin": "5057089394075"
+      }
+    ],
+    "NHLBUFS": [
+      {
+        "sku": "HC-IPH11-NHLBUFS-PUC",
+        "gtin": "5057548009212"
+      },
+      {
+        "sku": "HC-IPH11PMAX-NHLBUFS-PUC",
+        "gtin": "5057548009229"
+      },
+      {
+        "sku": "HC-IPH11PRO-NHLBUFS-PUC",
+        "gtin": "5057548009236"
+      },
+      {
+        "sku": "HC-IPH12-NHLBUFS-PUC",
+        "gtin": "5057548009243"
+      },
+      {
+        "sku": "HC-IPH12MINI-NHLBUFS-PUC",
+        "gtin": "5057548009250"
+      }
+    ],
+    "NHLCARH": [
+      {
+        "sku": "HC-IPH11-NHLCARH-PUC",
+        "gtin": "5057548009731"
+      },
+      {
+        "sku": "HC-IPH11PMAX-NHLCARH-PUC",
+        "gtin": "5057548009748"
+      },
+      {
+        "sku": "HC-IPH11PRO-NHLCARH-PUC",
+        "gtin": "5057548009755"
+      },
+      {
+        "sku": "HC-IPH12-NHLCARH-PUC",
+        "gtin": "5057548009762"
+      },
+      {
+        "sku": "HC-IPH12MINI-NHLCARH-PUC",
+        "gtin": "5057548009779"
+      }
+    ],
+    "NHLCOLA": [
+      {
+        "sku": "HTPCR-MOTOG735G-NHLCOLA-JER",
+        "gtin": "5057089395584"
+      },
+      {
+        "sku": "HTPCR-MOTOG825G-NHLCOLA-JER",
+        "gtin": "5057089395591"
+      },
+      {
+        "sku": "HTPCR-MOTOG84-NHLCOLA-JER",
+        "gtin": "5057089395607"
+      },
+      {
+        "sku": "HTPCR-1PLUS11-NHLCOLA-JER",
+        "gtin": "5057089395669"
+      },
+      {
+        "sku": "HTPCR-RN10PRS-NHLCOLA-JER",
+        "gtin": "5057089395690"
+      }
+    ],
+    "NHLCOLB": [
+      {
+        "sku": "H8939-SWITCHLT-NHLCOLB-HAL",
+        "gtin": "5057089862703"
+      },
+      {
+        "sku": "H8939-SWITCHLT-NHLCOLB-MAR",
+        "gtin": "5057089862772"
+      },
+      {
+        "sku": "H8939-SWITCHLT-NHLCOLB-OVE",
+        "gtin": "5057089862819"
+      },
+      {
+        "sku": "H8939-SWITCHLT-NHLCOLB-PLA",
+        "gtin": "5057089862826"
+      },
+      {
+        "sku": "H8939-SWTCHBD-NHLCOLB-HAL",
+        "gtin": "5057089862833"
+      }
+    ],
+    "NHLDALS": [
+      {
+        "sku": "H8939-SWITCHLT-NHLDALS-HAL",
+        "gtin": "5057089865339"
+      },
+      {
+        "sku": "H8939-SWITCHLT-NHLDALS-MAR",
+        "gtin": "5057089865353"
+      },
+      {
+        "sku": "H8939-SWITCHLT-NHLDALS-OVE",
+        "gtin": "5057089865384"
+      },
+      {
+        "sku": "H8939-SWITCHLT-NHLDALS-PLA",
+        "gtin": "5057089865414"
+      },
+      {
+        "sku": "H8939-SWTCHBD-NHLDALS-HAL",
+        "gtin": "5057089865421"
+      }
+    ],
+    "NHLDETR": [
+      {
+        "sku": "H8939-SWITCHLT-NHLDETR-HAL",
+        "gtin": "5057089867722"
+      },
+      {
+        "sku": "H8939-SWITCHLT-NHLDETR-MAR",
+        "gtin": "5057089867753"
+      },
+      {
+        "sku": "H8939-SWITCHLT-NHLDETR-PLA",
+        "gtin": "5057089867814"
+      },
+      {
+        "sku": "H8939-SWTCHBD-NHLDETR-HAL",
+        "gtin": "5057089867821"
+      },
+      {
+        "sku": "H8939-SWTCHBD-NHLDETR-MAR",
+        "gtin": "5057089867852"
+      }
+    ],
+    "NHLEDMO": [
+      {
+        "sku": "HC-IPH11-NHLEDMO-PUC",
+        "gtin": "5057548011031"
+      },
+      {
+        "sku": "HC-IPH11PMAX-NHLEDMO-PUC",
+        "gtin": "5057548011048"
+      },
+      {
+        "sku": "HC-IPH11PRO-NHLEDMO-PUC",
+        "gtin": "5057548011055"
+      },
+      {
+        "sku": "HC-IPH12-NHLEDMO-PUC",
+        "gtin": "5057548011062"
+      },
+      {
+        "sku": "HC-IPH12MINI-NHLEDMO-PUC",
+        "gtin": "5057548011079"
+      }
+    ],
+    "NHLFLOP": [
+      {
+        "sku": "H8939-SWITCHLT-NHLFLOP-HAL",
+        "gtin": "5057089870319"
+      },
+      {
+        "sku": "H8939-SWITCHLT-NHLFLOP-MAR",
+        "gtin": "5057089870340"
+      },
+      {
+        "sku": "H8939-SWITCHLT-NHLFLOP-OVE",
+        "gtin": "5057089870357"
+      },
+      {
+        "sku": "H8939-SWITCHLT-NHLFLOP-PLA",
+        "gtin": "5057089870395"
+      },
+      {
+        "sku": "H8939-SWTCHBD-NHLFLOP-HAL",
+        "gtin": "5057089870425"
+      }
+    ],
+    "NHLMINW": [
+      {
+        "sku": "H8939-SWITCHLT-NHLMINW-HAL",
+        "gtin": "5057089875284"
+      },
+      {
+        "sku": "H8939-SWITCHLT-NHLMINW-MAR",
+        "gtin": "5057089875307"
+      },
+      {
+        "sku": "H8939-SWITCHLT-NHLMINW-OVE",
+        "gtin": "5057089875314"
+      },
+      {
+        "sku": "H8939-SWITCHLT-NHLMINW-PLA",
+        "gtin": "5057089875338"
+      },
+      {
+        "sku": "H8939-SWTCHBD-NHLMINW-HAL",
+        "gtin": "5057089875383"
+      }
+    ],
+    "NHLMONC": [
+      {
+        "sku": "HC-IPH11-NHLMONC-PUC",
+        "gtin": "5057548012076"
+      },
+      {
+        "sku": "HC-IPH11PMAX-NHLMONC-PUC",
+        "gtin": "5057548012083"
+      },
+      {
+        "sku": "HC-IPH11PRO-NHLMONC-PUC",
+        "gtin": "5057548012090"
+      },
+      {
+        "sku": "HC-IPH12-NHLMONC-PUC",
+        "gtin": "5057548012106"
+      },
+      {
+        "sku": "HC-IPH12MINI-NHLMONC-PUC",
+        "gtin": "5057548012113"
+      }
+    ],
+    "NHLNEWJ": [
+      {
+        "sku": "HC-IPH11-NHLNEWJ-PUC",
+        "gtin": "5057548012595"
+      },
+      {
+        "sku": "HC-IPH11PMAX-NHLNEWJ-PUC",
+        "gtin": "5057548012601"
+      },
+      {
+        "sku": "HC-IPH11PRO-NHLNEWJ-PUC",
+        "gtin": "5057548012618"
+      },
+      {
+        "sku": "HC-IPH12-NHLNEWJ-PUC",
+        "gtin": "5057548012625"
+      },
+      {
+        "sku": "HC-IPH12MINI-NHLNEWJ-PUC",
+        "gtin": "5057548012632"
+      }
+    ],
+    "NHLNYKI": [
+      {
+        "sku": "HC-IPH11-NHLNYKI-PUC",
+        "gtin": "5057548012854"
+      },
+      {
+        "sku": "HC-IPH11PMAX-NHLNYKI-PUC",
+        "gtin": "5057548012861"
+      },
+      {
+        "sku": "HC-IPH11PRO-NHLNYKI-PUC",
+        "gtin": "5057548012878"
+      },
+      {
+        "sku": "HC-IPH12-NHLNYKI-PUC",
+        "gtin": "5057548012885"
+      },
+      {
+        "sku": "HC-IPH12MINI-NHLNYKI-PUC",
+        "gtin": "5057548012892"
+      }
+    ],
+    "NHLNYKR": [
+      {
+        "sku": "H8939-SWITCHLT-NHLNYKR-HAL",
+        "gtin": "5057089877912"
+      },
+      {
+        "sku": "H8939-SWITCHLT-NHLNYKR-MAR",
+        "gtin": "5057089877929"
+      },
+      {
+        "sku": "H8939-SWITCHLT-NHLNYKR-OVE",
+        "gtin": "5057089877936"
+      },
+      {
+        "sku": "H8939-SWITCHLT-NHLNYKR-PLA",
+        "gtin": "5057089877950"
+      },
+      {
+        "sku": "H8939-SWTCHBD-NHLNYKR-HAL",
+        "gtin": "5057089878018"
+      }
+    ],
+    "NHLPHIF": [
+      {
+        "sku": "H8939-SWITCHLT-NHLPHIF-MAR",
+        "gtin": "5057089881896"
+      },
+      {
+        "sku": "H8939-SWTCHBD-NHLPHIF-MAR",
+        "gtin": "5057089881919"
+      },
+      {
+        "sku": "H8939-SWTCHCD-NHLPHIF-MAR",
+        "gtin": "5057089881957"
+      },
+      {
+        "sku": "H8939-SWTCHJCT-NHLPHIF-MAR",
+        "gtin": "5057089881964"
+      },
+      {
+        "sku": "H8939-SWTCHOLED-NHLPHIF-MAR",
+        "gtin": "5057089881971"
+      }
+    ],
+    "NHLPITP": [
+      {
+        "sku": "HTPCR-MOTOG735G-NHLPITP-PUC",
+        "gtin": "5057089394433"
+      },
+      {
+        "sku": "HTPCR-MOTOG825G-NHLPITP-PUC",
+        "gtin": "5057089394440"
+      },
+      {
+        "sku": "HTPCR-MOTOG84-NHLPITP-PUC",
+        "gtin": "5057089394457"
+      },
+      {
+        "sku": "HTPCR-1PLUS11-NHLPITP-PUC",
+        "gtin": "5057089394518"
+      },
+      {
+        "sku": "HTPCR-RN10PRS-NHLPITP-PUC",
+        "gtin": "5057089394525"
+      }
+    ],
+    "NHLSANJ": [
+      {
+        "sku": "H8939-SWITCHLT-NHLSANJ-HAL",
+        "gtin": "5057089882435"
+      },
+      {
+        "sku": "H8939-SWITCHLT-NHLSANJ-MAR",
+        "gtin": "5057089882459"
+      },
+      {
+        "sku": "H8939-SWITCHLT-NHLSANJ-OVE",
+        "gtin": "5057089882466"
+      },
+      {
+        "sku": "H8939-SWITCHLT-NHLSANJ-PLA",
+        "gtin": "5057089882497"
+      },
+      {
+        "sku": "H8939-SWTCHBD-NHLSANJ-HAL",
+        "gtin": "5057089882503"
+      }
+    ],
+    "NHLSEAK": [
+      {
+        "sku": "HC-IPH11-NHLSEAK-PUC",
+        "gtin": "5057548014674"
+      },
+      {
+        "sku": "HC-IPH11PMAX-NHLSEAK-PUC",
+        "gtin": "5057548014681"
+      },
+      {
+        "sku": "HC-IPH11PRO-NHLSEAK-PUC",
+        "gtin": "5057548014698"
+      },
+      {
+        "sku": "HC-IPH12-NHLSEAK-PUC",
+        "gtin": "5057548014704"
+      },
+      {
+        "sku": "HC-IPH12MINI-NHLSEAK-PUC",
+        "gtin": "5057548014711"
+      }
+    ],
+    "NHLSTLB": [
+      {
+        "sku": "H8939-SWITCHLT-NHLSTLB-HAL",
+        "gtin": "5057089885085"
+      },
+      {
+        "sku": "H8939-SWITCHLT-NHLSTLB-MAR",
+        "gtin": "5057089885122"
+      },
+      {
+        "sku": "H8939-SWITCHLT-NHLSTLB-OVE",
+        "gtin": "5057089885146"
+      },
+      {
+        "sku": "H8939-SWITCHLT-NHLSTLB-PLA",
+        "gtin": "5057089885177"
+      },
+      {
+        "sku": "H8939-SWTCHBD-NHLSTLB-HAL",
+        "gtin": "5057089885191"
+      }
+    ],
+    "NHLTAML": [
+      {
+        "sku": "HC-IPH11-NHLTAML-PUC",
+        "gtin": "5057548015190"
+      },
+      {
+        "sku": "HC-IPH11PMAX-NHLTAML-PUC",
+        "gtin": "5057548015206"
+      },
+      {
+        "sku": "HC-IPH11PRO-NHLTAML-PUC",
+        "gtin": "5057548015213"
+      },
+      {
+        "sku": "HC-IPH12-NHLTAML-PUC",
+        "gtin": "5057548015220"
+      },
+      {
+        "sku": "HC-IPH12MINI-NHLTAML-PUC",
+        "gtin": "5057548015237"
+      }
+    ],
+    "NHLVEGG": [
+      {
+        "sku": "HC-IPH11-NHLVEGG-PUC",
+        "gtin": "5057548015978"
+      },
+      {
+        "sku": "HC-IPH11PMAX-NHLVEGG-PUC",
+        "gtin": "5057548015985"
+      },
+      {
+        "sku": "HC-IPH11PRO-NHLVEGG-PUC",
+        "gtin": "5057548015992"
+      },
+      {
+        "sku": "HC-IPH12-NHLVEGG-PUC",
+        "gtin": "5057548016005"
+      },
+      {
+        "sku": "HC-IPH12MINI-NHLVEGG-PUC",
+        "gtin": "5057548016012"
+      }
+    ],
+    "NHLWASC": [
+      {
+        "sku": "H8939-SWITCHLT-NHLWASC-HAL",
+        "gtin": "5057089892533"
+      },
+      {
+        "sku": "H8939-SWITCHLT-NHLWASC-MAR",
+        "gtin": "5057089892564"
+      },
+      {
+        "sku": "H8939-SWITCHLT-NHLWASC-OVE",
+        "gtin": "5057089892588"
+      },
+      {
+        "sku": "H8939-SWITCHLT-NHLWASC-PLA",
+        "gtin": "5057089892625"
+      },
+      {
+        "sku": "H8939-SWTCHBD-NHLWASC-HAL",
+        "gtin": "5057089892649"
+      }
+    ],
+    "OHIOFLOG": [
+      {
+        "sku": "HTPCR-IPH17PRO-OHIOFLOG-VIN",
+        "gtin": "5063291008068"
+      },
+      {
+        "sku": "HTPCR-IPH17PRO-OHIOFLOG-MAS",
+        "gtin": "5063291008075"
+      },
+      {
+        "sku": "HTPCR-IPH17PRO-OHIOFLOG-MAP",
+        "gtin": "5063291008082"
+      },
+      {
+        "sku": "HTPCR-IPH17PRO-OHIOFLOG-HEL",
+        "gtin": "5063291008099"
+      },
+      {
+        "sku": "HTPCR-IPH17PRO-OHIOFLOG-GOB",
+        "gtin": "5063291008105"
+      }
+    ],
+    "OHIOLOGO": [
+      {
+        "sku": "HC-IPH12-OHIOLOGO-OBU",
+        "gtin": "5057546000846"
+      },
+      {
+        "sku": "HC-IPH12-OHIOLOGO-STR",
+        "gtin": "5057546002352"
+      },
+      {
+        "sku": "HTPCR-IPH15PLUS-OHIOLOGO-OBU",
+        "gtin": "5057546005766"
+      },
+      {
+        "sku": "HTPCR-IPH15PLUS-OHIOLOGO-STR",
+        "gtin": "5057546006602"
+      },
+      {
+        "sku": "HTPCR-IPH14PLUS-OHIOLOGO-OBU",
+        "gtin": "5057546009863"
+      }
+    ],
+    "PBREWIL": [
+      {
+        "sku": "HTPCR-IPH11-PBREWIL-SPR",
+        "gtin": "5057547559008"
+      },
+      {
+        "sku": "HTPCR-IPH11PMAX-PBREWIL-SPR",
+        "gtin": "5057547559015"
+      },
+      {
+        "sku": "HTPCR-IPH11PRO-PBREWIL-SPR",
+        "gtin": "5057547559022"
+      },
+      {
+        "sku": "HTPCR-IPH12-PBREWIL-SPR",
+        "gtin": "5057547559039"
+      },
+      {
+        "sku": "HTPCR-IPH12MINI-PBREWIL-SPR",
+        "gtin": "5057547559046"
+      }
+    ],
+    "PNUTADI": [
+      {
+        "sku": "HTPCR-MOTOG7PY-PNUTADI-NSU",
+        "gtin": "5057089002000"
+      },
+      {
+        "sku": "HLBWH-G8THINQ-PNUTADI-LTRO",
+        "gtin": "5057089045496"
+      },
+      {
+        "sku": "HTPCR-MOTOG14-PNUTADI-TRO",
+        "gtin": "5057089058571"
+      },
+      {
+        "sku": "HTPCR-MOTOG735G-PNUTADI-TRO",
+        "gtin": "5057089058595"
+      },
+      {
+        "sku": "HTPCR-MOTOG825G-PNUTADI-TRO",
+        "gtin": "5057089058625"
+      }
+    ],
+    "PNUTAPO": [
+      {
+        "sku": "HC-IPH12-PNUTAPO-TOP",
+        "gtin": "5057546001317"
+      },
+      {
+        "sku": "HTPCR-IPH15PLUS-PNUTAPO-TOP",
+        "gtin": "5057546005995"
+      },
+      {
+        "sku": "HTPCR-IPH14PLUS-PNUTAPO-TOP",
+        "gtin": "5057546010340"
+      },
+      {
+        "sku": "HTPCR-IPH15PRO-PNUTAPO-TOP",
+        "gtin": "5057546014720"
+      },
+      {
+        "sku": "HTPCR-S921U-PNUTAPO-TOP",
+        "gtin": "5057546018902"
+      }
+    ],
+    "PNUTBBU": [
+      {
+        "sku": "HC-IPH12-PNUTBBU-SUN",
+        "gtin": "5057546002093"
+      },
+      {
+        "sku": "HTPCR-IPH15PLUS-PNUTBBU-SUR",
+        "gtin": "5057546005582"
+      },
+      {
+        "sku": "HTPCR-IPH15PLUS-PNUTBBU-SUN",
+        "gtin": "5057546006473"
+      },
+      {
+        "sku": "HTPCR-IPH14PLUS-PNUTBBU-SUR",
+        "gtin": "5057546009399"
+      },
+      {
+        "sku": "HTPCR-IPH14PLUS-PNUTBBU-SUN",
+        "gtin": "5057546011095"
+      }
+    ],
+    "PNUTBOA": [
+      {
+        "sku": "HTPCR-A01CORE20-PNUTBOA-XOX",
+        "gtin": "5057089036944"
+      },
+      {
+        "sku": "HTPCR-PIXEL3A-PNUTBOA-JOE",
+        "gtin": "5057089039938"
+      },
+      {
+        "sku": "HTPCR-MOTOG14-PNUTBOA-XOX",
+        "gtin": "5057089055136"
+      },
+      {
+        "sku": "HTPCR-MOTOG735G-PNUTBOA-XOX",
+        "gtin": "5057089055259"
+      },
+      {
+        "sku": "HTPCR-MOTOG825G-PNUTBOA-XOX",
+        "gtin": "5057089055280"
+      }
+    ],
+    "PNUTCBR": [
+      {
+        "sku": "HC-IPH12-PNUTCBR-AUT",
+        "gtin": "5057546001225"
+      },
+      {
+        "sku": "HC-IPH12-PNUTCBR-GOO",
+        "gtin": "5057546002109"
+      },
+      {
+        "sku": "HTPCR-IPH15PLUS-PNUTCBR-AUT",
+        "gtin": "5057546005933"
+      },
+      {
+        "sku": "HTPCR-IPH15PLUS-PNUTCBR-GOO",
+        "gtin": "5057546006480"
+      },
+      {
+        "sku": "HTPCR-IPH14PLUS-PNUTCBR-AUT",
+        "gtin": "5057546010241"
+      }
+    ],
+    "PNUTCHA": [
+      {
+        "sku": "HTPCR-MOTOG14-PNUTCHA-SNO",
+        "gtin": "5057089054085"
+      },
+      {
+        "sku": "HTPCR-MOTOG735G-PNUTCHA-SNO",
+        "gtin": "5057089054092"
+      },
+      {
+        "sku": "HTPCR-MOTOG825G-PNUTCHA-SNO",
+        "gtin": "5057089054108"
+      },
+      {
+        "sku": "HTPCR-MOTOG84-PNUTCHA-SNO",
+        "gtin": "5057089054139"
+      },
+      {
+        "sku": "HTPCR-1PLUS11-PNUTCHA-SNO",
+        "gtin": "5057089054146"
+      }
+    ],
+    "PNUTCPA": [
+      {
+        "sku": "HLBWH-LGK40-PNUTCPA-LFRA",
+        "gtin": "5057089008255"
+      },
+      {
+        "sku": "HTPCR-IPH6-PNUTCPA-PEP",
+        "gtin": "5057089033462"
+      },
+      {
+        "sku": "HTPCR-IPH6-PNUTCPA-LIN",
+        "gtin": "5057089035985"
+      },
+      {
+        "sku": "HLBWH-IPH6P-PNUTCPA-LSNO",
+        "gtin": "5057089042402"
+      },
+      {
+        "sku": "HTPCR-MOTOG14-PNUTCPA-SNO",
+        "gtin": "5057089056454"
+      }
+    ],
+    "PNUTCUSTA": [
+      {
+        "sku": "HC-IPH12-PNUTCUSTA-SAW",
+        "gtin": "5057546002529"
+      },
+      {
+        "sku": "HTPCR-IPH15PLUS-PNUTCUSTA-SAW",
+        "gtin": "5057546006695"
+      },
+      {
+        "sku": "HTPCR-IPH14PLUS-PNUTCUSTA-SAW",
+        "gtin": "5057546011507"
+      },
+      {
+        "sku": "HTPCR-IPH15PRO-PNUTCUSTA-SAW",
+        "gtin": "5057546015369"
+      },
+      {
+        "sku": "HTPCR-S921U-PNUTCUSTA-SAW",
+        "gtin": "5057546020011"
+      }
+    ],
+    "PNUTDDR": [
+      {
+        "sku": "HTPCR-PIXEL3A-PNUTDDR-PAS",
+        "gtin": "5057089014980"
+      },
+      {
+        "sku": "HTPCR-PIXEL3A-PNUTDDR-BLU",
+        "gtin": "5057089024477"
+      },
+      {
+        "sku": "HTPCR-G8XTHINQ-PNUTDDR-PAS",
+        "gtin": "5057089047568"
+      },
+      {
+        "sku": "HTPCR-IPH6P-PNUTDDR-DOG",
+        "gtin": "5057089067665"
+      },
+      {
+        "sku": "HTPCR-LGK40-PNUTDDR-ORA",
+        "gtin": "5057089071228"
+      }
+    ],
+    "PNUTHAL": [
+      {
+        "sku": "HTPCR-MOTOE6-PNUTHAL-CGO",
+        "gtin": "5057089011217"
+      },
+      {
+        "sku": "HLBWH-G8THINQ-PNUTHAL-LCWN",
+        "gtin": "5057089028147"
+      },
+      {
+        "sku": "HLBWH-LGK40-PNUTHAL-LSCH",
+        "gtin": "5057089030461"
+      },
+      {
+        "sku": "HTPCR-PIXEL3A-PNUTHAL-SGE",
+        "gtin": "5057089052357"
+      },
+      {
+        "sku": "HTPCR-G9350-PNUTHAL-CWN",
+        "gtin": "5057089056713"
+      }
+    ],
+    "PNUTMAN": [
+      {
+        "sku": "HC-IPH12-PNUTMAN-FLY",
+        "gtin": "5057546000891"
+      },
+      {
+        "sku": "HTPCR-IPH15PLUS-PNUTMAN-FLY",
+        "gtin": "5057546005780"
+      },
+      {
+        "sku": "HTPCR-IPH14PLUS-PNUTMAN-FLY",
+        "gtin": "5057546009924"
+      },
+      {
+        "sku": "HTPCR-IPH15PRO-PNUTMAN-FLY",
+        "gtin": "5057546014539"
+      },
+      {
+        "sku": "HTPCR-S921U-PNUTMAN-FLY",
+        "gtin": "5057546018513"
+      }
+    ],
+    "PNUTNSW": [
+      {
+        "sku": "HTPCR-IPH11-PNUTNSW-SWE",
+        "gtin": "5057547623167"
+      },
+      {
+        "sku": "HTPCR-IPH11PMAX-PNUTNSW-SWE",
+        "gtin": "5057547623174"
+      },
+      {
+        "sku": "HTPCR-IPH11PRO-PNUTNSW-SWE",
+        "gtin": "5057547623181"
+      },
+      {
+        "sku": "HTPCR-IPH12-PNUTNSW-SWE",
+        "gtin": "5057547623198"
+      },
+      {
+        "sku": "HTPCR-IPH12MINI-PNUTNSW-SWE",
+        "gtin": "5057547623204"
+      }
+    ],
+    "PNUTORI": [
+      {
+        "sku": "HTPCR-IPH6P-PNUTORI-CBR",
+        "gtin": "5057089000099"
+      },
+      {
+        "sku": "HTPCR-A01CORE20-PNUTORI-CBL",
+        "gtin": "5057089002130"
+      },
+      {
+        "sku": "HLBWH-QSTYLUS-PNUTORI-LCB2",
+        "gtin": "5057089021780"
+      },
+      {
+        "sku": "HLBWH-PIXEL3A-PNUTORI-LLN2",
+        "gtin": "5057089029199"
+      },
+      {
+        "sku": "HTPCR-G8XTHINQ-PNUTORI-LN2",
+        "gtin": "5057089037033"
+      }
+    ],
+    "PNUTROC": [
+      {
+        "sku": "HC-IPH12-PNUTROC-SWL",
+        "gtin": "5057546000860"
+      },
+      {
+        "sku": "HTPCR-IPH15PLUS-PNUTROC-SWL",
+        "gtin": "5057546005773"
+      },
+      {
+        "sku": "HTPCR-IPH14PLUS-PNUTROC-SWL",
+        "gtin": "5057546009887"
+      },
+      {
+        "sku": "HTPCR-IPH15PRO-PNUTROC-SWL",
+        "gtin": "5057546014522"
+      },
+      {
+        "sku": "HTPCR-S921U-PNUTROC-SWL",
+        "gtin": "5057546018476"
+      }
+    ],
+    "PNUTSCO": [
+      {
+        "sku": "HTPCR-IPH5-PNUTSCO-NRA",
+        "gtin": "5057089038559"
+      },
+      {
+        "sku": "HTPCR-G9350-PNUTSCO-NFL",
+        "gtin": "5057089043485"
+      },
+      {
+        "sku": "HLBWH-MOTOG7PY-PNUTSCO-LNBA",
+        "gtin": "5057089044833"
+      },
+      {
+        "sku": "HTPCR-PIXEL3A-PNUTSCO-NBA",
+        "gtin": "5057089072003"
+      },
+      {
+        "sku": "HTPCR-QSTYLUS-PNUTSCO-NCA",
+        "gtin": "5057089073710"
+      }
+    ],
+    "PNUTSEA": [
+      {
+        "sku": "HTPCR-IPH11PRO-PNUTSEA-WXO",
+        "gtin": "5057547618484"
+      },
+      {
+        "sku": "HTPCR-IPH12-PNUTSEA-WXO",
+        "gtin": "5057547618491"
+      },
+      {
+        "sku": "HTPCR-IPH12MINI-PNUTSEA-WXO",
+        "gtin": "5057547618507"
+      },
+      {
+        "sku": "HTPCR-IPH12PMAX-PNUTSEA-WXO",
+        "gtin": "5057547618514"
+      },
+      {
+        "sku": "HTPCR-IPH13-PNUTSEA-WXO",
+        "gtin": "5057547618521"
+      }
+    ],
+    "PNUTSNO": [
+      {
+        "sku": "HLBWH-IPH6P-PNUTSNO-LWAR",
+        "gtin": "5057089009580"
+      },
+      {
+        "sku": "HTPCR-A10S2019-PNUTSNO-MOR",
+        "gtin": "5057089058212"
+      },
+      {
+        "sku": "HTPCR-G8XTHINQ-PNUTSNO-WAR",
+        "gtin": "5057089116219"
+      },
+      {
+        "sku": "HLBWH-IPH6-PNUTSNO-LWAR",
+        "gtin": "5057089120902"
+      },
+      {
+        "sku": "HTPCR-IPH6-PNUTSNO-GOT",
+        "gtin": "5057089135883"
+      }
+    ],
+    "PNUTT21": [
+      {
+        "sku": "HTPCR-IPH15PLUS-PNUTT21-SSP",
+        "gtin": "5057546005612"
+      },
+      {
+        "sku": "HTPCR-IPH14PLUS-PNUTT21-SSP",
+        "gtin": "5057546009511"
+      },
+      {
+        "sku": "HTPCR-IPH15PRO-PNUTT21-SSP",
+        "gtin": "5057546014362"
+      },
+      {
+        "sku": "HTPCR-S921U-PNUTT21-SSP",
+        "gtin": "5057546018117"
+      },
+      {
+        "sku": "HTPCR-S926U-PNUTT21-SSP",
+        "gtin": "5057546022954"
+      }
+    ],
+    "PNUTWOD": [
+      {
+        "sku": "HC-IPH12-PNUTWOD-SWO",
+        "gtin": "5057546000563"
+      },
+      {
+        "sku": "HTPCR-IPH15PLUS-PNUTWOD-SWO",
+        "gtin": "5057546005636"
+      },
+      {
+        "sku": "HTPCR-IPH14PLUS-PNUTWOD-SWO",
+        "gtin": "5057546009573"
+      },
+      {
+        "sku": "HTPCR-IPH15PRO-PNUTWOD-SWO",
+        "gtin": "5057546014386"
+      },
+      {
+        "sku": "HTPCR-S921U-PNUTWOD-SWO",
+        "gtin": "5057546018186"
+      }
+    ],
+    "PPUFGRA": [
+      {
+        "sku": "HC-IPH12-PPUFGRA-BUT",
+        "gtin": "5057546000952"
+      },
+      {
+        "sku": "HC-IPH12-PPUFGRA-BUB",
+        "gtin": "5057546001171"
+      },
+      {
+        "sku": "HC-IPH12-PPUFGRA-GRP",
+        "gtin": "5057546001461"
+      },
+      {
+        "sku": "HC-IPH12-PPUFGRA-BLO",
+        "gtin": "5057546002123"
+      },
+      {
+        "sku": "HTPCR-IPH15PLUS-PPUFGRA-BUT",
+        "gtin": "5057546005803"
+      }
+    ],
+    "RCALPAT": [
+      {
+        "sku": "HC-IPH12-RCALPAT-QUI",
+        "gtin": "5057546001560"
+      },
+      {
+        "sku": "HTPCR-IPH15PLUS-RCALPAT-QUI",
+        "gtin": "5057546006152"
+      },
+      {
+        "sku": "HTPCR-IPH14PLUS-RCALPAT-QUI",
+        "gtin": "5057546010586"
+      },
+      {
+        "sku": "HTPCR-IPH15PRO-RCALPAT-QUI",
+        "gtin": "5057546014843"
+      },
+      {
+        "sku": "HTPCR-S921U-RCALPAT-QUI",
+        "gtin": "5057546019145"
+      }
+    ],
+    "RMCFKIT25": [
+      {
+        "sku": "H8939-PS5SBD-RMCFKIT25-HOM",
+        "gtin": "5057546908616"
+      },
+      {
+        "sku": "HTPCR-IPH17PRO-RMCFKIT25-HOM",
+        "gtin": "5057546978893"
+      },
+      {
+        "sku": "HTPCR-IPH17PMAX-RMCFKIT25-HOM",
+        "gtin": "5057546978909"
+      },
+      {
+        "sku": "HTPCR-IPH17AIR-RMCFKIT25-HOM",
+        "gtin": "5057546978916"
+      },
+      {
+        "sku": "HTPCR-IPH17-RMCFKIT25-HOM",
+        "gtin": "5057546978923"
+      }
+    ],
+    "RMCFLEG": [
+      {
+        "sku": "HTPCR-IPH17-RMCFLEG-190",
+        "gtin": "5057546908777"
+      }
+    ],
+    "RMCFORI": [
+      {
+        "sku": "HTPCR-IPH16PMAX-RMCFORI-GOL",
+        "gtin": "5063291033695"
+      },
+      {
+        "sku": "HTPCR-IPH16PMAX-RMCFORI-HAL",
+        "gtin": "5063291033701"
+      },
+      {
+        "sku": "HTPCR-IPH16PMAX-RMCFORI-LOG",
+        "gtin": "5063291033718"
+      },
+      {
+        "sku": "HTPCR-IPH16PMAX-RMCFORI-ONE",
+        "gtin": "5063291033732"
+      },
+      {
+        "sku": "HTPCR-IPH16PMAX-RMCFORI-PBL",
+        "gtin": "5063291033749"
+      }
+    ],
+    "RMCFRET": [
+      {
+        "sku": "HTPCR-IPH16PMAX-RMCFRET-BLA",
+        "gtin": "5063291033794"
+      },
+      {
+        "sku": "HTPCR-IPH16PMAX-RMCFRET-WHI",
+        "gtin": "5063291033800"
+      },
+      {
+        "sku": "HTPCR-IPH16-RMCFRET-BLA",
+        "gtin": "5063291045162"
+      },
+      {
+        "sku": "HTPCR-IPH16-RMCFRET-WHI",
+        "gtin": "5063291045186"
+      },
+      {
+        "sku": "HTPCR-IPH14-RMCFRET-BLA",
+        "gtin": "5063291052542"
+      }
+    ],
+    "RMCFURB": [
+      {
+        "sku": "HTPCR-IPH16PMAX-RMCFURB-190",
+        "gtin": "5063291033817"
+      },
+      {
+        "sku": "HTPCR-IPH16PMAX-RMCFURB-GRE",
+        "gtin": "5063291033824"
+      },
+      {
+        "sku": "HTPCR-IPH16PMAX-RMCFURB-HAL",
+        "gtin": "5063291033831"
+      },
+      {
+        "sku": "HTPCR-IPH16PMAX-RMCFURB-PIN",
+        "gtin": "5063291033848"
+      },
+      {
+        "sku": "HTPCR-IPH16PMAX-RMCFURB-WHI",
+        "gtin": "5063291033855"
+      }
+    ],
+    "RMORS1N2": [
+      {
+        "sku": "HTPCR-X706-RMORS1N2-RIC",
+        "gtin": "5057089504207"
+      },
+      {
+        "sku": "HTPCR-X806-RMORS1N2-RIC",
+        "gtin": "5057089504252"
+      },
+      {
+        "sku": "HTPCR-X906-RMORS1N2-RIC",
+        "gtin": "5057089504412"
+      },
+      {
+        "sku": "HTPCR-NOKIA14-RMORS1N2-RIC",
+        "gtin": "5057089504450"
+      },
+      {
+        "sku": "HTPCR-NOKIAC21-RMORS1N2-RIC",
+        "gtin": "5057089504559"
+      }
+    ],
+    "RMORS3GR": [
+      {
+        "sku": "HTPCR-X706-RMORS3GR-PIC",
+        "gtin": "5057089502982"
+      },
+      {
+        "sku": "HTPCR-X806-RMORS3GR-PIC",
+        "gtin": "5057089502999"
+      },
+      {
+        "sku": "HTPCR-X906-RMORS3GR-PIC",
+        "gtin": "5057089503002"
+      },
+      {
+        "sku": "HTPCR-NOKIA14-RMORS3GR-PIC",
+        "gtin": "5057089503101"
+      },
+      {
+        "sku": "HTPCR-NOKIAC21-RMORS3GR-PIC",
+        "gtin": "5057089503323"
+      }
+    ],
+    "RMORS5GR": [
+      {
+        "sku": "HTPCR-IPH11-RMORS5GR-POR",
+        "gtin": "5057548811839"
+      },
+      {
+        "sku": "HTPCR-IPH11PMAX-RMORS5GR-POR",
+        "gtin": "5057548811846"
+      },
+      {
+        "sku": "HTPCR-IPH11PRO-RMORS5GR-POR",
+        "gtin": "5057548811853"
+      },
+      {
+        "sku": "HTPCR-IPH12-RMORS5GR-POR",
+        "gtin": "5057548811860"
+      },
+      {
+        "sku": "HTPCR-IPH12MINI-RMORS5GR-POR",
+        "gtin": "5057548811877"
+      }
+    ],
+    "SCDO50T": [
+      {
+        "sku": "HTPCR-IPH12-SCDO50T-MSQ",
+        "gtin": "5057089000914"
+      },
+      {
+        "sku": "HTPCR-G8XTHINQ-SCDO50T-RUH",
+        "gtin": "5057089010715"
+      },
+      {
+        "sku": "HTPCR-MOTOE6-SCDO50T-MYS",
+        "gtin": "5057089020332"
+      },
+      {
+        "sku": "HTPCR-A012020-SCDO50T-MYS",
+        "gtin": "5057089023609"
+      },
+      {
+        "sku": "HTPCR-IPH12PMAX-SCDO50T-MSQ",
+        "gtin": "5057089029175"
+      }
+    ],
+    "SCDOMYS": [
+      {
+        "sku": "HTPCR-MOTOG14-SCDOMYS-TIE",
+        "gtin": "5057089296584"
+      },
+      {
+        "sku": "HTPCR-MOTOG735G-SCDOMYS-TIE",
+        "gtin": "5057089296607"
+      },
+      {
+        "sku": "HTPCR-MOTOG825G-SCDOMYS-TIE",
+        "gtin": "5057089296614"
+      },
+      {
+        "sku": "HTPCR-MOTOG84-SCDOMYS-TIE",
+        "gtin": "5057089296683"
+      },
+      {
+        "sku": "HTPCR-1PLUS11-SCDOMYS-TIE",
+        "gtin": "5057089296690"
+      }
+    ],
+    "SCDOSCO": [
+      {
+        "sku": "HTPCR-IPH7P-SCDOSCO-SNA",
+        "gtin": "5057089042631"
+      },
+      {
+        "sku": "HTPCR-A712019-SCDOSCO-WHE",
+        "gtin": "5057089062837"
+      },
+      {
+        "sku": "HTPCR-IPH6P-SCDOSCO-SNA",
+        "gtin": "5057089092841"
+      },
+      {
+        "sku": "HTPCR-QSTYLUS-SCDOSCO-SCO",
+        "gtin": "5057089102946"
+      },
+      {
+        "sku": "HTPCR-G9650-SCDOSCO-SCO",
+        "gtin": "5057089120391"
+      }
+    ],
+    "SCDOSEA": [
+      {
+        "sku": "HTPCR-G998F-SCDOSEA-SCO",
+        "gtin": "5057089001089"
+      },
+      {
+        "sku": "HTPCR-QSTYLUS-SCDOSEA-SPI",
+        "gtin": "5057089024019"
+      },
+      {
+        "sku": "HTPCR-G8XTHINQ-SCDOSEA-HAU",
+        "gtin": "5057089027126"
+      },
+      {
+        "sku": "HTPCR-G780F-SCDOSEA-SPI",
+        "gtin": "5057089034216"
+      },
+      {
+        "sku": "HTPCR-IPH7-SCDOSEA-SPI",
+        "gtin": "5057089034643"
+      }
+    ],
+    "SHELCAR": [
+      {
+        "sku": "HTPCR-IPH17PRO-SHELCAR-SCW",
+        "gtin": "5063291015523"
+      },
+      {
+        "sku": "HTPCR-IPH17PRO-SHELCAR-SCR",
+        "gtin": "5063291015530"
+      },
+      {
+        "sku": "HTPCR-IPH17PRO-SHELCAR-SCP",
+        "gtin": "5063291015547"
+      },
+      {
+        "sku": "HTPCR-IPH17PRO-SHELCAR-SCB",
+        "gtin": "5063291015554"
+      },
+      {
+        "sku": "HTPCR-IPH17PRO-SHELCAR-RED",
+        "gtin": "5063291015561"
+      }
+    ],
+    "SHSDOG": [
+      {
+        "sku": "HTPCR-G980F-SHSDOG-PPO",
+        "gtin": "5057089001959"
+      },
+      {
+        "sku": "HTPCR-XCOVERPRO-SHSDOG-BEA",
+        "gtin": "5057089004714"
+      },
+      {
+        "sku": "HTPCR-A01CORE20-SHSDOG-GOL",
+        "gtin": "5057089005070"
+      },
+      {
+        "sku": "HTPCR-QSTYLUS-SHSDOG-LAB",
+        "gtin": "5057089005377"
+      },
+      {
+        "sku": "HTPCR-MOTOE6-SHSDOG-CHI",
+        "gtin": "5057089007036"
+      }
+    ],
+    "SPRCCOM": [
+      {
+        "sku": "HTPCR-G8THINQ-SPRCCOM-OVE",
+        "gtin": "5057089002116"
+      },
+      {
+        "sku": "HLBWH-MOTOG7PY-SPRCCOM-LRED",
+        "gtin": "5057089011316"
+      },
+      {
+        "sku": "HTPCR-IPH5-SPRCCOM-FLI",
+        "gtin": "5057089024200"
+      },
+      {
+        "sku": "HLBWH-TOUCH5G-SPRCCOM-LRED",
+        "gtin": "5057089061540"
+      },
+      {
+        "sku": "HLBWH-IPH6P-SPRCCOM-LRED",
+        "gtin": "5057089114086"
+      }
+    ],
+    "SPRCLOG": [
+      {
+        "sku": "HTPCR-IPH6-SPRCLOG-CAM",
+        "gtin": "5057089016557"
+      },
+      {
+        "sku": "HTPCR-QSTYLUS-SPRCLOG-CLA",
+        "gtin": "5057089017424"
+      },
+      {
+        "sku": "HTPCR-TOUCH5G-SPRCLOG-CAM",
+        "gtin": "5057089030980"
+      },
+      {
+        "sku": "HTPCR-MOTOG7PW-SPRCLOG-DIS",
+        "gtin": "5057089036326"
+      },
+      {
+        "sku": "HTPCR-MOTOG7PY-SPRCLOG-DIS",
+        "gtin": "5057089037019"
+      }
+    ],
+    "SSQUGRA": [
+      {
+        "sku": "HC-IPH12-SSQUGRA-HAR",
+        "gtin": "5057546001966"
+      },
+      {
+        "sku": "HTPCR-IPH15PLUS-SSQUGRA-HAR",
+        "gtin": "5057546006398"
+      },
+      {
+        "sku": "HTPCR-IPH14PLUS-SSQUGRA-HAR",
+        "gtin": "5057546010975"
+      },
+      {
+        "sku": "HTPCR-IPH15PRO-SSQUGRA-HAR",
+        "gtin": "5057546015062"
+      },
+      {
+        "sku": "HTPCR-S921U-SSQUGRA-HAR",
+        "gtin": "5057546019510"
+      }
+    ],
+    "SUPNKEY": [
+      {
+        "sku": "HTPCR-DESRE21PR-SUPNKEY-SD2",
+        "gtin": "5057089610991"
+      },
+      {
+        "sku": "HTPCR-HP40-SUPNKEY-SD2",
+        "gtin": "5057089611035"
+      },
+      {
+        "sku": "HTPCR-HP40PRO-SUPNKEY-SD2",
+        "gtin": "5057089611141"
+      },
+      {
+        "sku": "HTPCR-MATE40PR-SUPNKEY-SD2",
+        "gtin": "5057089611165"
+      },
+      {
+        "sku": "HTPCR-NOVA7SE-SUPNKEY-SD2",
+        "gtin": "5057089611189"
+      }
+    ],
+    "SUPNVEC": [
+      {
+        "sku": "HTPCR-MOTOE6-SUPNVEC-WBR",
+        "gtin": "5057089008057"
+      },
+      {
+        "sku": "HTPCR-G991F-SUPNVEC-WB2",
+        "gtin": "5057089008965"
+      },
+      {
+        "sku": "HTPCR-NOTE20ULT-SUPNVEC-DRI",
+        "gtin": "5057089011538"
+      },
+      {
+        "sku": "HTPCR-A012020-SUPNVEC-DSH",
+        "gtin": "5057089011651"
+      },
+      {
+        "sku": "HTPCR-G8THINQ-SUPNVEC-DSB",
+        "gtin": "5057089014751"
+      }
+    ],
+    "TDKNKEY": [
+      {
+        "sku": "HTPCR-DESRE21PR-TDKNKEY-BPO",
+        "gtin": "5057089642817"
+      },
+      {
+        "sku": "HTPCR-HP40-TDKNKEY-BPO",
+        "gtin": "5057089642862"
+      },
+      {
+        "sku": "HTPCR-HP40PRO-TDKNKEY-BPO",
+        "gtin": "5057089642886"
+      },
+      {
+        "sku": "HTPCR-MATE40PR-TDKNKEY-BPO",
+        "gtin": "5057089642923"
+      },
+      {
+        "sku": "HTPCR-NOVA7SE-TDKNKEY-BPO",
+        "gtin": "5057089642978"
+      }
+    ],
+    "THFCBAD": [
+      {
+        "sku": "HC-IPH12-THFCBAD-DIS",
+        "gtin": "5057546002147"
+      },
+      {
+        "sku": "HTPCR-IPH15PLUS-THFCBAD-DIS",
+        "gtin": "5057546006503"
+      },
+      {
+        "sku": "HTPCR-IPH14PLUS-THFCBAD-DIS",
+        "gtin": "5057546011149"
+      },
+      {
+        "sku": "HTPCR-IPH15PRO-THFCBAD-DIS",
+        "gtin": "5057546015178"
+      },
+      {
+        "sku": "HTPCR-S921U-THFCBAD-DIS",
+        "gtin": "5057546019688"
+      }
+    ],
+    "THFCKIT25": [
+      {
+        "sku": "HTPCR-IPH11-THFCKIT25-HOM",
+        "gtin": "5057546903376"
+      },
+      {
+        "sku": "HTPCR-IPH12-THFCKIT25-HOM",
+        "gtin": "5057546903604"
+      },
+      {
+        "sku": "HTPCR-IPH13-THFCKIT25-HOM",
+        "gtin": "5057546903833"
+      },
+      {
+        "sku": "HTPCR-IPH13PMAX-THFCKIT25-HOM",
+        "gtin": "5057546904069"
+      },
+      {
+        "sku": "HTPCR-IPH14-THFCKIT25-HOM",
+        "gtin": "5057546904298"
+      }
+    ],
+    "THUNGRA": [
+      {
+        "sku": "HC-IPH12-THUNGRA-LOG",
+        "gtin": "5057546001348"
+      },
+      {
+        "sku": "HTPCR-IPH15PLUS-THUNGRA-LOG",
+        "gtin": "5057546006022"
+      },
+      {
+        "sku": "HTPCR-IPH14PLUS-THUNGRA-LOG",
+        "gtin": "5057546010371"
+      },
+      {
+        "sku": "HTPCR-IPH15PRO-THUNGRA-LOG",
+        "gtin": "5057546014744"
+      },
+      {
+        "sku": "HTPCR-S921U-THUNGRA-LOG",
+        "gtin": "5057546018933"
+      }
+    ],
+    "TLRIFRG": [
+      {
+        "sku": "HTPCR-IPH17PRO-TLRIFRG-TRE",
+        "gtin": "5063291012539"
+      },
+      {
+        "sku": "HTPCR-IPH17PRO-TLRIFRG-PRA",
+        "gtin": "5063291012546"
+      },
+      {
+        "sku": "HTPCR-IPH17PRO-TLRIFRG-ONE",
+        "gtin": "5063291012553"
+      },
+      {
+        "sku": "HTPCR-IPH17PRO-TLRIFRG-FLA",
+        "gtin": "5063291012560"
+      },
+      {
+        "sku": "HTPCR-IPH17PMAX-TLRIFRG-TRE",
+        "gtin": "5063291012577"
+      }
+    ],
+    "TWDDOEX": [
+      {
+        "sku": "HLBWH-IPH7-TWDDOEX-LGLE",
+        "gtin": "5057089005834"
+      },
+      {
+        "sku": "HTPCR-A21S2020-TWDDOEX-WAL",
+        "gtin": "5057089007340"
+      },
+      {
+        "sku": "HLBWH-A10E-TWDDOEX-LWAL",
+        "gtin": "5057089009979"
+      },
+      {
+        "sku": "HLBWH-A715G2020-TWDDOEX-LCAR",
+        "gtin": "5057089012894"
+      },
+      {
+        "sku": "HLBWH-IPAD102-TWDDOEX-LCRL",
+        "gtin": "5057089013013"
+      }
+    ],
+    "TWDS10CPO": [
+      {
+        "sku": "HLBWH-IPH11-TWDS10CPO-LJUD",
+        "gtin": "5057089001836"
+      },
+      {
+        "sku": "HLBWH-G9600-TWDS10CPO-LCAR",
+        "gtin": "5057089003946"
+      },
+      {
+        "sku": "HLBWH-G985F-TWDS10CPO-LALP",
+        "gtin": "5057089004950"
+      },
+      {
+        "sku": "HTPCR-QSTYLUS-TWDS10CPO-DAR",
+        "gtin": "5057089013532"
+      },
+      {
+        "sku": "HTPCR-A502019-TWDS10CPO-DAR",
+        "gtin": "5057089021933"
+      }
+    ],
+    "TWDS6DD": [
+      {
+        "sku": "HTPCR-MOTOG7PY-TWDS6DD-BIK",
+        "gtin": "5057089000907"
+      },
+      {
+        "sku": "HTPCR-A512019-TWDS6DD-LOO",
+        "gtin": "5057089002192"
+      },
+      {
+        "sku": "HTPCR-IPH5-TWDS6DD-LUR",
+        "gtin": "5057089008972"
+      },
+      {
+        "sku": "HTPCR-IPH11PMAX-TWDS6DD-BIK",
+        "gtin": "5057089020233"
+      },
+      {
+        "sku": "HTPCR-ONEPLUS8T-TWDS6DD-LUR",
+        "gtin": "5057089044628"
+      }
+    ],
+    "UFCLOGO": [
+      {
+        "sku": "HC-IPH12-UFCLOGO-BGJ",
+        "gtin": "5057546000792"
+      },
+      {
+        "sku": "HC-IPH12-UFCLOGO-CFI",
+        "gtin": "5057546000969"
+      },
+      {
+        "sku": "HC-IPH12-UFCLOGO-BLA",
+        "gtin": "5057546001812"
+      },
+      {
+        "sku": "HTPCR-IPH15PLUS-UFCLOGO-BLA",
+        "gtin": "5057546006282"
+      },
+      {
+        "sku": "HTPCR-IPH14PLUS-UFCLOGO-BGJ",
+        "gtin": "5057546009818"
+      }
+    ],
+    "UFCOLI": [
+      {
+        "sku": "HC-IPH12-UFCOLI-FKT",
+        "gtin": "5057546002574"
+      },
+      {
+        "sku": "HTPCR-IPH15PLUS-UFCOLI-FKT",
+        "gtin": "5057546006718"
+      },
+      {
+        "sku": "HTPCR-IPH14PLUS-UFCOLI-FKT",
+        "gtin": "5057546011552"
+      },
+      {
+        "sku": "HTPCR-IPH15PRO-UFCOLI-FKT",
+        "gtin": "5057546015383"
+      },
+      {
+        "sku": "HTPCR-S921U-UFCOLI-FKT",
+        "gtin": "5057546020066"
+      }
+    ],
+    "WIWOGRA": [
+      {
+        "sku": "HC-S911X-WIWOGRA-CBA",
+        "gtin": "5057089794578"
+      },
+      {
+        "sku": "HC-IPH13-WIWOGRA-CBA",
+        "gtin": "5057089795216"
+      }
+    ],
+    "WMGRATTRE": [
+      {
+        "sku": "HC-IPH12-WMGRATTRE-BER",
+        "gtin": "5057546000518"
+      },
+      {
+        "sku": "HC-IPH12-WMGRATTRE-ROS",
+        "gtin": "5057546002154"
+      },
+      {
+        "sku": "HTPCR-IPH15PLUS-WMGRATTRE-ROS",
+        "gtin": "5057546006510"
+      },
+      {
+        "sku": "HTPCR-IPH14PLUS-WMGRATTRE-BER",
+        "gtin": "5057546009528"
+      },
+      {
+        "sku": "HTPCR-IPH14PLUS-WMGRATTRE-ROS",
+        "gtin": "5057546011156"
+      }
+    ],
+    "WWCOVIN": [
+      {
+        "sku": "HTPCR-TOUCH5G-WWCOVIN-WHT",
+        "gtin": "5057089005148"
+      },
+      {
+        "sku": "HTPCR-MOTOE6-WWCOVIN-STP",
+        "gtin": "5057089059271"
+      },
+      {
+        "sku": "HTPCR-IPH6P-WWCOVIN-STP",
+        "gtin": "5057089123330"
+      },
+      {
+        "sku": "HTPCR-G9350-WWCOVIN-POP",
+        "gtin": "5057089171225"
+      },
+      {
+        "sku": "HTPCR-MOTOG7PY-WWCOVIN-COM",
+        "gtin": "5057089236252"
+      }
+    ],
+    "WWE2BLO": [
+      {
+        "sku": "HC-IPH12-WWE2BLO-WET",
+        "gtin": "5057546001355"
+      },
+      {
+        "sku": "HTPCR-IPH15PLUS-WWE2BLO-WET",
+        "gtin": "5057546006046"
+      },
+      {
+        "sku": "HTPCR-IPH14PLUS-WWE2BLO-WET",
+        "gtin": "5057546010388"
+      },
+      {
+        "sku": "HTPCR-IPH15PRO-WWE2BLO-WET",
+        "gtin": "5057546014751"
+      },
+      {
+        "sku": "HTPCR-S921U-WWE2BLO-WET",
+        "gtin": "5057546018940"
+      }
+    ],
+    "WWE2BRY": [
+      {
+        "sku": "HTPCR-DESRE21PR-WWE2BRY-LET",
+        "gtin": "5057089448464"
+      },
+      {
+        "sku": "HTPCR-HP40-WWE2BRY-LET",
+        "gtin": "5057089448488"
+      },
+      {
+        "sku": "HTPCR-HP40PRO-WWE2BRY-LET",
+        "gtin": "5057089448501"
+      },
+      {
+        "sku": "HTPCR-MATE40PR-WWE2BRY-LET",
+        "gtin": "5057089448525"
+      },
+      {
+        "sku": "HTPCR-NOVA7SE-WWE2BRY-LET",
+        "gtin": "5057089448532"
+      }
+    ],
+    "WWE2CMP": [
+      {
+        "sku": "HC-IPH12-WWE2CMP-RET",
+        "gtin": "5057546000587"
+      },
+      {
+        "sku": "HTPCR-IPH15PLUS-WWE2CMP-RET",
+        "gtin": "5057546005643"
+      },
+      {
+        "sku": "HTPCR-IPH14PLUS-WWE2CMP-RET",
+        "gtin": "5057546009597"
+      },
+      {
+        "sku": "HTPCR-IPH15PRO-WWE2CMP-RET",
+        "gtin": "5057546014393"
+      },
+      {
+        "sku": "HTPCR-S921U-WWE2CMP-RET",
+        "gtin": "5057546018209"
+      }
+    ],
+    "WWE2CRH": [
+      {
+        "sku": "HTPCR-DESRE21PR-WWE2CRH-DNA",
+        "gtin": "5057089435419"
+      },
+      {
+        "sku": "HTPCR-HP40-WWE2CRH-DNA",
+        "gtin": "5057089435464"
+      },
+      {
+        "sku": "HTPCR-HP40PRO-WWE2CRH-DNA",
+        "gtin": "5057089435488"
+      },
+      {
+        "sku": "HTPCR-MATE40PR-WWE2CRH-DNA",
+        "gtin": "5057089435501"
+      },
+      {
+        "sku": "HTPCR-NOVA7SE-WWE2CRH-DNA",
+        "gtin": "5057089435549"
+      }
+    ],
+    "WWE2DOM": [
+      {
+        "sku": "HC-IPH12-WWE2DOM-DIR",
+        "gtin": "5057546002581"
+      },
+      {
+        "sku": "HTPCR-IPH15PLUS-WWE2DOM-DIR",
+        "gtin": "5057546006725"
+      },
+      {
+        "sku": "HTPCR-IPH14PLUS-WWE2DOM-DIR",
+        "gtin": "5057546011569"
+      },
+      {
+        "sku": "HTPCR-IPH15PRO-WWE2DOM-DIR",
+        "gtin": "5057546015390"
+      },
+      {
+        "sku": "HTPCR-S921U-WWE2DOM-DIR",
+        "gtin": "5057546020073"
+      }
+    ],
+    "WWE2HUL": [
+      {
+        "sku": "HC-IPH12-WWE2HUL-POR",
+        "gtin": "5057546002604"
+      },
+      {
+        "sku": "HTPCR-IPH15PLUS-WWE2HUL-POR",
+        "gtin": "5057546006732"
+      },
+      {
+        "sku": "HTPCR-IPH14PLUS-WWE2HUL-POR",
+        "gtin": "5057546011576"
+      },
+      {
+        "sku": "HTPCR-IPH15PRO-WWE2HUL-POR",
+        "gtin": "5057546015406"
+      },
+      {
+        "sku": "HTPCR-S921U-WWE2HUL-POR",
+        "gtin": "5057546020080"
+      }
+    ],
+    "WWE2JCEN": [
+      {
+        "sku": "HTPCR-IPH17AIR-WWE2JCEN-NEV",
+        "gtin": "5057546908227"
+      },
+      {
+        "sku": "HTPCR-IPH17-WWE2JCEN-NEV",
+        "gtin": "5057546909590"
+      },
+      {
+        "sku": "HTPCR-IPH17PRO-WWE2JCEN-NEV",
+        "gtin": "5057546910961"
+      },
+      {
+        "sku": "HTPCR-IPH17PMAX-WWE2JCEN-NEV",
+        "gtin": "5057546912330"
+      },
+      {
+        "sku": "HTPCR-IPH17PRO-WWE2JCEN-POR",
+        "gtin": "5063291022491"
+      }
+    ],
+    "WWE2JEY": [
+      {
+        "sku": "HC-IPH12-WWE2JEY-MAI",
+        "gtin": "5057546001843"
+      },
+      {
+        "sku": "HTPCR-IPH15PLUS-WWE2JEY-POR",
+        "gtin": "5057546005551"
+      },
+      {
+        "sku": "HTPCR-IPH15PLUS-WWE2JEY-MAI",
+        "gtin": "5057546006312"
+      },
+      {
+        "sku": "HTPCR-IPH14PLUS-WWE2JEY-POR",
+        "gtin": "5057546009313"
+      },
+      {
+        "sku": "HTPCR-IPH14PLUS-WWE2JEY-MAI",
+        "gtin": "5057546010852"
+      }
+    ],
+    "WWE2LIV": [
+      {
+        "sku": "HC-G780F-WWE2LIV-LIV",
+        "gtin": "5057089795230"
+      },
+      {
+        "sku": "HC-G980F-WWE2LIV-WAT",
+        "gtin": "5057089795339"
+      },
+      {
+        "sku": "HC-IPH13MINI-WWE2LIV-LIV",
+        "gtin": "5057089795568"
+      },
+      {
+        "sku": "HC-IPH12-WWE2LIV-POR",
+        "gtin": "5057546001492"
+      },
+      {
+        "sku": "HTPCR-IPH15PLUS-WWE2LIV-POR",
+        "gtin": "5057546006107"
+      }
+    ],
+    "WWE2RHE": [
+      {
+        "sku": "HC-IPH12-WWE2RHE-BRU",
+        "gtin": "5057546000808"
+      },
+      {
+        "sku": "HC-IPH12-WWE2RHE-POR",
+        "gtin": "5057546001850"
+      },
+      {
+        "sku": "HC-IPH12-WWE2RHE-SHE",
+        "gtin": "5057546002376"
+      },
+      {
+        "sku": "HTPCR-IPH15PLUS-WWE2RHE-BRU",
+        "gtin": "5057546005735"
+      },
+      {
+        "sku": "HTPCR-IPH15PLUS-WWE2RHE-POR",
+        "gtin": "5057546006329"
+      }
+    ],
+    "WWE2ROM": [
+      {
+        "sku": "HTPCR-DESRE21PR-WWE2ROM-LIG",
+        "gtin": "5057089439660"
+      },
+      {
+        "sku": "HTPCR-HP40-WWE2ROM-LIG",
+        "gtin": "5057089439684"
+      },
+      {
+        "sku": "HTPCR-HP40PRO-WWE2ROM-LIG",
+        "gtin": "5057089439691"
+      },
+      {
+        "sku": "HTPCR-MATE40PR-WWE2ROM-LIG",
+        "gtin": "5057089439707"
+      },
+      {
+        "sku": "HTPCR-NOVA7SE-WWE2ROM-LIG",
+        "gtin": "5057089439752"
+      }
+    ],
+    "WWE2TBE": [
+      {
+        "sku": "HTPCR-IPH17-WWE2TBE-CHA",
+        "gtin": "5057546916321"
+      },
+      {
+        "sku": "HTPCR-IPH17AIR-WWE2TBE-CHA",
+        "gtin": "5057546916338"
+      },
+      {
+        "sku": "HTPCR-IPH17PMAX-WWE2TBE-CHA",
+        "gtin": "5057546916345"
+      },
+      {
+        "sku": "HTPCR-IPH17PRO-WWE2TBE-CHA",
+        "gtin": "5057546916352"
+      },
+      {
+        "sku": "HDMWH-250X300X3-WWE2TBE-INT",
+        "gtin": "5063291410120"
+      }
+    ],
+    "WWE2UND": [
+      {
+        "sku": "HTPCR-DESRE21PR-WWE2UND-POR",
+        "gtin": "5057089444114"
+      },
+      {
+        "sku": "HTPCR-HP40-WWE2UND-POR",
+        "gtin": "5057089444138"
+      },
+      {
+        "sku": "HTPCR-HP40PRO-WWE2UND-POR",
+        "gtin": "5057089444169"
+      },
+      {
+        "sku": "HTPCR-MATE40PR-WWE2UND-POR",
+        "gtin": "5057089444213"
+      },
+      {
+        "sku": "HTPCR-NOVA7SE-WWE2UND-POR",
+        "gtin": "5057089444244"
+      }
+    ],
+    "WWE2W41": [
+      {
+        "sku": "HC-IPH12-WWE2W41-KPO",
+        "gtin": "5057546000693"
+      },
+      {
+        "sku": "HTPCR-IPH15PLUS-WWE2W41-KPO",
+        "gtin": "5057546005698"
+      },
+      {
+        "sku": "HTPCR-IPH14PLUS-WWE2W41-KPO",
+        "gtin": "5057546009702"
+      },
+      {
+        "sku": "HTPCR-IPH15PRO-WWE2W41-KPO",
+        "gtin": "5057546014447"
+      },
+      {
+        "sku": "HTPCR-S921U-WWE2W41-KPO",
+        "gtin": "5057546018308"
+      }
+    ],
+    "WWECRHO": [
+      {
+        "sku": "HC-IPH12-WWECRHO-COD",
+        "gtin": "5057546001362"
+      },
+      {
+        "sku": "HC-IPH12-WWECRHO-ANL",
+        "gtin": "5057546002611"
+      },
+      {
+        "sku": "HTPCR-IPH15PLUS-WWECRHO-COD",
+        "gtin": "5057546006053"
+      },
+      {
+        "sku": "HTPCR-IPH15PLUS-WWECRHO-ANL",
+        "gtin": "5057546006749"
+      },
+      {
+        "sku": "HTPCR-IPH14PLUS-WWECRHO-COD",
+        "gtin": "5057546010395"
+      }
+    ]
+  },
+  "missing": [
+    "AFCFT7",
+    "B10AFGRA",
+    "BATMKEY",
+    "CELTI",
+    "DRGBSFTR",
+    "F13P8GRA",
+    "FLAME",
+    "IRONGRA",
+    "LFCKIT9",
+    "NBA2BUC",
+    "NBA2BUL",
+    "NBA2CEL",
+    "NBA2LOS",
+    "NBA2NKN",
+    "NBA2WAR",
+    "NHLCHIB",
+    "SHAM",
+    "SHELLOG",
+    "SLBCKT",
+    "SLBCKT4",
+    "TLRIFRC",
+    "VFLA2",
+    "VFLA4",
+    "WMGDAYGRA",
+    "WWEBWY",
+    "WWENIK",
+    "WWESUP",
+    "WWEUSO"
+  ]
+}

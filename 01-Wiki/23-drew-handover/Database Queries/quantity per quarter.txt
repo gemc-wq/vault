@@ -1,0 +1,6 @@
+SELECT 
+a.`PickerPH`,
+SUM(a.`LineQuantity`)
+FROM POBySRN a
+WHERE a.`PickerPH` = 'DE'
+AND a.`DateTimeCreated` BETWEEN '2022-04-01' AND '2022-06-30'

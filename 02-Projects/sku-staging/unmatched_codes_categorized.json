@@ -1,0 +1,306 @@
+{
+  "summary": {
+    "OWN_IP": 271,
+    "LICENSED_UNMAPPED": 12,
+    "LEGACY": 58,
+    "UNKNOWN": 1107
+  },
+  "top_20_by_category": {
+    "OWN_IP": [
+      {
+        "design_code": "SHSANI",
+        "total_skus": 3414
+      },
+      {
+        "design_code": "SHSFUN",
+        "total_skus": 3226
+      },
+      {
+        "design_code": "FLAP2",
+        "total_skus": 3222
+      },
+      {
+        "design_code": "FLAG",
+        "total_skus": 3174
+      },
+      {
+        "design_code": "SHSWLD",
+        "total_skus": 3154
+      },
+      {
+        "design_code": "HAPUPY",
+        "total_skus": 2580
+      },
+      {
+        "design_code": "VFLA3",
+        "total_skus": 2562
+      },
+      {
+        "design_code": "VFLA2",
+        "total_skus": 2522
+      },
+      {
+        "design_code": "MPRIN",
+        "total_skus": 2308
+      },
+      {
+        "design_code": "SHSDOG",
+        "total_skus": 2108
+      },
+      {
+        "design_code": "BWPAT",
+        "total_skus": 2023
+      },
+      {
+        "design_code": "WFLAGS",
+        "total_skus": 1487
+      },
+      {
+        "design_code": "DOGBPA",
+        "total_skus": 1433
+      },
+      {
+        "design_code": "GCFLAGS1",
+        "total_skus": 1432
+      },
+      {
+        "design_code": "CFLAGS1",
+        "total_skus": 1431
+      },
+      {
+        "design_code": "DOGBPA4",
+        "total_skus": 1429
+      },
+      {
+        "design_code": "VFLA4",
+        "total_skus": 1390
+      },
+      {
+        "design_code": "GCFLAGS2",
+        "total_skus": 1301
+      },
+      {
+        "design_code": "CFLAGS2",
+        "total_skus": 1300
+      },
+      {
+        "design_code": "VFLA5",
+        "total_skus": 1219
+      }
+    ],
+    "LICENSED_UNMAPPED": [
+      {
+        "design_code": "NBA2LOS",
+        "total_skus": 3323
+      },
+      {
+        "design_code": "NBA2WAR",
+        "total_skus": 2828
+      },
+      {
+        "design_code": "NBA2CEL",
+        "total_skus": 2823
+      },
+      {
+        "design_code": "NBA2BUL",
+        "total_skus": 2822
+      },
+      {
+        "design_code": "NBA2BUC",
+        "total_skus": 2822
+      },
+      {
+        "design_code": "NBA2NKN",
+        "total_skus": 2822
+      },
+      {
+        "design_code": "NBA2LOSLG",
+        "total_skus": 721
+      },
+      {
+        "design_code": "NBA2NKNLG",
+        "total_skus": 515
+      },
+      {
+        "design_code": "NBA2CELLG",
+        "total_skus": 515
+      },
+      {
+        "design_code": "AFRICA",
+        "total_skus": 326
+      },
+      {
+        "design_code": "AFRI",
+        "total_skus": 235
+      },
+      {
+        "design_code": "AFRFAC",
+        "total_skus": 105
+      }
+    ],
+    "LEGACY": [
+      {
+        "design_code": "07COLVA",
+        "total_skus": 1200
+      },
+      {
+        "design_code": "07KCPE",
+        "total_skus": 1075
+      },
+      {
+        "design_code": "12DAYS",
+        "total_skus": 828
+      },
+      {
+        "design_code": "07CITSK",
+        "total_skus": 748
+      },
+      {
+        "design_code": "0712DOC",
+        "total_skus": 744
+      },
+      {
+        "design_code": "07POPT",
+        "total_skus": 720
+      },
+      {
+        "design_code": "07JCHA",
+        "total_skus": 649
+      },
+      {
+        "design_code": "07CITL",
+        "total_skus": 576
+      },
+      {
+        "design_code": "07MCCO",
+        "total_skus": 556
+      },
+      {
+        "design_code": "07CJAR",
+        "total_skus": 541
+      },
+      {
+        "design_code": "07CTID",
+        "total_skus": 539
+      },
+      {
+        "design_code": "07JTOO",
+        "total_skus": 494
+      },
+      {
+        "design_code": "07KCHR",
+        "total_skus": 434
+      },
+      {
+        "design_code": "07WCALL",
+        "total_skus": 434
+      },
+      {
+        "design_code": "07WIMAS",
+        "total_skus": 434
+      },
+      {
+        "design_code": "07CESS",
+        "total_skus": 433
+      },
+      {
+        "design_code": "07KCPR",
+        "total_skus": 432
+      },
+      {
+        "design_code": "07BOCH",
+        "total_skus": 430
+      },
+      {
+        "design_code": "07ZOMBI",
+        "total_skus": 416
+      },
+      {
+        "design_code": "07WARWI",
+        "total_skus": 384
+      }
+    ],
+    "UNKNOWN": [
+      {
+        "design_code": "FBRE",
+        "total_skus": 3553
+      },
+      {
+        "design_code": "FLP",
+        "total_skus": 3510
+      },
+      {
+        "design_code": "PAIB",
+        "total_skus": 3499
+      },
+      {
+        "design_code": "MADPR",
+        "total_skus": 2370
+      },
+      {
+        "design_code": "CBCHE",
+        "total_skus": 2309
+      },
+      {
+        "design_code": "SHABC",
+        "total_skus": 2266
+      },
+      {
+        "design_code": "DOBNW",
+        "total_skus": 1849
+      },
+      {
+        "design_code": "TOPRI",
+        "total_skus": 1822
+      },
+      {
+        "design_code": "FEMINS",
+        "total_skus": 1800
+      },
+      {
+        "design_code": "WOMBR",
+        "total_skus": 1788
+      },
+      {
+        "design_code": "UNION",
+        "total_skus": 1787
+      },
+      {
+        "design_code": "FNBLONDB",
+        "total_skus": 1721
+      },
+      {
+        "design_code": "SILVER",
+        "total_skus": 1581
+      },
+      {
+        "design_code": "MARMIX",
+        "total_skus": 1565
+      },
+      {
+        "design_code": "NEOR",
+        "total_skus": 1549
+      },
+      {
+        "design_code": "NZOD",
+        "total_skus": 1536
+      },
+      {
+        "design_code": "SOMBR",
+        "total_skus": 1531
+      },
+      {
+        "design_code": "BLKCOL",
+        "total_skus": 1460
+      },
+      {
+        "design_code": "CLASC2",
+        "total_skus": 1447
+      },
+      {
+        "design_code": "LETTER",
+        "total_skus": 1425
+      }
+    ]
+  }
+}

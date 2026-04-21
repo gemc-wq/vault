@@ -1,0 +1,14 @@
+{
+  "name": "eod-automation",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Slack EOD parser MVP for daily markdown and JSON digests",
+  "main": "src/eod-parser.js",
+  "type": "commonjs",
+  "scripts": {
+    "eod:parse": "node src/eod-parser.js"
+  },
+  "dependencies": {
+    "@slack/web-api": "^7.12.0"
+  }
+}

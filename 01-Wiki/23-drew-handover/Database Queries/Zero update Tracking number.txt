@@ -1,0 +1,8 @@
+@vhey,
+pag magupdate sa DB:
+t_trackingnumbers
+f_carriername = 'Deutsche Post - Grossbrief Einschreiben International'
+
+CARRIER - SERVICE
+
+(-)dash delimited yung carrier and service

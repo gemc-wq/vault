@@ -1,0 +1,270 @@
+# Vault Change Log
+*Append-only record of vault changes*
+
+## 2026-04-07 10:02
+- Rebuilt PROJECT_BOARD.md
+- Rebuilt BLOCKERS.md
+- Rebuilt VAULT_HEALTH.md
+
+## 2026-04-11 07:02
+- Filtered 63 raw logs
+-   2026-03-03_cleaned_cleaned.md → 95% retained
+-   2026-03-04_cleaned_cleaned_cleaned.md → 113% retained
+-   2026-03-06_cleaned.md → 4% retained
+-   2026-03-07_cleaned_cleaned.md → 38% retained
+-   2026-03-09-po-routing_cleaned_cleaned_cleaned.md → 96% retained
+-   2026-03-09_cleaned.md → 11% retained
+-   2026-03-11_cleaned_cleaned_cleaned.md → 100% retained
+-   2026-03-12_cleaned_cleaned.md → 106% retained
+-   2026-03-13_cleaned.md → 60% retained
+-   2026-03-18_cleaned_cleaned.md → 97% retained
+-   2026-03-19_cleaned_cleaned_cleaned.md → 100% retained
+-   2026-03-21_cleaned.md → 10% retained
+-   2026-03-22_cleaned_cleaned_cleaned.md → 100% retained
+-   2026-03-24_cleaned_cleaned_cleaned.md → 98% retained
+-   2026-03-25_cleaned_cleaned_cleaned.md → 98% retained
+-   2026-03-28_cleaned_cleaned.md → 106% retained
+-   2026-03-29_cleaned_cleaned_cleaned.md → 100% retained
+-   2026-03-30_cleaned_cleaned.md → 101% retained
+-   2026-03-31_cleaned_cleaned.md → 97% retained
+-   2026-04-02-http-401-authentication-error-_cleaned_cleaned_cleaned.md → 100% retained
+-   2026-04-02_cleaned_cleaned_cleaned.md → 108% retained
+-   2026-04-03_cleaned_cleaned_cleaned.md → 101% retained
+-   2026-04-07_cleaned_cleaned_cleaned.md → 100% retained
+-   2026-04-10-AVA-PROCESSING-SUMMARY.md → 23% retained
+-   2026-04-10-CLOUD-RUN-AMAZON-REPORTS-API.md → 52% retained
+-   2026-04-10-FULL-SESSION.md → 31% retained
+-   2026-04-10-HEARTBEAT.md → 78% retained
+-   2026-04-10-SHIPPING-TEMPLATE-AUDIT.md → 73% retained
+-   2026-04-10-VAULT-LAYER3-DIRECTIVE.md → 76% retained
+-   2026-04-10.md → 10% retained
+-   2026-01-27_cleaned_cleaned_cleaned.md → 100% retained
+-   2026-01-28_cleaned_cleaned_cleaned.md → 95% retained
+-   2026-01-31_cleaned_cleaned_cleaned.md → 97% retained
+-   2026-02-01_cleaned_cleaned_cleaned.md → 92% retained
+-   2026-02-05_cleaned_cleaned_cleaned.md → 100% retained
+-   2026-02-06_cleaned_cleaned.md → 98% retained
+-   2026-02-07_cleaned_cleaned.md → 10% retained
+-   2026-02-08_cleaned_cleaned_cleaned.md → 102% retained
+-   2026-02-09_cleaned_cleaned_cleaned.md → 100% retained
+-   2026-02-10_cleaned_cleaned_cleaned.md → 100% retained
+-   2026-02-11_cleaned_cleaned_cleaned.md → 102% retained
+-   2026-02-16_cleaned_cleaned_cleaned.md → 100% retained
+-   2026-02-17_cleaned_cleaned.md → 19% retained
+-   2026-02-20.md → 41% retained
+-   2026-02-22.md → 55% retained
+-   2026-02-23.md → 91% retained
+-   2026-02-27.md → 92% retained
+-   2026-02-28.md → 50% retained
+-   2026-03-03.md → 31% retained
+-   2026-03-01.md → 72% retained
+-   2026-03-03.md → 49% retained
+-   2026-03-04.md → 55% retained
+-   2026-03-05.md → 52% retained
+-   2026-03-06.md → 35% retained
+-   2026-03-07.md → 20% retained
+-   2026-03-18.md → 113% retained
+-   2026-03-19.md → 75% retained
+-   2026-03-20.md → 55% retained
+-   2026-03-21.md → 77% retained
+-   2026-03-24.md → 60% retained
+-   2026-04-01.md → 30% retained
+-   2026-04-03.md → 44% retained
+-   2026-04-04.md → 72% retained
+- Rebuilt PROJECT_BOARD.md
+- Rebuilt BLOCKERS.md
+- Rebuilt VAULT_HEALTH.md
+
+## 2026-04-12 06:53
+- Filtered 55 raw logs
+-   2026-03-01_cleaned_cleaned.md → 100% retained
+-   2026-03-03_cleaned_cleaned_cleaned.md → 100% retained
+-   2026-03-04_cleaned_cleaned_cleaned_cleaned.md → 103% retained
+-   2026-03-06_cleaned_cleaned.md → 108% retained
+-   2026-03-07_cleaned_cleaned_cleaned.md → 101% retained
+-   2026-03-09-po-routing_cleaned_cleaned_cleaned_cleaned.md → 93% retained
+-   2026-03-09_cleaned_cleaned.md → 114% retained
+-   2026-03-11_cleaned_cleaned_cleaned_cleaned.md → 100% retained
+-   2026-03-12_cleaned_cleaned_cleaned.md → 100% retained
+-   2026-03-16.md → 38% retained
+-   2026-03-18_cleaned_cleaned_cleaned.md → 100% retained
+-   2026-03-19_cleaned_cleaned_cleaned_cleaned.md → 100% retained
+-   2026-03-20_cleaned.md → 11% retained
+-   2026-03-21_cleaned_cleaned.md → 100% retained
+-   2026-03-22_cleaned_cleaned_cleaned_cleaned.md → 100% retained
+-   2026-03-24_cleaned_cleaned_cleaned_cleaned.md → 99% retained
+-   2026-03-25_cleaned_cleaned_cleaned_cleaned.md → 89% retained
+-   2026-03-26_cleaned_cleaned.md → 17% retained
+-   2026-03-28_cleaned_cleaned_cleaned.md → 104% retained
+-   2026-03-30_cleaned_cleaned_cleaned.md → 100% retained
+-   2026-04-02_cleaned_cleaned_cleaned_cleaned.md → 100% retained
+-   2026-04-03_cleaned_cleaned_cleaned_cleaned.md → 90% retained
+-   2026-04-07_cleaned_cleaned_cleaned_cleaned.md → 100% retained
+-   2026-04-10-CLOUD-RUN-AMAZON-REPORTS-API_cleaned.md → 51% retained
+-   2026-04-10-FULL-SESSION_cleaned.md → 35% retained
+-   2026-04-10-HEARTBEAT_cleaned.md → 83% retained
+-   2026-04-10-SHIPPING-TEMPLATE-AUDIT_cleaned.md → 67% retained
+-   2026-04-10-SUMMARY-FOR-CEM.md → 16% retained
+-   2026-04-10-VAULT-LAYER3-DIRECTIVE_cleaned.md → 96% retained
+-   2026-04-11.md → 35% retained
+-   2026-01-27_cleaned_cleaned_cleaned_cleaned.md → 100% retained
+-   2026-01-28_cleaned_cleaned_cleaned_cleaned.md → 98% retained
+-   2026-01-31_cleaned_cleaned_cleaned_cleaned.md → 94% retained
+-   2026-02-01_cleaned_cleaned_cleaned_cleaned.md → 88% retained
+-   2026-02-05_cleaned_cleaned_cleaned_cleaned.md → 100% retained
+-   2026-02-07_cleaned_cleaned_cleaned.md → 102% retained
+-   2026-02-08_cleaned_cleaned_cleaned_cleaned.md → 102% retained
+-   2026-02-09_cleaned_cleaned_cleaned_cleaned.md → 92% retained
+-   2026-02-11_cleaned_cleaned_cleaned_cleaned.md → 100% retained
+-   2026-02-14_cleaned_cleaned.md → 102% retained
+-   2026-02-16_cleaned_cleaned_cleaned_cleaned.md → 100% retained
+-   2026-02-17_cleaned_cleaned_cleaned.md → 94% retained
+-   2026-02-18_cleaned_cleaned_cleaned.md → 100% retained
+-   2026-02-22_cleaned.md → 88% retained
+-   2026-02-23_cleaned.md → 95% retained
+-   2026-02-27_cleaned.md → 79% retained
+-   2026-03-01_cleaned.md → 30% retained
+-   2026-03-06_cleaned.md → 22% retained
+-   2026-03-18_cleaned.md → 100% retained
+-   2026-03-19_cleaned.md → 88% retained
+-   2026-03-20_cleaned.md → 58% retained
+-   2026-03-21_cleaned.md → 23% retained
+-   2026-04-01_cleaned.md → 85% retained
+-   2026-04-03_cleaned.md → 91% retained
+-   2026-04-04_cleaned.md → 97% retained
+- Rebuilt PROJECT_BOARD.md
+- Rebuilt BLOCKERS.md
+- Rebuilt VAULT_HEALTH.md
+
+## 2026-04-13 06:51
+- Filtered 56 raw logs
+-   2026-03-01_cleaned_cleaned_cleaned.md → 92% retained
+-   2026-03-03_cleaned_cleaned_cleaned_cleaned.md → 100% retained
+-   2026-03-04_cleaned_cleaned_cleaned_cleaned_cleaned.md → 91% retained
+-   2026-03-07_cleaned_cleaned_cleaned_cleaned.md → 101% retained
+-   2026-03-09-po-routing_cleaned_cleaned_cleaned_cleaned_cleaned.md → 101% retained
+-   2026-03-09_cleaned_cleaned_cleaned.md → 100% retained
+-   2026-03-11_cleaned_cleaned_cleaned_cleaned_cleaned.md → 100% retained
+-   2026-03-12_cleaned_cleaned_cleaned_cleaned.md → 100% retained
+-   2026-03-14_cleaned_cleaned_cleaned.md → 54% retained
+-   2026-03-15_cleaned.md → 27% retained
+-   2026-03-18_cleaned_cleaned_cleaned_cleaned.md → 100% retained
+-   2026-03-19_cleaned_cleaned_cleaned_cleaned_cleaned.md → 100% retained
+-   2026-03-20_cleaned_cleaned.md → 107% retained
+-   2026-03-21_cleaned_cleaned_cleaned.md → 90% retained
+-   2026-03-22_cleaned_cleaned_cleaned_cleaned_cleaned.md → 100% retained
+-   2026-03-24_cleaned_cleaned_cleaned_cleaned_cleaned.md → 32% retained
+-   2026-03-26_cleaned_cleaned_cleaned.md → 99% retained
+-   2026-03-27_cleaned_cleaned.md → 100% retained
+-   2026-03-28_cleaned_cleaned_cleaned_cleaned.md → 100% retained
+-   2026-03-29_cleaned_cleaned_cleaned_cleaned.md → 98% retained
+-   2026-03-30_cleaned_cleaned_cleaned_cleaned.md → 100% retained
+-   2026-03-31_cleaned_cleaned_cleaned.md → 28% retained
+-   2026-04-02-http-401-authentication-error-_cleaned_cleaned_cleaned_cleaned.md → 99% retained
+-   2026-04-02_cleaned_cleaned_cleaned_cleaned_cleaned.md → 100% retained
+-   2026-04-03_cleaned_cleaned_cleaned_cleaned_cleaned.md → 80% retained
+-   2026-04-04_cleaned.md → 40% retained
+-   2026-04-07_cleaned_cleaned_cleaned_cleaned_cleaned.md → 100% retained
+-   2026-04-10-AVA-PROCESSING-SUMMARY_cleaned.md → 78% retained
+-   2026-04-10-HEARTBEAT_cleaned_cleaned.md → 98% retained
+-   2026-04-10-SHIPPING-TEMPLATE-AUDIT_cleaned_cleaned.md → 70% retained
+-   2026-04-10-SUMMARY-FOR-CEM_cleaned.md → 94% retained
+-   2026-04-11_cleaned.md → 26% retained
+-   2026-04-12.md → 38% retained
+-   2026-01-27_cleaned_cleaned_cleaned_cleaned_cleaned.md → 92% retained
+-   2026-01-28_cleaned_cleaned_cleaned_cleaned_cleaned.md → 100% retained
+-   2026-01-31_cleaned_cleaned_cleaned_cleaned_cleaned.md → 100% retained
+-   2026-02-01_cleaned_cleaned_cleaned_cleaned_cleaned.md → 100% retained
+-   2026-02-05_cleaned_cleaned_cleaned_cleaned_cleaned.md → 100% retained
+-   2026-02-07_cleaned_cleaned_cleaned_cleaned.md → 100% retained
+-   2026-02-09_cleaned_cleaned_cleaned_cleaned_cleaned.md → 100% retained
+-   2026-02-11_cleaned_cleaned_cleaned_cleaned_cleaned.md → 100% retained
+-   2026-02-14_cleaned_cleaned_cleaned.md → 98% retained
+-   2026-02-15_cleaned_cleaned.md → 32% retained
+-   2026-02-16_cleaned_cleaned_cleaned_cleaned_cleaned.md → 100% retained
+-   2026-02-17_cleaned_cleaned_cleaned_cleaned.md → 100% retained
+-   2026-02-18_cleaned_cleaned_cleaned_cleaned.md → 100% retained
+-   2026-02-23_cleaned_cleaned.md → 90% retained
+-   2026-03-01_cleaned_cleaned.md → 96% retained
+-   2026-03-05_cleaned.md → 17% retained
+-   2026-03-06_cleaned_cleaned.md → 37% retained
+-   2026-03-18_cleaned_cleaned.md → 100% retained
+-   2026-03-19_cleaned_cleaned.md → 100% retained
+-   2026-03-21_cleaned_cleaned.md → 101% retained
+-   2026-03-24_cleaned.md → 96% retained
+-   2026-04-01_cleaned_cleaned.md → 99% retained
+-   2026-04-04_cleaned_cleaned.md → 71% retained
+- Rebuilt PROJECT_BOARD.md
+- Rebuilt BLOCKERS.md
+- Rebuilt VAULT_HEALTH.md
+
+## 2026-04-13 — Wiki Lint Pass (Post-Promotion)
+- **91 facts promoted** from cleaned agent logs (Phase 1.5 first run)
+- **12 duplicate pages removed** via lint consolidation:
+  - `data_architecture.md` → merged into `data-architecture.md`
+  - `image-upload-standards.md` + `image_asset_standards.md` → merged into `image-standards.md`
+  - `supabase_projects.md` → merged into `supabase-project-details.md`
+  - `memory_architecture.md` + `memory_hierarchy.md` → merged into `memory-hierarchy.md`
+  - `knowledge-management-hierarchy.md` → removed (duplicate of `memory-hierarchy.md`)
+  - `decision_making_framework.md` → merged into `decision-protocol.md`
+  - `amazon-market-analysis.md` → merged into `amazon-market-intelligence.md`
+  - `product-naming-conventions.md` + `product_listing_standards.md` + `product_titling_standards.md` → merged into `product-listing-standards.md`
+  - `walmart_seo_optimization.md` → merged into `walmart-title-optimization.md`
+- **Wikilinks added** to all consolidated pages
+- Wiki total: 399 pages across 40 topic directories
+
+## 2026-04-14 06:09
+- Filtered 1 raw logs
+-   2026-04-13.md → 37% retained
+- Rebuilt PROJECT_BOARD.md
+- Rebuilt BLOCKERS.md
+- Rebuilt VAULT_HEALTH.md
+
+## 2026-04-15 06:06
+- Rebuilt PROJECT_BOARD.md
+- Rebuilt BLOCKERS.md
+- Rebuilt VAULT_HEALTH.md
+
+## 2026-04-16 06:07
+- Rebuilt PROJECT_BOARD.md
+- Rebuilt BLOCKERS.md
+- Rebuilt VAULT_HEALTH.md
+
+## 2026-04-17 06:10
+- Filtered 2 raw logs
+-   2026-04-16.md → 38% retained
+-   2026-02-21.md → 11% retained
+- Promoted 3 facts to wiki
+-   → 14-goheadcase: master_project_map.md, microsite_strategy.md
+-   → 03-production: fulfillment_orchestrator.md
+- Rebuilt PROJECT_BOARD.md
+- Rebuilt BLOCKERS.md
+- Rebuilt VAULT_HEALTH.md
+
+## 2026-04-18 06:07
+- Filtered 1 raw logs
+-   2026-04-17.md → 35% retained
+- Promoted 2 facts to wiki
+-   → 08-infrastructure: pulse-dashboard-architecture.md
+-   → 11-product-intelligence: amazon-reporting-process.md
+- Rebuilt PROJECT_BOARD.md
+- Rebuilt BLOCKERS.md
+- Rebuilt VAULT_HEALTH.md
+
+## 2026-04-19 06:07
+- Filtered 2 raw logs
+-   2026-04-15.md → 7% retained
+-   2026-04-18.md → 49% retained
+- Promoted 3 facts to wiki
+-   → 08-infrastructure: openclaw-ops.md, reporting-architecture.md
+-   → 10-listingforge: listing-snapshot-logic.md
+- Rebuilt PROJECT_BOARD.md
+- Rebuilt BLOCKERS.md
+- Rebuilt VAULT_HEALTH.md
+
+## 2026-04-20 06:05
+- Filtered 1 raw logs
+-   2026-04-19.md → 24% retained
+- Rebuilt PROJECT_BOARD.md
+- Rebuilt BLOCKERS.md
+- Rebuilt VAULT_HEALTH.md

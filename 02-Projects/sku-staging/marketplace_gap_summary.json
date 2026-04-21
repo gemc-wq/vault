@@ -1,0 +1,24 @@
+{
+  "walmart": {
+    "total_designs": 3315,
+    "designs_with_ean": 1895,
+    "designs_missing_ean": 1420,
+    "estimated_skus": 11476,
+    "skus_with_ean": 8694,
+    "skus_needing_ean": 2782,
+    "total_revenue_90d": 771826.42
+  },
+  "onbuy": {
+    "total_designs": 700,
+    "designs_with_ean": 691,
+    "designs_missing_ean": 9,
+    "estimated_skus": 10925,
+    "total_revenue_90d": 400542.54
+  },
+  "ean_pool": {
+    "total_gtins_in_db": 599998,
+    "assigned": 473083,
+    "unassigned_valid": 51782,
+    "unassigned_invalid": 75133
+  }
+}

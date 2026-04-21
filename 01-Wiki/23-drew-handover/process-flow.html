@@ -1,0 +1,424 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Patrick's Dual-Lane Operations — Process Flow</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #0a0e17; color: #e0e6ed; padding: 24px; min-height: 100vh; }
+  h1 { text-align: center; font-size: 28px; margin-bottom: 8px; color: #fff; }
+  .subtitle { text-align: center; color: #8892a4; margin-bottom: 32px; font-size: 14px; }
+  
+  .container { display: flex; gap: 24px; max-width: 1400px; margin: 0 auto; }
+  
+  .lane { flex: 1; border-radius: 16px; padding: 24px; position: relative; }
+  .lane-legacy { background: linear-gradient(180deg, #1a1520 0%, #12101a 100%); border: 1px solid #3d2a55; }
+  .lane-veeqo { background: linear-gradient(180deg, #0f1a20 0%, #0a1218 100%); border: 1px solid #1a4a3a; }
+  
+  .lane-header { display: flex; align-items: center; gap: 12px; margin-bottom: 20px; padding-bottom: 16px; border-bottom: 1px solid rgba(255,255,255,0.08); }
+  .lane-badge { padding: 4px 12px; border-radius: 20px; font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; }
+  .badge-legacy { background: #dc354520; color: #ff6b6b; border: 1px solid #dc354540; }
+  .badge-veeqo { background: #22c55e20; color: #4ade80; border: 1px solid #22c55e40; }
+  .lane-title { font-size: 20px; font-weight: 700; }
+  .lane-status { font-size: 12px; color: #8892a4; margin-left: auto; }
+  
+  .step { background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.08); border-radius: 12px; padding: 16px; margin-bottom: 12px; position: relative; transition: all 0.2s; }
+  .step:hover { background: rgba(255,255,255,0.07); border-color: rgba(255,255,255,0.15); }
+  
+  .step-header { display: flex; align-items: center; gap: 10px; margin-bottom: 8px; }
+  .step-num { width: 28px; height: 28px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 13px; font-weight: 700; flex-shrink: 0; }
+  .num-legacy { background: #dc354525; color: #ff6b6b; }
+  .num-veeqo { background: #22c55e25; color: #4ade80; }
+  .step-title { font-weight: 600; font-size: 15px; }
+  
+  .step-detail { font-size: 13px; color: #8892a4; line-height: 1.5; margin-left: 38px; }
+  .step-detail strong { color: #b8c0cc; }
+  
+  .data-tag { display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 11px; font-weight: 600; margin: 2px 2px; }
+  .tag-manual { background: #f59e0b20; color: #fbbf24; border: 1px solid #f59e0b30; }
+  .tag-auto { background: #22c55e15; color: #4ade80; border: 1px solid #22c55e25; }
+  .tag-php { background: #8b5cf620; color: #a78bfa; border: 1px solid #8b5cf630; }
+  .tag-api { background: #3b82f620; color: #60a5fa; border: 1px solid #3b82f630; }
+  .tag-email { background: #ec489920; color: #f472b6; border: 1px solid #ec489930; }
+  .tag-file { background: #6b728020; color: #9ca3af; border: 1px solid #6b728030; }
+  
+  .arrow { text-align: center; color: #3d4555; font-size: 20px; margin: 4px 0; }
+  .arrow-legacy { color: #5a3a6a; }
+  .arrow-veeqo { color: #1a5a4a; }
+  
+  .pain-point { background: #dc354510; border: 1px solid #dc354530; border-radius: 8px; padding: 10px 14px; margin: 8px 0 8px 38px; font-size: 12px; color: #ff8a8a; }
+  .pain-point::before { content: "⚠️ "; }
+  
+  .efficiency { background: #22c55e10; border: 1px solid #22c55e30; border-radius: 8px; padding: 10px 14px; margin: 8px 0 8px 38px; font-size: 12px; color: #86efac; }
+  .efficiency::before { content: "✅ "; }
+  
+  .connector { text-align: center; padding: 20px 0; }
+  .connector-line { width: 2px; height: 30px; background: linear-gradient(180deg, transparent, #3d4555, transparent); margin: 0 auto; }
+  
+  .summary-box { background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.1); border-radius: 16px; padding: 24px; margin-top: 32px; max-width: 1400px; margin-left: auto; margin-right: auto; }
+  .summary-title { font-size: 18px; font-weight: 700; margin-bottom: 16px; }
+  .summary-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
+  .summary-stat { text-align: center; padding: 16px; background: rgba(255,255,255,0.03); border-radius: 12px; }
+  .stat-value { font-size: 32px; font-weight: 800; }
+  .stat-value-red { color: #ff6b6b; }
+  .stat-value-green { color: #4ade80; }
+  .stat-value-blue { color: #60a5fa; }
+  .stat-label { font-size: 12px; color: #8892a4; margin-top: 4px; }
+  
+  .data-flow-label { font-size: 11px; color: #6b7280; text-align: center; font-style: italic; margin: 2px 0; }
+  
+  .section-divider { text-align: center; margin: 16px 0; padding: 8px; border-top: 1px dashed rgba(255,255,255,0.1); border-bottom: 1px dashed rgba(255,255,255,0.1); }
+  .section-divider span { font-size: 11px; text-transform: uppercase; letter-spacing: 2px; color: #6b7280; }
+
+  .overlap-box { background: #f59e0b10; border: 1px solid #f59e0b30; border-radius: 12px; padding: 16px; margin-top: 24px; max-width: 1400px; margin-left: auto; margin-right: auto; }
+  .overlap-title { font-size: 16px; font-weight: 700; color: #fbbf24; margin-bottom: 12px; }
+  .overlap-item { display: flex; align-items: flex-start; gap: 8px; margin-bottom: 8px; font-size: 13px; }
+  .overlap-icon { font-size: 16px; flex-shrink: 0; }
+</style>
+</head>
+<body>
+
+<h1>🔄 Patrick's Dual-Lane Operations</h1>
+<p class="subtitle">Current parallel workflows — Legacy Zero + Veeqo | Ecell Global Order-to-Production Pipeline</p>
+
+<div class="container">
+  <!-- LANE 1: LEGACY -->
+  <div class="lane lane-legacy">
+    <div class="lane-header">
+      <span class="lane-badge badge-legacy">LANE 1</span>
+      <span class="lane-title">Legacy Zero Pipeline</span>
+      <span class="lane-status">🔴 Being Replaced</span>
+    </div>
+
+    <div class="step">
+      <div class="step-header">
+        <span class="step-num num-legacy">1</span>
+        <span class="step-title">Download Orders from Amazon</span>
+      </div>
+      <div class="step-detail">
+        Patrick <strong>manually downloads</strong> order CSV/reports from Amazon Seller Central.
+        <br><span class="data-tag tag-manual">MANUAL</span> <span class="data-tag tag-file">CSV Download</span>
+      </div>
+      <div class="pain-point">Manual trigger — no automation. Must be done at specific PO wave times.</div>
+    </div>
+    
+    <div class="arrow arrow-legacy">↓</div>
+    <div class="data-flow-label">CSV file → local machine</div>
+
+    <div class="step">
+      <div class="step-header">
+        <span class="step-num num-legacy">2</span>
+        <span class="step-title">Upload Orders to Zero</span>
+      </div>
+      <div class="step-detail">
+        Orders uploaded/imported into Zero system on <strong>192.168.20.57</strong> (XAMPP/PHP).
+        <br><span class="data-tag tag-manual">MANUAL</span> <span class="data-tag tag-php">PHP/XAMPP</span>
+      </div>
+      <div class="pain-point">Data re-entry point. Errors here cascade downstream.</div>
+    </div>
+
+    <div class="arrow arrow-legacy">↓</div>
+    <div class="data-flow-label">Orders in Zero DB → 192.168.20.160</div>
+
+    <div class="step">
+      <div class="step-header">
+        <span class="step-num num-legacy">3</span>
+        <span class="step-title">PO Filtering</span>
+      </div>
+      <div class="step-detail">
+        <strong>zero_POFiltering.php</strong> (1,300+ lines) routes orders by:
+        <br>• Country (US/UK/EU/PH)
+        <br>• Product type (skins, desk mats, cases — codes 90, ST, DM, A9, B6, B7)
+        <br>• Day-of-week (Fri PM → Mon holds)
+        <br>• Warehouse availability (UK vs FL units)
+        <br><span class="data-tag tag-php">PHP Hardcoded</span> <span class="data-tag tag-manual">No Admin UI</span>
+      </div>
+      <div class="pain-point">1,300 lines of if/elseif chains. Any rule change = edit PHP source code.</div>
+    </div>
+
+    <div class="arrow arrow-legacy">↓</div>
+    <div class="data-flow-label">Filtered PO batches</div>
+
+    <div class="step">
+      <div class="step-header">
+        <span class="step-num num-legacy">4</span>
+        <span class="step-title">Generate Picking List</span>
+      </div>
+      <div class="step-detail">
+        <strong>sage_generate_picking_list_split.php</strong> creates pick lists per warehouse/carrier.
+        <br><span class="data-tag tag-php">PHP Hardcoded</span>
+      </div>
+    </div>
+
+    <div class="arrow arrow-legacy">↓</div>
+    <div class="data-flow-label">Pick list → carrier label generation</div>
+
+    <div class="step">
+      <div class="step-header">
+        <span class="step-num num-legacy">5</span>
+        <span class="step-title">Generate Shipping Labels</span>
+      </div>
+      <div class="step-detail">
+        Multiple carrier APIs called separately:
+        <br>• Amazon Buy Shipping API
+        <br>• USPS / Stamps.com
+        <br>• Royal Mail (UK)
+        <br>• Veeqo labels (some channels)
+        <br>Labels combined into <strong>single PDF</strong>.
+        <br><span class="data-tag tag-api">Multi-API</span> <span class="data-tag tag-manual">Manual combine</span>
+      </div>
+      <div class="pain-point">4+ carrier integrations managed separately. Patrick generates transaction reports for each.</div>
+    </div>
+
+    <div class="arrow arrow-legacy">↓</div>
+    <div class="data-flow-label">Combined label PDF + USPS scan form</div>
+
+    <div class="step">
+      <div class="step-header">
+        <span class="step-num num-legacy">6</span>
+        <span class="step-title">Create MFG Purchase Order</span>
+      </div>
+      <div class="step-detail">
+        <strong>zero_generate_purchase_order_automated_phAMG1_wh.php</strong> creates manufacturing PO.
+        <br>Automated email sent to production team.
+        <br><span class="data-tag tag-php">PHP</span> <span class="data-tag tag-email">Email Trigger</span>
+      </div>
+    </div>
+
+    <div class="arrow arrow-legacy">↓</div>
+    <div class="data-flow-label">Email notification → production team</div>
+
+    <div class="step">
+      <div class="step-header">
+        <span class="step-num num-legacy">7</span>
+        <span class="step-title">HPT Image Rendering</span>
+      </div>
+      <div class="step-detail">
+        Staff open <strong>HPT (Head Case Production Tool)</strong> — renders print-ready images per order.
+        <br>Images saved to <strong>QNAP NAS</strong> in Manufacturing Office.
+        <br><span class="data-tag tag-manual">MANUAL Trigger</span> <span class="data-tag tag-file">NAS Storage</span>
+      </div>
+      <div class="pain-point">Runs on Manufacturing Office VMs (likely IREN). Nobody fully understands the code.</div>
+    </div>
+
+    <div class="arrow arrow-legacy">↓</div>
+    <div class="data-flow-label">Print images on NAS</div>
+
+    <div class="step">
+      <div class="step-header">
+        <span class="step-num num-legacy">8</span>
+        <span class="step-title">1:1 Reconciliation & Print</span>
+      </div>
+      <div class="step-detail">
+        <strong>100 labels = 100 print files.</strong> Must match exactly.
+        <br>Physical print → pick → pack → ship.
+        <br><span class="data-tag tag-manual">MANUAL Check</span>
+      </div>
+      <div class="pain-point">Any mismatch = wrong case shipped to customer. Manual counting.</div>
+    </div>
+
+    <div class="section-divider"><span>Daily Output: ~8 emails by 4 AM</span></div>
+
+    <div class="step" style="border-color: #dc354540;">
+      <div class="step-header">
+        <span class="step-num num-legacy">📊</span>
+        <span class="step-title">Daily Reports (Manual)</span>
+      </div>
+      <div class="step-detail">
+        • USPS Stamps Transaction Report<br>
+        • USPS Buy Shipping Transaction Report<br>
+        • Daily SO for Sage MFG<br>
+        • USPS Scan Forms<br>
+        <span class="data-tag tag-email">Email Distribution</span> <span class="data-tag tag-manual">MANUAL</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- LANE 2: VEEQO -->
+  <div class="lane lane-veeqo">
+    <div class="lane-header">
+      <span class="lane-badge badge-veeqo">LANE 2</span>
+      <span class="lane-title">Veeqo Pipeline</span>
+      <span class="lane-status">🟢 Target State</span>
+    </div>
+
+    <div class="step">
+      <div class="step-header">
+        <span class="step-num num-veeqo">1</span>
+        <span class="step-title">Orders Auto-Sync</span>
+      </div>
+      <div class="step-detail">
+        Orders flow in <strong>automatically</strong> from all connected channels:
+        <br>• Amazon US, Amazon FBA, Walmart, eBay US
+        <br>• GoHeadCase (Shopify), Etsy, Fanatics, TikTok Shop
+        <br><span class="data-tag tag-auto">AUTOMATIC</span> <span class="data-tag tag-api">Native API Sync</span>
+      </div>
+      <div class="efficiency">No manual download. Orders appear in real-time across all channels.</div>
+    </div>
+
+    <div class="arrow arrow-veeqo">↓</div>
+    <div class="data-flow-label">Auto-ingested orders</div>
+
+    <div class="step">
+      <div class="step-header">
+        <span class="step-num num-veeqo">2</span>
+        <span class="step-title">Smart Order Routing</span>
+      </div>
+      <div class="step-detail">
+        Veeqo's <strong>Smart Order Routing</strong> auto-allocates to nearest warehouse with stock.
+        <br>Location Priority fallback chain handles overflow.
+        <br>Replaces 1,300 lines of PHP routing logic.
+        <br><span class="data-tag tag-auto">AUTOMATIC</span> <span class="data-tag tag-api">Built-in Rules Engine</span>
+      </div>
+      <div class="efficiency">Config-based routing rules. Changes via UI, not PHP edits.</div>
+    </div>
+
+    <div class="arrow arrow-veeqo">↓</div>
+    <div class="data-flow-label">Routed orders in filtered tabs</div>
+
+    <div class="step">
+      <div class="step-header">
+        <span class="step-num num-veeqo">3</span>
+        <span class="step-title">Operator: Filter → Sort → Bulk Select</span>
+      </div>
+      <div class="step-detail">
+        Custom <strong>filtered tabs</strong> per operator:
+        <br>• FL Premium, FL Non-Premium
+        <br>• UK Orders, PH Consolidation
+        <br>Sort by SKU prefix → bulk select → print labels.
+        <br><span class="data-tag tag-manual">OPERATOR</span> <span class="data-tag tag-auto">Pre-filtered</span>
+      </div>
+      <div class="efficiency">Operators see only their orders. No cross-warehouse confusion.</div>
+    </div>
+
+    <div class="arrow arrow-veeqo">↓</div>
+    <div class="data-flow-label">Selected orders → label generation</div>
+
+    <div class="step">
+      <div class="step-header">
+        <span class="step-num num-veeqo">4</span>
+        <span class="step-title">Print Labels (One Click)</span>
+      </div>
+      <div class="step-detail">
+        <strong>Bulk print labels</strong> — Veeqo auto-selects cheapest carrier.
+        <br>Amazon Buy Shipping, USPS, RM — all from one interface.
+        <br>5% cashback on Amazon shipping rates.
+        <br><span class="data-tag tag-auto">AUTO-CARRIER</span> <span class="data-tag tag-api">Single Interface</span>
+      </div>
+      <div class="efficiency">One carrier integration, not 4+. Automatic rate shopping.</div>
+    </div>
+
+    <div class="arrow arrow-veeqo">↓</div>
+    <div class="data-flow-label">Labels printed → mark shipped</div>
+
+    <div class="step">
+      <div class="step-header">
+        <span class="step-num num-veeqo">5</span>
+        <span class="step-title">Mark Shipped → Auto-Update ALL Channels</span>
+      </div>
+      <div class="step-detail">
+        One click: <strong>mark as shipped</strong>.
+        <br>• Auto-updates Amazon, Walmart, eBay, Etsy, Shopify — ALL at once
+        <br>• Customer gets tracking email automatically
+        <br>• Inventory decremented across all channels
+        <br><span class="data-tag tag-auto">AUTOMATIC</span> <span class="data-tag tag-api">Multi-Channel Sync</span>
+      </div>
+      <div class="efficiency">No manual marketplace updates. Zero risk of overselling.</div>
+    </div>
+
+    <div class="arrow arrow-veeqo">↓</div>
+    <div class="data-flow-label">CSV export for production</div>
+
+    <div class="section-divider"><span>🔗 Bridge to Production (TBD)</span></div>
+
+    <div class="step" style="border-color: #f59e0b40; background: rgba(245,158,11,0.05);">
+      <div class="step-header">
+        <span class="step-num" style="background: #f59e0b25; color: #fbbf24;">6</span>
+        <span class="step-title">CSV Export → Production Pipeline</span>
+      </div>
+      <div class="step-detail">
+        <strong>THIS IS THE GAP.</strong> Veeqo handles orders + shipping.
+        <br>But print file generation still needs:
+        <br>• Shipped CSV export from Veeqo
+        <br>• Parse SKU → design code + device code
+        <br>• Trigger image generation (currently HPT/IREN)
+        <br>• 1:1 reconciliation with labels
+        <br><span class="data-tag tag-manual">TBD</span> <span class="data-tag tag-file">CSV Bridge</span>
+      </div>
+      <div class="pain-point">The image generation trigger currently comes from Zero's MFG PO email. Veeqo needs an equivalent trigger — either CSV webhook, Veeqo API, or manual export.</div>
+    </div>
+
+    <div class="arrow arrow-veeqo">↓</div>
+
+    <div class="step">
+      <div class="step-header">
+        <span class="step-num num-veeqo">7</span>
+        <span class="step-title">Image Gen + Print (Same as Lane 1)</span>
+      </div>
+      <div class="step-detail">
+        HPT / IREN renders print images → QNAP NAS → physical print.
+        <br><em>This step is identical regardless of which lane feeds it.</em>
+        <br><span class="data-tag tag-manual">UNCHANGED</span>
+      </div>
+    </div>
+
+    <div class="section-divider"><span>Target: 3 operators replacing 10+</span></div>
+
+    <div class="step" style="border-color: #22c55e40;">
+      <div class="step-header">
+        <span class="step-num num-veeqo">📊</span>
+        <span class="step-title">Automated Reports</span>
+      </div>
+      <div class="step-detail">
+        • Veeqo dashboard = real-time metrics<br>
+        • Shipping reports auto-generated<br>
+        • No manual transaction report emails needed<br>
+        <span class="data-tag tag-auto">AUTOMATIC</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- OVERLAP / BRIDGE SECTION -->
+<div class="overlap-box">
+  <div class="overlap-title">🔗 Critical Bridge: Where Lane 1 & Lane 2 Overlap</div>
+  <div class="overlap-item">
+    <span class="overlap-icon">📦</span>
+    <div><strong>Image generation (HPT/IREN)</strong> is shared — both lanes feed into the same production system. The trigger mechanism is different (Zero email vs Veeqo CSV), but the output is identical.</div>
+  </div>
+  <div class="overlap-item">
+    <span class="overlap-icon">🏷️</span>
+    <div><strong>Label reconciliation</strong> — both lanes must produce 1:1 label-to-print-file matching. This is the quality gate regardless of order source.</div>
+  </div>
+  <div class="overlap-item">
+    <span class="overlap-icon">⚡</span>
+    <div><strong>Patrick runs BOTH simultaneously</strong> — double work during transition. Some channels on Zero, some on Veeqo. Goal: collapse everything into Lane 2.</div>
+  </div>
+  <div class="overlap-item">
+    <span class="overlap-icon">❓</span>
+    <div><strong>Unknown:</strong> What determines which orders go through which lane? Channel? Region? Product type? Need Patrick to clarify the split criteria.</div>
+  </div>
+</div>
+
+<!-- SUMMARY STATS -->
+<div class="summary-box">
+  <div class="summary-title">Migration Impact</div>
+  <div class="summary-grid">
+    <div class="summary-stat">
+      <div class="stat-value stat-value-red">8 → 3</div>
+      <div class="stat-label">Manual steps eliminated</div>
+    </div>
+    <div class="summary-stat">
+      <div class="stat-value stat-value-green">₱117K</div>
+      <div class="stat-label">Monthly IT team cost (5 staff)</div>
+    </div>
+    <div class="summary-stat">
+      <div class="stat-value stat-value-blue">10+ → 3</div>
+      <div class="stat-label">Operators (UK 1, FL 1, PH 1)</div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

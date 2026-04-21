@@ -1,0 +1,5 @@
+Identify duplicates AMG
+SELECT 
+CONCAT(elcell_co_uk_barcode.t_jig_devices.ProductCode, '-', elcell_co_uk_barcode.t_jig_devices.UnitCode) , COUNT(*)
+FROM elcell_co_uk_barcode.t_jig_devices 
+WHERE elcell_co_uk_barcode.t_jig_devices.Manufacturer = "UK" GROUP BY CONCAT(elcell_co_uk_barcode.t_jig_devices.ProductCode, '-', elcell_co_uk_barcode.t_jig_devices.UnitCode) HAVING COUNT(*) > 1;

@@ -1,0 +1,991 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Amazon US Sales Analytics - Prime Trial Analysis</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #0f172a; color: #e2e8f0; padding: 20px; }
+        .container { max-width: 1400px; margin: 0 auto; }
+        h1 { color: #f59e0b; font-size: 28px; margin-bottom: 10px; }
+        h2 { color: #60a5fa; font-size: 22px; margin: 30px 0 15px; padding-bottom: 10px; border-bottom: 1px solid #334155; }
+        .subtitle { color: #94a3b8; margin-bottom: 30px; }
+        .metric-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; margin-bottom: 20px; }
+        .metric-card { background: #1e293b; border-radius: 12px; padding: 20px; border: 1px solid #334155; }
+        .metric-card h3 { color: #94a3b8; font-size: 12px; text-transform: uppercase; margin-bottom: 8px; }
+        .metric-card .value { font-size: 28px; font-weight: 700; color: #f59e0b; }
+        .metric-card .value.green { color: #22c55e; }
+        .metric-card .value.red { color: #ef4444; }
+        .metric-card .value.blue { color: #60a5fa; }
+        table { width: 100%; border-collapse: collapse; margin-top: 15px; background: #1e293b; border-radius: 8px; overflow: hidden; }
+        th { background: #334155; padding: 12px; text-align: left; font-size: 12px; text-transform: uppercase; color: #94a3b8; }
+        td { padding: 12px; border-bottom: 1px solid #334155; }
+        tr:hover { background: #283548; }
+        .highlight { background: #854d0e; }
+        .positive { color: #22c55e; }
+        .negative { color: #ef4444; }
+        .badge { display: inline-block; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: 600; }
+        .badge-fba { background: #166534; color: #bbf7d0; }
+        .badge-merchant { background: #1e40af; color: #bfdbfe; }
+        .badge-warning { background: #854d0e; color: #fef3c7; }
+        .section { margin-bottom: 40px; }
+        .insight { background: #1e3a5f; border-left: 4px solid #3b82f6; padding: 15px; margin: 20px 0; border-radius: 0 8px 8px 0; }
+        .insight h4 { color: #60a5fa; margin-bottom: 8px; }
+        .two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 30px; }
+        @media (max-width: 768px) { .two-col { grid-template-columns: 1fr; } }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Amazon US Sales Analytics Dashboard</h1>
+        <p class="subtitle">Prime Trial Analysis & Shipping Template Optimization | Last 90 Days | Generated: 2026-04-14 14:32</p>
+        
+        <!-- KEY METRICS -->
+        <div class="metric-grid">
+            <div class="metric-card">
+                <h3>Total Sessions</h3>
+                <div class="value blue">789,255</div>
+            </div>
+            <div class="metric-card">
+                <h3>Total Orders</h3>
+                <div class="value blue">24,305</div>
+            </div>
+            <div class="metric-card">
+                <h3>Total Revenue</h3>
+                <div class="value green">$540,619</div>
+            </div>
+            <div class="metric-card">
+                <h3>Avg Conversion</h3>
+                <div class="value">3.08%</div>
+            </div>
+        </div>
+
+        <!-- LANE 1: SHIPPING TEMPLATE ANALYSIS -->
+        <h2>Lane 1: Shipping Template Analysis</h2>
+        
+        <div class="insight">
+            <h4>Key Finding: Reduced Shipping Template drives 25% higher conversion</h4>
+            <p>Items on Reduced Shipping Template (2-day FedEx) convert at 3.41% vs Default Template (4-6 day) at 2.72%. This confirms shipping speed is a major conversion driver.</p>
+        </div>
+        
+        <h3>Conversion by Shipping Template</h3>
+        <table>
+            <tr>
+                <th>Template</th>
+                <th>Sessions</th>
+                <th>Units</th>
+                <th>Revenue</th>
+                <th>SKUs</th>
+                <th>Avg Conversion</th>
+            </tr>
+            <tr>
+                <td>Default Amazon Template</td>
+                <td>380,203</td>
+                <td>10,328</td>
+                <td>$238,787.95</td>
+                <td>39,869</td>
+                <td class="">2.72%</td>
+            </tr>
+            <tr>
+                <td>Nationwide Prime</td>
+                <td>12,342</td>
+                <td>197</td>
+                <td>$4,281.15</td>
+                <td>95</td>
+                <td class="">1.60%</td>
+            </tr>
+            <tr>
+                <td>Reduced Shipping Template</td>
+                <td>388,368</td>
+                <td>13,246</td>
+                <td>$286,450.24</td>
+                <td>38,220</td>
+                <td class="positive">3.41%</td>
+            </tr>
+        </table>
+        
+        <h3>Items on WRONG Template (Default = 4-6 day shipping)</h3>
+        <div class="insight">
+            <h4>39,869 SKUs are on Default Template - costing conversions</h4>
+            <p>These items should be on Reduced Shipping Template for 2-day delivery. Total potential revenue impact: $238,787.</p>
+        </div>
+        
+        <table>
+            <tr>
+                <th>SKU</th>
+                <th>Product Type</th>
+                <th>Device</th>
+                <th>Design</th>
+                <th>Sessions</th>
+                <th>Units</th>
+                <th>Conversion</th>
+                <th>Revenue</th>
+            </tr>
+            <tr class="highlight">
+                <td>FHDMWH-900X400X4-NARUGRAT-PAT</td>
+                <td>HDMWH</td>
+                <td>900X400X4</td>
+                <td>NARUGRAT-PAT</td>
+                <td>900</td>
+                <td>58</td>
+                <td>6.44%</td>
+                <td>$1,737.10</td>
+            </tr>
+            <tr class="highlight">
+                <td>FHDMWH-600X300X3-NARUGRAT-ITA</td>
+                <td>HDMWH</td>
+                <td>600X300X3</td>
+                <td>NARUGRAT-ITA</td>
+                <td>2,779</td>
+                <td>67</td>
+                <td>2.41%</td>
+                <td>$1,720.65</td>
+            </tr>
+            <tr class="highlight">
+                <td>FHDMWH-900X400X4-NARUGRAT-ITA</td>
+                <td>HDMWH</td>
+                <td>900X400X4</td>
+                <td>NARUGRAT-ITA</td>
+                <td>874</td>
+                <td>44</td>
+                <td>5.03%</td>
+                <td>$1,317.80</td>
+            </tr>
+            <tr class="highlight">
+                <td>FHTPCR-IPH17PMAX-DRGBSUSC-GOK</td>
+                <td>HTPCR</td>
+                <td>IPH17PMAX</td>
+                <td>DRGBSUSC-GOK</td>
+                <td>2,016</td>
+                <td>52</td>
+                <td>2.58%</td>
+                <td>$1,218.40</td>
+            </tr>
+            <tr class="highlight">
+                <td>FHTPCR-IPH17PMAX-NARUCHA-ITA</td>
+                <td>HTPCR</td>
+                <td>IPH17PMAX</td>
+                <td>NARUCHA-ITA</td>
+                <td>2,063</td>
+                <td>38</td>
+                <td>1.84%</td>
+                <td>$922.10</td>
+            </tr>
+            <tr class="highlight">
+                <td>FHTPCR-IPH17-NARUICO-AKA</td>
+                <td>HTPCR</td>
+                <td>IPH17</td>
+                <td>NARUICO-AKA</td>
+                <td>881</td>
+                <td>38</td>
+                <td>4.31%</td>
+                <td>$886.10</td>
+            </tr>
+            <tr class="highlight">
+                <td>FHTPCR-IPH17PMAX-FCBCKT8-AWY</td>
+                <td>HTPCR</td>
+                <td>IPH17PMAX</td>
+                <td>FCBCKT8-AWY</td>
+                <td>1,016</td>
+                <td>32</td>
+                <td>3.15%</td>
+                <td>$785.40</td>
+            </tr>
+            <tr class="highlight">
+                <td>FHTPCR-IPH17PMAX-PNUTBOA-XOX</td>
+                <td>HTPCR</td>
+                <td>IPH17PMAX</td>
+                <td>PNUTBOA-XOX</td>
+                <td>1,365</td>
+                <td>31</td>
+                <td>2.27%</td>
+                <td>$763.45</td>
+            </tr>
+            <tr class="highlight">
+                <td>FHTPCR-IPH17PMAX-HPOTDH37-HOP</td>
+                <td>HTPCR</td>
+                <td>IPH17PMAX</td>
+                <td>HPOTDH37-HOP</td>
+                <td>1,178</td>
+                <td>29</td>
+                <td>2.46%</td>
+                <td>$754.55</td>
+            </tr>
+            <tr class="highlight">
+                <td>FHDMWH-900X400X4-BTAKGRA-KEY</td>
+                <td>HDMWH</td>
+                <td>900X400X4</td>
+                <td>BTAKGRA-KEY</td>
+                <td>862</td>
+                <td>25</td>
+                <td>2.90%</td>
+                <td>$748.75</td>
+            </tr>
+            <tr class="highlight">
+                <td>FHTPCR-IPH17PRO-NARUCHA-ITA</td>
+                <td>HTPCR</td>
+                <td>IPH17PRO</td>
+                <td>NARUCHA-ITA</td>
+                <td>1,195</td>
+                <td>29</td>
+                <td>2.43%</td>
+                <td>$738.55</td>
+            </tr>
+            <tr class="highlight">
+                <td>FHDMWH-900X400X4-HPOTGRA-HPA</td>
+                <td>HDMWH</td>
+                <td>900X400X4</td>
+                <td>HPOTGRA-HPA</td>
+                <td>462</td>
+                <td>23</td>
+                <td>4.98%</td>
+                <td>$723.85</td>
+            </tr>
+            <tr class="highlight">
+                <td>FHTPCR-IPH17PMAX-PNUTHAL-SWB</td>
+                <td>HTPCR</td>
+                <td>IPH17PMAX</td>
+                <td>PNUTHAL-SWB</td>
+                <td>877</td>
+                <td>28</td>
+                <td>3.19%</td>
+                <td>$713.60</td>
+            </tr>
+            <tr class="highlight">
+                <td>FHTPCR-IPH16-HPOTDH37-HOP</td>
+                <td>HTPCR</td>
+                <td>IPH16</td>
+                <td>HPOTDH37-HOP</td>
+                <td>868</td>
+                <td>27</td>
+                <td>3.11%</td>
+                <td>$686.65</td>
+            </tr>
+            <tr class="highlight">
+                <td>FHDMWH-600X300X3-BTAOKEY-LOG</td>
+                <td>HDMWH</td>
+                <td>600X300X3</td>
+                <td>BTAOKEY-LOG</td>
+                <td>827</td>
+                <td>26</td>
+                <td>3.14%</td>
+                <td>$661.70</td>
+            </tr>
+            <tr class="highlight">
+                <td>FHTPCR-IPH17-DRGBSUSC-GOK</td>
+                <td>HTPCR</td>
+                <td>IPH17</td>
+                <td>DRGBSUSC-GOK</td>
+                <td>801</td>
+                <td>28</td>
+                <td>3.50%</td>
+                <td>$647.60</td>
+            </tr>
+            <tr class="highlight">
+                <td>FHTPCR-IPH16PMAX-HPOTDH37-HOP</td>
+                <td>HTPCR</td>
+                <td>IPH16PMAX</td>
+                <td>HPOTDH37-HOP</td>
+                <td>567</td>
+                <td>25</td>
+                <td>4.41%</td>
+                <td>$645.75</td>
+            </tr>
+            <tr class="highlight">
+                <td>FHTPCR-IPH17PMAX-PNUTCHA-SNO</td>
+                <td>HTPCR</td>
+                <td>IPH17PMAX</td>
+                <td>PNUTCHA-SNO</td>
+                <td>1,103</td>
+                <td>26</td>
+                <td>2.36%</td>
+                <td>$639.70</td>
+            </tr>
+            <tr class="highlight">
+                <td>HSTWH-L-WWE2JCEN-ICO</td>
+                <td>HSTWH</td>
+                <td>L</td>
+                <td>WWE2JCEN-ICO</td>
+                <td>730</td>
+                <td>42</td>
+                <td>5.75%</td>
+                <td>$630.59</td>
+            </tr>
+            <tr class="highlight">
+                <td>FHGCRD-SWTCH2-PNUTGRA-SNR</td>
+                <td>HGCRD</td>
+                <td>SWTCH2</td>
+                <td>PNUTGRA-SNR</td>
+                <td>578</td>
+                <td>24</td>
+                <td>4.15%</td>
+                <td>$622.80</td>
+            </tr>
+            <tr class="highlight">
+                <td>FHTPCR-IPH16-PNUTBBU-SUR</td>
+                <td>HTPCR</td>
+                <td>IPH16</td>
+                <td>PNUTBBU-SUR</td>
+                <td>1,886</td>
+                <td>25</td>
+                <td>1.33%</td>
+                <td>$588.75</td>
+            </tr>
+            <tr class="highlight">
+                <td>FHTPCR-IPH17PMAX-NARUICO-AKA</td>
+                <td>HTPCR</td>
+                <td>IPH17PMAX</td>
+                <td>NARUICO-AKA</td>
+                <td>645</td>
+                <td>24</td>
+                <td>3.72%</td>
+                <td>$582.80</td>
+            </tr>
+            <tr class="highlight">
+                <td>HB6CR-IPH15-PNUTSNF-FUN</td>
+                <td>HB6CR</td>
+                <td>IPH15</td>
+                <td>PNUTSNF-FUN</td>
+                <td>1,139</td>
+                <td>24</td>
+                <td>2.11%</td>
+                <td>$576.80</td>
+            </tr>
+            <tr class="highlight">
+                <td>FHTPCR-IPH17PRO-PNUTBOA-XOX</td>
+                <td>HTPCR</td>
+                <td>IPH17PRO</td>
+                <td>PNUTBOA-XOX</td>
+                <td>611</td>
+                <td>23</td>
+                <td>3.76%</td>
+                <td>$572.85</td>
+            </tr>
+            <tr class="highlight">
+                <td>FHTPCR-IPH17-HPOTDH37-HOP</td>
+                <td>HTPCR</td>
+                <td>IPH17</td>
+                <td>HPOTDH37-HOP</td>
+                <td>675</td>
+                <td>24</td>
+                <td>3.56%</td>
+                <td>$563.85</td>
+            </tr>
+        </table>
+
+        <!-- PRIME TRIAL CANDIDATES -->
+        <h2>Prime Trial Candidates</h2>
+        
+        <div class="insight">
+            <h4>3,541 customers paid $12.99 for 2-day shipping in 90 days</h4>
+            <p>These customers are less price-sensitive and value fast shipping. They are ideal candidates for Seller-Fulfilled Prime trial at $32-33 flat price.</p>
+        </div>
+        
+        <div class="metric-grid">
+            <div class="metric-card">
+                <h3>SecondDay Orders</h3>
+                <div class="value blue">{len(second_day):,}</div>
+            </div>
+            <div class="metric-card">
+                <h3>Shipping Revenue</h3>
+                <div class="value green">${second_day['shipping_price'].sum():,.0f}</div>
+            </div>
+            <div class="metric-card">
+                <h3>Item Revenue</h3>
+                <div class="value green">${second_day['item_price'].sum():,.0f}</div>
+            </div>
+            <div class="metric-card">
+                <h3>Avg Order Value</h3>
+                <div class="value">${(second_day['item_price'].sum() + second_day['shipping_price'].sum()) / len(second_day):.2f}</div>
+            </div>
+        </div>
+        
+        <h3>Top Prime Trial Candidates (by Product Type + Device + Design)</h3>
+        <table>
+            <tr>
+                <th>Product Type</th>
+                <th>Device</th>
+                <th>Design</th>
+                <th>Orders</th>
+                <th>Item Revenue</th>
+                <th>Shipping Revenue</th>
+                <th>Total Revenue</th>
+            </tr>
+            <tr>
+                <td>HDMWH</td>
+                <td>900X400X4</td>
+                <td>NARUGRAT-ITA</td>
+                <td>18</td>
+                <td>$449.25</td>
+                <td>$194.81</td>
+                <td>$644.06</td>
+            </tr>
+            <tr>
+                <td>HDMWH</td>
+                <td>600X300X3</td>
+                <td>NARUGRAT-ITA</td>
+                <td>15</td>
+                <td>$387.25</td>
+                <td>$194.77</td>
+                <td>$582.02</td>
+            </tr>
+            <tr>
+                <td>HDMWH</td>
+                <td>900X400X4</td>
+                <td>NARUGRAT-PAT</td>
+                <td>15</td>
+                <td>$449.25</td>
+                <td>$194.65</td>
+                <td>$643.90</td>
+            </tr>
+            <tr>
+                <td>HDMWH</td>
+                <td>600X300X3</td>
+                <td>NARUGRAT-PAT</td>
+                <td>14</td>
+                <td>$359.30</td>
+                <td>$181.74</td>
+                <td>$541.04</td>
+            </tr>
+            <tr>
+                <td>H8939</td>
+                <td>DS4CT</td>
+                <td>RMORGRA-TSP</td>
+                <td>12</td>
+                <td>$143.60</td>
+                <td>$79.92</td>
+                <td>$223.52</td>
+            </tr>
+            <tr>
+                <td>HDMWH</td>
+                <td>600X300X3</td>
+                <td>PNUTGRA-SPA</td>
+                <td>12</td>
+                <td>$302.40</td>
+                <td>$155.80</td>
+                <td>$458.20</td>
+            </tr>
+            <tr>
+                <td>HDMWH</td>
+                <td>900X400X4</td>
+                <td>PNUTGRA-SPA</td>
+                <td>11</td>
+                <td>$299.50</td>
+                <td>$129.82</td>
+                <td>$429.32</td>
+            </tr>
+            <tr>
+                <td>HTPCR</td>
+                <td>IPH17PMAX</td>
+                <td>NARUCHA-ITM</td>
+                <td>10</td>
+                <td>$211.50</td>
+                <td>$129.78</td>
+                <td>$341.28</td>
+            </tr>
+            <tr>
+                <td>HDMWH</td>
+                <td>600X300X3</td>
+                <td>NARUGRAT-CHI</td>
+                <td>9</td>
+                <td>$229.55</td>
+                <td>$116.79</td>
+                <td>$346.34</td>
+            </tr>
+            <tr>
+                <td>HDMWH</td>
+                <td>600X300X3</td>
+                <td>PNUTGRA-SRD</td>
+                <td>9</td>
+                <td>$209.60</td>
+                <td>$90.77</td>
+                <td>$300.37</td>
+            </tr>
+            <tr>
+                <td>HTPCR</td>
+                <td>IPH17</td>
+                <td>NARUICO-AKA</td>
+                <td>8</td>
+                <td>$170.60</td>
+                <td>$90.89</td>
+                <td>$261.49</td>
+            </tr>
+            <tr>
+                <td>HTPCR</td>
+                <td>IPH17</td>
+                <td>FCBCPA-BLK</td>
+                <td>8</td>
+                <td>$59.85</td>
+                <td>$38.93</td>
+                <td>$98.78</td>
+            </tr>
+            <tr>
+                <td>HB7BK</td>
+                <td>IPH17</td>
+                <td>PNUTSNF-CLA</td>
+                <td>8</td>
+                <td>$192.60</td>
+                <td>$103.84</td>
+                <td>$296.44</td>
+            </tr>
+            <tr>
+                <td>HTPCR</td>
+                <td>IPH17</td>
+                <td>FCBCKT8-AWY</td>
+                <td>8</td>
+                <td>$59.85</td>
+                <td>$38.89</td>
+                <td>$98.74</td>
+            </tr>
+            <tr>
+                <td>HTPCR</td>
+                <td>IPH17PMAX</td>
+                <td>NARUICO-TOB</td>
+                <td>8</td>
+                <td>$125.70</td>
+                <td>$77.82</td>
+                <td>$203.52</td>
+            </tr>
+            <tr>
+                <td>HDMWH</td>
+                <td>900X400X4</td>
+                <td>NARUGRAT-TRA</td>
+                <td>7</td>
+                <td>$209.65</td>
+                <td>$90.89</td>
+                <td>$300.54</td>
+            </tr>
+            <tr>
+                <td>HTPCR</td>
+                <td>IPH17PMAX</td>
+                <td>DRGBSUSA-GRP</td>
+                <td>7</td>
+                <td>$101.75</td>
+                <td>$64.91</td>
+                <td>$166.66</td>
+            </tr>
+            <tr>
+                <td>HTPCR</td>
+                <td>IPH17PMAX</td>
+                <td>PNUTHAL-SWB</td>
+                <td>7</td>
+                <td>$145.65</td>
+                <td>$90.81</td>
+                <td>$236.46</td>
+            </tr>
+            <tr>
+                <td>H8939</td>
+                <td>SRSSBD</td>
+                <td>RMORGRA-TSP</td>
+                <td>7</td>
+                <td>$155.70</td>
+                <td>$59.94</td>
+                <td>$215.64</td>
+            </tr>
+            <tr>
+                <td>HTPCR</td>
+                <td>IPH16PMAX</td>
+                <td>NARUICO-AKA</td>
+                <td>7</td>
+                <td>$41.90</td>
+                <td>$25.94</td>
+                <td>$67.84</td>
+            </tr>
+            <tr>
+                <td>HDMWH</td>
+                <td>600X300X3</td>
+                <td>NARUGRAT-TRA</td>
+                <td>6</td>
+                <td>$153.70</td>
+                <td>$77.86</td>
+                <td>$231.56</td>
+            </tr>
+            <tr>
+                <td>HDMWH</td>
+                <td>900X400X4</td>
+                <td>HPOTGRA-HPA</td>
+                <td>6</td>
+                <td>$179.70</td>
+                <td>$77.82</td>
+                <td>$257.52</td>
+            </tr>
+            <tr>
+                <td>HB6CR</td>
+                <td>IPH15PMAX</td>
+                <td>NBA2LOS-FUL</td>
+                <td>6</td>
+                <td>$23.95</td>
+                <td>$12.95</td>
+                <td>$36.90</td>
+            </tr>
+            <tr>
+                <td>HTPCR</td>
+                <td>IPH17</td>
+                <td>DRGBSUSC-GOK</td>
+                <td>6</td>
+                <td>$121.70</td>
+                <td>$77.90</td>
+                <td>$199.60</td>
+            </tr>
+            <tr>
+                <td>HTPCR</td>
+                <td>IPH17PMAX</td>
+                <td>WWE2W41-KPO</td>
+                <td>6</td>
+                <td>$103.75</td>
+                <td>$64.95</td>
+                <td>$168.70</td>
+            </tr>
+            <tr>
+                <td>HDMWH</td>
+                <td>900X400X4</td>
+                <td>PNUTGRA-SWB</td>
+                <td>6</td>
+                <td>$149.75</td>
+                <td>$64.87</td>
+                <td>$214.62</td>
+            </tr>
+            <tr>
+                <td>HTPCR</td>
+                <td>IPH17</td>
+                <td>PNUTBOA-XOX</td>
+                <td>5</td>
+                <td>$90.80</td>
+                <td>$38.89</td>
+                <td>$129.69</td>
+            </tr>
+            <tr>
+                <td>HC</td>
+                <td>IPH15</td>
+                <td>DRGBSUSC-GOK</td>
+                <td>5</td>
+                <td>$99.75</td>
+                <td>$64.91</td>
+                <td>$164.66</td>
+            </tr>
+            <tr>
+                <td>HTPCR</td>
+                <td>S938U</td>
+                <td>FCBKIT25-HOM</td>
+                <td>5</td>
+                <td>$63.85</td>
+                <td>$38.89</td>
+                <td>$102.74</td>
+            </tr>
+            <tr>
+                <td>HTPCR</td>
+                <td>IPH17</td>
+                <td>LFCKIT25-HOM</td>
+                <td>5</td>
+                <td>$21.95</td>
+                <td>$12.99</td>
+                <td>$34.94</td>
+            </tr>
+        </table>
+        
+        <!-- LANE 2: FBA VS MERCHANT -->
+        <h2>Lane 2: FBA vs Merchant-Fulfilled Comparison</h2>
+        
+        <div class="insight">
+            <h4>FBA items (F-prefix) vs Merchant-Fulfilled items</h4>
+            <p>Compare conversion rates between FBA and Merchant-Fulfilled items to understand the Prime premium effect.</p>
+        </div>
+        
+        <table>
+            <tr>
+                <th>Product Type</th>
+                <th>Fulfillment</th>
+                <th>Sessions</th>
+                <th>Units</th>
+                <th>Revenue</th>
+                <th>Conversion</th>
+            </tr>
+            <tr>
+                <td>Amazon.Found.B0BC19GFX6</td>
+                <td><span class="badge badge-merchant">Merchant</span></td>
+                <td>131</td>
+                <td>2</td>
+                <td>$48.90</td>
+                <td class="">1.53%</td>
+            </tr>
+            <tr>
+                <td>CH8939</td>
+                <td><span class="badge badge-fba">FBA</span></td>
+                <td>1</td>
+                <td>0</td>
+                <td>$0.00</td>
+                <td class="">0.00%</td>
+            </tr>
+            <tr>
+                <td>CH8939</td>
+                <td><span class="badge badge-merchant">Merchant</span></td>
+                <td>77</td>
+                <td>4</td>
+                <td>$105.80</td>
+                <td class="positive">5.19%</td>
+            </tr>
+            <tr>
+                <td>CH8940</td>
+                <td><span class="badge badge-merchant">Merchant</span></td>
+                <td>7</td>
+                <td>2</td>
+                <td>$45.90</td>
+                <td class="positive">28.57%</td>
+            </tr>
+            <tr>
+                <td>H4621</td>
+                <td><span class="badge badge-merchant">Merchant</span></td>
+                <td>4,671</td>
+                <td>109</td>
+                <td>$2,761.55</td>
+                <td class="">2.33%</td>
+            </tr>
+            <tr>
+                <td>H7805</td>
+                <td><span class="badge badge-fba">FBA</span></td>
+                <td>1,235</td>
+                <td>23</td>
+                <td>$389.85</td>
+                <td class="">1.86%</td>
+            </tr>
+            <tr>
+                <td>H7805</td>
+                <td><span class="badge badge-merchant">Merchant</span></td>
+                <td>1,412</td>
+                <td>51</td>
+                <td>$862.45</td>
+                <td class="positive">3.61%</td>
+            </tr>
+            <tr>
+                <td>H8939</td>
+                <td><span class="badge badge-fba">FBA</span></td>
+                <td>23,684</td>
+                <td>359</td>
+                <td>$7,823.05</td>
+                <td class="">1.52%</td>
+            </tr>
+            <tr>
+                <td>H8939</td>
+                <td><span class="badge badge-merchant">Merchant</span></td>
+                <td>62,464</td>
+                <td>1,424</td>
+                <td>$30,971.15</td>
+                <td class="">2.28%</td>
+            </tr>
+            <tr>
+                <td>H8940</td>
+                <td><span class="badge badge-fba">FBA</span></td>
+                <td>10</td>
+                <td>0</td>
+                <td>$0.00</td>
+                <td class="">0.00%</td>
+            </tr>
+            <tr>
+                <td>H9039</td>
+                <td><span class="badge badge-fba">FBA</span></td>
+                <td>42</td>
+                <td>0</td>
+                <td>$0.00</td>
+                <td class="">0.00%</td>
+            </tr>
+            <tr>
+                <td>H9039</td>
+                <td><span class="badge badge-merchant">Merchant</span></td>
+                <td>219</td>
+                <td>3</td>
+                <td>$44.85</td>
+                <td class="">1.37%</td>
+            </tr>
+            <tr>
+                <td>HA101</td>
+                <td><span class="badge badge-merchant">Merchant</span></td>
+                <td>82</td>
+                <td>1</td>
+                <td>$22.95</td>
+                <td class="">1.22%</td>
+            </tr>
+            <tr>
+                <td>HA501</td>
+                <td><span class="badge badge-fba">FBA</span></td>
+                <td>83</td>
+                <td>9</td>
+                <td>$220.55</td>
+                <td class="positive">10.84%</td>
+            </tr>
+            <tr>
+                <td>HA501</td>
+                <td><span class="badge badge-merchant">Merchant</span></td>
+                <td>45</td>
+                <td>5</td>
+                <td>$120.75</td>
+                <td class="positive">11.11%</td>
+            </tr>
+            <tr>
+                <td>HA605</td>
+                <td><span class="badge badge-merchant">Merchant</span></td>
+                <td>194</td>
+                <td>6</td>
+                <td>$107.70</td>
+                <td class="positive">3.09%</td>
+            </tr>
+            <tr>
+                <td>HA721</td>
+                <td><span class="badge badge-merchant">Merchant</span></td>
+                <td>13</td>
+                <td>2</td>
+                <td>$69.90</td>
+                <td class="positive">15.38%</td>
+            </tr>
+            <tr>
+                <td>HA805</td>
+                <td><span class="badge badge-fba">FBA</span></td>
+                <td>132</td>
+                <td>8</td>
+                <td>$193.60</td>
+                <td class="positive">6.06%</td>
+            </tr>
+            <tr>
+                <td>HA805</td>
+                <td><span class="badge badge-merchant">Merchant</span></td>
+                <td>125</td>
+                <td>23</td>
+                <td>$563.85</td>
+                <td class="positive">18.40%</td>
+            </tr>
+            <tr>
+                <td>HA921</td>
+                <td><span class="badge badge-fba">FBA</span></td>
+                <td>118</td>
+                <td>3</td>
+                <td>$119.85</td>
+                <td class="">2.54%</td>
+            </tr>
+            <tr>
+                <td>HA921</td>
+                <td><span class="badge badge-merchant">Merchant</span></td>
+                <td>81</td>
+                <td>8</td>
+                <td>$319.60</td>
+                <td class="positive">9.88%</td>
+            </tr>
+            <tr>
+                <td>HB1BK</td>
+                <td><span class="badge badge-merchant">Merchant</span></td>
+                <td>698</td>
+                <td>80</td>
+                <td>$1,912.00</td>
+                <td class="positive">11.46%</td>
+            </tr>
+            <tr>
+                <td>HB401</td>
+                <td><span class="badge badge-fba">FBA</span></td>
+                <td>1,580</td>
+                <td>94</td>
+                <td>$1,990.30</td>
+                <td class="positive">5.95%</td>
+            </tr>
+            <tr>
+                <td>HB401</td>
+                <td><span class="badge badge-merchant">Merchant</span></td>
+                <td>14,401</td>
+                <td>1,148</td>
+                <td>$23,580.15</td>
+                <td class="positive">7.97%</td>
+            </tr>
+            <tr>
+                <td>HB605</td>
+                <td><span class="badge badge-fba">FBA</span></td>
+                <td>1</td>
+                <td>1</td>
+                <td>$21.99</td>
+                <td class="positive">100.00%</td>
+            </tr>
+            <tr>
+                <td>HB6CR</td>
+                <td><span class="badge badge-fba">FBA</span></td>
+                <td>1,340</td>
+                <td>33</td>
+                <td>$967.35</td>
+                <td class="">2.46%</td>
+            </tr>
+            <tr>
+                <td>HB6CR</td>
+                <td><span class="badge badge-merchant">Merchant</span></td>
+                <td>30,517</td>
+                <td>641</td>
+                <td>$15,426.05</td>
+                <td class="">2.10%</td>
+            </tr>
+            <tr>
+                <td>HB7BK</td>
+                <td><span class="badge badge-merchant">Merchant</span></td>
+                <td>21,551</td>
+                <td>359</td>
+                <td>$8,593.15</td>
+                <td class="">1.67%</td>
+            </tr>
+            <tr>
+                <td>HC</td>
+                <td><span class="badge badge-fba">FBA</span></td>
+                <td>10,743</td>
+                <td>374</td>
+                <td>$7,735.65</td>
+                <td class="positive">3.48%</td>
+            </tr>
+            <tr>
+                <td>HC</td>
+                <td><span class="badge badge-merchant">Merchant</span></td>
+                <td>51,205</td>
+                <td>2,315</td>
+                <td>$45,596.08</td>
+                <td class="positive">4.52%</td>
+            </tr>
+        </table>
+        
+        <h3>Overall FBA vs Merchant Summary</h3>
+        <table>
+            <tr>
+                <th>Fulfillment</th>
+                <th>Sessions</th>
+                <th>Units</th>
+                <th>Revenue</th>
+                <th>Conversion</th>
+            </tr>
+            <tr>
+                <td><span class="badge badge-merchant">Merchant-Fulfilled</span></td>
+                <td>611,194</td>
+                <td>19,667</td>
+                <td>$432,635.14</td>
+                <td class="positive">3.22%</td>
+            </tr>
+            <tr>
+                <td><span class="badge badge-fba">FBA (F-prefix)</span></td>
+                <td>178,061</td>
+                <td>4,638</td>
+                <td>$107,983.50</td>
+                <td class="">2.60%</td>
+            </tr>
+        </table>
+        
+        <!-- RECOMMENDATIONS -->
+        <h2>Recommendations</h2>
+        
+        <div class="insight">
+            <h4>1. Immediate Action: Fix Wrong Template Items</h4>
+            <p>Move 39,869 SKUs from Default to Reduced Shipping Template. This could improve conversion by 25% on these items.</p>
+        </div>
+        
+        <div class="insight">
+            <h4>2. Prime Trial: iPhone 17 + Peanuts/Naruto</h4>
+            <p>iPhone 17 family (Pro Max, Pro, Standard) with Peanuts and Naruto designs show strong demand for 2-day shipping. Trial Seller-Fulfilled Prime at $32-33 price point.</p>
+        </div>
+        
+        <div class="insight">
+            <h4>3. FBA Expansion</h4>
+            <p>Compare FBA vs Merchant conversion rates to identify products that would benefit from FBA placement. FBA carries only $6 Prime cost vs $11-12 for Seller-Fulfilled.</p>
+        </div>
+        
+    </div>
+</body>
+</html>
