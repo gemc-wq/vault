@@ -1,6 +1,6 @@
 # Centralized Task Sheet
 *All agents: check at session start, update at session end.*
-*Last updated: 2026-04-11 | Updated by: Athena (Cem review session)*
+*Last updated: 2026-04-21 | Updated by: Vault Compiler (claude-sonnet-4-6) — added security remediation tasks*
 
 ---
 
@@ -11,6 +11,24 @@
 - Athena reviews during heartbeat rotation and escalates stale items
 
 ## Active Tasks
+
+### 🔴 Security Remediation (P0 — Blocking Vault Automation)
+*Added by compiler 2026-04-21 | Source: 04-Shared/active/VAULT_SECRET_INCIDENT_RESPONSE_2026-04-20.md*
+
+| Task | Owner | Assigned | Status | Notes |
+|------|-------|----------|--------|-------|
+| Rotate GCP / Gemini / BigQuery credentials | Cem | 2026-04-20 | 🔴 P0 | GitHub tokens rotated; GCP is next highest priority |
+| Rotate AWS credentials (if any in findings) | Cem | 2026-04-20 | 🔴 P0 | Check gitleaks output for live IAM keys |
+| Rotate Supabase service-role key | Cem | 2026-04-20 | 🔴 P0 | Service-role key may be in leaked markdown |
+| Rotate Slack / Shopify / BigCommerce / Walmart / Anthropic keys | Cem | 2026-04-20 | 🔴 P0 | Batch rotation; see VAULT_SECRET_INCIDENT_RESPONSE for full list |
+| Delete raw key files from repo | Cem | 2026-04-20 | 🔴 P0 | `fulfillment-portal/jaymark-bq-key.json`, `harry-bq-key.json`, `evri_credentials.md`, `drew-credentials-extracted.md` |
+| Scrub credential-bearing docs | Cem | 2026-04-20 | 🔴 P0 | Replace raw values with env var references — see SCRUB list in incident response |
+| Rewrite git history (git filter-repo) | Cem | 2026-04-20 | 🔴 P0 | Only after rotation + scrub; removes secrets from git history |
+| Re-run gitleaks to confirm clean | Cem | 2026-04-20 | 🔴 P0 | Gate before resuming vault automation |
+| Fix gemma4:26b sandbox-off + prism exposure | Cem | 2026-04-21 | 🔴 P0 | OpenClaw critical: disable `prism` web tools OR enable sandbox on local Gemma 4 |
+| Create `02-Projects/_INDEX.md` | Athena | 2026-04-21 | 🟡 New | Register all 54 project folders per §10 Project Intake Rule |
+
+---
 
 ### Creative & Design (Pillar 1 — 30%)
 | Task | Owner | Assigned | Status | Notes |

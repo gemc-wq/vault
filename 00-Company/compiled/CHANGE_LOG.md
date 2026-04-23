@@ -1,6 +1,24 @@
 # Vault Change Log
 *Append-only record of vault changes*
 
+## 2026-04-21 — Nightly Compile (First Claude Code Compiler Run)
+- Scanned: 5 files (2 agent active files, 1 git commit diff, 2 handoff reviews)
+- Promoted: 0 decisions (direct), 1 wiki draft to _pending (vault-git-security-posture.md → 08-infrastructure)
+- Corrections: 0 entries, 0 wiki patches
+- Blockers: 8 active (7 new vs last run — security incident + Harry inactive + Hermes gateway)
+- Lint flags: CREDENTIAL_FILES_IN_REPO (4), NEW_FOLDER_WITHOUT_REGISTRATION (1), POSSIBLE_DUPLICATE (5 pairs), STALE_ACTIVE_PROJECT (38), AGENT_INACTIVE (3), ORPHAN_HANDOFF_APPROACHING (6)
+- Duration: ~10 min
+- Model: claude-sonnet-4-6
+- Tokens: ~80K input / ~15K output (est.)
+- Branch: claude/vault-compile-2026-04-21
+- PR: #pending (first run — manual review required per VAULT_EXECUTE_NOW_V2.md)
+- **Note:** This is Run #1 of 5 requiring manual review before automation is enabled. Security incident active — vault automation paused.
+
+## 2026-04-20 06:05
+- Rebuilt PROJECT_BOARD.md
+- Rebuilt BLOCKERS.md
+- Rebuilt VAULT_HEALTH.md
+
 ## 2026-04-07 10:02
 - Rebuilt PROJECT_BOARD.md
 - Rebuilt BLOCKERS.md
